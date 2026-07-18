@@ -26,11 +26,11 @@ jobs:
         run: |
           git config user.name "fj-collector"
           git config user.email "actions@users.noreply.github.com"
-          git pull --rebase
           git add levels.json
           if git diff --cached --quiet; then
             echo "no change"
           else
             git commit -m "levels: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase
             git push
           fi

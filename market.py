@@ -143,6 +143,17 @@ def main() -> None:
         except Exception as e:  # one bad symbol shouldn't kill the sheet
             out["symbols"][sym] = {"error": str(e)}
         time.sleep(1)
+
+    # skip the rewrite when nothing but the timestamp would change
+    # (markets closed) so the workflow doesn't commit no-op updates
+    if OUT.exists():
+        try:
+            old = json.loads(OUT.read_text(encoding="utf-8"))
+            if old.get("symbols") == out["symbols"]:
+                print("levels unchanged; not rewriting")
+                return
+        except (json.JSONDecodeError, OSError):
+            pass
     OUT.write_text(json.dumps(out, indent=1), encoding="utf-8")
     print(f"levels.json written: "
           f"{[s for s in out['symbols']]} at {out['updated_et']}")
