@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-07-18T16:41:00.056913+00:00",
- "updated_et": "2026-07-18 12:41 ET",
+ "updated_utc": "2026-07-18T17:42:32.265960+00:00",
+ "updated_et": "2026-07-18 13:42 ET",
  "note": "Yahoo futures data, ~10-15 min delayed (CME licensing). Session = latest available; on weekends that is Friday's.",
  "symbols": {
   "ES": {
@@ -80,7 +80,7 @@
     "low": 3963.0,
     "vwap": 4000.6,
     "volume_poc": 4017.0,
-    "volume": 93747
+    "volume": 93700
    },
    "prior_session": {
     "date_et": "2026-07-16",
