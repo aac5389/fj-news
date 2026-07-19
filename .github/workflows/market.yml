@@ -20,6 +20,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Refresh event calendar
+        # self-throttling: rebuilds at most every 12h, otherwise no-ops
+        run: python events.py
+        continue-on-error: true
       - name: Compute levels
         run: python market.py
       - name: Commit if changed
@@ -27,6 +31,9 @@ jobs:
           git config user.name "fj-collector"
           git config user.email "actions@users.noreply.github.com"
           git add levels.json
+          # events.json may not exist yet if the calendar step failed;
+          # a missing pathspec would abort the whole commit step
+          if [ -f events.json ]; then git add events.json; fi
           if git diff --cached --quiet; then
             echo "no change"
           else

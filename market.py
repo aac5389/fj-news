@@ -19,12 +19,21 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 SYMBOLS = {
-    "ES": {"yahoo": "ES=F", "name": "E-mini S&P 500", "bin": 1.0, "nd": 2},
-    "CL": {"yahoo": "CL=F", "name": "WTI Crude Oil", "bin": 0.05, "nd": 2},
-    "GC": {"yahoo": "GC=F", "name": "Gold", "bin": 0.5, "nd": 1},
+    "ES": {"yahoo": "ES=F", "name": "E-mini S&P 500", "bin": 1.0, "nd": 2,
+           "proxies": ["SPY", "IVV", "VOO"]},
+    "CL": {"yahoo": "CL=F", "name": "WTI Crude Oil", "bin": 0.05, "nd": 2,
+           "proxies": ["USO", "DBO", "USL"]},
+    # GLD may be a delayed quote on Yahoo while its peers are real time;
+    # rather than hard-code a guess, all three are measured each run and
+    # the freshest wins (see pick_proxy)
+    "GC": {"yahoo": "GC=F", "name": "Gold", "bin": 0.5, "nd": 1,
+           "proxies": ["GLD", "IAU", "GLDM"]},
 }
 ET = ZoneInfo("America/New_York")
 UA = "fj-market/1.0 (personal levels sheet)"
+RATIO_WINDOW = 30    # trailing 1m bars used to fit the ETF→futures ratio
+RATIO_MIN_BARS = 10  # below this the fit is noise; report no proxy instead
+MAX_PROXY_RELERR = 0.0015  # 15 bps of price — beyond this the ETF isn't tracking
 OUT = Path(__file__).parent / "levels.json"
 
 
@@ -56,6 +65,170 @@ def et_str(epoch: int) -> str:
     return datetime.fromtimestamp(epoch, ET).strftime("%Y-%m-%d %H:%M ET")
 
 
+def resample(bars: list[dict], minutes: int, keep: int, nd: int) -> list[list]:
+    """Downsample 1m bars into `keep` most recent `minutes`-wide candles.
+
+    Emitted as bare arrays [et_hhmm, o, h, l, c, v] rather than objects —
+    this is the bulkiest part of the sheet and chat reads it fine as rows.
+    """
+    buckets: dict[int, list[dict]] = {}
+    for b in bars:
+        buckets.setdefault(b["t"] - (b["t"] % (minutes * 60)), []).append(b)
+    out = []
+    for start in sorted(buckets)[-keep:]:
+        g = buckets[start]
+        out.append([datetime.fromtimestamp(start, ET).strftime("%H:%M"),
+                    round(g[0]["o"], nd), round(max(x["h"] for x in g), nd),
+                    round(min(x["l"] for x in g), nd), round(g[-1]["c"], nd),
+                    sum(x["v"] for x in g)])
+    return out
+
+
+def regime(cfg: dict, bars: list[dict], vwap: float, atr14: float) -> dict:
+    """Momentum-vs-mean-reversion read, measured rather than eyeballed.
+
+    Lag-1 autocorrelation of 1m returns is the direct statistical test:
+    positive => moves tend to continue (momentum), negative => they tend
+    to reverse (fade). Computed over three windows because the answer is
+    routinely different at 30m and 120m.
+    """
+    nd = cfg["nd"]
+    closes = [b["c"] for b in bars]
+    rets = [(closes[i] - closes[i - 1]) / closes[i - 1]
+            for i in range(1, len(closes))]
+
+    def autocorr(window: int) -> float | None:
+        r = rets[-window:]
+        if len(r) < 20:
+            return None
+        mu = sum(r) / len(r)
+        dev = [x - mu for x in r]
+        var = sum(d * d for d in dev)
+        if var == 0:
+            return None
+        cov = sum(dev[i] * dev[i + 1] for i in range(len(dev) - 1))
+        return round(cov / var, 3)
+
+    hi, lo = max(b["h"] for b in bars), min(b["l"] for b in bars)
+    last = closes[-1]
+
+    # realized vol of the session, annualised to a daily figure so it is
+    # comparable against ATR14 — >1 means today is wider than the norm
+    n = len(rets)
+    mu = sum(rets) / n if n else 0
+    sd = (sum((x - mu) ** 2 for x in rets) / n) ** 0.5 if n else 0
+    rv_daily = sd * (n ** 0.5) * last
+    vol_vs_atr = round(rv_daily / atr14, 2) if atr14 else None
+
+    # how far price sits from VWAP, in session sigma
+    disp = [abs(b["c"] - vwap) for b in bars]
+    sigma = (sum(d * d for d in disp) / len(disp)) ** 0.5
+    vwap_z = round((last - vwap) / sigma, 2) if sigma else None
+
+    # current streak of consecutive same-direction 1m closes
+    streak = 0
+    for i in range(len(closes) - 1, 0, -1):
+        step = 1 if closes[i] > closes[i - 1] else (
+            -1 if closes[i] < closes[i - 1] else 0)
+        if step == 0 or (streak and step != (1 if streak > 0 else -1)):
+            break
+        streak += step
+
+    return {
+        "autocorr_1m_30": autocorr(30),
+        "autocorr_1m_60": autocorr(60),
+        "autocorr_1m_120": autocorr(120),
+        "autocorr_hint": ("positive => momentum (moves continue); "
+                          "negative => mean reversion (fades work); "
+                          "|value| under ~0.05 is noise, treat as neither"),
+        "range_position": round((last - lo) / (hi - lo), 2) if hi > lo else None,
+        "vwap_dist": round(last - vwap, nd),
+        "vwap_z": vwap_z,
+        "realized_vol_vs_atr14": vol_vs_atr,
+        "streak_1m_bars": streak,
+    }
+
+
+def fit_proxy(etf: str, cfg: dict, fut_by_t: dict) -> dict:
+    """Fit one candidate ETF against the futures bars.
+
+    futures ≈ etf * ratio. The ratio moves far slower than either leg (an
+    ES/SPY ratio drifts ~0.01 across a whole session), so a ratio built
+    from delayed bars still prices the front month right now — a
+    deliberately 15-min-stale ratio came in under one tick on all three
+    symbols when tested.
+
+    Median (not mean) over the window: one bad Yahoo print otherwise
+    skews the ratio for the next ten minutes.
+    """
+    etf_bars = fetch_chart(etf, "1m", "1d")
+    etf_by_t = {b["t"]: b["c"] for b in etf_bars}
+    common = sorted(set(fut_by_t) & set(etf_by_t))[-RATIO_WINDOW:]
+    if len(common) < RATIO_MIN_BARS:
+        raise ValueError(f"only {len(common)} bars overlap {etf}")
+
+    ratios = sorted(fut_by_t[t] / etf_by_t[t] for t in common)
+    ratio = ratios[len(ratios) // 2]
+    # residual of the median ratio across the window — a live tracking
+    # check, so a relationship that has broken down shows up in the sheet
+    errs = sorted(abs(etf_by_t[t] * ratio - fut_by_t[t]) for t in common)
+    newest = max(etf_by_t)
+    med_err = errs[len(errs) // 2]
+    return {
+        "etf": etf,
+        "ratio": round(ratio, 6),
+        # the premise of the whole proxy is that this stays near 0-2
+        # during RTH. If it tracks the futures bar age instead, this
+        # candidate is a delayed quote and buys us nothing.
+        "etf_bar_age_min": round((time.time() - newest) / 60, 1),
+        "etf_last": round(etf_by_t[newest], 2),
+        "etf_last_et": et_str(newest),
+        "quote_url": (f"https://query1.finance.yahoo.com/v8/finance/chart/"
+                      f"{etf}?interval=1m&range=1d"),
+        "ratio_asof_et": et_str(common[-1]),
+        "bars_used": len(common),
+        "fit_err_median": round(med_err, cfg["nd"]),
+        "fit_err_max": round(errs[-1], cfg["nd"]),
+        "_age": (time.time() - newest) / 60,
+        "_relerr": med_err / fut_by_t[max(fut_by_t)],
+    }
+
+
+def pick_proxy(sym: str, cfg: dict, fut_bars: list[dict]) -> dict:
+    """Measure every candidate ETF and keep the freshest good tracker.
+
+    Yahoo serves some NYSE Arca ETFs real time and others delayed, and
+    the chart payload carries no field that says which — the meta is
+    byte-identical for a real-time and a delayed symbol. So the only
+    honest way to tell them apart is to observe bar age at run time and
+    let the data choose. Candidates that track badly are dropped first,
+    then the freshest of the survivors wins.
+    """
+    fut_by_t = {b["t"]: b["c"] for b in fut_bars}
+    fits, errors = [], []
+    for etf in cfg["proxies"]:
+        try:
+            fits.append(fit_proxy(etf, cfg, fut_by_t))
+        except Exception as e:
+            errors.append(f"{etf}: {e}")
+        time.sleep(1)
+    if not fits:
+        raise ValueError("; ".join(errors) or "no proxy candidates fit")
+
+    # tracking quality gate first — a fresh quote on an ETF that has
+    # decoupled from the future is worse than a stale one that tracks
+    good = [f for f in fits if f["_relerr"] <= MAX_PROXY_RELERR] or fits
+    good.sort(key=lambda f: (round(f["_age"]), f["_relerr"]))
+    best = good[0]
+    best["alternates"] = [
+        {"etf": f["etf"], "bar_age_min": f["etf_bar_age_min"],
+         "fit_err_median": f["fit_err_median"]}
+        for f in fits if f["etf"] != best["etf"]]
+    if errors:
+        best["candidate_errors"] = errors
+    return {k: v for k, v in best.items() if not k.startswith("_")}
+
+
 def compute(sym: str, cfg: dict) -> dict:
     nd = cfg["nd"]
     m1 = fetch_chart(cfg["yahoo"], "1m", "1d")
@@ -66,6 +239,10 @@ def compute(sym: str, cfg: dict) -> dict:
 
     last = m1[-1]
     session_date = et_date(last["t"])
+    # age of the newest bar. While a session is live this IS the feed
+    # delay (plus <1 min for the bar to close), so every run measures it
+    # instead of us assuming the oft-quoted 10-15 min.
+    lag_min = round((time.time() - last["t"]) / 60, 1)
 
     # session stats from 1m bars
     vol_total = sum(b["v"] for b in m1)
@@ -105,13 +282,26 @@ def compute(sym: str, cfg: dict) -> dict:
     hi5, lo5 = rng(5)
     hi20, lo20 = rng(20)
 
+    # the proxy is an enhancement, not a dependency — a broken ETF fetch
+    # must not cost us the levels for this symbol
+    time.sleep(1)
+    try:
+        proxy = pick_proxy(sym, cfg, m1)
+    except Exception as e:
+        proxy = {"candidates": cfg["proxies"], "error": str(e)}
+
     return {
         "name": cfg["name"],
         "yahoo_symbol": cfg["yahoo"],
         "last": {"price": round(last["c"], nd),
                  "time_utc": datetime.fromtimestamp(
                      last["t"], timezone.utc).isoformat(),
-                 "time_et": et_str(last["t"])},
+                 "time_et": et_str(last["t"]),
+                 "bar_age_min": lag_min},
+        "live_proxy": proxy,
+        "regime": regime(cfg, m1, vwap, atr14),
+        "bars_5m": resample(m1, 5, 60, nd),
+        "bars_5m_cols": ["time_et", "o", "h", "l", "c", "v"],
         "session": {"date_et": session_date,
                     "open": round(m1[0]["o"], nd),
                     "high": round(max(b["h"] for b in m1), nd),
@@ -129,19 +319,60 @@ def compute(sym: str, cfg: dict) -> dict:
     }
 
 
+def upcoming(sym: str, now: datetime, limit: int = 3) -> list[dict]:
+    """Next scheduled releases that move this symbol.
+
+    Read from events.json (written by events.py earlier in the same
+    workflow) and folded in here so chat gets levels and event risk in a
+    single fetch. minutes_until is recomputed against this run's clock
+    rather than trusting the value events.py stamped.
+    """
+    path = OUT.parent / "events.json"
+    if not path.exists():
+        return []
+    try:
+        events = json.loads(path.read_text(encoding="utf-8"))["events"]
+    except (json.JSONDecodeError, OSError, KeyError):
+        return []
+    out = []
+    for e in events:
+        if sym not in e.get("moves", []):
+            continue
+        try:
+            when = datetime.strptime(
+                e["when_et"], "%Y-%m-%d %H:%M ET").replace(tzinfo=ET)
+        except ValueError:
+            continue
+        mins = int((when - now).total_seconds() // 60)
+        if mins < 0:
+            continue
+        out.append({"name": e["name"], "when_et": e["when_et"],
+                    "minutes_until": mins,
+                    **({"note": e["note"]} if e.get("note") else {})})
+        if len(out) == limit:
+            break
+    return out
+
+
 def main() -> None:
     now = datetime.now(timezone.utc)
     out = {"updated_utc": now.isoformat(),
            "updated_et": now.astimezone(ET).strftime("%Y-%m-%d %H:%M ET"),
-           "note": ("Yahoo futures data, ~10-15 min delayed (CME "
-                    "licensing). Session = latest available; on weekends "
-                    "that is Friday's."),
+           "note": ("Yahoo futures are exchange-delayed: ES(CME) ~10 min, "
+                    "CL(NYMEX) and GC(COMEX) ~30 min. Trust each symbol's "
+                    "last.bar_age_min over these figures - it is measured, "
+                    "they are documented. Session = latest available; on "
+                    "weekends that is Friday's. For a real-time price use "
+                    "live_proxy: fetch its quote_url for the ETF's last "
+                    "price and multiply by ratio."),
            "symbols": {}}
+    now_et = now.astimezone(ET)
     for sym, cfg in SYMBOLS.items():
         try:
             out["symbols"][sym] = compute(sym, cfg)
         except Exception as e:  # one bad symbol shouldn't kill the sheet
             out["symbols"][sym] = {"error": str(e)}
+        out["symbols"][sym]["next_events"] = upcoming(sym, now_et)
         time.sleep(1)
 
     # skip the rewrite when nothing but the timestamp would change
