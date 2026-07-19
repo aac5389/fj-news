@@ -1,25 +1,25 @@
 {
- "updated_utc": "2026-07-19T04:32:25.873288+00:00",
- "updated_et": "2026-07-19 00:32 ET",
+ "updated_utc": "2026-07-19T12:39:03.228349+00:00",
+ "updated_et": "2026-07-19 08:39 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. Trust each symbol's last.bar_age_min over these figures - it is measured, they are documented. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
    "error": "ES: empty chart data",
    "next_events": [
     {
-     "name": "Personal Income and Outlays",
-     "when_et": "2026-07-30 08:30 ET",
-     "minutes_until": 16317
-    },
-    {
      "name": "Gross Domestic Product",
      "when_et": "2026-07-30 08:30 ET",
-     "minutes_until": 16317
+     "minutes_until": 15830
+    },
+    {
+     "name": "Personal Income and Outlays",
+     "when_et": "2026-07-30 08:30 ET",
+     "minutes_until": 15830
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-08-07 08:30 ET",
-     "minutes_until": 27837
+     "minutes_until": 27350
     }
    ]
   },
@@ -29,18 +29,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-07-21 16:30 ET",
-     "minutes_until": 3837,
+     "minutes_until": 3350,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-07-22 10:30 ET",
-     "minutes_until": 4917
+     "minutes_until": 4430
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-07-28 16:30 ET",
-     "minutes_until": 13917,
+     "minutes_until": 13430,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -49,19 +49,19 @@
    "error": "GC: empty chart data",
    "next_events": [
     {
-     "name": "Personal Income and Outlays",
-     "when_et": "2026-07-30 08:30 ET",
-     "minutes_until": 16317
-    },
-    {
      "name": "Gross Domestic Product",
      "when_et": "2026-07-30 08:30 ET",
-     "minutes_until": 16317
+     "minutes_until": 15830
+    },
+    {
+     "name": "Personal Income and Outlays",
+     "when_et": "2026-07-30 08:30 ET",
+     "minutes_until": 15830
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-08-07 08:30 ET",
-     "minutes_until": 27837
+     "minutes_until": 27350
     }
    ]
   }
