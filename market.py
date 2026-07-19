@@ -14,7 +14,7 @@ stored times are UTC; ET strings included for display.
 import json
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -55,6 +55,43 @@ def fetch_chart(symbol: str, interval: str, range_: str) -> list[dict]:
         bars.append({"t": t, "o": o, "h": h, "l": l, "c": c,
                      "v": q["volume"][i] or 0})
     return bars
+
+
+def globex_open_ts(epoch: int) -> float:
+    """Epoch of the most recent Globex open (18:00 ET) at/before epoch."""
+    et = datetime.fromtimestamp(epoch, ET)
+    day = et.date() if et.hour >= 18 else et.date() - timedelta(days=1)
+    return datetime(day.year, day.month, day.day, 18, 0,
+                    tzinfo=ET).timestamp()
+
+
+def session_slice(bars: list[dict]) -> list[dict]:
+    """Bars since the most recent Globex open at or before the newest bar.
+
+    Needed because the fetch may span multiple days (see fetch_intraday):
+    'session' must keep meaning the futures session, not whatever window
+    Yahoo happened to return.
+    """
+    start = globex_open_ts(bars[-1]["t"])
+    return [b for b in bars if b["t"] >= start]
+
+
+def fetch_intraday(symbol: str) -> list[dict]:
+    """1m bars with a range fallback.
+
+    Yahoo's range=1d returns ZERO bars in the stretch right after a
+    session opens (verified live at the Sunday 18:00 ET reopen — 1d was
+    empty while 2d served Friday's bars fine). Try 1d, fall back to 2d.
+    The caller gets the newest data Yahoo has; if that is still the
+    prior session, the sheet correctly shows the prior session rather
+    than nothing.
+    """
+    for rng in ("1d", "2d"):
+        bars = fetch_chart(symbol, "1m", rng)
+        if bars:
+            return bars
+        time.sleep(1)
+    return []
 
 
 def et_date(epoch: int) -> str:
@@ -161,7 +198,7 @@ def fit_proxy(etf: str, cfg: dict, fut_by_t: dict) -> dict:
     Median (not mean) over the window: one bad Yahoo print otherwise
     skews the ratio for the next ten minutes.
     """
-    etf_bars = fetch_chart(etf, "1m", "1d")
+    etf_bars = fetch_intraday(etf)
     etf_by_t = {b["t"]: b["c"] for b in etf_bars}
     common = sorted(set(fut_by_t) & set(etf_by_t))[-RATIO_WINDOW:]
     if len(common) < RATIO_MIN_BARS:
@@ -189,7 +226,7 @@ def fit_proxy(etf: str, cfg: dict, fut_by_t: dict) -> dict:
         "bars_used": len(common),
         "fit_err_median": round(med_err, cfg["nd"]),
         "fit_err_max": round(errs[-1], cfg["nd"]),
-        "_age": (time.time() - newest) / 60,
+        "_newest": newest,
         "_relerr": med_err / fut_by_t[max(fut_by_t)],
     }
 
@@ -216,9 +253,13 @@ def pick_proxy(sym: str, cfg: dict, fut_bars: list[dict]) -> dict:
         raise ValueError("; ".join(errors) or "no proxy candidates fit")
 
     # tracking quality gate first — a fresh quote on an ETF that has
-    # decoupled from the future is worse than a stale one that tracks
+    # decoupled from the future is worse than a stale one that tracks.
+    # Freshness is judged by newest BAR TIMESTAMP, not wall-clock age:
+    # data-derived, so identical data always picks the same winner. The
+    # old round(wall-age) key straddled rounding boundaries on cron
+    # jitter and flip-flopped the ETF all weekend, committing junk.
     good = [f for f in fits if f["_relerr"] <= MAX_PROXY_RELERR] or fits
-    good.sort(key=lambda f: (round(f["_age"]), f["_relerr"]))
+    good.sort(key=lambda f: (-f["_newest"], f["_relerr"]))
     best = good[0]
     best["alternates"] = [
         {"etf": f["etf"], "bar_age_min": f["etf_bar_age_min"],
@@ -229,13 +270,14 @@ def pick_proxy(sym: str, cfg: dict, fut_bars: list[dict]) -> dict:
     return {k: v for k, v in best.items() if not k.startswith("_")}
 
 
-def compute(sym: str, cfg: dict) -> dict:
+def compute(sym: str, cfg: dict, prev: dict | None = None) -> dict:
     nd = cfg["nd"]
-    m1 = fetch_chart(cfg["yahoo"], "1m", "1d")
+    m1 = fetch_intraday(cfg["yahoo"])
     time.sleep(1)  # be polite to Yahoo
     d1 = fetch_chart(cfg["yahoo"], "1d", "3mo")
     if not m1 or not d1:
         raise ValueError(f"{sym}: empty chart data")
+    m1 = session_slice(m1)
 
     last = m1[-1]
     session_date = et_date(last["t"])
@@ -261,11 +303,19 @@ def compute(sym: str, cfg: dict) -> dict:
         bins[key] = bins.get(key, 0) + (b["v"] if vol_total else 1)
     poc = max(bins, key=bins.get)
 
-    # completed daily bars strictly before the current session
-    prior_days = [b for b in d1 if et_date(b["t"]) < session_date]
+    # completed daily bars strictly before the current session. Compare
+    # epochs against the Globex open, NOT calendar-date strings: Yahoo
+    # stamps completed daily bars 00:00 ET of their trade date, so a
+    # date-string comparison excludes the just-settled session for the
+    # whole 18:00-24:00 ET evening (prior_session was a full session
+    # stale during prime Globex hours — review finding, verified live).
+    # The in-progress daily bar is stamped with the current wall clock,
+    # which lands after the open and is correctly excluded.
+    open_ts = globex_open_ts(last["t"])
+    prior_days = [b for b in d1 if b["t"] < open_ts]
     if not prior_days:
         raise ValueError(f"{sym}: no prior daily bars")
-    prev = prior_days[-1]
+    prev_day = prior_days[-1]
 
     trs = []
     for i in range(1, len(prior_days)):
@@ -283,12 +333,21 @@ def compute(sym: str, cfg: dict) -> dict:
     hi20, lo20 = rng(20)
 
     # the proxy is an enhancement, not a dependency — a broken ETF fetch
-    # must not cost us the levels for this symbol
+    # must not cost us the levels for this symbol. And a still-valid old
+    # ratio beats no ratio (staleness measured: ES/CL flat out to 2h),
+    # so fall back to the previous run's proxy before giving up.
     time.sleep(1)
     try:
         proxy = pick_proxy(sym, cfg, m1)
     except Exception as e:
-        proxy = {"candidates": cfg["proxies"], "error": str(e)}
+        old = (prev or {}).get("live_proxy") or {}
+        if "ratio" in old:
+            proxy = {k: v for k, v in old.items()
+                     if k not in ("stale", "stale_reason")}
+            proxy["stale"] = True
+            proxy["stale_reason"] = str(e)
+        else:
+            proxy = {"candidates": cfg["proxies"], "error": str(e)}
 
     return {
         "name": cfg["name"],
@@ -309,10 +368,10 @@ def compute(sym: str, cfg: dict) -> dict:
                     "vwap": round(vwap, nd),
                     "volume_poc": round(poc, nd),
                     "volume": vol_total},
-        "prior_session": {"date_et": et_date(prev["t"]),
-                          "high": round(prev["h"], nd),
-                          "low": round(prev["l"], nd),
-                          "close": round(prev["c"], nd)},
+        "prior_session": {"date_et": et_date(prev_day["t"]),
+                          "high": round(prev_day["h"], nd),
+                          "low": round(prev_day["l"], nd),
+                          "close": round(prev_day["c"], nd)},
         "ranges": {"atr14": round(atr14, nd) if atr14 else None,
                    "high_5d": hi5, "low_5d": lo5,
                    "high_20d": hi20, "low_20d": lo20},
@@ -362,7 +421,12 @@ def stable(symbols) -> str:
     workflow commits every 10 minutes even with the market shut. Compare
     only the parts that move when the *market* moves.
     """
-    volatile = {"bar_age_min", "etf_bar_age_min", "minutes_until"}
+    # stale_reason is scrubbed too: failure messages can embed varying
+    # counts ("only 3 bars overlap"), and a reworded failure is not a
+    # market change. The stale flag itself still triggers a commit when
+    # it flips.
+    volatile = {"bar_age_min", "etf_bar_age_min", "minutes_until",
+                "stale_reason"}
 
     def scrub(node):
         if isinstance(node, dict):
@@ -380,19 +444,54 @@ def main() -> None:
     out = {"updated_utc": now.isoformat(),
            "updated_et": now.astimezone(ET).strftime("%Y-%m-%d %H:%M ET"),
            "note": ("Yahoo futures are exchange-delayed: ES(CME) ~10 min, "
-                    "CL(NYMEX) and GC(COMEX) ~30 min. Trust each symbol's "
-                    "last.bar_age_min over these figures - it is measured, "
-                    "they are documented. Session = latest available; on "
-                    "weekends that is Friday's. For a real-time price use "
-                    "live_proxy: fetch its quote_url for the ETF's last "
-                    "price and multiply by ratio."),
+                    "CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields "
+                    "were measured at BUILD time and this file is only "
+                    "rewritten when the market moves - compute the true "
+                    "age as now minus last.time_utc. A symbol or "
+                    "live_proxy carrying stale:true is retained data from "
+                    "an earlier run kept through a fetch failure. Session "
+                    "= latest available; on weekends that is Friday's. "
+                    "For a real-time price use live_proxy: fetch its "
+                    "quote_url for the ETF's last price and multiply by "
+                    "ratio."),
            "symbols": {}}
+    # last-good data, for degrading instead of clobbering on a bad run.
+    # The Sunday 18:00 reopen proved why: Yahoo served zero bars, the old
+    # handler wrote {"error": ...} over Friday's numbers, and chat lost
+    # every level mid-session. A fetch failure must never destroy data.
+    old_symbols = {}
+    if OUT.exists():
+        try:
+            old_symbols = json.loads(
+                OUT.read_text(encoding="utf-8")).get("symbols", {})
+        except (json.JSONDecodeError, OSError):
+            pass
+
     now_et = now.astimezone(ET)
     for sym, cfg in SYMBOLS.items():
+        prev = old_symbols.get(sym)
+        if prev is not None and "last" not in prev:
+            prev = None  # an error placeholder is not data worth keeping
         try:
-            out["symbols"][sym] = compute(sym, cfg)
-        except Exception as e:  # one bad symbol shouldn't kill the sheet
-            out["symbols"][sym] = {"error": str(e)}
+            entry = compute(sym, cfg, prev)
+        except Exception as e:
+            if prev is not None:
+                # keep the numbers, mark them stale, and re-age the bar
+                # stamp so nothing claims Friday's print is fresh
+                entry = {k: v for k, v in prev.items()
+                         if k not in ("stale", "stale_reason")}
+                entry["stale"] = True
+                entry["stale_reason"] = str(e)
+                try:
+                    t = datetime.fromisoformat(entry["last"]["time_utc"])
+                    entry["last"]["bar_age_min"] = round(
+                        (now - t).total_seconds() / 60, 1)
+                except (KeyError, ValueError, TypeError):
+                    pass
+                print(f"{sym}: fetch failed ({e}); keeping previous data")
+            else:
+                entry = {"error": str(e)}
+        out["symbols"][sym] = entry
         out["symbols"][sym]["next_events"] = upcoming(sym, now_et)
         time.sleep(1)
 
