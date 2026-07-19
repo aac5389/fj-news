@@ -354,6 +354,27 @@ def upcoming(sym: str, now: datetime, limit: int = 3) -> list[dict]:
     return out
 
 
+def stable(symbols) -> str:
+    """Serialise the sheet with clock-derived fields removed.
+
+    Age and countdown fields advance on every run by construction, so a
+    naive equality check against the previous file never matches and the
+    workflow commits every 10 minutes even with the market shut. Compare
+    only the parts that move when the *market* moves.
+    """
+    volatile = {"bar_age_min", "etf_bar_age_min", "minutes_until"}
+
+    def scrub(node):
+        if isinstance(node, dict):
+            return {k: scrub(v) for k, v in node.items()
+                    if k not in volatile}
+        if isinstance(node, list):
+            return [scrub(v) for v in node]
+        return node
+
+    return json.dumps(scrub(symbols), sort_keys=True)
+
+
 def main() -> None:
     now = datetime.now(timezone.utc)
     out = {"updated_utc": now.isoformat(),
@@ -375,12 +396,12 @@ def main() -> None:
         out["symbols"][sym]["next_events"] = upcoming(sym, now_et)
         time.sleep(1)
 
-    # skip the rewrite when nothing but the timestamp would change
-    # (markets closed) so the workflow doesn't commit no-op updates
+    # skip the rewrite when nothing but the clock would change (markets
+    # closed) so the workflow doesn't commit no-op updates
     if OUT.exists():
         try:
             old = json.loads(OUT.read_text(encoding="utf-8"))
-            if old.get("symbols") == out["symbols"]:
+            if stable(old.get("symbols")) == stable(out["symbols"]):
                 print("levels unchanged; not rewriting")
                 return
         except (json.JSONDecodeError, OSError):
