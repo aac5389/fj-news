@@ -1,7 +1,159 @@
 {
- "updated": "2026-07-19T23:27:50.910411+00:00",
- "count": 187,
+ "updated": "2026-07-20T01:05:32.725363+00:00",
+ "count": 206,
  "items": [
+  {
+   "guid": 9684664,
+   "ts": "2026-07-20T01:00:45+00:00",
+   "ingested": "2026-07-20T01:05:32.724834+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805%, steady from prior session open",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684663,
+   "ts": "2026-07-20T01:00:45+00:00",
+   "ingested": "2026-07-20T01:05:32.724859+00:00",
+   "headline": "China keeps 1-year loan prime rate steady at 3.00% versus prior month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684662,
+   "ts": "2026-07-20T01:00:20+00:00",
+   "ingested": "2026-07-20T01:05:32.724879+00:00",
+   "headline": "PBoC Interest Rate 5 Yr Actual 3.50% (Forecast 3.5%, Previous 3.50%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684661,
+   "ts": "2026-07-20T01:00:19+00:00",
+   "ingested": "2026-07-20T01:05:32.724895+00:00",
+   "headline": "PBoC Interest Rate 1 Yr Actual 3.00% (Forecast 3%, Previous 3.00%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684645,
+   "ts": "2026-07-20T00:24:58+00:00",
+   "ingested": "2026-07-20T01:05:32.724909+00:00",
+   "headline": "Trump: discussed forest fires in Canada with Carney",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684644,
+   "ts": "2026-07-20T00:23:41+00:00",
+   "ingested": "2026-07-20T01:05:32.724923+00:00",
+   "headline": "Trump: maintains positive ties with Carney",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684643,
+   "ts": "2026-07-20T00:23:07+00:00",
+   "ingested": "2026-07-20T01:05:32.724937+00:00",
+   "headline": "Trump: We struck Iran very hard again tonight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684642,
+   "ts": "2026-07-20T00:18:07+00:00",
+   "ingested": "2026-07-20T01:05:32.724952+00:00",
+   "headline": "China PBOC likely to set yuan mid-point at 6.7821 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684634,
+   "ts": "2026-07-20T00:07:41+00:00",
+   "ingested": "2026-07-20T01:05:32.724966+00:00",
+   "headline": "Israeli military: sirens in Kfar Aza and Saad were a false alarm",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684633,
+   "ts": "2026-07-20T00:07:31+00:00",
+   "ingested": "2026-07-20T01:05:32.724986+00:00",
+   "headline": "Iran\u2019s semi-official Fars News Agency: explosion noises detected in southern Hormozgan and Bushehr",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684632,
+   "ts": "2026-07-20T00:06:51+00:00",
+   "ingested": "2026-07-20T01:05:32.725001+00:00",
+   "headline": "British military: ship on fire in Strait of Hormuz near Oman coast - AP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684630,
+   "ts": "2026-07-20T00:01:37+00:00",
+   "ingested": "2026-07-20T01:05:32.725014+00:00",
+   "headline": "Israeli military: sirens blare in Kfar Aza and Saad regions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684628,
+   "ts": "2026-07-19T23:58:17+00:00",
+   "ingested": "2026-07-20T01:05:32.725028+00:00",
+   "headline": "Iran semi-official Mehr: locals report hearing multiple blasts in southern Sirik",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684627,
+   "ts": "2026-07-19T23:49:22+00:00",
+   "ingested": "2026-07-20T01:05:32.725043+00:00",
+   "headline": "U.S. embassy in Bahrain: urges all Americans to stay alert, follow local authorities' directives, and check latest guidance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684626,
+   "ts": "2026-07-19T23:47:51+00:00",
+   "ingested": "2026-07-20T01:05:32.725058+00:00",
+   "headline": "U.S. embassy in Bahrain\u2019s Manama: Iran could target unspecified sites in central Manama, embassy says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684621,
+   "ts": "2026-07-19T23:45:22+00:00",
+   "ingested": "2026-07-20T01:05:32.725072+00:00",
+   "headline": "Iran\u2019s semi-official Mehr news agency: several explosions heard in southeastern Chabahar",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684620,
+   "ts": "2026-07-19T23:36:46+00:00",
+   "ingested": "2026-07-20T01:05:32.725086+00:00",
+   "headline": "Iranian air defence systems activated in Konarak: Iran's semi-official Mehr news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684619,
+   "ts": "2026-07-19T23:34:01+00:00",
+   "ingested": "2026-07-20T01:05:32.725101+00:00",
+   "headline": "Iran semi-official Tasnim: multiple explosions reported in southwestern Bandar Mahshahr and Bandar Imam Khomeini",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9684611,
+   "ts": "2026-07-19T23:28:52+00:00",
+   "ingested": "2026-07-20T01:05:32.725115+00:00",
+   "headline": "Iran's Press TV: reports of U.S. attacks on Iranian city of Tabriz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9684585,
    "ts": "2026-07-19T22:45:20+00:00",
