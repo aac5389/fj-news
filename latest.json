@@ -1,7 +1,79 @@
 {
- "updated": "2026-07-22T15:14:28.650898+00:00",
+ "updated": "2026-07-22T16:50:42.422208+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9689208,
+   "ts": "2026-07-22T16:24:49+00:00",
+   "ingested": "2026-07-22T16:50:42.421835+00:00",
+   "headline": "UK Chancellor Healey: I'll back wealth creation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689207,
+   "ts": "2026-07-22T16:23:02+00:00",
+   "ingested": "2026-07-22T16:50:42.421858+00:00",
+   "headline": "UK Chancellor Healey: The first priority is fiscal discipline.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689185,
+   "ts": "2026-07-22T16:05:09+00:00",
+   "ingested": "2026-07-22T16:50:42.421875+00:00",
+   "headline": "The Trump Administration is weighing military options in Mali - WaPo.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689146,
+   "ts": "2026-07-22T15:40:48+00:00",
+   "ingested": "2026-07-22T16:50:42.421890+00:00",
+   "headline": "USTR Greer hearing before Senate Finance panel concludes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689145,
+   "ts": "2026-07-22T15:33:43+00:00",
+   "ingested": "2026-07-22T16:50:42.421904+00:00",
+   "headline": "Governor of Bushehr: The fire seen in satellite images is due to flaring - Tasnim News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689144,
+   "ts": "2026-07-22T15:33:27+00:00",
+   "ingested": "2026-07-22T16:50:42.421918+00:00",
+   "headline": "Iran Governor of Bushehr: No explosion or fire occurred on Kharg Island - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689136,
+   "ts": "2026-07-22T15:29:48+00:00",
+   "ingested": "2026-07-22T16:50:42.421931+00:00",
+   "headline": "US Senate Panel approves the bill to crack down on Chinese vehicles.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689135,
+   "ts": "2026-07-22T15:23:24+00:00",
+   "ingested": "2026-07-22T16:50:42.421946+00:00",
+   "headline": "US Treasury Secretary Bessent: We're looking at tax strategies that may cross the line - Post on X.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9689134,
+   "ts": "2026-07-22T15:23:10+00:00",
+   "ingested": "2026-07-22T16:50:42.421962+00:00",
+   "headline": "US Treasury Secretary Bessent: The Treasury is examining some Wall Street tax products - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9689102,
    "ts": "2026-07-22T14:53:25+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-07-20T15:57:22+00:00",
    "ingested": "2026-07-20T16:21:49.972509+00:00",
    "headline": "Stocks of crude oil in the US Strategic Petroleum Reserve fell by about 5.1 mln barrels to 311.4 mln barrels last week, the lowest since 1983.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685720,
-   "ts": "2026-07-20T15:49:30+00:00",
-   "ingested": "2026-07-20T16:21:49.972539+00:00",
-   "headline": "Xai unveils Grok add-in for Microsoft Excel $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685701,
-   "ts": "2026-07-20T15:33:26+00:00",
-   "ingested": "2026-07-20T16:21:49.972556+00:00",
-   "headline": "Chevron: All petronius workers moving ashore ahead of gulf storm. $CVX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685700,
-   "ts": "2026-07-20T15:33:20+00:00",
-   "ingested": "2026-07-20T16:21:49.972569+00:00",
-   "headline": "US 6-Month Bill Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685699,
-   "ts": "2026-07-20T15:32:48+00:00",
-   "ingested": "2026-07-20T16:21:49.972580+00:00",
-   "headline": "US 3-Month Bill Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685694,
-   "ts": "2026-07-20T15:32:05+00:00",
-   "ingested": "2026-07-20T16:21:49.972594+00:00",
-   "headline": "US 3-Month Bill High Yield Actual 3.73% (Forecast -, Previous 3.760%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685693,
-   "ts": "2026-07-20T15:32:05+00:00",
-   "ingested": "2026-07-20T16:21:49.972607+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 3 (Forecast -, Previous 2.840)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685692,
-   "ts": "2026-07-20T15:32:03+00:00",
-   "ingested": "2026-07-20T16:21:49.972619+00:00",
-   "headline": "US 6-Month Bill High Yield Actual 3.835% (Forecast -, Previous 3.860%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685691,
-   "ts": "2026-07-20T15:32:03+00:00",
-   "ingested": "2026-07-20T16:21:49.972634+00:00",
-   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.94 (Forecast -, Previous 3.110)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9685689,
-   "ts": "2026-07-20T15:31:43+00:00",
-   "ingested": "2026-07-20T16:21:49.972648+00:00",
-   "headline": "Chevron: We're shutting in oil production at the Petronius Gulf platform. $CVX",
    "channel": "rss",
    "source": "financialjuice"
   }
