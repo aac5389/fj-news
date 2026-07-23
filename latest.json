@@ -1,7 +1,415 @@
 {
- "updated": "2026-07-23T13:13:48.394732+00:00",
+ "updated": "2026-07-23T15:26:54.083601+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9690919,
+   "ts": "2026-07-23T15:26:10+00:00",
+   "ingested": "2026-07-23T15:26:54.082452+00:00",
+   "headline": "WH Press Sec. Leavitt: Trump will host a Cabinet Meeting at Camp David next Friday.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690918,
+   "ts": "2026-07-23T15:25:33+00:00",
+   "ingested": "2026-07-23T15:26:54.082482+00:00",
+   "headline": "WH Press Sec. Leavitt: Trump is going to travel to Michigan on Monday.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690911,
+   "ts": "2026-07-23T15:15:16+00:00",
+   "ingested": "2026-07-23T15:26:54.082503+00:00",
+   "headline": "Fed bids for 4-week bills total $6.6 bln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690909,
+   "ts": "2026-07-23T15:10:04+00:00",
+   "ingested": "2026-07-23T15:26:54.082524+00:00",
+   "headline": "Fitch Ratings: Chinese money market funds continue to expand despite low yields.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690907,
+   "ts": "2026-07-23T15:06:58+00:00",
+   "ingested": "2026-07-23T15:26:54.082541+00:00",
+   "headline": "The SEC is to host a roundtable to discuss 24-hour trading on September 17th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690906,
+   "ts": "2026-07-23T15:03:10+00:00",
+   "ingested": "2026-07-23T15:26:54.082559+00:00",
+   "headline": "IRGC Navy confirmed that the Strait of Hormuz remains closed, and numerous ships are awaiting authorization to pass through - IRIB News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690905,
+   "ts": "2026-07-23T15:02:13+00:00",
+   "ingested": "2026-07-23T15:26:54.082575+00:00",
+   "headline": "Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690890,
+   "ts": "2026-07-23T15:01:48+00:00",
+   "ingested": "2026-07-23T15:26:54.082609+00:00",
+   "headline": "US Treasury Auction Schedule",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690884,
+   "ts": "2026-07-23T15:00:45+00:00",
+   "ingested": "2026-07-23T15:26:54.082630+00:00",
+   "headline": "Kansas City Fed Manufacturing Actual 17 (Forecast -, Previous 19)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690883,
+   "ts": "2026-07-23T15:00:39+00:00",
+   "ingested": "2026-07-23T15:26:54.082645+00:00",
+   "headline": "Kansas City Fed Composite Index Actual 9 (Forecast 12, Previous 11)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690882,
+   "ts": "2026-07-23T14:50:42+00:00",
+   "ingested": "2026-07-23T15:26:54.082662+00:00",
+   "headline": " White House press briefing with WH Press Sec. Leavitt - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690866,
+   "ts": "2026-07-23T14:43:03+00:00",
+   "ingested": "2026-07-23T15:26:54.082681+00:00",
+   "headline": "Yemen's Advisor to the Chairman of the Supreme Political Council Anam: We will not hesitate to target any country that cooperates with Saudi Arabia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690864,
+   "ts": "2026-07-23T14:42:25+00:00",
+   "ingested": "2026-07-23T15:26:54.082697+00:00",
+   "headline": "Alphabet\u2019s future spending commitments soar to $811 billion. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690863,
+   "ts": "2026-07-23T14:41:44+00:00",
+   "ingested": "2026-07-23T15:26:54.082711+00:00",
+   "headline": "Yemen's Anam: Yemen will continue targeting Saudi interests while the blockade continues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690862,
+   "ts": "2026-07-23T14:41:34+00:00",
+   "ingested": "2026-07-23T15:26:54.082726+00:00",
+   "headline": "Yemen's Anam: US aggression will be met with a response against ships and interests.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690861,
+   "ts": "2026-07-23T14:38:08+00:00",
+   "ingested": "2026-07-23T15:26:54.082742+00:00",
+   "headline": "An Iranian plan to infiltrate an operative into Israel and target senior officials has been thwarted - Israel Channel 12 News citing Mossad",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690860,
+   "ts": "2026-07-23T14:37:19+00:00",
+   "ingested": "2026-07-23T15:26:54.082756+00:00",
+   "headline": "Senate Republican Leader Thune: Iran sanctions added to Russia bill - Punchbowl",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690859,
+   "ts": "2026-07-23T14:36:15+00:00",
+   "ingested": "2026-07-23T15:26:54.082769+00:00",
+   "headline": "Traders fully price 50bps of BoE rate hikes by year-end.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690847,
+   "ts": "2026-07-23T14:30:25+00:00",
+   "ingested": "2026-07-23T15:26:54.082787+00:00",
+   "headline": "IRGC: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks - Fars News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690843,
+   "ts": "2026-07-23T14:30:01+00:00",
+   "ingested": "2026-07-23T15:26:54.082808+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 32B (Forecast 34B, Previous 41B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690842,
+   "ts": "2026-07-23T14:25:28+00:00",
+   "ingested": "2026-07-23T15:26:54.082821+00:00",
+   "headline": "The House passes the Iran war powers resolution.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690841,
+   "ts": "2026-07-23T14:18:10+00:00",
+   "ingested": "2026-07-23T15:26:54.082833+00:00",
+   "headline": "Crypto Fear and Greed Index: 31/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690840,
+   "ts": "2026-07-23T14:18:03+00:00",
+   "ingested": "2026-07-23T15:26:54.082847+00:00",
+   "headline": "ECB Officials are ready to raise interest rates in September.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690839,
+   "ts": "2026-07-23T14:17:43+00:00",
+   "ingested": "2026-07-23T15:26:54.082859+00:00",
+   "headline": "Fear and Greed Index: 42/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690838,
+   "ts": "2026-07-23T14:17:15+00:00",
+   "ingested": "2026-07-23T15:26:54.082878+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi traveled to Kyrgyzstan to participate in the meeting of the Council of Ministers of Foreign Affairs of the Shanghai Cooperation Organization.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690836,
+   "ts": "2026-07-23T14:16:55+00:00",
+   "ingested": "2026-07-23T15:26:54.082896+00:00",
+   "headline": "Canada's PM Carney: Canada is in a stronger position than it was when the trade war started and will do whatever is needed to defend itself.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690825,
+   "ts": "2026-07-23T14:16:28+00:00",
+   "ingested": "2026-07-23T15:26:54.082911+00:00",
+   "headline": "Canada's PM Carney: Canada will not hesitate to defend its interests in a trade war with the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690822,
+   "ts": "2026-07-23T14:15:22+00:00",
+   "ingested": "2026-07-23T15:26:54.082927+00:00",
+   "headline": "Iran sent Revolutionary Guard commanders and missile-related equipment to Yemen's Houthis this month - Four Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690821,
+   "ts": "2026-07-23T14:09:38+00:00",
+   "ingested": "2026-07-23T15:26:54.082940+00:00",
+   "headline": "Russia discusses extending Gasoline export ban for 6 months - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690820,
+   "ts": "2026-07-23T14:08:36+00:00",
+   "ingested": "2026-07-23T15:26:54.082955+00:00",
+   "headline": "Russia discusses extending the Diesel export ban for a month - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690819,
+   "ts": "2026-07-23T14:07:46+00:00",
+   "ingested": "2026-07-23T15:26:54.082971+00:00",
+   "headline": "The Pentagon updates the list of entities with problematic activities, the list includes academic centers in China, Russia, and Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690803,
+   "ts": "2026-07-23T14:00:41+00:00",
+   "ingested": "2026-07-23T15:26:54.082987+00:00",
+   "headline": "Eurozone Consumer Confidence Flash Actual -15.9 (Forecast -17, Previous -17.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690796,
+   "ts": "2026-07-23T13:50:31+00:00",
+   "ingested": "2026-07-23T15:26:54.083006+00:00",
+   "headline": "Venezuela's oil ministry readies migration of oil joint ventures, contracts by early next week, maintaining July 28th deadline - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690788,
+   "ts": "2026-07-23T13:46:52+00:00",
+   "ingested": "2026-07-23T15:26:54.083022+00:00",
+   "headline": "Drones attacked two tankers overnight, approaching Russia's CPC oil terminal in Black Sea - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690778,
+   "ts": "2026-07-23T13:38:58+00:00",
+   "ingested": "2026-07-23T15:26:54.083038+00:00",
+   "headline": "Iran's Revolutionary Guards warn Britain over allowing US bombers to fly from its bases - State Media.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690777,
+   "ts": "2026-07-23T13:37:24+00:00",
+   "ingested": "2026-07-23T15:26:54.083052+00:00",
+   "headline": "Iran's IRGC: Have targeted Al-Adiri base in Kuwait - State Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690776,
+   "ts": "2026-07-23T13:35:17+00:00",
+   "ingested": "2026-07-23T15:26:54.083065+00:00",
+   "headline": "Iran's IRGC: Any base used to attack Iran is a legitimate target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690774,
+   "ts": "2026-07-23T13:32:19+00:00",
+   "ingested": "2026-07-23T15:26:54.083077+00:00",
+   "headline": "ECB's President Lagarde ends press conference",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690760,
+   "ts": "2026-07-23T13:30:44+00:00",
+   "ingested": "2026-07-23T15:26:54.083090+00:00",
+   "headline": "ECB's President Lagarde: Medium-term inflation expectations firmly anchored.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690754,
+   "ts": "2026-07-23T13:29:37+00:00",
+   "ingested": "2026-07-23T15:26:54.083107+00:00",
+   "headline": "ECB President Lagarde: worried about risk of second-round impacts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690753,
+   "ts": "2026-07-23T13:28:01+00:00",
+   "ingested": "2026-07-23T15:26:54.083120+00:00",
+   "headline": "ECB's President Lagarde: Euro enlargement is not for ECB to decide",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690752,
+   "ts": "2026-07-23T13:23:20+00:00",
+   "ingested": "2026-07-23T15:26:54.083138+00:00",
+   "headline": "ECB's President Lagarde: Mild scenario currently looks quite unlikely.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690751,
+   "ts": "2026-07-23T13:23:03+00:00",
+   "ingested": "2026-07-23T15:26:54.083153+00:00",
+   "headline": "ECB's President Lagarde: The situation in the Middle East can reverse very quickly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690750,
+   "ts": "2026-07-23T13:20:51+00:00",
+   "ingested": "2026-07-23T15:26:54.083168+00:00",
+   "headline": "ECB's President Lagarde: We did not discuss minimum reserve requirement. Doesn't mean it won't be discussed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690749,
+   "ts": "2026-07-23T13:20:24+00:00",
+   "ingested": "2026-07-23T15:26:54.083180+00:00",
+   "headline": "ECB's President Lagarde: No push for ECB rate hike today",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690748,
+   "ts": "2026-07-23T13:19:27+00:00",
+   "ingested": "2026-07-23T15:26:54.083195+00:00",
+   "headline": "ECB's President Lagarde: We asked staff to study various oil and gas prices scenarios for September meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690747,
+   "ts": "2026-07-23T13:18:30+00:00",
+   "ingested": "2026-07-23T15:26:54.083208+00:00",
+   "headline": "ECB's President Lagarde: Recent developments in the Gulf are alarming.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690746,
+   "ts": "2026-07-23T13:17:21+00:00",
+   "ingested": "2026-07-23T15:26:54.083224+00:00",
+   "headline": "Israeli PM Office: Saudi Arabia's joining of the Abraham Accords would be an historic leap forward for peace in the Middle East",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690730,
+   "ts": "2026-07-23T13:16:10+00:00",
+   "ingested": "2026-07-23T15:26:54.083236+00:00",
+   "headline": "ECB's President Lagarde: We're back to the baseline.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690717,
+   "ts": "2026-07-23T13:15:01+00:00",
+   "ingested": "2026-07-23T15:26:54.083251+00:00",
+   "headline": "ECB's President Lagarde: We're providing framework guidance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9690716,
+   "ts": "2026-07-23T13:14:54+00:00",
+   "ingested": "2026-07-23T15:26:54.083263+00:00",
+   "headline": "ECB's President Lagarde: Not giving any forward guidance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9690715,
    "ts": "2026-07-23T13:12:21+00:00",
@@ -3591,414 +3999,6 @@
    "ts": "2026-07-21T18:13:09+00:00",
    "ingested": "2026-07-21T19:38:15.528873+00:00",
    "headline": "Erbil International Airport has been closed due to recent rocket and drone attacks in the Kurdistan Region of Iraq - Tasnim News citing Iraqi sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687582,
-   "ts": "2026-07-21T18:11:09+00:00",
-   "ingested": "2026-07-21T19:38:15.528888+00:00",
-   "headline": "Iranian Army Spokesman: Defensive readiness of the armed forces is not limited to border areas - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687581,
-   "ts": "2026-07-21T18:10:56+00:00",
-   "ingested": "2026-07-21T19:38:15.528902+00:00",
-   "headline": "Iran: Restored war-damaged air defenses and deployed new air defenses - IRNA citing Army Spokesman",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687516,
-   "ts": "2026-07-21T17:05:11+00:00",
-   "ingested": "2026-07-21T17:58:19.765322+00:00",
-   "headline": "Lebanese President Aoun: Meeting went very well.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687509,
-   "ts": "2026-07-21T17:02:00+00:00",
-   "ingested": "2026-07-21T17:58:19.765351+00:00",
-   "headline": "Iran's Army: Shot down a one-way attack drone in the country\u2019s northwest - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687426,
-   "ts": "2026-07-21T15:57:56+00:00",
-   "ingested": "2026-07-21T16:39:05.519149+00:00",
-   "headline": "White House: Trump announces trade deal with Jordan.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687425,
-   "ts": "2026-07-21T15:47:29+00:00",
-   "ingested": "2026-07-21T16:39:05.519177+00:00",
-   "headline": "UK's FM Miliband is expected to have a bilateral meeting with US Secretary of State Rubio at the ASEAN Conference.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687411,
-   "ts": "2026-07-21T15:45:43+00:00",
-   "ingested": "2026-07-21T16:39:05.519194+00:00",
-   "headline": "Trump's Open Press part of the Lebanon White House meeting ends.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687407,
-   "ts": "2026-07-21T15:40:18+00:00",
-   "ingested": "2026-07-21T16:39:05.519209+00:00",
-   "headline": "Trump: Will be hitting the Pickaxe Mountain area pretty soon, very heavily.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687406,
-   "ts": "2026-07-21T15:39:17+00:00",
-   "ingested": "2026-07-21T16:39:05.519223+00:00",
-   "headline": "Trump: Iran hasn't seen anything yet. We've been nice.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687405,
-   "ts": "2026-07-21T15:36:46+00:00",
-   "ingested": "2026-07-21T16:39:05.519236+00:00",
-   "headline": "Trump: Iran is probably trying to impact the elections with Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687404,
-   "ts": "2026-07-21T15:35:01+00:00",
-   "ingested": "2026-07-21T16:39:05.519251+00:00",
-   "headline": "Trump, asked on Canada tariffs: It is not related to the wildfires; it's because they have been tough on our farmers and us.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687403,
-   "ts": "2026-07-21T15:34:10+00:00",
-   "ingested": "2026-07-21T16:39:05.519265+00:00",
-   "headline": "Trump: We'll hit any site that Iran is thinking about for nuclear operations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687401,
-   "ts": "2026-07-21T15:32:08+00:00",
-   "ingested": "2026-07-21T16:39:05.519280+00:00",
-   "headline": "Trump: We're not finished at all with Iran. We're not leaving right now; we have had a big impact on Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687393,
-   "ts": "2026-07-21T15:30:56+00:00",
-   "ingested": "2026-07-21T16:39:05.519291+00:00",
-   "headline": "Trump: I would speak to Hezbollah.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687388,
-   "ts": "2026-07-21T15:26:02+00:00",
-   "ingested": "2026-07-21T16:39:05.519303+00:00",
-   "headline": "Trump: Nobody gets through the blockade.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687387,
-   "ts": "2026-07-21T15:24:11+00:00",
-   "ingested": "2026-07-21T16:39:05.519320+00:00",
-   "headline": "Trump, asked on China Election Claims: We do things to them too.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687386,
-   "ts": "2026-07-21T15:23:21+00:00",
-   "ingested": "2026-07-21T16:39:05.519333+00:00",
-   "headline": "Trump: I have no interest in meeting Iran until they are ready.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687385,
-   "ts": "2026-07-21T15:22:40+00:00",
-   "ingested": "2026-07-21T16:39:05.519345+00:00",
-   "headline": "Trump: Iran wants to meet; we have no interest.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687384,
-   "ts": "2026-07-21T15:22:16+00:00",
-   "ingested": "2026-07-21T16:39:05.519359+00:00",
-   "headline": "Trump: Iran desperately wants to meet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687383,
-   "ts": "2026-07-21T15:22:04+00:00",
-   "ingested": "2026-07-21T16:39:05.519372+00:00",
-   "headline": "Trump on Israel: We will be looking at issues in pilot zones.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687382,
-   "ts": "2026-07-21T15:21:45+00:00",
-   "ingested": "2026-07-21T16:39:05.519384+00:00",
-   "headline": "The UK won't issue war bonds to fund defense - Official.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687381,
-   "ts": "2026-07-21T15:21:23+00:00",
-   "ingested": "2026-07-21T16:39:05.519398+00:00",
-   "headline": "Trump: Israel is in the process of withdrawing from Lebanon, and is in the process of redeploying other sections.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687380,
-   "ts": "2026-07-21T15:18:06+00:00",
-   "ingested": "2026-07-21T16:39:05.519410+00:00",
-   "headline": "Trump on Red Sea: If it happens, we will take care of it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687379,
-   "ts": "2026-07-21T15:17:57+00:00",
-   "ingested": "2026-07-21T16:39:05.519422+00:00",
-   "headline": "Trump on Houthi Blockade: We'll see what happens.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687352,
-   "ts": "2026-07-21T15:14:44+00:00",
-   "ingested": "2026-07-21T16:39:05.519438+00:00",
-   "headline": "Trump Participates in a Bilateral Meeting with the President of the Republic of Lebanon - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687351,
-   "ts": "2026-07-21T15:13:51+00:00",
-   "ingested": "2026-07-21T16:39:05.519452+00:00",
-   "headline": "Trump: We feel very good about Lebanon, we will make a lot of progress with Lebanon's Aoun.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687350,
-   "ts": "2026-07-21T15:11:09+00:00",
-   "ingested": "2026-07-21T16:39:05.519464+00:00",
-   "headline": "Apple to Launch 'Apple Upgrade' Device Leasing Program. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687349,
-   "ts": "2026-07-21T15:04:59+00:00",
-   "ingested": "2026-07-21T16:39:05.519480+00:00",
-   "headline": "Canadian Prime Minister Carney: I don't want a partial trade agreement with the United States; I want a deal that addresses all critical sectors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687348,
-   "ts": "2026-07-21T15:03:05+00:00",
-   "ingested": "2026-07-21T16:39:05.519492+00:00",
-   "headline": "Google Unveils New Gemini AI Models, Begins Gemini 4 Pre-Training $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687347,
-   "ts": "2026-07-21T15:02:25+00:00",
-   "ingested": "2026-07-21T16:39:05.519507+00:00",
-   "headline": "Canadian Prime Minister Carney: We will look at all options if the United States goes ahead with the latest tariff threat.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687330,
-   "ts": "2026-07-21T15:01:26+00:00",
-   "ingested": "2026-07-21T16:39:05.519521+00:00",
-   "headline": "US to sell $110 bln 4-week bills on July 23rd, to settle on July 28th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687329,
-   "ts": "2026-07-21T15:01:06+00:00",
-   "ingested": "2026-07-21T16:39:05.519537+00:00",
-   "headline": "Nvidia: Vera Rubin AI Platform on Schedule, Customer Testing Underway $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687316,
-   "ts": "2026-07-21T14:58:35+00:00",
-   "ingested": "2026-07-21T15:00:55.262573+00:00",
-   "headline": "Canadian Prime Minister Carney: I spoke to Trump on Tuesday morning. We agreed to intensify negotiations in the coming weeks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687315,
-   "ts": "2026-07-21T14:56:30+00:00",
-   "ingested": "2026-07-21T15:00:55.262598+00:00",
-   "headline": "Canadian Prime Minister Carney: Trump's latest tariffs threat is in violation of the USMCA deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687314,
-   "ts": "2026-07-21T14:56:14+00:00",
-   "ingested": "2026-07-21T15:00:55.262616+00:00",
-   "headline": "Yen weakens to 163 vs USD, raising risks of intervention.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687313,
-   "ts": "2026-07-21T14:55:52+00:00",
-   "ingested": "2026-07-21T15:00:55.262632+00:00",
-   "headline": "Iran Minister meets Pakistan's Army Chief and PM.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687312,
-   "ts": "2026-07-21T14:48:17+00:00",
-   "ingested": "2026-07-21T15:00:55.262647+00:00",
-   "headline": "Iran's IRGC hits a US radar at the Jaber base in Kuwait - Press TV.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687288,
-   "ts": "2026-07-21T14:30:25+00:00",
-   "ingested": "2026-07-21T15:00:55.262661+00:00",
-   "headline": "Chinese and Australian Foreign Ministers meet in Manila - Xinhua.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687285,
-   "ts": "2026-07-21T14:23:11+00:00",
-   "ingested": "2026-07-21T15:00:55.262679+00:00",
-   "headline": "China\u2019s Moonshot is in talks on pre-IPO funds at a $50 billion valuation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687284,
-   "ts": "2026-07-21T14:19:14+00:00",
-   "ingested": "2026-07-21T15:00:55.262692+00:00",
-   "headline": "Crypto Fear and Greed Index: 25/100 = Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687283,
-   "ts": "2026-07-21T14:18:44+00:00",
-   "ingested": "2026-07-21T15:00:55.262704+00:00",
-   "headline": "Fear and Greed Index: 40/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687282,
-   "ts": "2026-07-21T14:18:00+00:00",
-   "ingested": "2026-07-21T15:00:55.262718+00:00",
-   "headline": "JMIC: Hormuz Strait commercial traffic fell to a three-week low.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687265,
-   "ts": "2026-07-21T14:08:50+00:00",
-   "ingested": "2026-07-21T15:00:55.262732+00:00",
-   "headline": "Intel plans layoffs within its data center group - Insider $INTC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687256,
-   "ts": "2026-07-21T14:01:32+00:00",
-   "ingested": "2026-07-21T15:00:55.262750+00:00",
-   "headline": "The Caspian Pipeline Consortium has stopped oil intake from Kazakhstan at its Black Sea Terminal due to attacks on tankers - Three Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687255,
-   "ts": "2026-07-21T14:00:37+00:00",
-   "ingested": "2026-07-21T15:00:55.262766+00:00",
-   "headline": "Kpler's Energy Reporter Bakr: Two vessels have U-turned in the Red Sea following Houthi threats - Post on X.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687247,
-   "ts": "2026-07-21T13:59:34+00:00",
-   "ingested": "2026-07-21T15:00:55.262782+00:00",
-   "headline": "US Secretary of State Rubio will meet China's Wang Yi in Manila on Wednesday - Statement.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687212,
-   "ts": "2026-07-21T13:28:28+00:00",
-   "ingested": "2026-07-21T15:00:55.262798+00:00",
-   "headline": "Kuwait: We are currently responding to Iranian drones and missiles - Army",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687210,
-   "ts": "2026-07-21T13:19:23+00:00",
-   "ingested": "2026-07-21T15:00:55.262818+00:00",
-   "headline": "US Secretary of State Rubio to host G20 foreign ministers\u2019 meeting October 30-31st",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687175,
-   "ts": "2026-07-21T13:01:11+00:00",
-   "ingested": "2026-07-21T15:00:55.262831+00:00",
-   "headline": "ECB: Forex reserves rose \u20ac900 mln to \u20ac348.5 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687171,
-   "ts": "2026-07-21T13:01:07+00:00",
-   "ingested": "2026-07-21T15:00:55.262869+00:00",
-   "headline": "\t\nUSTR Greer concludes remarks to CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9687165,
-   "ts": "2026-07-21T13:00:38+00:00",
-   "ingested": "2026-07-21T15:00:55.262884+00:00",
-   "headline": "ECB settled \u20ac1,693.0 bln public-sector bond purchases",
    "channel": "rss",
    "source": "financialjuice"
   }
