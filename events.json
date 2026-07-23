@@ -1,12 +1,12 @@
 {
- "updated_et": "2026-07-22 14:46 ET",
+ "updated_et": "2026-07-23 03:14 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
    "name": "API Crude Inventories",
    "when_et": "2026-07-28 16:30 ET",
-   "minutes_until": 8743,
+   "minutes_until": 7995,
    "moves": [
     "CL"
    ],
@@ -16,7 +16,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-07-29 10:30 ET",
-   "minutes_until": 9823,
+   "minutes_until": 9075,
    "moves": [
     "CL"
    ],
@@ -25,7 +25,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-07-30 08:30 ET",
-   "minutes_until": 11143,
+   "minutes_until": 10395,
    "moves": [
     "ES",
     "GC"
@@ -35,7 +35,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-07-30 08:30 ET",
-   "minutes_until": 11143,
+   "minutes_until": 10395,
    "moves": [
     "ES",
     "GC"
@@ -45,7 +45,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-08-04 16:30 ET",
-   "minutes_until": 18823,
+   "minutes_until": 18075,
    "moves": [
     "CL"
    ],
@@ -55,7 +55,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-08-05 10:30 ET",
-   "minutes_until": 19903,
+   "minutes_until": 19155,
    "moves": [
     "CL"
    ],
@@ -64,7 +64,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-08-07 08:30 ET",
-   "minutes_until": 22663,
+   "minutes_until": 21915,
    "moves": [
     "ES",
     "GC"
@@ -74,7 +74,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-08-11 16:30 ET",
-   "minutes_until": 28903,
+   "minutes_until": 28155,
    "moves": [
     "CL"
    ],
@@ -84,7 +84,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-08-12 08:30 ET",
-   "minutes_until": 29863,
+   "minutes_until": 29115,
    "moves": [
     "ES",
     "GC"
@@ -94,7 +94,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-08-12 10:30 ET",
-   "minutes_until": 29983,
+   "minutes_until": 29235,
    "moves": [
     "CL"
    ],
@@ -103,7 +103,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-08-13 08:30 ET",
-   "minutes_until": 31303,
+   "minutes_until": 30555,
    "moves": [
     "ES",
     "GC"
@@ -113,7 +113,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-08-18 16:30 ET",
-   "minutes_until": 38983,
+   "minutes_until": 38235,
    "moves": [
     "CL"
    ],
@@ -123,7 +123,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-08-19 10:30 ET",
-   "minutes_until": 40063,
+   "minutes_until": 39315,
    "moves": [
     "CL"
    ],
@@ -132,7 +132,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-08-25 16:30 ET",
-   "minutes_until": 49063,
+   "minutes_until": 48315,
    "moves": [
     "CL"
    ],
@@ -142,7 +142,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-08-26 08:30 ET",
-   "minutes_until": 50023,
+   "minutes_until": 49275,
    "moves": [
     "ES",
     "GC"
@@ -152,7 +152,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-08-26 08:30 ET",
-   "minutes_until": 50023,
+   "minutes_until": 49275,
    "moves": [
     "ES",
     "GC"
@@ -162,7 +162,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-08-26 10:30 ET",
-   "minutes_until": 50143,
+   "minutes_until": 49395,
    "moves": [
     "CL"
    ],
@@ -171,7 +171,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-09-01 16:30 ET",
-   "minutes_until": 59143,
+   "minutes_until": 58395,
    "moves": [
     "CL"
    ],
@@ -181,7 +181,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-09-02 10:30 ET",
-   "minutes_until": 60223,
+   "minutes_until": 59475,
    "moves": [
     "CL"
    ],
@@ -190,7 +190,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-09-04 08:30 ET",
-   "minutes_until": 62983,
+   "minutes_until": 62235,
    "moves": [
     "ES",
     "GC"
