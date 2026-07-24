@@ -1,7 +1,15 @@
 {
- "updated": "2026-07-24T22:01:48.591255+00:00",
+ "updated": "2026-07-24T23:13:19.040807+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9693268,
+   "ts": "2026-07-24T22:44:35+00:00",
+   "ingested": "2026-07-24T23:13:19.040562+00:00",
+   "headline": "U.S. appeals court blocks Trump from imposing $100,000 fee on new H-1B visas: court filing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9693246,
    "ts": "2026-07-24T21:50:41+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-07-23T12:15:33+00:00",
    "ingested": "2026-07-23T13:13:48.394232+00:00",
    "headline": "ECB: Uncertainty remains high and the full inflationary impact of the energy shock has yet to play out",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690578,
-   "ts": "2026-07-23T12:15:32+00:00",
-   "ingested": "2026-07-23T13:13:48.394249+00:00",
-   "headline": "ECB: Outlook for energy prices, while highly volatile, currently stands close to baseline of june Eurosystem staff projections and well above levels recorded prior to conflict in Middle East.",
    "channel": "rss",
    "source": "financialjuice"
   }
