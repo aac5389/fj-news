@@ -1,7 +1,215 @@
 {
- "updated": "2026-07-24T07:14:32.221229+00:00",
+ "updated": "2026-07-24T09:36:58.796298+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9692244,
+   "ts": "2026-07-24T09:26:58+00:00",
+   "ingested": "2026-07-24T09:36:58.795742+00:00",
+   "headline": "Iran FM discussed recent US strikes with  Pakistan counterpart",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692245,
+   "ts": "2026-07-24T09:26:15+00:00",
+   "ingested": "2026-07-24T09:36:58.795766+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi and Pakistan's dar held talks on SCO sidelines - Tasnim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692183,
+   "ts": "2026-07-24T08:43:25+00:00",
+   "ingested": "2026-07-24T09:36:58.795780+00:00",
+   "headline": "UK supermarkets see food inflation peak of 4-5% vs 6-7% - BoE Survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692182,
+   "ts": "2026-07-24T08:41:42+00:00",
+   "ingested": "2026-07-24T09:36:58.795791+00:00",
+   "headline": "UK supermarkets expect lower peak of food inflation - BoE Survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692180,
+   "ts": "2026-07-24T08:35:19+00:00",
+   "ingested": "2026-07-24T09:36:58.795803+00:00",
+   "headline": "Natixis: ECB Meeting Review - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692179,
+   "ts": "2026-07-24T08:34:10+00:00",
+   "ingested": "2026-07-24T09:36:58.795813+00:00",
+   "headline": "Credit \u00c1gricole: FX Outlook - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692178,
+   "ts": "2026-07-24T08:32:03+00:00",
+   "ingested": "2026-07-24T09:36:58.795849+00:00",
+   "headline": "UK July decision maker year-ahead CPI expectations 3%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692173,
+   "ts": "2026-07-24T08:31:38+00:00",
+   "ingested": "2026-07-24T09:36:58.795875+00:00",
+   "headline": "Credit \u00c1gricole: FX Weekly - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692171,
+   "ts": "2026-07-24T08:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795887+00:00",
+   "headline": "UK Manufacturing PMI Flash Actual 52.8 (Forecast 52, Previous 52.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692170,
+   "ts": "2026-07-24T08:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795900+00:00",
+   "headline": "UK Composite PMI Flash Actual 52.1 (Forecast 49.8, Previous 49.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692169,
+   "ts": "2026-07-24T08:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795911+00:00",
+   "headline": "UK Services PMI Flash Actual 51.8 (Forecast 49.4, Previous 48.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692131,
+   "ts": "2026-07-24T08:01:25+00:00",
+   "ingested": "2026-07-24T09:36:58.795924+00:00",
+   "headline": "ECB Poll: Euro zone consumers cut 3-year-ahead inflation expectation to 2.8% from 2.9%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692130,
+   "ts": "2026-07-24T08:01:12+00:00",
+   "ingested": "2026-07-24T09:36:58.795934+00:00",
+   "headline": "ECB Poll: Euro zone consumers keep 5-year-ahead inflation expectation unchanged at 2.4%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692129,
+   "ts": "2026-07-24T08:01:02+00:00",
+   "ingested": "2026-07-24T09:36:58.795945+00:00",
+   "headline": "ECB Survey: 2026 GDP growth seen at 0.6% vs 1.0% previously, 2027 at 1.2% vs 1.3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692128,
+   "ts": "2026-07-24T08:00:45+00:00",
+   "ingested": "2026-07-24T09:36:58.795955+00:00",
+   "headline": "ECB Survey: Core inflation seen at 2.4% in 2026 vs 2.2%; 2027 unchanged at 2.2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692127,
+   "ts": "2026-07-24T08:00:38+00:00",
+   "ingested": "2026-07-24T09:36:58.795966+00:00",
+   "headline": "ECB Survey: 2026 inflation seen at 2.7%, unchanged on previous survey, 2027 seen at 2.2% vs 2.1%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692115,
+   "ts": "2026-07-24T08:00:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795976+00:00",
+   "headline": "Eurozone Services PMI Flash Actual 51.6 (Forecast 49.8, Previous 49.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692114,
+   "ts": "2026-07-24T08:00:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795985+00:00",
+   "headline": "Eurozone Composite PMI Flash Actual 51.9 (Forecast 50.2, Previous 50.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692113,
+   "ts": "2026-07-24T08:00:00+00:00",
+   "ingested": "2026-07-24T09:36:58.795995+00:00",
+   "headline": "Eurozone Manufacturing PMI Flash Actual 52 (Forecast 51.5, Previous 51.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692106,
+   "ts": "2026-07-24T07:33:58+00:00",
+   "ingested": "2026-07-24T09:36:58.796007+00:00",
+   "headline": "Iran's Army: We launched another wave of drone attacks against US military facilities in Kuwait.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692087,
+   "ts": "2026-07-24T07:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796017+00:00",
+   "headline": "German Manufacturing PMI Flash Actual 52.2 (Forecast 50.5, Previous 50.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692086,
+   "ts": "2026-07-24T07:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796026+00:00",
+   "headline": "German Composite PMI Flash Actual 51.2 (Forecast 49.7, Previous 49.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692085,
+   "ts": "2026-07-24T07:30:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796035+00:00",
+   "headline": "German Service PMI Flash Actual 49.6 (Forecast 49, Previous 48.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692059,
+   "ts": "2026-07-24T07:15:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796044+00:00",
+   "headline": "French Services PMI Flash Actual 49.8 (Forecast 47.5, Previous 46.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692058,
+   "ts": "2026-07-24T07:15:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796053+00:00",
+   "headline": "French Comp Flash PMI Actual 49.6 (Forecast 47.8, Previous 47.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9692057,
+   "ts": "2026-07-24T07:15:00+00:00",
+   "ingested": "2026-07-24T09:36:58.796063+00:00",
+   "headline": "French Manufacturing PMI Flash Actual 50 (Forecast 51, Previous 51.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9692056,
    "ts": "2026-07-24T07:04:24+00:00",
@@ -3791,214 +3999,6 @@
    "ts": "2026-07-22T14:30:02+00:00",
    "ingested": "2026-07-22T15:14:28.650387+00:00",
    "headline": "EIA Crude Oil Inventories Actual 2.01M (Forecast -1.95M, Previous -1.692M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689057,
-   "ts": "2026-07-22T14:28:25+00:00",
-   "ingested": "2026-07-22T15:14:28.650402+00:00",
-   "headline": "Senate Republican Leader Thune: Hopefully The CLARITY act can be on the floor soon/next week - Politico Reporter on X.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689056,
-   "ts": "2026-07-22T14:25:54+00:00",
-   "ingested": "2026-07-22T15:14:28.650421+00:00",
-   "headline": "Trump Adviser Kratsios: Large-scale, covert industrial distillation aimed at stealing proprietary US technology and undermining American research is unacceptable.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689055,
-   "ts": "2026-07-22T14:25:06+00:00",
-   "ingested": "2026-07-22T15:14:28.650435+00:00",
-   "headline": "Trump Adviser Kratsios: Have information that Moonshot AI distilled Anthropic's fable for the development of its K3 model.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689054,
-   "ts": "2026-07-22T14:19:48+00:00",
-   "ingested": "2026-07-22T15:14:28.650449+00:00",
-   "headline": "USTR Greer: The US is on the way to an agricultural trade surplus again",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689053,
-   "ts": "2026-07-22T14:19:11+00:00",
-   "ingested": "2026-07-22T15:14:28.650463+00:00",
-   "headline": "Crypto Fear and Greed Index: 33/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689052,
-   "ts": "2026-07-22T14:18:26+00:00",
-   "ingested": "2026-07-22T15:14:28.650475+00:00",
-   "headline": "Fear and Greed Index: 44/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689049,
-   "ts": "2026-07-22T14:16:44+00:00",
-   "ingested": "2026-07-22T15:14:28.650494+00:00",
-   "headline": "If the US targets a bridge or a power plant in Iran, Iran will, in turn, strike infrastructure and bridges in the region, including energy facilities where the US has interests - Tasnim citing a Military Source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689028,
-   "ts": "2026-07-22T14:09:01+00:00",
-   "ingested": "2026-07-22T15:14:28.650510+00:00",
-   "headline": "China Foreign Minister: Both sides considered the meeting constructive and positive, and agreed to prepare for the next stage of high-level exchanges - Xinhua.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689027,
-   "ts": "2026-07-22T14:08:38+00:00",
-   "ingested": "2026-07-22T15:14:28.650546+00:00",
-   "headline": "China Foreign Minister to US Secretary of State Rubio: Respect China's core interests - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689026,
-   "ts": "2026-07-22T14:08:12+00:00",
-   "ingested": "2026-07-22T15:14:28.650564+00:00",
-   "headline": "China Foreign Minister asks the US to address China's legitimate concerns - Xinhua.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689014,
-   "ts": "2026-07-22T13:52:31+00:00",
-   "ingested": "2026-07-22T15:14:28.650576+00:00",
-   "headline": "Trump concludes comments to reporters at Joint Base Andrews.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689013,
-   "ts": "2026-07-22T13:51:45+00:00",
-   "ingested": "2026-07-22T15:14:28.650589+00:00",
-   "headline": "Trump: Iran will pay a big price",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689012,
-   "ts": "2026-07-22T13:51:43+00:00",
-   "ingested": "2026-07-22T15:14:28.650601+00:00",
-   "headline": "Trump: Americans aren't against the war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9689010,
-   "ts": "2026-07-22T13:48:01+00:00",
-   "ingested": "2026-07-22T15:14:28.650614+00:00",
-   "headline": "USTR Greer testifies before Senate on Trump's trade agenda - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688964,
-   "ts": "2026-07-22T13:28:21+00:00",
-   "ingested": "2026-07-22T15:14:28.650630+00:00",
-   "headline": "Wells Fargo CEO: Wells Fargo is \"big time bullish on the US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688957,
-   "ts": "2026-07-22T13:10:37+00:00",
-   "ingested": "2026-07-22T15:14:28.650645+00:00",
-   "headline": "Unusual US Warning to its Citizens: \"Be Aware of Organized Crime in Israel.\" - Israel's Hayom News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688955,
-   "ts": "2026-07-22T13:05:02+00:00",
-   "ingested": "2026-07-22T13:07:35.513667+00:00",
-   "headline": "LSEG: JPY Summary - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688954,
-   "ts": "2026-07-22T13:03:50+00:00",
-   "ingested": "2026-07-22T13:07:35.513686+00:00",
-   "headline": "Qualcomm and Samsung expand collaboration with Snapdragon for Galaxy Ecosystem AI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688953,
-   "ts": "2026-07-22T13:03:16+00:00",
-   "ingested": "2026-07-22T13:07:35.513698+00:00",
-   "headline": "UBS: AI Research - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688937,
-   "ts": "2026-07-22T13:02:05+00:00",
-   "ingested": "2026-07-22T13:07:35.513709+00:00",
-   "headline": "SpaceXAI explores data center expansion in Texas - Information.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688933,
-   "ts": "2026-07-22T13:01:21+00:00",
-   "ingested": "2026-07-22T13:07:35.513720+00:00",
-   "headline": "Anthropic to deploy up to 2 gw MI450 series GPUs in Amd Helios.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688932,
-   "ts": "2026-07-22T13:01:05+00:00",
-   "ingested": "2026-07-22T13:07:35.513731+00:00",
-   "headline": "AMD & Anthropic pact to deploy up to 2 gigawatts of AMD GPUs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688931,
-   "ts": "2026-07-22T13:00:54+00:00",
-   "ingested": "2026-07-22T13:07:35.513741+00:00",
-   "headline": "AMD to make equity investment of up to $5b in Anthropic.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688930,
-   "ts": "2026-07-22T13:00:43+00:00",
-   "ingested": "2026-07-22T13:07:35.513750+00:00",
-   "headline": "AMD & Anthropic announce partnership.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688929,
-   "ts": "2026-07-22T13:00:32+00:00",
-   "ingested": "2026-07-22T13:07:35.513760+00:00",
-   "headline": "OpenAI's new 3.2 gigawatt project set near Savannah, Georgia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688924,
-   "ts": "2026-07-22T13:00:23+00:00",
-   "ingested": "2026-07-22T13:07:35.513770+00:00",
-   "headline": "Bank of America: Strong Start to Earnings Season - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
