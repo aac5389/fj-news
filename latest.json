@@ -1,7 +1,119 @@
 {
- "updated": "2026-07-23T23:42:38.579779+00:00",
+ "updated": "2026-07-24T01:12:08.541649+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9691620,
+   "ts": "2026-07-24T01:00:23+00:00",
+   "ingested": "2026-07-24T01:12:08.540705+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805%, unchanged from prior session open",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691593,
+   "ts": "2026-07-24T00:30:03+00:00",
+   "ingested": "2026-07-24T01:12:08.540757+00:00",
+   "headline": "Japan S&P Global July Flash Manufacturing PMI at 54.7 vs 54.8 in June",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691592,
+   "ts": "2026-07-24T00:30:00+00:00",
+   "ingested": "2026-07-24T01:12:08.540795+00:00",
+   "headline": "Japanese Composite PMI Flash Actual 53.1 (Forecast -, Previous 52.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691591,
+   "ts": "2026-07-24T00:30:00+00:00",
+   "ingested": "2026-07-24T01:12:08.540830+00:00",
+   "headline": "Japanese Mfg PMI Flash Actual 54.7 (Forecast -, Previous 54.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691590,
+   "ts": "2026-07-24T00:22:22+00:00",
+   "ingested": "2026-07-24T01:12:08.540864+00:00",
+   "headline": "Iran activates air defence in Tehran to counter 'hostile' threat: Nournews",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691584,
+   "ts": "2026-07-24T00:09:15+00:00",
+   "ingested": "2026-07-24T01:12:08.540903+00:00",
+   "headline": "China PBOC expected to fix yuan midpoint at 6.7795 per dollar: Estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691583,
+   "ts": "2026-07-24T00:08:10+00:00",
+   "ingested": "2026-07-24T01:12:08.540941+00:00",
+   "headline": "South Korea extends fuel tax reduction through end-September: Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691566,
+   "ts": "2026-07-23T23:53:51+00:00",
+   "ingested": "2026-07-24T01:12:08.540987+00:00",
+   "headline": "Australia trade minister: will keep pushing hard for tariff removal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691565,
+   "ts": "2026-07-23T23:52:57+00:00",
+   "ingested": "2026-07-24T01:12:08.541055+00:00",
+   "headline": "Australia Trade Minister: will keep urging U.S. trade chief to eliminate all tariffs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691564,
+   "ts": "2026-07-23T23:52:36+00:00",
+   "ingested": "2026-07-24T01:12:08.541094+00:00",
+   "headline": "Australia trade minister: new US tariffs totally unwarranted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691563,
+   "ts": "2026-07-23T23:50:29+00:00",
+   "ingested": "2026-07-24T01:12:08.541128+00:00",
+   "headline": "Japanese Foreign Stock Investment Actual -121.3B (Forecast -, Previous 196.2B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691562,
+   "ts": "2026-07-23T23:50:29+00:00",
+   "ingested": "2026-07-24T01:12:08.541160+00:00",
+   "headline": "Foreign Investment Japanese Bonds Actual -185.1B (Forecast -, Previous 499.8B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691561,
+   "ts": "2026-07-23T23:50:28+00:00",
+   "ingested": "2026-07-24T01:12:08.541197+00:00",
+   "headline": "Foreign Investment Japanese Stocks Actual -79.6B (Forecast -, Previous 745.6B ,Revision 742.6B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9691560,
+   "ts": "2026-07-23T23:50:27+00:00",
+   "ingested": "2026-07-24T01:12:08.541236+00:00",
+   "headline": "Japanese Foreign Bond Investment Actual -714.4B (Forecast -, Previous 1,090.1B ,Revision 1,090.0B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9691537,
    "ts": "2026-07-23T23:30:47+00:00",
@@ -3887,118 +3999,6 @@
    "ts": "2026-07-22T09:35:07+00:00",
    "ingested": "2026-07-22T09:42:46.170880+00:00",
    "headline": "Explosions Heard in Sirik, Southern Iran: Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688627,
-   "ts": "2026-07-22T09:34:52+00:00",
-   "ingested": "2026-07-22T09:42:46.170892+00:00",
-   "headline": "Will discuss Ukraine with Lavrov",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688626,
-   "ts": "2026-07-22T09:34:31+00:00",
-   "ingested": "2026-07-22T09:42:46.170904+00:00",
-   "headline": "Moving toward implementation of working group with China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688625,
-   "ts": "2026-07-22T09:33:14+00:00",
-   "ingested": "2026-07-22T09:42:46.170918+00:00",
-   "headline": "Germany issues 20-year bund with bid/cover at 2.3, prev 2.4: Buba",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688624,
-   "ts": "2026-07-22T09:33:10+00:00",
-   "ingested": "2026-07-22T09:42:46.170935+00:00",
-   "headline": "Germany Issues 20-Year Bund With Average Yield 3.6% Versus 3.38% Previous Bundesbank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688623,
-   "ts": "2026-07-22T09:33:10+00:00",
-   "ingested": "2026-07-22T09:42:46.170952+00:00",
-   "headline": "Germany auctions \u20ac0.902 billion top-up 3.40% 20-year bund: buba",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688622,
-   "ts": "2026-07-22T09:32:56+00:00",
-   "ingested": "2026-07-22T09:42:46.170965+00:00",
-   "headline": "Will undermine Iran's capacity to target shipping when possible",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688605,
-   "ts": "2026-07-22T09:31:28+00:00",
-   "ingested": "2026-07-22T09:42:46.170978+00:00",
-   "headline": "In some cases China has been collaborative on Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688604,
-   "ts": "2026-07-22T09:31:27+00:00",
-   "ingested": "2026-07-22T09:42:46.170990+00:00",
-   "headline": "Potential areas for collaboration with China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688603,
-   "ts": "2026-07-22T09:31:27+00:00",
-   "ingested": "2026-07-22T09:42:46.171002+00:00",
-   "headline": "Did not talk election meddling with Wang",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688602,
-   "ts": "2026-07-22T09:31:27+00:00",
-   "ingested": "2026-07-22T09:42:46.171014+00:00",
-   "headline": "Iran faces significant challenges",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688601,
-   "ts": "2026-07-22T09:31:27+00:00",
-   "ingested": "2026-07-22T09:42:46.171026+00:00",
-   "headline": "Differences exist, but relationship remains essential",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688600,
-   "ts": "2026-07-22T09:31:27+00:00",
-   "ingested": "2026-07-22T09:42:46.171038+00:00",
-   "headline": "US targets locations behind attacks on vessels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688597,
-   "ts": "2026-07-22T09:30:17+00:00",
-   "ingested": "2026-07-22T09:42:46.171051+00:00",
-   "headline": "US Secretary of State Rubio: Iran faces significant challenges",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9688596,
-   "ts": "2026-07-22T09:29:52+00:00",
-   "ingested": "2026-07-22T09:42:46.171066+00:00",
-   "headline": "US Secretary of State Rubio: China has been cooperative on Iran in some cases",
    "channel": "rss",
    "source": "financialjuice"
   }
