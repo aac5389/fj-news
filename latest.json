@@ -1,7 +1,15 @@
 {
- "updated": "2026-07-25T10:06:21.681649+00:00",
+ "updated": "2026-07-25T11:23:27.572974+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9693620,
+   "ts": "2026-07-25T10:18:06+00:00",
+   "ingested": "2026-07-25T11:23:27.572744+00:00",
+   "headline": "Ukraine hits Russia's Filanovsky oil platform and two cargo ships in Caspian Sea: security service",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9693618,
    "ts": "2026-07-25T10:05:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-07-23T13:01:33+00:00",
    "ingested": "2026-07-23T13:13:48.393620+00:00",
    "headline": "Ford will use Apple software in new self-driving system - NYT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690681,
-   "ts": "2026-07-23T13:00:29+00:00",
-   "ingested": "2026-07-23T13:13:48.393636+00:00",
-   "headline": "ECB's President Lagarde: Financial conditions slightly tighter vs last meeting.",
    "channel": "rss",
    "source": "financialjuice"
   }
