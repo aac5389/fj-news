@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-25T18:33:48.620990+00:00",
+ "updated": "2026-07-25T19:50:06.103066+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9693776,
+   "ts": "2026-07-25T19:13:54+00:00",
+   "ingested": "2026-07-25T19:50:06.102809+00:00",
+   "headline": "US appeals court blocks implementation of Trump order limiting mail-in voting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9693770,
+   "ts": "2026-07-25T18:56:16+00:00",
+   "ingested": "2026-07-25T19:50:06.102838+00:00",
+   "headline": "Iran's foreign ministry condemns Ukrainian strike on Iranian commercial ship in Caspian Sea: blast kills one sailor, injures another",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9693762,
    "ts": "2026-07-25T18:13:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-07-23T13:29:37+00:00",
    "ingested": "2026-07-23T15:26:54.083107+00:00",
    "headline": "ECB President Lagarde: worried about risk of second-round impacts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690753,
-   "ts": "2026-07-23T13:28:01+00:00",
-   "ingested": "2026-07-23T15:26:54.083120+00:00",
-   "headline": "ECB's President Lagarde: Euro enlargement is not for ECB to decide",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690752,
-   "ts": "2026-07-23T13:23:20+00:00",
-   "ingested": "2026-07-23T15:26:54.083138+00:00",
-   "headline": "ECB's President Lagarde: Mild scenario currently looks quite unlikely.",
    "channel": "rss",
    "source": "financialjuice"
   }
