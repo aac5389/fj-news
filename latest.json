@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-26T11:06:11.669794+00:00",
+ "updated": "2026-07-26T12:13:14.773582+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9694045,
+   "ts": "2026-07-26T12:12:56+00:00",
+   "ingested": "2026-07-26T12:13:14.773345+00:00",
+   "headline": "Tasnim News Agency: Tanker struck after deviating from Iran-designated route",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9694044,
+   "ts": "2026-07-26T12:12:01+00:00",
+   "ingested": "2026-07-26T12:13:14.773371+00:00",
+   "headline": "Tasnim News Agency: oil tanker blasts after striking naval mine in Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9694000,
    "ts": "2026-07-26T10:00:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-07-23T14:30:25+00:00",
    "ingested": "2026-07-23T15:26:54.082787+00:00",
    "headline": "IRGC: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks - Fars News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690843,
-   "ts": "2026-07-23T14:30:01+00:00",
-   "ingested": "2026-07-23T15:26:54.082808+00:00",
-   "headline": "EIA Natural Gas Change BCF Actual 32B (Forecast 34B, Previous 41B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690842,
-   "ts": "2026-07-23T14:25:28+00:00",
-   "ingested": "2026-07-23T15:26:54.082821+00:00",
-   "headline": "The House passes the Iran war powers resolution.",
    "channel": "rss",
    "source": "financialjuice"
   }
