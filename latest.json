@@ -1,7 +1,15 @@
 {
- "updated": "2026-07-26T09:32:04.237545+00:00",
+ "updated": "2026-07-26T11:06:11.669794+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9694000,
+   "ts": "2026-07-26T10:00:04+00:00",
+   "ingested": "2026-07-26T11:06:11.669578+00:00",
+   "headline": "Israel's industrial output falls 6.2% seasonally adjusted in May vs 29.9% rise in April: statistics bureau",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9693990,
    "ts": "2026-07-26T09:08:44+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-07-23T14:25:28+00:00",
    "ingested": "2026-07-23T15:26:54.082821+00:00",
    "headline": "The House passes the Iran war powers resolution.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690841,
-   "ts": "2026-07-23T14:18:10+00:00",
-   "ingested": "2026-07-23T15:26:54.082833+00:00",
-   "headline": "Crypto Fear and Greed Index: 31/100 = Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
