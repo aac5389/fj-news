@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-26T07:25:36.621556+00:00",
+ "updated": "2026-07-26T09:32:04.237545+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9693990,
+   "ts": "2026-07-26T09:08:44+00:00",
+   "ingested": "2026-07-26T09:32:04.237337+00:00",
+   "headline": "Russian Defence Ministry: Forces seize Shevchenko in Ukraine\u2019s Donetsk region - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9693983,
+   "ts": "2026-07-26T08:04:43+00:00",
+   "ingested": "2026-07-26T09:32:04.237364+00:00",
+   "headline": "Romanian Defence Ministry: Romanian F-16 Jets Down Unauthorized Drone in Airspace Violation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9693956,
    "ts": "2026-07-26T05:44:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-07-23T14:18:10+00:00",
    "ingested": "2026-07-23T15:26:54.082833+00:00",
    "headline": "Crypto Fear and Greed Index: 31/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690840,
-   "ts": "2026-07-23T14:18:03+00:00",
-   "ingested": "2026-07-23T15:26:54.082847+00:00",
-   "headline": "ECB Officials are ready to raise interest rates in September.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9690839,
-   "ts": "2026-07-23T14:17:43+00:00",
-   "ingested": "2026-07-23T15:26:54.082859+00:00",
-   "headline": "Fear and Greed Index: 42/100 = Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
