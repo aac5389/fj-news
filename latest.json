@@ -1,7 +1,31 @@
 {
- "updated": "2026-07-27T21:21:02.881155+00:00",
+ "updated": "2026-07-27T22:33:12.101184+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9695647,
+   "ts": "2026-07-27T22:23:55+00:00",
+   "ingested": "2026-07-27T22:33:12.100967+00:00",
+   "headline": "U.S. Senate moves forward with Trump nominee Clayton for top U.S. intelligence role",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695625,
+   "ts": "2026-07-27T22:01:46+00:00",
+   "ingested": "2026-07-27T22:33:12.100991+00:00",
+   "headline": "Anthropic: Disagree with open letter\u2019s claims that open-weight models inherently simplify safeguard development - post by Dario Amodei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695621,
+   "ts": "2026-07-27T21:58:42+00:00",
+   "ingested": "2026-07-27T22:33:12.101004+00:00",
+   "headline": "Anthropic: Has never supported a ban on open-weight models",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9695569,
    "ts": "2026-07-27T21:02:06+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-07-24T06:00:02+00:00",
    "ingested": "2026-07-24T07:14:32.220141+00:00",
    "headline": "UK Core Retail Sales YoY Actual 5.4% (Forecast 3.2%, Previous 4.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9691945,
-   "ts": "2026-07-24T06:00:02+00:00",
-   "ingested": "2026-07-24T07:14:32.220161+00:00",
-   "headline": "UK Retail Sales MoM Actual 1% (Forecast -0.3%, Previous 1.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9691944,
-   "ts": "2026-07-24T06:00:01+00:00",
-   "ingested": "2026-07-24T07:14:32.220184+00:00",
-   "headline": "UK Retail Sales YoY Actual 4.2% (Forecast 2.4%, Previous 3.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9691943,
-   "ts": "2026-07-24T05:54:16+00:00",
-   "ingested": "2026-07-24T07:14:32.220208+00:00",
-   "headline": "ECB's Moulin: Trump's tariffs add more uncertainty to the world economy and economic growth",
    "channel": "rss",
    "source": "financialjuice"
   }
