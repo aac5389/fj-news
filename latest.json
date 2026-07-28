@@ -1,7 +1,39 @@
 {
- "updated": "2026-07-27T23:40:59.277100+00:00",
+ "updated": "2026-07-28T01:07:11.138777+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9695761,
+   "ts": "2026-07-28T01:01:18+00:00",
+   "ingested": "2026-07-28T01:07:11.138454+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805% matching previous session opening",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695760,
+   "ts": "2026-07-28T01:00:34+00:00",
+   "ingested": "2026-07-28T01:07:11.138477+00:00",
+   "headline": "Taiwan stocks slide over 3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695741,
+   "ts": "2026-07-28T00:16:44+00:00",
+   "ingested": "2026-07-28T01:07:11.138495+00:00",
+   "headline": "China PBOC forecast to set yuan midpoint at 6.7730 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695728,
+   "ts": "2026-07-28T00:02:58+00:00",
+   "ingested": "2026-07-28T01:07:11.138513+00:00",
+   "headline": "Unisound AI Technology Co completes upgrade of U2-ASR and U2-TTS, expands into multiple international languages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9695708,
    "ts": "2026-07-27T23:33:31+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-07-24T07:04:24+00:00",
    "ingested": "2026-07-24T07:14:32.219847+00:00",
    "headline": "SNB: Points to joint statement on foreign exchange matters issued by the SNB, the Swiss Finance Ministry, and the US Treasury in September 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692040,
-   "ts": "2026-07-24T07:01:46+00:00",
-   "ingested": "2026-07-24T07:14:32.219881+00:00",
-   "headline": "SNB: The SNB does not engage in manipulation of the Swiss Franc",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692033,
-   "ts": "2026-07-24T06:48:42+00:00",
-   "ingested": "2026-07-24T07:14:32.219914+00:00",
-   "headline": "UK government on latest US tariffs: there is no negative change to the tariff rate facing UK businesses as a result of this announcement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9691952,
-   "ts": "2026-07-24T06:00:08+00:00",
-   "ingested": "2026-07-24T07:14:32.220032+00:00",
-   "headline": "Swedish Unemployment Rate SA Actual 8.9% (Forecast 8.75%, Previous 8.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9691951,
-   "ts": "2026-07-24T06:00:06+00:00",
-   "ingested": "2026-07-24T07:14:32.220057+00:00",
-   "headline": "Swedish Unemployment Rate Actual 9.9% (Forecast -, Previous 9.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
