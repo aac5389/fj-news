@@ -1,7 +1,447 @@
 {
- "updated": "2026-07-28T01:07:11.138777+00:00",
+ "updated": "2026-07-28T04:23:41.277754+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9696043,
+   "ts": "2026-07-28T04:12:31+00:00",
+   "ingested": "2026-07-28T04:23:41.276582+00:00",
+   "headline": "Iran executes two men on charges linked to January protests: judiciary news outlet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9696042,
+   "ts": "2026-07-28T04:03:03+00:00",
+   "ingested": "2026-07-28T04:23:41.276608+00:00",
+   "headline": "Nvidia behind $50 billion lease on Texas data center using its chips: FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9696003,
+   "ts": "2026-07-28T03:59:34+00:00",
+   "ingested": "2026-07-28T04:23:41.276626+00:00",
+   "headline": "Housing market a key indicator of whether financial conditions are tight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9696002,
+   "ts": "2026-07-28T03:54:55+00:00",
+   "ingested": "2026-07-28T04:23:41.276643+00:00",
+   "headline": "RBA Governor Bullock: housing market a sign of whether financial conditions are tight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695989,
+   "ts": "2026-07-28T03:43:25+00:00",
+   "ingested": "2026-07-28T04:23:41.276670+00:00",
+   "headline": "Poll: India economy to expand 6.6% in 2026-27 and 6.8% in 2027-28 vs 6.7% and 6.9% in May survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695988,
+   "ts": "2026-07-28T03:42:23+00:00",
+   "ingested": "2026-07-28T04:23:41.276692+00:00",
+   "headline": "RBA Governor Bullock: board faces tough choices if inflation doesn\u2019t ease",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695987,
+   "ts": "2026-07-28T03:41:43+00:00",
+   "ingested": "2026-07-28T04:23:41.276707+00:00",
+   "headline": "RBA Governor Bullock: outlook to depend on board's view of policy restrictiveness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695986,
+   "ts": "2026-07-28T03:41:22+00:00",
+   "ingested": "2026-07-28T04:23:41.276721+00:00",
+   "headline": "RBA Governor Bullock: Uncertain about board decision at next meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695985,
+   "ts": "2026-07-28T03:38:25+00:00",
+   "ingested": "2026-07-28T04:23:41.276735+00:00",
+   "headline": "China finance ministry offers 3-month bills at 1.0053% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695984,
+   "ts": "2026-07-28T03:33:29+00:00",
+   "ingested": "2026-07-28T04:23:41.276748+00:00",
+   "headline": "RBA Governor Bullock: inflation is largely in line with expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695983,
+   "ts": "2026-07-28T03:32:40+00:00",
+   "ingested": "2026-07-28T04:23:41.276763+00:00",
+   "headline": "RBA Governor Bullock: Economy slowing, housing market cooling more than anticipated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695964,
+   "ts": "2026-07-28T03:17:31+00:00",
+   "ingested": "2026-07-28T04:23:41.276779+00:00",
+   "headline": "Japan Finance Minister Katayama: PM Takaichi has continued BoJ agreement signed under Abe administration",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695963,
+   "ts": "2026-07-28T03:17:31+00:00",
+   "ingested": "2026-07-28T04:23:41.276794+00:00",
+   "headline": "Iemand growth appears to be broadly moderating as expected in May baseline forecasts:",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695962,
+   "ts": "2026-07-28T03:16:35+00:00",
+   "ingested": "2026-07-28T04:23:41.276832+00:00",
+   "headline": "Japan FinMin Katayama: jgb seen as relatively appealing asset for pension funds, but no push for specific changes to avoid rule violations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695961,
+   "ts": "2026-07-28T03:16:34+00:00",
+   "ingested": "2026-07-28T04:23:41.276849+00:00",
+   "headline": "Housing market has slowed more than we anticipated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695960,
+   "ts": "2026-07-28T03:14:00+00:00",
+   "ingested": "2026-07-28T04:23:41.276862+00:00",
+   "headline": "Business reports non-labor cost pressures continue rising",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695959,
+   "ts": "2026-07-28T03:13:59+00:00",
+   "ingested": "2026-07-28T04:23:41.276881+00:00",
+   "headline": "Japan finmin katayama: essential to fully clarify to market to prevent speculative trading on JGB market",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695958,
+   "ts": "2026-07-28T03:13:59+00:00",
+   "ingested": "2026-07-28T04:23:41.276895+00:00",
+   "headline": "Underlying inflation has progressed as anticipated, but remains too elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695957,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276909+00:00",
+   "headline": "RBA Governor Bullock: additional easing in labor market likely needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695956,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276924+00:00",
+   "headline": "RBA Governor Bullock: policy can\u2019t tackle economy\u2019s sluggish productivity growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695955,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276939+00:00",
+   "headline": "RBA Governor Bullock: policy works with a delay, so the full impact of this year\u2019s rate hikes is yet to be seen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695954,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276952+00:00",
+   "headline": "RBA Governor Bullock: housing market has cooled more than expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695953,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276964+00:00",
+   "headline": "RBA Governor Bullock: too soon to evaluate full economic impact of oil shock",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695952,
+   "ts": "2026-07-28T03:05:04+00:00",
+   "ingested": "2026-07-28T04:23:41.276980+00:00",
+   "headline": "RBA Governor Bullock: core inflation has developed as anticipated but remains too high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695951,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.276996+00:00",
+   "headline": "RBA Governor Bullock: board prepared to increase cash rate further if necessary",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695950,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.277012+00:00",
+   "headline": "RBA Governor Bullock: some additional slowing in demand growth likely needed to reduce inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695949,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.277027+00:00",
+   "headline": "RBA Governor Bullock: Demand growth seems to be easing broadly as expected in May baseline forecasts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695948,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.277039+00:00",
+   "headline": "RBA Governor Bullock: economy has adjusted steadily and broadly as anticipated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695947,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.277052+00:00",
+   "headline": "RBA Governor Bullock: best role of policy is to keep inflation low and stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695946,
+   "ts": "2026-07-28T03:05:03+00:00",
+   "ingested": "2026-07-28T04:23:41.277065+00:00",
+   "headline": "RBA Governor Bullock: business reports ongoing rise in non-labor cost pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695945,
+   "ts": "2026-07-28T03:05:01+00:00",
+   "ingested": "2026-07-28T04:23:41.277077+00:00",
+   "headline": "Japan finmin Katayama: aware that GPIF must adhere to rules for portfolio adjustments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695944,
+   "ts": "2026-07-28T03:04:31+00:00",
+   "ingested": "2026-07-28T04:23:41.277091+00:00",
+   "headline": "Japan finmin Katayama: remarks on GPIF portfolio meant households should benefit from economy boosted by growth strategy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695943,
+   "ts": "2026-07-28T03:02:33+00:00",
+   "ingested": "2026-07-28T04:23:41.277103+00:00",
+   "headline": "Japan finmin katayama: GPIF portfolio significantly lacks alternative investments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695935,
+   "ts": "2026-07-28T03:01:11+00:00",
+   "ingested": "2026-07-28T04:23:41.277116+00:00",
+   "headline": "Japan finmin Katayama: U.S. and Japan aligned on forex stance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695934,
+   "ts": "2026-07-28T03:00:38+00:00",
+   "ingested": "2026-07-28T04:23:41.277128+00:00",
+   "headline": "Japan finmin Katayama: stance unchanged, ready to act on forex as required",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695932,
+   "ts": "2026-07-28T03:00:06+00:00",
+   "ingested": "2026-07-28T04:23:41.277141+00:00",
+   "headline": "Japan Finance Minister Katayama: will not comment on possible intervention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695931,
+   "ts": "2026-07-28T02:59:12+00:00",
+   "ingested": "2026-07-28T04:23:41.277152+00:00",
+   "headline": "Japan Finmin Katayama: no comment on specific forex levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695930,
+   "ts": "2026-07-28T02:58:59+00:00",
+   "ingested": "2026-07-28T04:23:41.277164+00:00",
+   "headline": "Japan finmin Katayama: weak yen has advantages and disadvantages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695929,
+   "ts": "2026-07-28T02:58:10+00:00",
+   "ingested": "2026-07-28T04:23:41.277175+00:00",
+   "headline": "Japan FinMin Katayama: Not contemplating JGB repurchases currently",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695928,
+   "ts": "2026-07-28T02:58:10+00:00",
+   "ingested": "2026-07-28T04:23:41.277188+00:00",
+   "headline": "Apartment building in Chekhov near Moscow damaged by drone attack: Moscow region governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695927,
+   "ts": "2026-07-28T02:57:26+00:00",
+   "ingested": "2026-07-28T04:23:41.277202+00:00",
+   "headline": "Japan Finmin Katayama: global bond markets impacted by multiple factors including US monetary policy, Ukraine and Middle East tensions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695926,
+   "ts": "2026-07-28T02:56:27+00:00",
+   "ingested": "2026-07-28T04:23:41.277215+00:00",
+   "headline": "Japan FinMin Katayama: Final version of economic blueprint earns strong market approval",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695925,
+   "ts": "2026-07-28T02:55:35+00:00",
+   "ingested": "2026-07-28T04:23:41.277232+00:00",
+   "headline": "Japan finmin Katayama: economic blueprint draft omits some history of BoJ-government ties as push for proactive fiscal policy takes lead",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695924,
+   "ts": "2026-07-28T02:53:54+00:00",
+   "ingested": "2026-07-28T04:23:41.277246+00:00",
+   "headline": "Japan finance minister Katayama: Trusts government\u2019s rapport with BoJ has been smooth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695923,
+   "ts": "2026-07-28T02:53:40+00:00",
+   "ingested": "2026-07-28T04:23:41.277262+00:00",
+   "headline": "Japan finmin Katayama: monetary policy part of economic strategy, as stated in BoJ act",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695895,
+   "ts": "2026-07-28T02:49:22+00:00",
+   "ingested": "2026-07-28T04:23:41.277275+00:00",
+   "headline": "Japan finmin Katayama: must engage with JGB market ahead of budget compilation, admits prior lapse",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695894,
+   "ts": "2026-07-28T02:47:11+00:00",
+   "ingested": "2026-07-28T04:23:41.277289+00:00",
+   "headline": "Japan finance minister Katayama: key to engage with markets on budget compilation process",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695893,
+   "ts": "2026-07-28T02:43:35+00:00",
+   "ingested": "2026-07-28T04:23:41.277305+00:00",
+   "headline": "Japan finance minister Katayama: unable to specify funding source for food tax cut beyond prime minister's comments yesterday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695892,
+   "ts": "2026-07-28T02:42:39+00:00",
+   "ingested": "2026-07-28T04:23:41.277318+00:00",
+   "headline": "Japan finmin Katayama: public-private investment target of 370 trillion yen is appropriate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695891,
+   "ts": "2026-07-28T02:40:23+00:00",
+   "ingested": "2026-07-28T04:23:41.277331+00:00",
+   "headline": "Japan finmin Katayama: public-private investment goal of 370 trillion yen is not excessive",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695890,
+   "ts": "2026-07-28T02:39:51+00:00",
+   "ingested": "2026-07-28T04:23:41.277342+00:00",
+   "headline": "China's Xi meets Slovakia president: CCTV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695889,
+   "ts": "2026-07-28T02:36:49+00:00",
+   "ingested": "2026-07-28T04:23:41.277354+00:00",
+   "headline": "Japan finmin Katayama: prices rising steadily in a healthy way",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695888,
+   "ts": "2026-07-28T02:36:08+00:00",
+   "ingested": "2026-07-28T04:23:41.277366+00:00",
+   "headline": "Japan finmin Katayama: Japan's monetary policy shifts to realm of interest rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695887,
+   "ts": "2026-07-28T02:07:58+00:00",
+   "ingested": "2026-07-28T04:23:41.277381+00:00",
+   "headline": "Japan finmin katayama: foreign banks joining projects under Japan U.S. investment plan allay worries about dollar funding",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9695786,
+   "ts": "2026-07-28T01:21:07+00:00",
+   "ingested": "2026-07-28T04:23:41.277398+00:00",
+   "headline": "China c.bank injects 305.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9695761,
    "ts": "2026-07-28T01:01:18+00:00",
@@ -3559,446 +3999,6 @@
    "ts": "2026-07-24T11:31:45+00:00",
    "ingested": "2026-07-24T12:55:17.405891+00:00",
    "headline": "Japan's PM Takaichi is to consider a cabinet reshuffle - Kyodo News Agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692393,
-   "ts": "2026-07-24T11:27:52+00:00",
-   "ingested": "2026-07-24T12:55:17.405900+00:00",
-   "headline": "Kremlin: It will wait for u.s. to propose new ideas to resolve Ukraine conflict.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692355,
-   "ts": "2026-07-24T11:01:14+00:00",
-   "ingested": "2026-07-24T11:21:32.306286+00:00",
-   "headline": "$AXP American Express Q2 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692354,
-   "ts": "2026-07-24T11:00:45+00:00",
-   "ingested": "2026-07-24T11:21:32.306314+00:00",
-   "headline": "$VZ Verizon Q2 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692319,
-   "ts": "2026-07-24T10:30:03+00:00",
-   "ingested": "2026-07-24T11:21:32.306334+00:00",
-   "headline": "Russian Interest Rate Decision Actual 14% (Forecast 14.25%, Previous 14.25%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692318,
-   "ts": "2026-07-24T10:30:00+00:00",
-   "ingested": "2026-07-24T11:21:32.306357+00:00",
-   "headline": "ECB\u2019s Makhlouf: Will have more information in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692317,
-   "ts": "2026-07-24T10:29:51+00:00",
-   "ingested": "2026-07-24T11:21:32.306373+00:00",
-   "headline": "ECB\u2019s Makhlouf: Inflationary pressures have not gone away",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692316,
-   "ts": "2026-07-24T10:29:42+00:00",
-   "ingested": "2026-07-24T11:21:32.306392+00:00",
-   "headline": "US Secretary of State Rubio: Concerned at rhetoric from Beijing towards Japan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692315,
-   "ts": "2026-07-24T10:29:28+00:00",
-   "ingested": "2026-07-24T11:21:32.306406+00:00",
-   "headline": "ECB's Rehn: Energy crisis is not yet over",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692314,
-   "ts": "2026-07-24T10:29:20+00:00",
-   "ingested": "2026-07-24T11:21:32.306420+00:00",
-   "headline": "US Secretary of State Rubio: Will do everything we can to help Japan with the oil supply",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692313,
-   "ts": "2026-07-24T10:26:51+00:00",
-   "ingested": "2026-07-24T11:21:32.306433+00:00",
-   "headline": "US Secretary of State Rubio: We should have attacked Iran sooner,",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692312,
-   "ts": "2026-07-24T10:26:42+00:00",
-   "ingested": "2026-07-24T11:21:32.306445+00:00",
-   "headline": "ECB's Rehn: No sign of second-round effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692311,
-   "ts": "2026-07-24T10:26:23+00:00",
-   "ingested": "2026-07-24T11:21:32.306460+00:00",
-   "headline": "US Secretary of State Rubio: Houthis should realize involvement could lead to their demise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692310,
-   "ts": "2026-07-24T10:26:12+00:00",
-   "ingested": "2026-07-24T11:21:32.306473+00:00",
-   "headline": "ECB's Rehn: Need to keep a cool head",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692309,
-   "ts": "2026-07-24T10:25:54+00:00",
-   "ingested": "2026-07-24T11:21:32.306489+00:00",
-   "headline": "Iran's IRGC: Attacked Al-adiri base in Kuwait and observation tower of the US Fifth Fleet in Bahrain - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692308,
-   "ts": "2026-07-24T10:25:25+00:00",
-   "ingested": "2026-07-24T11:21:32.306501+00:00",
-   "headline": "Iran's IRGC: Targeted US Al-Adiri base in Kuwait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692299,
-   "ts": "2026-07-24T10:06:04+00:00",
-   "ingested": "2026-07-24T11:21:32.306515+00:00",
-   "headline": "ECB to extend climate criteria in Eurosystem collateral rules to non-financial corporate credit claims",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692280,
-   "ts": "2026-07-24T10:00:03+00:00",
-   "ingested": "2026-07-24T11:21:32.306529+00:00",
-   "headline": "Military tech firm Anduril in talks to secure funding near $100 billion valuation - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692278,
-   "ts": "2026-07-24T09:56:37+00:00",
-   "ingested": "2026-07-24T11:21:32.306542+00:00",
-   "headline": "Euronext mulls setting up a private market to rival the UK's",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692276,
-   "ts": "2026-07-24T09:53:57+00:00",
-   "ingested": "2026-07-24T11:21:32.306555+00:00",
-   "headline": "ECB's Simkus: We do not see second-round effects of higher inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692277,
-   "ts": "2026-07-24T09:53:05+00:00",
-   "ingested": "2026-07-24T11:21:32.306567+00:00",
-   "headline": "ECB's Simkus: Inflation seen higher than target for a long time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692275,
-   "ts": "2026-07-24T09:51:46+00:00",
-   "ingested": "2026-07-24T11:21:32.306580+00:00",
-   "headline": "ECB's Simkus: Still see probability of rate hike higher than hold",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692274,
-   "ts": "2026-07-24T09:48:36+00:00",
-   "ingested": "2026-07-24T11:21:32.306595+00:00",
-   "headline": "ECB's Simkus: In September, again we'll have additional inflation data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692273,
-   "ts": "2026-07-24T09:48:25+00:00",
-   "ingested": "2026-07-24T11:21:32.306608+00:00",
-   "headline": "ECB's Simkus: No value in rushing with a decision now",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692272,
-   "ts": "2026-07-24T09:47:16+00:00",
-   "ingested": "2026-07-24T11:21:32.306622+00:00",
-   "headline": "ECB's Simkus: Inflationary environment has increased",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692271,
-   "ts": "2026-07-24T09:46:07+00:00",
-   "ingested": "2026-07-24T11:21:32.306634+00:00",
-   "headline": "ECB's Simkus: $100 oil will have repercussions on inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692270,
-   "ts": "2026-07-24T09:45:58+00:00",
-   "ingested": "2026-07-24T11:21:32.306647+00:00",
-   "headline": "ECB's Simkus: Past six weeks show uncertainty of the environment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692269,
-   "ts": "2026-07-24T09:44:39+00:00",
-   "ingested": "2026-07-24T11:21:32.306663+00:00",
-   "headline": "BoJ set to keep key rate at next week's policy meeting - Nikkei",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692268,
-   "ts": "2026-07-24T09:43:20+00:00",
-   "ingested": "2026-07-24T11:21:32.306681+00:00",
-   "headline": "Iraq: Allegations reported by NYT are 'unfounded'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692244,
-   "ts": "2026-07-24T09:26:58+00:00",
-   "ingested": "2026-07-24T09:36:58.795742+00:00",
-   "headline": "Iran FM discussed recent US strikes with  Pakistan counterpart",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692245,
-   "ts": "2026-07-24T09:26:15+00:00",
-   "ingested": "2026-07-24T09:36:58.795766+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi and Pakistan's dar held talks on SCO sidelines - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692183,
-   "ts": "2026-07-24T08:43:25+00:00",
-   "ingested": "2026-07-24T09:36:58.795780+00:00",
-   "headline": "UK supermarkets see food inflation peak of 4-5% vs 6-7% - BoE Survey",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692182,
-   "ts": "2026-07-24T08:41:42+00:00",
-   "ingested": "2026-07-24T09:36:58.795791+00:00",
-   "headline": "UK supermarkets expect lower peak of food inflation - BoE Survey",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692180,
-   "ts": "2026-07-24T08:35:19+00:00",
-   "ingested": "2026-07-24T09:36:58.795803+00:00",
-   "headline": "Natixis: ECB Meeting Review - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692179,
-   "ts": "2026-07-24T08:34:10+00:00",
-   "ingested": "2026-07-24T09:36:58.795813+00:00",
-   "headline": "Credit \u00c1gricole: FX Outlook - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692178,
-   "ts": "2026-07-24T08:32:03+00:00",
-   "ingested": "2026-07-24T09:36:58.795849+00:00",
-   "headline": "UK July decision maker year-ahead CPI expectations 3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692173,
-   "ts": "2026-07-24T08:31:38+00:00",
-   "ingested": "2026-07-24T09:36:58.795875+00:00",
-   "headline": "Credit \u00c1gricole: FX Weekly - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692171,
-   "ts": "2026-07-24T08:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795887+00:00",
-   "headline": "UK Manufacturing PMI Flash Actual 52.8 (Forecast 52, Previous 52.5)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692170,
-   "ts": "2026-07-24T08:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795900+00:00",
-   "headline": "UK Composite PMI Flash Actual 52.1 (Forecast 49.8, Previous 49.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692169,
-   "ts": "2026-07-24T08:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795911+00:00",
-   "headline": "UK Services PMI Flash Actual 51.8 (Forecast 49.4, Previous 48.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692131,
-   "ts": "2026-07-24T08:01:25+00:00",
-   "ingested": "2026-07-24T09:36:58.795924+00:00",
-   "headline": "ECB Poll: Euro zone consumers cut 3-year-ahead inflation expectation to 2.8% from 2.9%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692130,
-   "ts": "2026-07-24T08:01:12+00:00",
-   "ingested": "2026-07-24T09:36:58.795934+00:00",
-   "headline": "ECB Poll: Euro zone consumers keep 5-year-ahead inflation expectation unchanged at 2.4%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692129,
-   "ts": "2026-07-24T08:01:02+00:00",
-   "ingested": "2026-07-24T09:36:58.795945+00:00",
-   "headline": "ECB Survey: 2026 GDP growth seen at 0.6% vs 1.0% previously, 2027 at 1.2% vs 1.3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692128,
-   "ts": "2026-07-24T08:00:45+00:00",
-   "ingested": "2026-07-24T09:36:58.795955+00:00",
-   "headline": "ECB Survey: Core inflation seen at 2.4% in 2026 vs 2.2%; 2027 unchanged at 2.2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692127,
-   "ts": "2026-07-24T08:00:38+00:00",
-   "ingested": "2026-07-24T09:36:58.795966+00:00",
-   "headline": "ECB Survey: 2026 inflation seen at 2.7%, unchanged on previous survey, 2027 seen at 2.2% vs 2.1%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692115,
-   "ts": "2026-07-24T08:00:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795976+00:00",
-   "headline": "Eurozone Services PMI Flash Actual 51.6 (Forecast 49.8, Previous 49.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692114,
-   "ts": "2026-07-24T08:00:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795985+00:00",
-   "headline": "Eurozone Composite PMI Flash Actual 51.9 (Forecast 50.2, Previous 50.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692113,
-   "ts": "2026-07-24T08:00:00+00:00",
-   "ingested": "2026-07-24T09:36:58.795995+00:00",
-   "headline": "Eurozone Manufacturing PMI Flash Actual 52 (Forecast 51.5, Previous 51.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692106,
-   "ts": "2026-07-24T07:33:58+00:00",
-   "ingested": "2026-07-24T09:36:58.796007+00:00",
-   "headline": "Iran's Army: We launched another wave of drone attacks against US military facilities in Kuwait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692087,
-   "ts": "2026-07-24T07:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796017+00:00",
-   "headline": "German Manufacturing PMI Flash Actual 52.2 (Forecast 50.5, Previous 50.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692086,
-   "ts": "2026-07-24T07:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796026+00:00",
-   "headline": "German Composite PMI Flash Actual 51.2 (Forecast 49.7, Previous 49.5)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692085,
-   "ts": "2026-07-24T07:30:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796035+00:00",
-   "headline": "German Service PMI Flash Actual 49.6 (Forecast 49, Previous 48.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692059,
-   "ts": "2026-07-24T07:15:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796044+00:00",
-   "headline": "French Services PMI Flash Actual 49.8 (Forecast 47.5, Previous 46.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692058,
-   "ts": "2026-07-24T07:15:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796053+00:00",
-   "headline": "French Comp Flash PMI Actual 49.6 (Forecast 47.8, Previous 47.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692057,
-   "ts": "2026-07-24T07:15:00+00:00",
-   "ingested": "2026-07-24T09:36:58.796063+00:00",
-   "headline": "French Manufacturing PMI Flash Actual 50 (Forecast 51, Previous 51.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9692056,
-   "ts": "2026-07-24T07:04:24+00:00",
-   "ingested": "2026-07-24T07:14:32.219847+00:00",
-   "headline": "SNB: Points to joint statement on foreign exchange matters issued by the SNB, the Swiss Finance Ministry, and the US Treasury in September 2025",
    "channel": "rss",
    "source": "financialjuice"
   }
