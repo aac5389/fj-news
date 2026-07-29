@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-29T21:56:55.525332+00:00",
+ "updated": "2026-07-29T22:59:12.563673+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9699292,
+   "ts": "2026-07-29T22:24:37+00:00",
+   "ingested": "2026-07-29T22:59:12.563481+00:00",
+   "headline": "Russia launches ballistic missiles at Ukraine's Kyiv: Mayor urges residents to seek shelter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9699272,
+   "ts": "2026-07-29T22:11:53+00:00",
+   "ingested": "2026-07-29T22:59:12.563504+00:00",
+   "headline": "Explosions heard in Ukraine's Kyiv: source witness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9699190,
    "ts": "2026-07-29T20:59:06+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-07-28T04:54:18+00:00",
    "ingested": "2026-07-28T07:10:49.116607+00:00",
    "headline": "Taiwan detains Nvidia staff in China chip trafficking investigation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9696043,
-   "ts": "2026-07-28T04:12:31+00:00",
-   "ingested": "2026-07-28T04:23:41.276582+00:00",
-   "headline": "Iran executes two men on charges linked to January protests: judiciary news outlet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9696042,
-   "ts": "2026-07-28T04:03:03+00:00",
-   "ingested": "2026-07-28T04:23:41.276608+00:00",
-   "headline": "Nvidia behind $50 billion lease on Texas data center using its chips: FT",
    "channel": "rss",
    "source": "financialjuice"
   }
