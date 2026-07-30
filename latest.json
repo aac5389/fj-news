@@ -1,7 +1,103 @@
 {
- "updated": "2026-07-30T17:52:34.855179+00:00",
+ "updated": "2026-07-30T19:19:28.006786+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9701103,
+   "ts": "2026-07-30T18:49:18+00:00",
+   "ingested": "2026-07-30T19:19:28.006302+00:00",
+   "headline": "Brent crude futures settle at $89.03/bbl, down $1.71, 1.88%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701102,
+   "ts": "2026-07-30T18:47:32+00:00",
+   "ingested": "2026-07-30T19:19:28.006327+00:00",
+   "headline": "Meta reports almost $700 billion in future spending commitments $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701088,
+   "ts": "2026-07-30T18:37:52+00:00",
+   "ingested": "2026-07-30T19:19:28.006346+00:00",
+   "headline": "US Treasury Secretary Bessent: Discussed implementation of the trade and investment boards with China",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701087,
+   "ts": "2026-07-30T18:37:27+00:00",
+   "ingested": "2026-07-30T19:19:28.006363+00:00",
+   "headline": "US Treasury Secretary Bessent: We expect China to meet rare earths and agricultural commitments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701086,
+   "ts": "2026-07-30T18:36:55+00:00",
+   "ingested": "2026-07-30T19:19:28.006380+00:00",
+   "headline": "US Treasury Secretary Bessent: USTR Greer and I spoke with Chinese Vice Premier He Lifeng",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701085,
+   "ts": "2026-07-30T18:32:03+00:00",
+   "ingested": "2026-07-30T19:19:28.006396+00:00",
+   "headline": "NYMEX Diesel August futures settle at $4.2094 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701073,
+   "ts": "2026-07-30T18:31:49+00:00",
+   "ingested": "2026-07-30T19:19:28.006410+00:00",
+   "headline": "NYMEX Gasoline August futures settle at $3.2847 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701072,
+   "ts": "2026-07-30T18:31:43+00:00",
+   "ingested": "2026-07-30T19:19:28.006424+00:00",
+   "headline": "NYMEX Natural Gas September futures settle at $2.7580/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701071,
+   "ts": "2026-07-30T18:31:34+00:00",
+   "ingested": "2026-07-30T19:19:28.006438+00:00",
+   "headline": "NYMEX WTI crude September futures settle at $83.59 a barrel, down 87 cents, 1.03%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701070,
+   "ts": "2026-07-30T18:31:06+00:00",
+   "ingested": "2026-07-30T19:19:28.006452+00:00",
+   "headline": "Deepseek data center would help add one gigawatt of capacity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701069,
+   "ts": "2026-07-30T18:30:53+00:00",
+   "ingested": "2026-07-30T19:19:28.006487+00:00",
+   "headline": "DeepSeek is developing a massive AI data center in Inner Mongolia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701043,
+   "ts": "2026-07-30T17:59:46+00:00",
+   "ingested": "2026-07-30T19:19:28.006501+00:00",
+   "headline": "Fitch Ratings: US private credit default rate reaches new high in 2Q 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9701041,
    "ts": "2026-07-30T17:52:04+00:00",
@@ -3903,102 +3999,6 @@
    "ts": "2026-07-29T12:34:16+00:00",
    "ingested": "2026-07-29T14:34:03.919353+00:00",
    "headline": "MUFG FOMC Scenarios - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698411,
-   "ts": "2026-07-29T12:31:06+00:00",
-   "ingested": "2026-07-29T14:34:03.919370+00:00",
-   "headline": "JPMorgan's Feroli on Fed Rate Expectations - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698408,
-   "ts": "2026-07-29T12:29:04+00:00",
-   "ingested": "2026-07-29T14:34:03.919392+00:00",
-   "headline": "South Korean Finance Ministry: South Korea is going to prepare legal grounds for market stabilising measures in case of an emergency.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698407,
-   "ts": "2026-07-29T12:27:05+00:00",
-   "ingested": "2026-07-29T14:34:03.919409+00:00",
-   "headline": "Goldman Sachs Analyst on Upcoming Fed Rate Decision - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698406,
-   "ts": "2026-07-29T12:25:01+00:00",
-   "ingested": "2026-07-29T14:34:03.919429+00:00",
-   "headline": "South Korean Finance Ministry: South Korea are to maintain 24-hour stock market monitoring system.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698405,
-   "ts": "2026-07-29T12:23:36+00:00",
-   "ingested": "2026-07-29T14:34:03.919449+00:00",
-   "headline": "South Korean Finance Ministry: South Korea are to cap retail exposure to leveraged ETF investment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698404,
-   "ts": "2026-07-29T12:23:02+00:00",
-   "ingested": "2026-07-29T14:34:03.919468+00:00",
-   "headline": "US Sentiment: Trump To Hit Iran Hard, FOMC Hike? - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698403,
-   "ts": "2026-07-29T12:22:20+00:00",
-   "ingested": "2026-07-29T14:34:03.919488+00:00",
-   "headline": "South Korean Finance Ministry: South Korea pledges more steps to stabilize the stock market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698402,
-   "ts": "2026-07-29T12:19:07+00:00",
-   "ingested": "2026-07-29T14:34:03.919507+00:00",
-   "headline": "Trump: US and Saudi strikes were coordinated with the Iraqi government.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698385,
-   "ts": "2026-07-29T12:16:39+00:00",
-   "ingested": "2026-07-29T14:34:03.919525+00:00",
-   "headline": "Trump To Fox: we'll be hitting Iran hard.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698384,
-   "ts": "2026-07-29T12:16:32+00:00",
-   "ingested": "2026-07-29T14:34:03.919562+00:00",
-   "headline": "Trump on Iran: Going to let them keep talking - Fox Interview.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698400,
-   "ts": "2026-07-29T12:16:08+00:00",
-   "ingested": "2026-07-29T14:34:03.919585+00:00",
-   "headline": "Trump: US strikes will take place against Iran in response to attacks on US targets in Jordan - Fox.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9698368,
-   "ts": "2026-07-29T11:59:50+00:00",
-   "ingested": "2026-07-29T12:15:54.111465+00:00",
-   "headline": "Secured overnight financing rate: 3.65% July 28th vs 3.64% on July 27th",
    "channel": "rss",
    "source": "financialjuice"
   }
