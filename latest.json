@@ -1,7 +1,559 @@
 {
- "updated": "2026-07-30T12:26:46.398826+00:00",
+ "updated": "2026-07-30T14:41:53.523259+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9700776,
+   "ts": "2026-07-30T14:38:40+00:00",
+   "ingested": "2026-07-30T14:41:53.521903+00:00",
+   "headline": "Valero Energy: Pivoted to process more Venezuelan crude after spike in Canadian crude prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700775,
+   "ts": "2026-07-30T14:34:58+00:00",
+   "ingested": "2026-07-30T14:41:53.521931+00:00",
+   "headline": "Valero Energy expects to see processing rates of Venezuelan Heavy Crude in the coming months that exceed the historical maximum - Conference Call.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700752,
+   "ts": "2026-07-30T14:30:01+00:00",
+   "ingested": "2026-07-30T14:41:53.521948+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 28B (Forecast 35B, Previous 32B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700751,
+   "ts": "2026-07-30T14:17:36+00:00",
+   "ingested": "2026-07-30T14:41:53.521962+00:00",
+   "headline": "Fear and Greed Index: 38/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700750,
+   "ts": "2026-07-30T14:17:32+00:00",
+   "ingested": "2026-07-30T14:41:53.521977+00:00",
+   "headline": "Crypto Fear & Greed Index: 28/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700726,
+   "ts": "2026-07-30T14:13:19+00:00",
+   "ingested": "2026-07-30T14:41:53.521995+00:00",
+   "headline": "China's Robot Maker Unitree: Our current G1, H2, R1, GO2, B2 and A2 robot models already have FCC certification and can continue US sales - Filing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700725,
+   "ts": "2026-07-30T14:12:55+00:00",
+   "ingested": "2026-07-30T14:41:53.522015+00:00",
+   "headline": "China's Robot Maker UniTree: New FCC curbs could block US sales of future foreign-made robot models unless they win exemptions or conditional approvals \u2014 filing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700724,
+   "ts": "2026-07-30T14:11:56+00:00",
+   "ingested": "2026-07-30T14:41:53.522032+00:00",
+   "headline": "Yemeni Ministry of Foreign Affairs: The rumors circulating about an attack by Yemen on a ship in the port of Damietta, Egypt, are unfounded - ISNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700723,
+   "ts": "2026-07-30T14:11:06+00:00",
+   "ingested": "2026-07-30T14:41:53.522045+00:00",
+   "headline": "Shell CFO: Shell sees overall 5% to 6% inflation in its costs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700715,
+   "ts": "2026-07-30T14:01:42+00:00",
+   "ingested": "2026-07-30T14:41:53.522058+00:00",
+   "headline": "Russia bans other fuel exports until Jan. 31st, 2027 - TASS.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700714,
+   "ts": "2026-07-30T14:01:35+00:00",
+   "ingested": "2026-07-30T14:41:53.522071+00:00",
+   "headline": "Russian government bans diesel exports until January 31st, 2027 - Tass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700713,
+   "ts": "2026-07-30T14:00:59+00:00",
+   "ingested": "2026-07-30T14:41:53.522083+00:00",
+   "headline": "Russia extends diesel export ban by 1 month - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700705,
+   "ts": "2026-07-30T13:59:50+00:00",
+   "ingested": "2026-07-30T14:41:53.522097+00:00",
+   "headline": "NATO Sec. Gen. Rutte: We will strengthen our readiness to defend against any threat.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700704,
+   "ts": "2026-07-30T13:59:23+00:00",
+   "ingested": "2026-07-30T14:41:53.522109+00:00",
+   "headline": "NATO Sec. Gen. Rutte: Poland and NATO activated defenses after violation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700703,
+   "ts": "2026-07-30T13:58:16+00:00",
+   "ingested": "2026-07-30T14:41:53.522122+00:00",
+   "headline": "NATO Sec. Gen. Rutte: Poland's airspace was violated by a Russian missile.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700702,
+   "ts": "2026-07-30T13:49:03+00:00",
+   "ingested": "2026-07-30T14:41:53.522139+00:00",
+   "headline": "Shell CEO: The main impact on the LNG market from the Middle East war is in the spot market. Expects tightness in the LNG market in the coming quarter.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700701,
+   "ts": "2026-07-30T13:48:39+00:00",
+   "ingested": "2026-07-30T14:41:53.522157+00:00",
+   "headline": "Shell CFO: More LNG volumes redirected from Asia to Europe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700697,
+   "ts": "2026-07-30T13:46:58+00:00",
+   "ingested": "2026-07-30T14:41:53.522169+00:00",
+   "headline": "Shell CFO: Shell sees tight LNG market in 3Q.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700675,
+   "ts": "2026-07-30T13:44:23+00:00",
+   "ingested": "2026-07-30T14:41:53.522182+00:00",
+   "headline": "UK's PM Burnham: The UK won't ignore oil in the North Sea.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700674,
+   "ts": "2026-07-30T13:35:01+00:00",
+   "ingested": "2026-07-30T14:41:53.522193+00:00",
+   "headline": "Potential yen intervention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700660,
+   "ts": "2026-07-30T13:31:53+00:00",
+   "ingested": "2026-07-30T14:41:53.522208+00:00",
+   "headline": "UK PM Burnham: I indicated to Trump that I would take a pragmatic approach to the North Sea.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700647,
+   "ts": "2026-07-30T13:27:53+00:00",
+   "ingested": "2026-07-30T14:41:53.522225+00:00",
+   "headline": "WH Sr. Adviser Hassett interview on Bloomberg TV ends",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700646,
+   "ts": "2026-07-30T13:27:01+00:00",
+   "ingested": "2026-07-30T14:41:53.522238+00:00",
+   "headline": "WH Sr. Adviser Hassett: I don't see markets in bubble territory due to AI.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700645,
+   "ts": "2026-07-30T13:24:33+00:00",
+   "ingested": "2026-07-30T14:41:53.522251+00:00",
+   "headline": "WH Sr. Adviser Hassett: I am very bullish on Fed policy going in the proper direction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700644,
+   "ts": "2026-07-30T13:21:44+00:00",
+   "ingested": "2026-07-30T14:41:53.522264+00:00",
+   "headline": "WH Sr. Adviser Hassett asked if Warsh is hawk or dove: He's a realist.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700643,
+   "ts": "2026-07-30T13:20:35+00:00",
+   "ingested": "2026-07-30T14:41:53.522278+00:00",
+   "headline": "WH Sr. Adviser Hassett: The markets may need a couple more prints like today's.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700642,
+   "ts": "2026-07-30T13:20:10+00:00",
+   "ingested": "2026-07-30T14:41:53.522290+00:00",
+   "headline": "WH Sr. Adviser Hassett: Warsh will do what the data say he should do.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700641,
+   "ts": "2026-07-30T13:19:08+00:00",
+   "ingested": "2026-07-30T14:41:53.522302+00:00",
+   "headline": "WATCH LIVE: WH Sr. Adviser Hassett Speaks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700640,
+   "ts": "2026-07-30T13:18:29+00:00",
+   "ingested": "2026-07-30T14:41:53.522314+00:00",
+   "headline": "WH Sr. Adviser Hassett: Warsh's job is now easier with today's inflation data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700639,
+   "ts": "2026-07-30T13:17:54+00:00",
+   "ingested": "2026-07-30T14:41:53.522328+00:00",
+   "headline": "WH Sr. Adviser Hassett post-PCE, asked if he still has confidence in Warsh: Of course.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700630,
+   "ts": "2026-07-30T13:02:47+00:00",
+   "ingested": "2026-07-30T14:41:53.522340+00:00",
+   "headline": "Iran warns Cyprus not to allow attacks from its territory.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700613,
+   "ts": "2026-07-30T13:00:36+00:00",
+   "ingested": "2026-07-30T14:41:53.522351+00:00",
+   "headline": "BoE Gov. Bailey ends the BoE Press Conference.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700606,
+   "ts": "2026-07-30T12:59:24+00:00",
+   "ingested": "2026-07-30T14:41:53.522364+00:00",
+   "headline": "Effective Fed funds rate 3.63% July 29th vs 3.63% July 28th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700605,
+   "ts": "2026-07-30T12:55:25+00:00",
+   "ingested": "2026-07-30T14:41:53.522379+00:00",
+   "headline": "BoE Gov. Bailey: The UK may be seeing some downward impact on goods prices from trade redirection due to tariffs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700604,
+   "ts": "2026-07-30T12:54:59+00:00",
+   "ingested": "2026-07-30T14:41:53.522392+00:00",
+   "headline": "Oracle is going to bring Google's Gemini models to Enterprise applications. $GOOGL $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700603,
+   "ts": "2026-07-30T12:54:32+00:00",
+   "ingested": "2026-07-30T14:41:53.522408+00:00",
+   "headline": "Iran's Revolutionary Guards claim responsibility for the attack on the Ali Al Salem airbase in Kuwait - Tasnim.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700602,
+   "ts": "2026-07-30T12:54:12+00:00",
+   "ingested": "2026-07-30T14:41:53.522422+00:00",
+   "headline": "Oracle and Google expand partnership. $ORCL $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700601,
+   "ts": "2026-07-30T12:52:38+00:00",
+   "ingested": "2026-07-30T14:41:53.522435+00:00",
+   "headline": "BoE Gov. Bailey: We are not talking about an insurance hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700600,
+   "ts": "2026-07-30T12:50:21+00:00",
+   "ingested": "2026-07-30T14:41:53.522447+00:00",
+   "headline": "BoE Gov. Bailey: My jury is out on the likelihood of 2nd-round effects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700599,
+   "ts": "2026-07-30T12:49:36+00:00",
+   "ingested": "2026-07-30T14:41:53.522460+00:00",
+   "headline": "BoE Gov. Bailey: We should take something from the weaker pass-through.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700580,
+   "ts": "2026-07-30T12:46:13+00:00",
+   "ingested": "2026-07-30T14:41:53.522470+00:00",
+   "headline": "Credit Agricole on FOMC Rate - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700562,
+   "ts": "2026-07-30T12:43:14+00:00",
+   "ingested": "2026-07-30T14:41:53.522484+00:00",
+   "headline": "BoE Gov. Bailey: Do not leave this room thinking that the BoE is edging towards a hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700561,
+   "ts": "2026-07-30T12:42:59+00:00",
+   "ingested": "2026-07-30T14:41:53.522499+00:00",
+   "headline": "Russia likely used North Korean missile in a deadly strike on a residential building near Ukraine's Kryvyi Rih - Military Source.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700560,
+   "ts": "2026-07-30T12:42:48+00:00",
+   "ingested": "2026-07-30T14:41:53.522510+00:00",
+   "headline": "Goldman Sachs on FOMC Rate Decision - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700559,
+   "ts": "2026-07-30T12:42:06+00:00",
+   "ingested": "2026-07-30T14:41:53.522522+00:00",
+   "headline": "BoE's Lombardelli: Businesses are facing a challenging environment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700558,
+   "ts": "2026-07-30T12:40:24+00:00",
+   "ingested": "2026-07-30T14:41:53.522538+00:00",
+   "headline": "Products refined from Russian Crude may be both sold on the domestic Kazakh market and shipped back to Russia - Kazakh Energy Ministry.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700557,
+   "ts": "2026-07-30T12:39:53+00:00",
+   "ingested": "2026-07-30T14:41:53.522552+00:00",
+   "headline": "Kazakhstan is in talks with Russia on processing russian crude at Kazakh refineries - Kazakh Energy Ministry.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700556,
+   "ts": "2026-07-30T12:39:16+00:00",
+   "ingested": "2026-07-30T14:41:53.522563+00:00",
+   "headline": "Natixis on FOMC Rate Decision - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700555,
+   "ts": "2026-07-30T12:38:43+00:00",
+   "ingested": "2026-07-30T14:41:53.522577+00:00",
+   "headline": "BoE's Ramsden: The Bank rate remains our primary tool, QT is in the background.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700554,
+   "ts": "2026-07-30T12:38:23+00:00",
+   "ingested": "2026-07-30T14:41:53.522591+00:00",
+   "headline": "BoE's Ramsden: The impact of QT is very incremental compared to the broader rise in gilt term premium.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700552,
+   "ts": "2026-07-30T12:36:49+00:00",
+   "ingested": "2026-07-30T14:41:53.522603+00:00",
+   "headline": "Microsoft ponders an open-weight AI, as China models gain ground - Nikkei. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700551,
+   "ts": "2026-07-30T12:35:17+00:00",
+   "ingested": "2026-07-30T14:41:53.522615+00:00",
+   "headline": "BoE Gov. Bailey: Market conditions important part of the QT judgment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700548,
+   "ts": "2026-07-30T12:33:05+00:00",
+   "ingested": "2026-07-30T14:41:53.522647+00:00",
+   "headline": "BoE Gov. Bailey: It is not wise to wait for all second-round effects to emerge.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700545,
+   "ts": "2026-07-30T12:32:12+00:00",
+   "ingested": "2026-07-30T14:41:53.522661+00:00",
+   "headline": "US Sentiment: Mixed Earnings Reaction, Warsh Credibility Comes Into Question - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700503,
+   "ts": "2026-07-30T12:30:48+00:00",
+   "ingested": "2026-07-30T14:41:53.522674+00:00",
+   "headline": "US GDP Deflator SA Advance Actual 6.3% (Forecast -, Previous 3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700502,
+   "ts": "2026-07-30T12:30:48+00:00",
+   "ingested": "2026-07-30T14:41:53.522689+00:00",
+   "headline": "US PCE Prices Advance Actual 5.1% (Forecast -, Previous 4.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700501,
+   "ts": "2026-07-30T12:30:09+00:00",
+   "ingested": "2026-07-30T14:41:53.522703+00:00",
+   "headline": "US PCE Price Index YoY Actual 3.7% (Forecast 3.7%, Previous 4.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700500,
+   "ts": "2026-07-30T12:30:09+00:00",
+   "ingested": "2026-07-30T14:41:53.522715+00:00",
+   "headline": "US GDP Price Index Actual 6.2% (Forecast 4%, Previous 3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700498,
+   "ts": "2026-07-30T12:30:09+00:00",
+   "ingested": "2026-07-30T14:41:53.522728+00:00",
+   "headline": "US PCE Price Index MoM Actual -0.1% (Forecast -0.1%, Previous 0.4%, Revised 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700496,
+   "ts": "2026-07-30T12:30:08+00:00",
+   "ingested": "2026-07-30T14:41:53.522743+00:00",
+   "headline": "US Core PCE Prices Advance Actual 3.4% (Forecast 3.5%, Previous 4.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700495,
+   "ts": "2026-07-30T12:30:08+00:00",
+   "ingested": "2026-07-30T14:41:53.522756+00:00",
+   "headline": "US Core PCE Price Index YoY Actual 3.286526% (Forecast 3.3%, Previous 3.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700494,
+   "ts": "2026-07-30T12:30:08+00:00",
+   "ingested": "2026-07-30T14:41:53.522770+00:00",
+   "headline": "US Real Personal Consumption MoM Actual 0.4% (Forecast 0.4%, Previous 0.3%, Revised 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700493,
+   "ts": "2026-07-30T12:30:06+00:00",
+   "ingested": "2026-07-30T14:41:53.522783+00:00",
+   "headline": "US Core PCE Price Index MoM Actual 0.1% (Forecast 0.2%, Previous 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700492,
+   "ts": "2026-07-30T12:30:02+00:00",
+   "ingested": "2026-07-30T14:41:53.522796+00:00",
+   "headline": "US Consumer Spending MoM Actual 0.3% (Forecast 0.4%, Previous 0.7%, Revised 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700491,
+   "ts": "2026-07-30T12:30:02+00:00",
+   "ingested": "2026-07-30T14:41:53.522808+00:00",
+   "headline": "US Personal Income MoM Actual 0.2% (Forecast 0.3%, Previous 0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700490,
+   "ts": "2026-07-30T12:30:02+00:00",
+   "ingested": "2026-07-30T14:41:53.522821+00:00",
+   "headline": "US Initial Jobless Claims Actual 197k (Forecast 200k, Previous 187k, Revised 188k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700489,
+   "ts": "2026-07-30T12:30:01+00:00",
+   "ingested": "2026-07-30T14:41:53.522835+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.782M (Forecast 1.795M, Previous 1.796M, Revised 1.789M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700488,
+   "ts": "2026-07-30T12:30:01+00:00",
+   "ingested": "2026-07-30T14:41:53.522847+00:00",
+   "headline": "US GDP QoQ Advance Actual 1.5% (Forecast 2%, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9700487,
+   "ts": "2026-07-30T12:29:35+00:00",
+   "ingested": "2026-07-30T14:41:53.522860+00:00",
+   "headline": "BoE's Lombardelli: Activity is judged to be relatively weak.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9700486,
    "ts": "2026-07-30T12:24:58+00:00",
@@ -3447,558 +3999,6 @@
    "ts": "2026-07-29T03:59:30+00:00",
    "ingested": "2026-07-29T04:27:30.166354+00:00",
    "headline": "Timing and extent of policy response to hinge on upcoming data, economic conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697754,
-   "ts": "2026-07-29T03:36:43+00:00",
-   "ingested": "2026-07-29T04:27:30.166366+00:00",
-   "headline": "Bok Gov Shin: Policy response timing and extent to depend on upcoming data, economic conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697753,
-   "ts": "2026-07-29T03:35:55+00:00",
-   "ingested": "2026-07-29T04:27:30.166379+00:00",
-   "headline": "Bank of Korea Governor Shin: maintaining tightening stance most rational to curb core inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697699,
-   "ts": "2026-07-29T02:37:30+00:00",
-   "ingested": "2026-07-29T04:27:30.166406+00:00",
-   "headline": "Taiwan shares fall over 3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697698,
-   "ts": "2026-07-29T02:37:16+00:00",
-   "ingested": "2026-07-29T04:27:30.166420+00:00",
-   "headline": "China's central bank carries out overnight reverse repos on Wednesday with borrowing cost at 1.25%, unchanged from previous operation in June: sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697697,
-   "ts": "2026-07-29T02:31:59+00:00",
-   "ingested": "2026-07-29T04:27:30.166435+00:00",
-   "headline": "Industrial plant in Russia\u2019s Ryazan catching fire after drone strike: regional governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697696,
-   "ts": "2026-07-29T02:31:08+00:00",
-   "ingested": "2026-07-29T04:27:30.166444+00:00",
-   "headline": "Iraq's Popular Mobilization Forces: Attacks kill several, wound others",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697695,
-   "ts": "2026-07-29T02:30:13+00:00",
-   "ingested": "2026-07-29T04:27:30.166456+00:00",
-   "headline": "Iraq's Popular Mobilization Forces: U.S., Saudi Troops Strike PMF Headquarters Across Iraq",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697694,
-   "ts": "2026-07-29T02:28:19+00:00",
-   "ingested": "2026-07-29T04:27:30.166466+00:00",
-   "headline": "China finance ministry to sell 15 billion yuan government bonds in Hong Kong on Aug 5",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697693,
-   "ts": "2026-07-29T02:18:51+00:00",
-   "ingested": "2026-07-29T04:27:30.166478+00:00",
-   "headline": "South Korea finance minister: internally reviewing methods to stabilize domestic stock market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697692,
-   "ts": "2026-07-29T02:17:31+00:00",
-   "ingested": "2026-07-29T04:27:30.166488+00:00",
-   "headline": "Zuckerberg: banning advanced Chinese AI in US not an effective solution - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697691,
-   "ts": "2026-07-29T02:17:01+00:00",
-   "ingested": "2026-07-29T04:27:30.166497+00:00",
-   "headline": "Mark Zuckerberg: US should not prohibit Chinese AI - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697580,
-   "ts": "2026-07-29T01:50:29+00:00",
-   "ingested": "2026-07-29T04:27:30.166508+00:00",
-   "headline": "Iran's Revolutionary Guards: Three oil tankers hit and halted in Strait of Hormuz after ignoring warnings - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697564,
-   "ts": "2026-07-29T01:33:10+00:00",
-   "ingested": "2026-07-29T04:27:30.166518+00:00",
-   "headline": "Australian CPI YoY Actual 4.0% (Forecast -, Previous 4.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697565,
-   "ts": "2026-07-29T01:32:38+00:00",
-   "ingested": "2026-07-29T04:27:30.166528+00:00",
-   "headline": "Australia Q2 CPI (all groups) rises 4.0% yr/yr, slightly below poll of 4.1%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697563,
-   "ts": "2026-07-29T01:32:29+00:00",
-   "ingested": "2026-07-29T04:27:30.166538+00:00",
-   "headline": "China cbank injects 600 billion yuan via overnight reverse repos: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697562,
-   "ts": "2026-07-29T01:32:25+00:00",
-   "ingested": "2026-07-29T04:27:30.166550+00:00",
-   "headline": "Iran\u2019s Revolutionary Guards say ballistic missiles struck U.S. air base and military command center in Jordan - Iranian state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697552,
-   "ts": "2026-07-29T01:32:18+00:00",
-   "ingested": "2026-07-29T04:27:30.166559+00:00",
-   "headline": "RBA Weighted Mean CPI YoY Actual 3.6% (Forecast -, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697548,
-   "ts": "2026-07-29T01:31:57+00:00",
-   "ingested": "2026-07-29T04:27:30.166568+00:00",
-   "headline": "RBA Weighted Median CPI QoQ Actual 0.7% (Forecast -, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697551,
-   "ts": "2026-07-29T01:31:45+00:00",
-   "ingested": "2026-07-29T04:27:30.166578+00:00",
-   "headline": "Australia Q2 RBA weighted median CPI rises 3.6% yr/yr, poll expected 3.7%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697550,
-   "ts": "2026-07-29T01:31:35+00:00",
-   "ingested": "2026-07-29T04:27:30.166587+00:00",
-   "headline": "Australia at 2 rba trimmed mean cpi rises 3.6% yr/yr (poll 3.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697549,
-   "ts": "2026-07-29T01:31:26+00:00",
-   "ingested": "2026-07-29T04:27:30.166598+00:00",
-   "headline": "Australia Q2 RBA weighted median CPI rises 0.7% quarter on quarter, below poll of 0.8%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697547,
-   "ts": "2026-07-29T01:30:37+00:00",
-   "ingested": "2026-07-29T04:27:30.166607+00:00",
-   "headline": "Australia Q2 CPI (all groups) rises 0.6% q/q vs 0.7% poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697546,
-   "ts": "2026-07-29T01:30:34+00:00",
-   "ingested": "2026-07-29T04:27:30.166617+00:00",
-   "headline": "Australia @2 RBA trimmed mean CPI rises 0.8% q/q (Poll 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697538,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166628+00:00",
-   "headline": "Australia June RBA trimmed mean CPI rises 3.6% year on year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697537,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166637+00:00",
-   "headline": "Australia June RBA trimmed mean CPI rises 0.3% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697536,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166647+00:00",
-   "headline": "Australia June RBA Weighted Median CPI Rises 3.7% Year-over-Year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697535,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166656+00:00",
-   "headline": "Australia June RBA weighted median inflation rises 0.3% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697534,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166665+00:00",
-   "headline": "Australia June CPI (all groups) rises 3.8% year on year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697533,
-   "ts": "2026-07-29T01:30:05+00:00",
-   "ingested": "2026-07-29T04:27:30.166674+00:00",
-   "headline": "Australia June CPI (all groups) falls 0.1% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697532,
-   "ts": "2026-07-29T01:30:02+00:00",
-   "ingested": "2026-07-29T04:27:30.166683+00:00",
-   "headline": "Australian CPI QoQ Actual 0.6% (Forecast 0.7%, Previous 1.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697531,
-   "ts": "2026-07-29T01:30:01+00:00",
-   "ingested": "2026-07-29T04:27:30.166693+00:00",
-   "headline": "RBA Trimmed Mean CPI YoY Actual 3.6% (Forecast 3.7%, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697530,
-   "ts": "2026-07-29T01:30:01+00:00",
-   "ingested": "2026-07-29T04:27:30.166702+00:00",
-   "headline": "RBA Trimmed Mean CPI QoQ Actual 0.8% (Forecast 0.9%, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697529,
-   "ts": "2026-07-29T01:26:18+00:00",
-   "ingested": "2026-07-29T04:27:30.166713+00:00",
-   "headline": "Zelenskiy tells Fox News Trump agreed to provide Ukraine licenses for Patriot missiles",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697528,
-   "ts": "2026-07-29T01:20:49+00:00",
-   "ingested": "2026-07-29T04:27:30.166724+00:00",
-   "headline": "China c.bank injects 206.5 billion yuan via 7-day reverse repos at 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697523,
-   "ts": "2026-07-29T01:16:41+00:00",
-   "ingested": "2026-07-29T04:27:30.166733+00:00",
-   "headline": "China sets yuan mid-point at strongest level since Feb. 10, 2023",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697519,
-   "ts": "2026-07-29T01:12:15+00:00",
-   "ingested": "2026-07-29T04:27:30.166747+00:00",
-   "headline": "China commerce minister tells UK trade secretary: urges supportive business climate for Chinese enterprises in UK",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697518,
-   "ts": "2026-07-29T01:11:53+00:00",
-   "ingested": "2026-07-29T04:27:30.166758+00:00",
-   "headline": "China commerce minister to UK trade secretary: highly concerned about British Steel nationalisation, urges UK to follow relevant international rules",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697517,
-   "ts": "2026-07-29T01:11:29+00:00",
-   "ingested": "2026-07-29T04:27:30.166770+00:00",
-   "headline": "China commerce minister to UK trade secretary: China ready to boost cooperation in service trade, green transition, renewable energy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697516,
-   "ts": "2026-07-29T01:10:45+00:00",
-   "ingested": "2026-07-29T04:27:30.166779+00:00",
-   "headline": "China commerce minister held phone call with UK trade secretary: ministry statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697515,
-   "ts": "2026-07-29T01:03:54+00:00",
-   "ingested": "2026-07-29T01:07:57.565685+00:00",
-   "headline": "China commerce ministry: Will take necessary steps to protect legitimate rights and interests of Chinese research institutions after U.S. sanctions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697514,
-   "ts": "2026-07-29T01:03:32+00:00",
-   "ingested": "2026-07-29T01:07:57.565711+00:00",
-   "headline": "China commerce ministry on U.S. sanctions for Chinese research institutions: urges U.S. to halt 'baseless smearing' and promptly correct mistakes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697513,
-   "ts": "2026-07-29T01:03:11+00:00",
-   "ingested": "2026-07-29T01:07:57.565733+00:00",
-   "headline": "China commerce ministry on U.S. adding Chinese research institutions to sanctions list: U.S. artificially sets discriminatory barriers, politicizes and weaponizes research cooperation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697512,
-   "ts": "2026-07-29T01:02:41+00:00",
-   "ingested": "2026-07-29T01:07:57.565750+00:00",
-   "headline": "China commerce ministry on U.S. sanctioning Chinese research institutions: aware of situation, strongly dissatisfied and firmly opposes this",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697506,
-   "ts": "2026-07-29T01:00:30+00:00",
-   "ingested": "2026-07-29T01:07:57.565766+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% in prior session opening",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697503,
-   "ts": "2026-07-29T00:58:15+00:00",
-   "ingested": "2026-07-29T01:07:57.565779+00:00",
-   "headline": "Trump: had a very positive meeting with Netanyahu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697502,
-   "ts": "2026-07-29T00:55:48+00:00",
-   "ingested": "2026-07-29T01:07:57.565791+00:00",
-   "headline": "Trump: meeting with Ukraine's Zelenskiy went 'very well'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697496,
-   "ts": "2026-07-29T00:35:03+00:00",
-   "ingested": "2026-07-29T01:07:57.565805+00:00",
-   "headline": "Saudi Arabia: no desire for escalation but will react to any aggression - Defence Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697495,
-   "ts": "2026-07-29T00:33:59+00:00",
-   "ingested": "2026-07-29T01:07:57.565818+00:00",
-   "headline": "Saudi Arabia says strikes were retaliation for drone attacks on oil facilities: Defence Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697494,
-   "ts": "2026-07-29T00:33:12+00:00",
-   "ingested": "2026-07-29T01:07:57.565831+00:00",
-   "headline": "Saudi Arabia: Strikes coordinated with U.S. Central Command, defence ministry says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697493,
-   "ts": "2026-07-29T00:32:57+00:00",
-   "ingested": "2026-07-29T01:07:57.565845+00:00",
-   "headline": "Saudi Arabia: strikes against Iran-backed group targets in Iraq, defense ministry says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697474,
-   "ts": "2026-07-29T00:22:14+00:00",
-   "ingested": "2026-07-29T01:07:57.565862+00:00",
-   "headline": "U.S. Central Command: carried out precision strikes in Iraq targeting Iran-backed groups planning attacks on U.S. forces and Saudi oil facilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697473,
-   "ts": "2026-07-29T00:21:12+00:00",
-   "ingested": "2026-07-29T01:07:57.565876+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.7635 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697438,
-   "ts": "2026-07-28T23:39:11+00:00",
-   "ingested": "2026-07-29T01:07:57.565889+00:00",
-   "headline": "One dead, one hurt in air strike on Russia's Taganrog: regional governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697433,
-   "ts": "2026-07-28T23:23:09+00:00",
-   "ingested": "2026-07-28T23:39:10.691882+00:00",
-   "headline": "Zelenskiy: I told Trump, senators Ukraine's main issue is shortage of anti-ballistic systems and missiles",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697427,
-   "ts": "2026-07-28T23:17:44+00:00",
-   "ingested": "2026-07-28T23:39:10.691910+00:00",
-   "headline": "Iranian state TV: Military source denies Iran involved in projectiles fired from other nations at targets in Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697420,
-   "ts": "2026-07-28T23:14:01+00:00",
-   "ingested": "2026-07-28T23:39:10.691929+00:00",
-   "headline": "U.S. Senate Approves Trump Pick Jay Clayton as Director of National Intelligence by 51-47",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697419,
-   "ts": "2026-07-28T23:12:57+00:00",
-   "ingested": "2026-07-28T23:39:10.691949+00:00",
-   "headline": "Majority of U.S. Senate backs Trump nominee Jay Clayton for director of national intelligence, voting ongoing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697385,
-   "ts": "2026-07-28T22:28:41+00:00",
-   "ingested": "2026-07-28T22:39:49.915069+00:00",
-   "headline": "U.S. military: IRGC fired multiple ballistic missiles from Iran at U.S. troops in Middle East",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697384,
-   "ts": "2026-07-28T22:28:03+00:00",
-   "ingested": "2026-07-28T22:39:49.915094+00:00",
-   "headline": "U.S. military: U.S. forces stay alert and maintain high readiness",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697383,
-   "ts": "2026-07-28T22:27:56+00:00",
-   "ingested": "2026-07-28T22:39:49.915111+00:00",
-   "headline": "U.S. military: all Iranian missiles were effectively intercepted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697382,
-   "ts": "2026-07-28T22:27:46+00:00",
-   "ingested": "2026-07-28T22:39:49.915130+00:00",
-   "headline": "U.S. military: Islamic Revolutionary Guard Corps forces launched multiple ballistic missiles from Iran at 5:45 p.m. ET today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697363,
-   "ts": "2026-07-28T22:13:24+00:00",
-   "ingested": "2026-07-28T22:39:49.915144+00:00",
-   "headline": "Iran fires ballistic missiles at U.S. base in Jordan: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697349,
-   "ts": "2026-07-28T22:01:50+00:00",
-   "ingested": "2026-07-28T22:39:49.915159+00:00",
-   "headline": "Chile's central bank: future interest rate trajectory to be evaluated meeting by meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697346,
-   "ts": "2026-07-28T22:01:17+00:00",
-   "ingested": "2026-07-28T22:39:49.915175+00:00",
-   "headline": "Chile central bank board: will take all actions needed to ensure projected inflation remains at 3% over two years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697345,
-   "ts": "2026-07-28T22:00:53+00:00",
-   "ingested": "2026-07-28T22:39:49.915187+00:00",
-   "headline": "Chile's central bank: macroeconomic outlook faces elevated uncertainty",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697344,
-   "ts": "2026-07-28T22:00:34+00:00",
-   "ingested": "2026-07-28T22:39:49.915200+00:00",
-   "headline": "Chile central bank: benchmark interest rate steady at 4.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697342,
-   "ts": "2026-07-28T22:00:17+00:00",
-   "ingested": "2026-07-28T22:39:49.915214+00:00",
-   "headline": "Chile's central bank: global environment remains volatile due to US-Iran conflict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697341,
-   "ts": "2026-07-28T21:59:43+00:00",
-   "ingested": "2026-07-28T22:39:49.915232+00:00",
-   "headline": "Chile\u2019s central bank says decision was unanimous",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9697340,
-   "ts": "2026-07-28T21:59:36+00:00",
-   "ingested": "2026-07-28T22:39:49.915246+00:00",
-   "headline": "Chile's central bank sets key interest rate at 4.50%",
    "channel": "rss",
    "source": "financialjuice"
   }
