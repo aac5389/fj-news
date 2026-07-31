@@ -1,7 +1,359 @@
 {
- "updated": "2026-07-31T04:46:15.757744+00:00",
+ "updated": "2026-07-31T07:38:01.181052+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9702115,
+   "ts": "2026-07-31T07:37:41+00:00",
+   "ingested": "2026-07-31T07:38:01.180013+00:00",
+   "headline": "Hamas will hand over weapons for storage under the responsibility of the Palestinian National Committee, dependent on Israel endorsing the agreement - Hamas official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702114,
+   "ts": "2026-07-31T07:37:27+00:00",
+   "ingested": "2026-07-31T07:38:01.180036+00:00",
+   "headline": "Israel must withdraw its forces from Gaza - Hamas official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702113,
+   "ts": "2026-07-31T07:37:16+00:00",
+   "ingested": "2026-07-31T07:38:01.180056+00:00",
+   "headline": "Hamas Official: Once both sides approve the agreement text, Israel must begin implementing the first phase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702112,
+   "ts": "2026-07-31T07:36:56+00:00",
+   "ingested": "2026-07-31T07:38:01.180080+00:00",
+   "headline": "Hamas official: Gaza agreement is a phased agreement that must be implemented in stages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702111,
+   "ts": "2026-07-31T07:34:12+00:00",
+   "ingested": "2026-07-31T07:38:01.180096+00:00",
+   "headline": "Seven & I, Softbank and others to enter business pact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702096,
+   "ts": "2026-07-31T07:25:08+00:00",
+   "ingested": "2026-07-31T07:38:01.180162+00:00",
+   "headline": "BoJ's Governor Ueda: The US and Europe are heading back to tightening amid mideast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702095,
+   "ts": "2026-07-31T07:24:50+00:00",
+   "ingested": "2026-07-31T07:38:01.180191+00:00",
+   "headline": "BoJ's Governor Ueda: BoJ is not moving in the same cycle as US and European central banks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702094,
+   "ts": "2026-07-31T07:21:37+00:00",
+   "ingested": "2026-07-31T07:38:01.180207+00:00",
+   "headline": "BoJ's Governor Ueda: Risks of slipping back to deflation cannot be zero",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702093,
+   "ts": "2026-07-31T07:21:17+00:00",
+   "ingested": "2026-07-31T07:38:01.180221+00:00",
+   "headline": "BoJ's Governor Ueda: AI-related spending appears sustainable to some degree",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702092,
+   "ts": "2026-07-31T07:21:06+00:00",
+   "ingested": "2026-07-31T07:38:01.180236+00:00",
+   "headline": "BoJ's Governor Ueda: One area of focus is how higher memory chip prices are pushing up prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702091,
+   "ts": "2026-07-31T07:18:34+00:00",
+   "ingested": "2026-07-31T07:38:01.180251+00:00",
+   "headline": "BoJ's Governor Ueda: Functionality of the bond market is recovering, though not completely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702090,
+   "ts": "2026-07-31T07:17:22+00:00",
+   "ingested": "2026-07-31T07:38:01.180270+00:00",
+   "headline": "BoJ's Governor Ueda: Could speed up rate hikes if financial conditions are too easy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702089,
+   "ts": "2026-07-31T07:16:58+00:00",
+   "ingested": "2026-07-31T07:38:01.180283+00:00",
+   "headline": "BoJ's Governor Ueda: Hard to say the distance to the neutral rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702068,
+   "ts": "2026-07-31T07:12:30+00:00",
+   "ingested": "2026-07-31T07:38:01.180301+00:00",
+   "headline": "China's Foreign Ministry, on the Iran strike in Kuwait: Urged Kuwait to take effective measures to protect the safety of Chinese nationals and institutions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702067,
+   "ts": "2026-07-31T07:10:24+00:00",
+   "ingested": "2026-07-31T07:38:01.180315+00:00",
+   "headline": "BoJ's Governor Ueda: FX impact on inflation is bigger than before",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702066,
+   "ts": "2026-07-31T07:03:51+00:00",
+   "ingested": "2026-07-31T07:38:01.180331+00:00",
+   "headline": "BoJ's Governor Ueda: In general, it could take up to 2 years to assess the effects of an interest rate hike in some cases",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702062,
+   "ts": "2026-07-31T07:03:38+00:00",
+   "ingested": "2026-07-31T07:38:01.180343+00:00",
+   "headline": "China to raise gasoline and diesel prices from August 1st  - NDRC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702061,
+   "ts": "2026-07-31T07:03:17+00:00",
+   "ingested": "2026-07-31T07:38:01.180357+00:00",
+   "headline": "BoJ's Governor Ueda: Only few cases of firms failing on higher borrowing costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702051,
+   "ts": "2026-07-31T07:01:32+00:00",
+   "ingested": "2026-07-31T07:38:01.180372+00:00",
+   "headline": "Currency Strength Chart: Strongest: AUD, USD, CAD, EUR, GBP, NZD, CHF, JPY - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702038,
+   "ts": "2026-07-31T06:53:15+00:00",
+   "ingested": "2026-07-31T07:38:01.180386+00:00",
+   "headline": "BoJ's Governor Ueda: Underlying inflation approaching 2%, can't ignore risk of overshooting 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702037,
+   "ts": "2026-07-31T06:52:53+00:00",
+   "ingested": "2026-07-31T07:38:01.180399+00:00",
+   "headline": "BoJ's Governor Ueda: Policy can move before inflation trend fully entrenched",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702023,
+   "ts": "2026-07-31T06:45:00+00:00",
+   "ingested": "2026-07-31T07:38:01.180412+00:00",
+   "headline": "French CPI YoY NSA Prelim Actual 2.1% (Forecast 1.8%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702022,
+   "ts": "2026-07-31T06:45:00+00:00",
+   "ingested": "2026-07-31T07:38:01.180425+00:00",
+   "headline": "French CPI MoM NSA Prelim Actual 0.6% (Forecast 0.3%, Previous -0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702021,
+   "ts": "2026-07-31T06:45:00+00:00",
+   "ingested": "2026-07-31T07:38:01.180439+00:00",
+   "headline": "French HICP MoM Prelim  Actual 0.6% (Forecast 0.3%, Previous -0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702020,
+   "ts": "2026-07-31T06:45:00+00:00",
+   "ingested": "2026-07-31T07:38:01.180451+00:00",
+   "headline": "French HICP YoY Prelim  Actual 2.4% (Forecast 2%, Previous 2.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702019,
+   "ts": "2026-07-31T06:44:27+00:00",
+   "ingested": "2026-07-31T07:38:01.180466+00:00",
+   "headline": "Venezuela's Oil Min Quevedo: Need to be more aware of upside price risk than before",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702018,
+   "ts": "2026-07-31T06:44:16+00:00",
+   "ingested": "2026-07-31T07:38:01.180480+00:00",
+   "headline": "BoJ's Governor Ueda: More important than ever to be mindful of inflation overshooting risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702017,
+   "ts": "2026-07-31T06:43:24+00:00",
+   "ingested": "2026-07-31T07:38:01.180493+00:00",
+   "headline": "BoJ's Governor Ueda: Watching the Middle East, AI demand and FX for timing of hike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702016,
+   "ts": "2026-07-31T06:41:23+00:00",
+   "ingested": "2026-07-31T07:38:01.180507+00:00",
+   "headline": "BoJ's Governor Ueda: Financial conditions have been accommodative even after the last rate hike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702015,
+   "ts": "2026-07-31T06:41:05+00:00",
+   "ingested": "2026-07-31T07:38:01.180522+00:00",
+   "headline": "BoJ's Governor Ueda: Interest rates have been rising since the last rate hike last month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702014,
+   "ts": "2026-07-31T06:39:25+00:00",
+   "ingested": "2026-07-31T07:38:01.180534+00:00",
+   "headline": "BoJ's Governor Ueda: Japan's financial conditions remain accommodative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702013,
+   "ts": "2026-07-31T06:39:05+00:00",
+   "ingested": "2026-07-31T07:38:01.180549+00:00",
+   "headline": "BoJ's Governor Ueda: The perspective of stabilizing underlying CPI inflation at a level around 2% is important",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702012,
+   "ts": "2026-07-31T06:38:30+00:00",
+   "ingested": "2026-07-31T07:38:01.180565+00:00",
+   "headline": "BoJ's Governor Ueda: Necessary to pay close attention to the Middle East situation's impact on financial FX markets and Japan's economy, prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702011,
+   "ts": "2026-07-31T06:37:36+00:00",
+   "ingested": "2026-07-31T07:38:01.180577+00:00",
+   "headline": "BoJ's Governor Ueda: Price trend to rise gradually",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702010,
+   "ts": "2026-07-31T06:37:17+00:00",
+   "ingested": "2026-07-31T07:38:01.180590+00:00",
+   "headline": "BoJ's Governor Ueda: AI demand and recent weak Yen to help increase inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702009,
+   "ts": "2026-07-31T06:36:37+00:00",
+   "ingested": "2026-07-31T07:38:01.180606+00:00",
+   "headline": "BoJ's Ueda: Year-on-year rate of increase in CPI likely to accelerate to a level 'clearly above' 2% from the second half of FY 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702008,
+   "ts": "2026-07-31T06:36:13+00:00",
+   "ingested": "2026-07-31T07:38:01.180621+00:00",
+   "headline": "BoJ's Governor Ueda: Projected real GDP growth more or less unchanged from April's projection in outlook report",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702007,
+   "ts": "2026-07-31T06:35:48+00:00",
+   "ingested": "2026-07-31T07:38:01.180634+00:00",
+   "headline": "BoJ's Governor Ueda: Japan's economy expected to keep growing moderately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702006,
+   "ts": "2026-07-31T06:35:22+00:00",
+   "ingested": "2026-07-31T07:38:01.180647+00:00",
+   "headline": "BoJ's Governor Ueda: Japan's economy is recovering moderately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701985,
+   "ts": "2026-07-31T06:30:01+00:00",
+   "ingested": "2026-07-31T07:38:01.180660+00:00",
+   "headline": "Swiss Retail Sales YoY Actual 1.5% (Forecast -, Previous 3.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701963,
+   "ts": "2026-07-31T06:00:43+00:00",
+   "ingested": "2026-07-31T07:38:01.180672+00:00",
+   "headline": "Norwegian Unemployment Rate NSA Actual 2.1% (Forecast -, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701943,
+   "ts": "2026-07-31T05:08:38+00:00",
+   "ingested": "2026-07-31T07:38:01.180688+00:00",
+   "headline": "Russian defence ministry: Russian forces strike vessel carrying military cargo heading to Ukrainian port near Odesa - RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701930,
+   "ts": "2026-07-31T05:00:15+00:00",
+   "ingested": "2026-07-31T07:38:01.180702+00:00",
+   "headline": "Japanese Housing Starts YoY Actual 18.565% (Forecast 12.7%, Previous 33.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9701929,
+   "ts": "2026-07-31T04:54:54+00:00",
+   "ingested": "2026-07-31T07:38:01.180716+00:00",
+   "headline": "India foreign ministry: 12 new PTA projects worth 3.32 billion rupees approved between India, Bhutan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9701913,
    "ts": "2026-07-31T04:44:46+00:00",
@@ -3647,358 +3999,6 @@
    "ts": "2026-07-30T01:33:46+00:00",
    "ingested": "2026-07-30T03:20:29.769879+00:00",
    "headline": "Several loud blasts heard in Iran's Ahwaz, state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699505,
-   "ts": "2026-07-30T01:32:19+00:00",
-   "ingested": "2026-07-30T03:20:29.769896+00:00",
-   "headline": "China commerce ministry on U.S. robot ban: if U.S. insists on unilateral action, China will firmly retaliate to protect its rights and interests",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699497,
-   "ts": "2026-07-30T01:31:56+00:00",
-   "ingested": "2026-07-30T03:20:29.769912+00:00",
-   "headline": "China commerce ministry on U.S. robot ban: calls on U.S. to immediately withdraw relevant measures and stop erroneous actions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699491,
-   "ts": "2026-07-30T01:31:41+00:00",
-   "ingested": "2026-07-30T03:20:29.769928+00:00",
-   "headline": "China commerce ministry on U.S. robot ban: U.S. overemphasizes national security concepts, ignores strong appeals from Chinese and American industries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699490,
-   "ts": "2026-07-30T01:31:20+00:00",
-   "ingested": "2026-07-30T03:20:29.769943+00:00",
-   "headline": "China Commerce Ministry on U.S. robot ban: FCC disregards China's repeated talks and restrained stance, keeps expanding restrictions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699489,
-   "ts": "2026-07-30T01:31:16+00:00",
-   "ingested": "2026-07-30T03:20:29.769955+00:00",
-   "headline": "Wildberries logistics hub in Penza catches fire, governor says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699488,
-   "ts": "2026-07-30T01:31:00+00:00",
-   "ingested": "2026-07-30T03:20:29.769969+00:00",
-   "headline": "China commerce ministry: measures discriminate against and suppress Chinese companies and products over U.S. robot ban",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699487,
-   "ts": "2026-07-30T01:30:54+00:00",
-   "ingested": "2026-07-30T03:20:29.769984+00:00",
-   "headline": "One injured, about 200 evacuated from logistics center of Russian online retailer Wildberries in Penza: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699486,
-   "ts": "2026-07-30T01:30:48+00:00",
-   "ingested": "2026-07-30T03:20:29.769999+00:00",
-   "headline": "Colombia grants 995 megawatts of solar power and almost 100 megawatts of battery storage in auction: ministry of mines and energy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699476,
-   "ts": "2026-07-30T01:30:36+00:00",
-   "ingested": "2026-07-30T03:20:29.770013+00:00",
-   "headline": "Australian Private House Approvals Actual 0.4% (Forecast -, Previous 2.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699481,
-   "ts": "2026-07-30T01:30:16+00:00",
-   "ingested": "2026-07-30T03:20:29.770028+00:00",
-   "headline": "Logistics center of Russian e-commerce Wildberries in Penza struck in drone attack: regional governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699480,
-   "ts": "2026-07-30T01:30:04+00:00",
-   "ingested": "2026-07-30T03:20:29.770045+00:00",
-   "headline": "Australia June building approvals rise 7.2% month-on-month, adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699479,
-   "ts": "2026-07-30T01:30:04+00:00",
-   "ingested": "2026-07-30T03:20:29.770058+00:00",
-   "headline": "Australia Q2 export prices rise 1.1% quarter-on-quarter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699478,
-   "ts": "2026-07-30T01:30:04+00:00",
-   "ingested": "2026-07-30T03:20:29.770072+00:00",
-   "headline": "Australia June private sector home approvals rise 0.4% month-on-month, adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699477,
-   "ts": "2026-07-30T01:30:04+00:00",
-   "ingested": "2026-07-30T03:20:29.770085+00:00",
-   "headline": "Australia import prices rise 5.7% in Q2 quarter-over-quarter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699475,
-   "ts": "2026-07-30T01:30:01+00:00",
-   "ingested": "2026-07-30T03:20:29.770098+00:00",
-   "headline": "Australian Building Approvals Actual 7.2% (Forecast -0.5%, Previous -1.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699474,
-   "ts": "2026-07-30T01:30:01+00:00",
-   "ingested": "2026-07-30T03:20:29.770111+00:00",
-   "headline": "Australian Export Prices QoQ Actual 1.1% (Forecast 0.8%, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699473,
-   "ts": "2026-07-30T01:30:01+00:00",
-   "ingested": "2026-07-30T03:20:29.770124+00:00",
-   "headline": "Australian Import Prices QoQ Actual 5.7% (Forecast 0%, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699471,
-   "ts": "2026-07-30T01:21:31+00:00",
-   "ingested": "2026-07-30T03:20:29.770145+00:00",
-   "headline": "China central bank injects 270.5 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699451,
-   "ts": "2026-07-30T01:14:17+00:00",
-   "ingested": "2026-07-30T03:20:29.770163+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% (previous session open 0.805%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699450,
-   "ts": "2026-07-30T01:12:22+00:00",
-   "ingested": "2026-07-30T03:20:29.770176+00:00",
-   "headline": "Iran's Tasnim agency: missile attack hits residential area on Qeshm Island",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699449,
-   "ts": "2026-07-30T01:11:00+00:00",
-   "ingested": "2026-07-30T03:20:29.770190+00:00",
-   "headline": "Colombia government submits 575.7 trillion peso budget for 2027 to congress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699433,
-   "ts": "2026-07-30T01:00:00+00:00",
-   "ingested": "2026-07-30T03:20:29.770202+00:00",
-   "headline": "NBNZ Own Activity Actual 49.3 (Forecast -, Previous 36.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699432,
-   "ts": "2026-07-30T01:00:00+00:00",
-   "ingested": "2026-07-30T03:20:29.770215+00:00",
-   "headline": "NBNZ Business Outlook Actual 56.1 (Forecast -, Previous 36.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699431,
-   "ts": "2026-07-30T00:58:02+00:00",
-   "ingested": "2026-07-30T03:20:29.770227+00:00",
-   "headline": "Explosion heard in Iran's Bushehr: Iranian media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699430,
-   "ts": "2026-07-30T00:56:20+00:00",
-   "ingested": "2026-07-30T03:20:29.770240+00:00",
-   "headline": "Japan lowers fiscal 2026 growth forecast to 0.9% from 1.3% on rising oil prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699429,
-   "ts": "2026-07-30T00:53:39+00:00",
-   "ingested": "2026-07-30T03:20:29.770254+00:00",
-   "headline": "Iran\u2019s Tasnim news agency: three blasts reported on Qeshm Island",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699407,
-   "ts": "2026-07-30T00:42:41+00:00",
-   "ingested": "2026-07-30T03:20:29.770268+00:00",
-   "headline": "Trump met Wednesday with Saudi Defense Minister Prince Khalid bin Salman: Axios, citing U.S. official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699406,
-   "ts": "2026-07-30T00:39:23+00:00",
-   "ingested": "2026-07-30T03:20:29.770281+00:00",
-   "headline": "Explosions heard in multiple southern locations in Iran: Iran's press",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699405,
-   "ts": "2026-07-30T00:35:33+00:00",
-   "ingested": "2026-07-30T03:20:29.770295+00:00",
-   "headline": "S. Korea vice finance minister: to closely watch external factors and their impact on domestic economy, markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699398,
-   "ts": "2026-07-30T00:26:26+00:00",
-   "ingested": "2026-07-30T03:20:29.770307+00:00",
-   "headline": "U.S. military: launched strikes on Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699397,
-   "ts": "2026-07-30T00:25:58+00:00",
-   "ingested": "2026-07-30T03:20:29.770319+00:00",
-   "headline": "China PBOC seen setting yuan midpoint at 6.7530 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699396,
-   "ts": "2026-07-30T00:19:29+00:00",
-   "ingested": "2026-07-30T03:20:29.770332+00:00",
-   "headline": "South Korean won reaches strongest point since Feb. 27 against dollar",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699371,
-   "ts": "2026-07-30T00:00:53+00:00",
-   "ingested": "2026-07-30T00:04:36.893258+00:00",
-   "headline": "One killed in Russian air strikes on Ukraine's capital Kyiv: officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699369,
-   "ts": "2026-07-29T23:51:57+00:00",
-   "ingested": "2026-07-30T00:04:36.893295+00:00",
-   "headline": "Bank of Korea: to closely watch risk factors and effects on domestic economy, markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699368,
-   "ts": "2026-07-29T23:51:01+00:00",
-   "ingested": "2026-07-30T00:04:36.893323+00:00",
-   "headline": "Foreign Investment Japanese Bonds Actual -1513.9B (Forecast -, Previous -185.1B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699367,
-   "ts": "2026-07-29T23:51:01+00:00",
-   "ingested": "2026-07-30T00:04:36.893349+00:00",
-   "headline": "Japanese Foreign Stock Investment Actual 320.2B (Forecast -, Previous -121.3B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699366,
-   "ts": "2026-07-29T23:50:36+00:00",
-   "ingested": "2026-07-30T00:04:36.893372+00:00",
-   "headline": "Foreign Investment Japanese Stocks Actual 912.1B (Forecast -, Previous -79.6B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699365,
-   "ts": "2026-07-29T23:50:36+00:00",
-   "ingested": "2026-07-30T00:04:36.893395+00:00",
-   "headline": "Japanese Foreign Bond Investment Actual -811.4B (Forecast -, Previous -714.4B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699350,
-   "ts": "2026-07-29T23:45:26+00:00",
-   "ingested": "2026-07-30T00:04:36.893423+00:00",
-   "headline": "Australia\u2019s online regulator begins civil penalty proceedings against Telegram over alleged failure to address pro-terror posts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699343,
-   "ts": "2026-07-29T23:19:24+00:00",
-   "ingested": "2026-07-30T00:04:36.893444+00:00",
-   "headline": "IMF: Niger review permits immediate release of about $33 million",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699342,
-   "ts": "2026-07-29T23:18:48+00:00",
-   "ingested": "2026-07-30T00:04:36.893465+00:00",
-   "headline": "IMF completes ninth review under extended credit facility with Niger",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699326,
-   "ts": "2026-07-29T23:16:34+00:00",
-   "ingested": "2026-07-30T00:04:36.893488+00:00",
-   "headline": "OpenAI CFO Sarah Friar tells employees annualized revenue in July exceeded all expectations CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699322,
-   "ts": "2026-07-29T23:11:57+00:00",
-   "ingested": "2026-07-30T00:04:36.893508+00:00",
-   "headline": "U.S. military conducts air strikes in Iran: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9699314,
-   "ts": "2026-07-29T23:01:04+00:00",
-   "ingested": "2026-07-30T00:04:36.893531+00:00",
-   "headline": "UK car lobby group SMMT CEO Hawes: Chinese automakers fueling greater discounting in UK market",
    "channel": "rss",
    "source": "financialjuice"
   }
