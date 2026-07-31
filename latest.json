@@ -1,7 +1,79 @@
 {
- "updated": "2026-07-31T16:30:28.474222+00:00",
+ "updated": "2026-07-31T18:04:00.710503+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9703005,
+   "ts": "2026-07-31T17:57:47+00:00",
+   "ingested": "2026-07-31T18:04:00.710092+00:00",
+   "headline": "An F-35 crashes near California Marine Corps Air Station - Fox News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702997,
+   "ts": "2026-07-31T17:26:09+00:00",
+   "ingested": "2026-07-31T18:04:00.710114+00:00",
+   "headline": "Suspected Yen Intervention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702955,
+   "ts": "2026-07-31T17:01:18+00:00",
+   "ingested": "2026-07-31T18:04:00.710132+00:00",
+   "headline": "US Baker Hughes Oil Rig Count Actual 451 (Forecast -, Previous 450)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702954,
+   "ts": "2026-07-31T17:00:46+00:00",
+   "ingested": "2026-07-31T18:04:00.710148+00:00",
+   "headline": "US Baker Hughes Total Rig Count Actual 588 (Forecast -, Previous 587)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702945,
+   "ts": "2026-07-31T16:52:42+00:00",
+   "ingested": "2026-07-31T18:04:00.710165+00:00",
+   "headline": "Fed's Barkin: Price increases are moving through the economy unevenly - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702943,
+   "ts": "2026-07-31T16:51:08+00:00",
+   "ingested": "2026-07-31T18:04:00.710180+00:00",
+   "headline": "Fed's Barkin: It does not feel like a tight labor market - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702942,
+   "ts": "2026-07-31T16:50:54+00:00",
+   "ingested": "2026-07-31T18:04:00.710195+00:00",
+   "headline": "Fed's Barkin: Do you have to add some restraint? I think that's the question - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702941,
+   "ts": "2026-07-31T16:50:33+00:00",
+   "ingested": "2026-07-31T18:04:00.710209+00:00",
+   "headline": "Fed's Barkin:  don't know if I would have voted for higher rates this week - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9702940,
+   "ts": "2026-07-31T16:50:18+00:00",
+   "ingested": "2026-07-31T18:04:00.710228+00:00",
+   "headline": "Fed's Barkin: It's a close call whether rates are high enough to bring inflation down - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9702913,
    "ts": "2026-07-31T16:28:03+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-07-30T12:08:28+00:00",
    "ingested": "2026-07-30T12:26:46.397865+00:00",
    "headline": "BoE Gov. Bailey: Weak demand is limiting the pass-through of higher costs to prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700446,
-   "ts": "2026-07-30T12:08:10+00:00",
-   "ingested": "2026-07-30T12:26:46.397878+00:00",
-   "headline": "BoE Gov. Bailey: I am seeing broader slowing in domestic inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700445,
-   "ts": "2026-07-30T12:07:28+00:00",
-   "ingested": "2026-07-30T12:26:46.397892+00:00",
-   "headline": "BoE Gov. Bailey: Pressures are building more slowly than we thought in April.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700444,
-   "ts": "2026-07-30T12:07:02+00:00",
-   "ingested": "2026-07-30T12:26:46.397904+00:00",
-   "headline": "BoE Gov. Bailey: While household inflation expectations have fallen, they remain elevated.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700443,
-   "ts": "2026-07-30T12:06:39+00:00",
-   "ingested": "2026-07-30T12:26:46.397919+00:00",
-   "headline": "BoE Gov. Bailey: We expect indirect inflation effects to add 0.5 percentage points to inflation in H2 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700442,
-   "ts": "2026-07-30T12:06:19+00:00",
-   "ingested": "2026-07-30T12:26:46.397931+00:00",
-   "headline": "$MA Mastercard Q2 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700441,
-   "ts": "2026-07-30T12:04:25+00:00",
-   "ingested": "2026-07-30T12:26:46.397945+00:00",
-   "headline": "BoE Gov. Bailey: There is little as of yet to suggest higher energy prices are embedded.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700440,
-   "ts": "2026-07-30T12:03:45+00:00",
-   "ingested": "2026-07-30T12:26:46.397958+00:00",
-   "headline": "BoE Gov. Bailey: UK economic activity is subdued, and the labour market is soft.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700439,
-   "ts": "2026-07-30T12:03:14+00:00",
-   "ingested": "2026-07-30T12:26:46.397972+00:00",
-   "headline": "BoE Gov. Bailey: We stand ready to adjust our stance as the outlook evolves.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700438,
-   "ts": "2026-07-30T12:02:40+00:00",
-   "ingested": "2026-07-30T12:26:46.397987+00:00",
-   "headline": "BoE Gov. Bailey: There is no evidence of 2nd-round effects, but we cannot draw too much comfort from this.",
    "channel": "rss",
    "source": "financialjuice"
   }
