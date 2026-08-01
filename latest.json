@@ -1,7 +1,23 @@
 {
- "updated": "2026-07-31T22:56:04.664839+00:00",
+ "updated": "2026-08-01T00:00:26.942661+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9703326,
+   "ts": "2026-07-31T23:36:37+00:00",
+   "ingested": "2026-08-01T00:00:26.942344+00:00",
+   "headline": "Denver International Airport closes level 6 west over potential security threat, directs passengers to level 6 east - X post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703320,
+   "ts": "2026-07-31T23:27:15+00:00",
+   "ingested": "2026-08-01T00:00:26.942394+00:00",
+   "headline": "Yemen's Houthi-run maritime coordination body denies plans to impose fees on ships transiting Bab al-Mandeb: statement says passage remains free",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9703303,
    "ts": "2026-07-31T22:51:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-07-30T12:49:36+00:00",
    "ingested": "2026-07-30T14:41:53.522460+00:00",
    "headline": "BoE Gov. Bailey: We should take something from the weaker pass-through.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700580,
-   "ts": "2026-07-30T12:46:13+00:00",
-   "ingested": "2026-07-30T14:41:53.522470+00:00",
-   "headline": "Credit Agricole on FOMC Rate - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700562,
-   "ts": "2026-07-30T12:43:14+00:00",
-   "ingested": "2026-07-30T14:41:53.522484+00:00",
-   "headline": "BoE Gov. Bailey: Do not leave this room thinking that the BoE is edging towards a hike.",
    "channel": "rss",
    "source": "financialjuice"
   }
