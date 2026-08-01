@@ -1,7 +1,71 @@
 {
- "updated": "2026-08-01T06:16:47.437171+00:00",
+ "updated": "2026-08-01T08:36:10.195372+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9703621,
+   "ts": "2026-08-01T08:06:49+00:00",
+   "ingested": "2026-08-01T08:36:10.194984+00:00",
+   "headline": "Kuwait army: no casualties reported",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703620,
+   "ts": "2026-08-01T08:06:17+00:00",
+   "ingested": "2026-08-01T08:36:10.195011+00:00",
+   "headline": "Kuwaiti Army: Iranian strike hit government site in northern Kuwait and vehicles of private firm on Bubiyan Island",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703619,
+   "ts": "2026-08-01T08:03:31+00:00",
+   "ingested": "2026-08-01T08:36:10.195029+00:00",
+   "headline": "Kuwait Army: hostile drones detected and destroyed in Kuwaiti airspace since dawn on Saturday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703597,
+   "ts": "2026-08-01T06:55:56+00:00",
+   "ingested": "2026-08-01T08:36:10.195047+00:00",
+   "headline": "Zelenskiy: Ukraine shot down only one Russian ballistic missile due to air defense shortages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703596,
+   "ts": "2026-08-01T06:53:45+00:00",
+   "ingested": "2026-08-01T08:36:10.195063+00:00",
+   "headline": "Zelenskiy: Russia launched 35 missiles, 185 drones in attack on Ukraine",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703595,
+   "ts": "2026-08-01T06:52:31+00:00",
+   "ingested": "2026-08-01T08:36:10.195109+00:00",
+   "headline": "Kazakh energy ministry: complete halt of CPC not being considered",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703594,
+   "ts": "2026-08-01T06:50:37+00:00",
+   "ingested": "2026-08-01T08:36:10.195126+00:00",
+   "headline": "EU Naval Force ASPIDES: Merchant ship finishes Red Sea passage safely with Italian frigate escort",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9703590,
+   "ts": "2026-08-01T06:26:11+00:00",
+   "ingested": "2026-08-01T08:36:10.195141+00:00",
+   "headline": "Kuwait Army: Air defenses currently intercepting hostile Iranian missiles",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9703557,
    "ts": "2026-08-01T04:51:16+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-07-30T13:49:03+00:00",
    "ingested": "2026-07-30T14:41:53.522139+00:00",
    "headline": "Shell CEO: The main impact on the LNG market from the Middle East war is in the spot market. Expects tightness in the LNG market in the coming quarter.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700701,
-   "ts": "2026-07-30T13:48:39+00:00",
-   "ingested": "2026-07-30T14:41:53.522157+00:00",
-   "headline": "Shell CFO: More LNG volumes redirected from Asia to Europe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700697,
-   "ts": "2026-07-30T13:46:58+00:00",
-   "ingested": "2026-07-30T14:41:53.522169+00:00",
-   "headline": "Shell CFO: Shell sees tight LNG market in 3Q.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700675,
-   "ts": "2026-07-30T13:44:23+00:00",
-   "ingested": "2026-07-30T14:41:53.522182+00:00",
-   "headline": "UK's PM Burnham: The UK won't ignore oil in the North Sea.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700674,
-   "ts": "2026-07-30T13:35:01+00:00",
-   "ingested": "2026-07-30T14:41:53.522193+00:00",
-   "headline": "Potential yen intervention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700660,
-   "ts": "2026-07-30T13:31:53+00:00",
-   "ingested": "2026-07-30T14:41:53.522208+00:00",
-   "headline": "UK PM Burnham: I indicated to Trump that I would take a pragmatic approach to the North Sea.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700647,
-   "ts": "2026-07-30T13:27:53+00:00",
-   "ingested": "2026-07-30T14:41:53.522225+00:00",
-   "headline": "WH Sr. Adviser Hassett interview on Bloomberg TV ends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700646,
-   "ts": "2026-07-30T13:27:01+00:00",
-   "ingested": "2026-07-30T14:41:53.522238+00:00",
-   "headline": "WH Sr. Adviser Hassett: I don't see markets in bubble territory due to AI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700645,
-   "ts": "2026-07-30T13:24:33+00:00",
-   "ingested": "2026-07-30T14:41:53.522251+00:00",
-   "headline": "WH Sr. Adviser Hassett: I am very bullish on Fed policy going in the proper direction.",
    "channel": "rss",
    "source": "financialjuice"
   }
