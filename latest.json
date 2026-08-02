@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-02T15:09:31.158756+00:00",
+ "updated": "2026-08-02T16:11:18.751288+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9704143,
+   "ts": "2026-08-02T15:24:17+00:00",
+   "ingested": "2026-08-02T16:11:18.750943+00:00",
+   "headline": "U.S. military: as of Aug. 2, Centcom has rerouted 35 commercial ships, disabled two, and boarded two",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9704133,
    "ts": "2026-08-02T14:58:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-07-30T15:30:37+00:00",
    "ingested": "2026-07-30T16:16:46.779152+00:00",
    "headline": "BoE Gov. Bailey: Upside rate risks are built into market pricing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9700858,
-   "ts": "2026-07-30T15:30:25+00:00",
-   "ingested": "2026-07-30T16:16:46.779165+00:00",
-   "headline": "BoE Gov. Bailey: Seeing slow labor market softening and slow disinflation.",
    "channel": "rss",
    "source": "financialjuice"
   }
