@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-08-03T22:43:01.272990+00:00",
- "updated_et": "2026-08-03 18:43 ET",
+ "updated_utc": "2026-08-03T23:51:30.073206+00:00",
+ "updated_et": "2026-08-03 19:51 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -8,8 +8,8 @@
    "yahoo_symbol": "ES=F",
    "last": {
     "price": 7633.25,
-    "time_utc": "2026-08-03T22:32:54+00:00",
-    "time_et": "2026-08-03 18:32 ET",
+    "time_utc": "2026-08-03T23:41:27+00:00",
+    "time_et": "2026-08-03 19:41 ET",
     "bar_age_min": 10.1
    },
    "live_proxy": {
@@ -39,14 +39,14 @@
     "stale_reason": "SPY: only 0 bars overlap SPY; IVV: only 0 bars overlap IVV; VOO: only 0 bars overlap VOO"
    },
    "regime": {
-    "autocorr_1m_30": -0.185,
-    "autocorr_1m_60": -0.161,
-    "autocorr_1m_120": -0.161,
+    "autocorr_1m_30": 0.105,
+    "autocorr_1m_60": 0.046,
+    "autocorr_1m_120": -0.099,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
-    "range_position": 0.65,
-    "vwap_dist": -0.03,
-    "vwap_z": -0.03,
-    "realized_vol_vs_atr14": 0.04,
+    "range_position": 0.57,
+    "vwap_dist": -1.02,
+    "vwap_z": -0.91,
+    "realized_vol_vs_atr14": 0.06,
     "streak_1m_bars": 0
    },
    "bars_5m": [
@@ -101,10 +101,122 @@
     [
      "18:30",
      7633.75,
+     7635.5,
+     7633.25,
+     7635.0,
+     318
+    ],
+    [
+     "18:35",
+     7634.5,
+     7635.75,
+     7633.5,
+     7635.0,
+     293
+    ],
+    [
+     "18:40",
+     7635.25,
+     7636.5,
+     7635.25,
+     7636.0,
+     356
+    ],
+    [
+     "18:45",
+     7636.0,
+     7636.0,
      7634.25,
+     7635.5,
+     354
+    ],
+    [
+     "18:50",
+     7635.5,
+     7636.0,
+     7635.0,
+     7635.75,
+     398
+    ],
+    [
+     "18:55",
+     7635.75,
+     7636.0,
+     7635.25,
+     7635.25,
+     142
+    ],
+    [
+     "19:00",
+     7635.25,
+     7635.75,
+     7634.25,
+     7635.25,
+     233
+    ],
+    [
+     "19:05",
+     7635.0,
+     7635.25,
+     7633.5,
+     7634.0,
+     275
+    ],
+    [
+     "19:10",
+     7634.0,
+     7634.5,
+     7633.75,
+     7634.5,
+     122
+    ],
+    [
+     "19:15",
+     7634.5,
+     7636.25,
+     7634.5,
+     7635.5,
+     195
+    ],
+    [
+     "19:20",
+     7635.75,
+     7636.25,
+     7634.5,
+     7634.75,
+     282
+    ],
+    [
+     "19:25",
+     7634.75,
+     7635.25,
+     7634.0,
+     7634.75,
+     273
+    ],
+    [
+     "19:30",
+     7634.75,
+     7636.25,
+     7633.75,
+     7635.75,
+     426
+    ],
+    [
+     "19:35",
+     7635.5,
+     7636.0,
+     7632.75,
+     7632.75,
+     331
+    ],
+    [
+     "19:40",
+     7632.75,
      7633.25,
+     7632.75,
      7633.25,
-     102
+     38
     ]
    ],
    "bars_5m_cols": [
@@ -118,40 +230,40 @@
    "session": {
     "date_et": "2026-08-03",
     "open": 7631.0,
-    "high": 7635.5,
+    "high": 7636.5,
     "low": 7629.0,
-    "vwap": 7633.28,
-    "volume_poc": 7634.0,
-    "volume": 2730
+    "vwap": 7634.27,
+    "volume_poc": 7635.0,
+    "volume": 6664
    },
    "prior_session": {
     "date_et": "2026-08-03",
-    "high": 7635.5,
+    "high": 7636.5,
     "low": 7629.0,
     "close": 7633.25
    },
    "ranges": {
-    "atr14": 100.89,
-    "high_5d": 7635.5,
+    "atr14": 100.96,
+    "high_5d": 7636.5,
     "low_5d": 7324.0,
-    "high_20d": 7635.5,
+    "high_20d": 7636.5,
     "low_20d": 7324.0
    },
    "next_events": [
     {
      "name": "Employment Situation",
      "when_et": "2026-08-07 08:30 ET",
-     "minutes_until": 5146
+     "minutes_until": 5078
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-08-12 08:30 ET",
-     "minutes_until": 12346
+     "minutes_until": 12278
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-08-13 08:30 ET",
-     "minutes_until": 13786
+     "minutes_until": 13718
     }
    ]
   },
@@ -159,9 +271,9 @@
    "name": "WTI Crude Oil",
    "yahoo_symbol": "CL=F",
    "last": {
-    "price": 80.04,
-    "time_utc": "2026-08-03T22:33:04+00:00",
-    "time_et": "2026-08-03 18:33 ET",
+    "price": 79.99,
+    "time_utc": "2026-08-03T23:41:33+00:00",
+    "time_et": "2026-08-03 19:41 ET",
     "bar_age_min": 10.1
    },
    "live_proxy": {
@@ -189,15 +301,15 @@
     "stale_reason": "USO: only 0 bars overlap USO; DBO: only 0 bars overlap DBO; USL: only 0 bars overlap USL"
    },
    "regime": {
-    "autocorr_1m_30": -0.291,
-    "autocorr_1m_60": -0.336,
-    "autocorr_1m_120": -0.336,
+    "autocorr_1m_30": 0.051,
+    "autocorr_1m_60": 0.166,
+    "autocorr_1m_120": 0.088,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
-    "range_position": 0.6,
+    "range_position": 0.54,
     "vwap_dist": 0.02,
-    "vwap_z": 0.64,
-    "realized_vol_vs_atr14": 0.04,
-    "streak_1m_bars": 1
+    "vwap_z": 0.19,
+    "realized_vol_vs_atr14": 0.09,
+    "streak_1m_bars": -2
    },
    "bars_5m": [
     [
@@ -254,7 +366,119 @@
      80.07,
      79.99,
      80.04,
-     263
+     311
+    ],
+    [
+     "18:35",
+     80.05,
+     80.07,
+     80.03,
+     80.04,
+     35
+    ],
+    [
+     "18:40",
+     80.03,
+     80.03,
+     79.95,
+     79.98,
+     40
+    ],
+    [
+     "18:45",
+     79.95,
+     79.96,
+     79.66,
+     79.72,
+     323
+    ],
+    [
+     "18:50",
+     79.72,
+     80.0,
+     79.62,
+     79.96,
+     508
+    ],
+    [
+     "18:55",
+     79.95,
+     80.16,
+     79.95,
+     80.08,
+     210
+    ],
+    [
+     "19:00",
+     80.1,
+     80.17,
+     80.05,
+     80.17,
+     76
+    ],
+    [
+     "19:05",
+     80.12,
+     80.31,
+     80.1,
+     80.2,
+     224
+    ],
+    [
+     "19:10",
+     80.22,
+     80.24,
+     80.14,
+     80.19,
+     58
+    ],
+    [
+     "19:15",
+     80.19,
+     80.19,
+     79.97,
+     80.0,
+     116
+    ],
+    [
+     "19:20",
+     80.03,
+     80.03,
+     79.89,
+     79.92,
+     63
+    ],
+    [
+     "19:25",
+     79.93,
+     80.0,
+     79.83,
+     79.85,
+     97
+    ],
+    [
+     "19:30",
+     79.86,
+     79.94,
+     79.82,
+     79.86,
+     68
+    ],
+    [
+     "19:35",
+     79.88,
+     80.02,
+     79.88,
+     79.98,
+     88
+    ],
+    [
+     "19:40",
+     79.99,
+     80.03,
+     79.91,
+     79.99,
+     19
     ]
    ],
    "bars_5m_cols": [
@@ -268,20 +492,20 @@
    "session": {
     "date_et": "2026-08-03",
     "open": 80.1,
-    "high": 80.1,
-    "low": 79.95,
-    "vwap": 80.02,
+    "high": 80.31,
+    "low": 79.62,
+    "vwap": 79.97,
     "volume_poc": 80.05,
-    "volume": 680
+    "volume": 2653
    },
    "prior_session": {
     "date_et": "2026-08-03",
-    "high": 80.1,
-    "low": 79.95,
-    "close": 80.04
+    "high": 80.31,
+    "low": 79.62,
+    "close": 79.99
    },
    "ranges": {
-    "atr14": 4.73,
+    "atr14": 4.75,
     "high_5d": 86.87,
     "low_5d": 77.78,
     "high_20d": 93.5,
@@ -291,18 +515,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-04 16:30 ET",
-     "minutes_until": 1306,
+     "minutes_until": 1238,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-08-05 10:30 ET",
-     "minutes_until": 2386
+     "minutes_until": 2318
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-11 16:30 ET",
-     "minutes_until": 11386,
+     "minutes_until": 11318,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -311,10 +535,10 @@
    "name": "Gold",
    "yahoo_symbol": "GC=F",
    "last": {
-    "price": 4107.2,
-    "time_utc": "2026-08-03T22:32:57+00:00",
-    "time_et": "2026-08-03 18:32 ET",
-    "bar_age_min": 10.3
+    "price": 4107.4,
+    "time_utc": "2026-08-03T23:41:17+00:00",
+    "time_et": "2026-08-03 19:41 ET",
+    "bar_age_min": 10.4
    },
    "live_proxy": {
     "etf": "GLD",
@@ -343,14 +567,14 @@
     "stale_reason": "GLD: only 0 bars overlap GLD; IAU: only 0 bars overlap IAU; GLDM: only 0 bars overlap GLDM"
    },
    "regime": {
-    "autocorr_1m_30": -0.395,
-    "autocorr_1m_60": -0.395,
-    "autocorr_1m_120": -0.395,
+    "autocorr_1m_30": -0.297,
+    "autocorr_1m_60": -0.106,
+    "autocorr_1m_120": -0.268,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
-    "range_position": 0.46,
-    "vwap_dist": 0.2,
-    "vwap_z": 0.24,
-    "realized_vol_vs_atr14": 0.09,
+    "range_position": 0.45,
+    "vwap_dist": -0.5,
+    "vwap_z": -0.55,
+    "realized_vol_vs_atr14": 0.12,
     "streak_1m_bars": 0
    },
    "bars_5m": [
@@ -405,10 +629,122 @@
     [
      "18:30",
      4107.8,
-     4108.4,
+     4109.2,
      4107.0,
+     4109.2,
+     45
+    ],
+    [
+     "18:35",
+     4108.6,
+     4109.1,
+     4107.9,
+     4108.8,
+     54
+    ],
+    [
+     "18:40",
+     4108.6,
+     4108.9,
+     4108.1,
+     4108.4,
+     26
+    ],
+    [
+     "18:45",
+     4108.6,
+     4108.9,
+     4107.7,
+     4107.8,
+     44
+    ],
+    [
+     "18:50",
+     4107.6,
+     4108.1,
+     4106.8,
+     4107.3,
+     82
+    ],
+    [
+     "18:55",
+     4107.4,
+     4109.6,
+     4107.4,
+     4108.6,
+     85
+    ],
+    [
+     "19:00",
+     4108.6,
+     4109.6,
+     4107.1,
      4107.2,
-     4
+     129
+    ],
+    [
+     "19:05",
+     4108.6,
+     4110.8,
+     4107.6,
+     4107.8,
+     366
+    ],
+    [
+     "19:10",
+     4107.6,
+     4107.6,
+     4105.5,
+     4107.1,
+     185
+    ],
+    [
+     "19:15",
+     4107.0,
+     4108.4,
+     4106.2,
+     4108.2,
+     127
+    ],
+    [
+     "19:20",
+     4108.2,
+     4110.6,
+     4106.6,
+     4108.3,
+     453
+    ],
+    [
+     "19:25",
+     4108.3,
+     4108.4,
+     4106.9,
+     4107.3,
+     83
+    ],
+    [
+     "19:30",
+     4107.4,
+     4107.7,
+     4106.6,
+     4107.6,
+     32
+    ],
+    [
+     "19:35",
+     4107.2,
+     4108.5,
+     4106.9,
+     4108.0,
+     27
+    ],
+    [
+     "19:40",
+     4107.4,
+     4107.4,
+     4107.2,
+     4107.4,
+     1
     ]
    ],
    "bars_5m_cols": [
@@ -422,20 +758,20 @@
    "session": {
     "date_et": "2026-08-03",
     "open": 4109.6,
-    "high": 4110.3,
+    "high": 4110.8,
     "low": 4104.6,
-    "vwap": 4107.0,
-    "volume_poc": 4107.5,
-    "volume": 567
+    "vwap": 4107.9,
+    "volume_poc": 4108.5,
+    "volume": 2302
    },
    "prior_session": {
     "date_et": "2026-08-03",
-    "high": 4110.3,
+    "high": 4110.8,
     "low": 4104.6,
-    "close": 4107.2
+    "close": 4107.4
    },
    "ranges": {
-    "atr14": 57.4,
+    "atr14": 57.5,
     "high_5d": 4118.5,
     "low_5d": 4017.9,
     "high_20d": 4167.2,
@@ -445,17 +781,17 @@
     {
      "name": "Employment Situation",
      "when_et": "2026-08-07 08:30 ET",
-     "minutes_until": 5146
+     "minutes_until": 5078
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-08-12 08:30 ET",
-     "minutes_until": 12346
+     "minutes_until": 12278
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-08-13 08:30 ET",
-     "minutes_until": 13786
+     "minutes_until": 13718
     }
    ]
   }
