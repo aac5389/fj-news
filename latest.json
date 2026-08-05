@@ -1,7 +1,303 @@
 {
- "updated": "2026-08-05T07:11:56.177400+00:00",
+ "updated": "2026-08-05T09:58:41.450624+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9708572,
+   "ts": "2026-08-05T09:54:22+00:00",
+   "ingested": "2026-08-05T09:58:41.449152+00:00",
+   "headline": "Iran President Pezeshkian, in call with Hamas political bureau chief: Tehran will support any measure or decision taken by Palestinian leaders in the negotiation process - State media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708528,
+   "ts": "2026-08-05T09:25:21+00:00",
+   "ingested": "2026-08-05T09:58:41.449179+00:00",
+   "headline": "ECB: Banks borrowed \u20ac1.0 million at marginal rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708527,
+   "ts": "2026-08-05T09:25:20+00:00",
+   "ingested": "2026-08-05T09:58:41.449198+00:00",
+   "headline": "ECB: Banks placed \u20ac2 trillion in overnight deposits",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708496,
+   "ts": "2026-08-05T09:01:47+00:00",
+   "ingested": "2026-08-05T09:58:41.449215+00:00",
+   "headline": "Pentagon is drafting a new US nuclear strategy - NBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708473,
+   "ts": "2026-08-05T09:00:03+00:00",
+   "ingested": "2026-08-05T09:58:41.449230+00:00",
+   "headline": "Eurozone PPI MoM Actual -0.3% (Forecast -0.3%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708472,
+   "ts": "2026-08-05T09:00:01+00:00",
+   "ingested": "2026-08-05T09:58:41.449245+00:00",
+   "headline": "Eurozone PPI YoY Actual 4.6% (Forecast 4.6%, Previous 5.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708451,
+   "ts": "2026-08-05T08:44:38+00:00",
+   "ingested": "2026-08-05T09:58:41.449271+00:00",
+   "headline": "Strait's reopening depends on a change in US behavior - Iran TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708450,
+   "ts": "2026-08-05T08:44:25+00:00",
+   "ingested": "2026-08-05T09:58:41.449306+00:00",
+   "headline": "Iran-Oman Hormuz talks are unrelated to immediate reopening - State TV cites person familiar on talks on the Hormuz Strait",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708448,
+   "ts": "2026-08-05T08:36:57+00:00",
+   "ingested": "2026-08-05T09:58:41.449331+00:00",
+   "headline": "Japan's Fin. Min. Katayama wants to consider market communication more closely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708446,
+   "ts": "2026-08-05T08:34:34+00:00",
+   "ingested": "2026-08-05T09:58:41.449357+00:00",
+   "headline": "Spain June crude oil imports increase 4.7% y/y to 4.3 million tonnes - Cores",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708445,
+   "ts": "2026-08-05T08:33:28+00:00",
+   "ingested": "2026-08-05T09:58:41.449382+00:00",
+   "headline": "Japan's Fin. Min. Katayama: Defense spending generally not finalized until December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708444,
+   "ts": "2026-08-05T08:32:39+00:00",
+   "ingested": "2026-08-05T09:58:41.449414+00:00",
+   "headline": "Japan's Fin. Min. Katayama: High chance inflation eases with tax reduction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708423,
+   "ts": "2026-08-05T08:31:08+00:00",
+   "ingested": "2026-08-05T09:58:41.449446+00:00",
+   "headline": "Japan's Fin. Min. Katayama: Japan secured US backing by effectively handling policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708414,
+   "ts": "2026-08-05T08:30:11+00:00",
+   "ingested": "2026-08-05T09:58:41.449470+00:00",
+   "headline": "UK July official reserves drop $281 million",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708409,
+   "ts": "2026-08-05T08:30:00+00:00",
+   "ingested": "2026-08-05T09:58:41.449493+00:00",
+   "headline": "UK Composite PMI Final Actual 52.2 (Forecast 52.1, Previous 52.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708408,
+   "ts": "2026-08-05T08:30:00+00:00",
+   "ingested": "2026-08-05T09:58:41.449516+00:00",
+   "headline": "UK Services PMI Final Actual 52.1 (Forecast 51.8, Previous 51.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708407,
+   "ts": "2026-08-05T08:28:14+00:00",
+   "ingested": "2026-08-05T09:58:41.449547+00:00",
+   "headline": "Russian defence ministry: Russian forces strike three vessels carrying Ukrainian military cargo in Black Sea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708406,
+   "ts": "2026-08-05T08:28:03+00:00",
+   "ingested": "2026-08-05T09:58:41.449569+00:00",
+   "headline": "Kazakhstan July producer prices increase 9.1% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708405,
+   "ts": "2026-08-05T08:27:53+00:00",
+   "ingested": "2026-08-05T09:58:41.449593+00:00",
+   "headline": "Kazakhstan July producer prices decrease 4.9% month-on-month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708404,
+   "ts": "2026-08-05T08:26:59+00:00",
+   "ingested": "2026-08-05T09:58:41.449624+00:00",
+   "headline": "Japan's Fin. Min. Katayama: To decide on outline for tax credit and tax cut in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708403,
+   "ts": "2026-08-05T08:26:42+00:00",
+   "ingested": "2026-08-05T09:58:41.449656+00:00",
+   "headline": "Japan's Fin. Min. Katayama: Cabinet approved food sales tax cut for 2 years",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708402,
+   "ts": "2026-08-05T08:26:09+00:00",
+   "ingested": "2026-08-05T09:58:41.449680+00:00",
+   "headline": "Japan's Fin. Min. Katayama: Bessent has trust in our policy stance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708401,
+   "ts": "2026-08-05T08:26:02+00:00",
+   "ingested": "2026-08-05T09:58:41.449704+00:00",
+   "headline": "Japan's Fin. Min. Katayama: Bessent's remarks acknowledged Japan's efforts for fiscal discipline",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708400,
+   "ts": "2026-08-05T08:23:24+00:00",
+   "ingested": "2026-08-05T09:58:41.449726+00:00",
+   "headline": "Japan FinMin Katayama: Will explain our fiscal policy fully to markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708399,
+   "ts": "2026-08-05T08:23:04+00:00",
+   "ingested": "2026-08-05T09:58:41.449749+00:00",
+   "headline": "Japan Finmin Katayama: Surplus from special forex account has already been utilised",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708398,
+   "ts": "2026-08-05T08:22:51+00:00",
+   "ingested": "2026-08-05T09:58:41.449774+00:00",
+   "headline": "Japan FinMin Katayama: Will review budget spending, revenue to secure funding to fill tax revenue shortages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708397,
+   "ts": "2026-08-05T08:19:56+00:00",
+   "ingested": "2026-08-05T09:58:41.449799+00:00",
+   "headline": "Japan FinMin Katayama: Will not rely on new debt issuance to fill tax revenue shortages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708375,
+   "ts": "2026-08-05T08:10:06+00:00",
+   "ingested": "2026-08-05T09:58:41.449820+00:00",
+   "headline": "China will take further countermeasures if the US insists on curbs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708374,
+   "ts": "2026-08-05T08:09:55+00:00",
+   "ingested": "2026-08-05T09:58:41.449841+00:00",
+   "headline": "China urges the US to immediately withdraw relevant measures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708373,
+   "ts": "2026-08-05T08:06:03+00:00",
+   "ingested": "2026-08-05T09:58:41.449863+00:00",
+   "headline": "China to tighten drone export controls to the US",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708372,
+   "ts": "2026-08-05T08:05:51+00:00",
+   "ingested": "2026-08-05T09:58:41.449890+00:00",
+   "headline": "EU receives \u20ac1.4 billion in revenue from immobilised Russian assets to be used for supporting Ukraine",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708353,
+   "ts": "2026-08-05T08:00:00+00:00",
+   "ingested": "2026-08-05T09:58:41.449940+00:00",
+   "headline": "Eurozone Composite Final PMI Actual 52 (Forecast 51.9, Previous 51.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708351,
+   "ts": "2026-08-05T07:50:00+00:00",
+   "ingested": "2026-08-05T09:58:41.449966+00:00",
+   "headline": "French Services PMI Actual 49.6 (Forecast 49.8, Previous 49.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708307,
+   "ts": "2026-08-05T07:23:31+00:00",
+   "ingested": "2026-08-05T09:58:41.450059+00:00",
+   "headline": "60-Day Correation Matrix",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708304,
+   "ts": "2026-08-05T07:19:34+00:00",
+   "ingested": "2026-08-05T09:58:41.450095+00:00",
+   "headline": "Japan cabinet approves plan to slash consumption tax on food to 1% from 8% - Minister attending meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708303,
+   "ts": "2026-08-05T07:18:11+00:00",
+   "ingested": "2026-08-05T09:58:41.450125+00:00",
+   "headline": "Italy's Economy Minister Giorgetti: Italy to use EU escape clause on energy and defense",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9708296,
+   "ts": "2026-08-05T07:15:34+00:00",
+   "ingested": "2026-08-05T09:58:41.450149+00:00",
+   "headline": "Japan cabinet approves food consumption tax cut -Kyodo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9708290,
    "ts": "2026-08-05T07:03:53+00:00",
@@ -3703,302 +3999,6 @@
    "ts": "2026-08-03T08:00:00+00:00",
    "ingested": "2026-08-03T08:16:11.996972+00:00",
    "headline": "Eurozone Manufacturing PMI Final Actual 51.9 (Forecast 52, Previous 52.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704768,
-   "ts": "2026-08-03T07:55:00+00:00",
-   "ingested": "2026-08-03T08:16:11.996999+00:00",
-   "headline": "German Manufacturing PMI Final Actual 52.2 (Forecast 52.2, Previous 52.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704767,
-   "ts": "2026-08-03T07:54:03+00:00",
-   "ingested": "2026-08-03T08:16:11.997021+00:00",
-   "headline": "Iran's Foreign Ministry Spokesperson Baghaei: New Hormuz route being discussed with Oman will be one path with entry and exit lanes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704766,
-   "ts": "2026-08-03T07:52:32+00:00",
-   "ingested": "2026-08-03T08:16:11.997039+00:00",
-   "headline": "Iraqi civil defence puts out fire in refinery in Baiji oil complex - State news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704764,
-   "ts": "2026-08-03T07:50:00+00:00",
-   "ingested": "2026-08-03T08:16:11.997055+00:00",
-   "headline": "French Manufacturing PMI Actual 49.8 (Forecast 50, Previous 50.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704737,
-   "ts": "2026-08-03T07:30:00+00:00",
-   "ingested": "2026-08-03T08:16:11.997069+00:00",
-   "headline": "Swiss Manufacturing PMI Actual 53.2 (Forecast 54.9, Previous 54.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704736,
-   "ts": "2026-08-03T07:21:29+00:00",
-   "ingested": "2026-08-03T08:16:11.997083+00:00",
-   "headline": "Iran's Baghaei: Iran-US issues should be addressed at a later stage",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704735,
-   "ts": "2026-08-03T07:21:07+00:00",
-   "ingested": "2026-08-03T08:16:11.997107+00:00",
-   "headline": "Iran's Baghaei: Reaching an agreement with Oman over the route is not enough for the reopening of the strait, as long as US \u2018aggression\u2019 continues, the situation will stay the same",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704733,
-   "ts": "2026-08-03T07:19:06+00:00",
-   "ingested": "2026-08-03T08:16:11.997121+00:00",
-   "headline": "Iran's Baghaei: Working with Oman on a temporary safe route through the Hormuz Strait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704732,
-   "ts": "2026-08-03T07:18:43+00:00",
-   "ingested": "2026-08-03T08:16:11.997138+00:00",
-   "headline": "Iran's Foreign Ministry Spokesperson Baghaei: We have no talks with the US currently; talks are with Oman over the Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704711,
-   "ts": "2026-08-03T07:15:00+00:00",
-   "ingested": "2026-08-03T08:16:11.997152+00:00",
-   "headline": "Spanish Manufacturing PMI Actual 50.2 (Forecast 50.3, Previous 49.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704708,
-   "ts": "2026-08-03T07:07:21+00:00",
-   "ingested": "2026-08-03T08:16:11.997174+00:00",
-   "headline": "\t\nBoJ Interest Rate Pobabilties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704682,
-   "ts": "2026-08-03T07:01:40+00:00",
-   "ingested": "2026-08-03T08:16:11.997228+00:00",
-   "headline": "Currency Strength Chart: Strongest: JPY, USD, EUR, CAD, AUD, GBP, CHF, NZD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704681,
-   "ts": "2026-08-03T07:00:29+00:00",
-   "ingested": "2026-08-03T08:16:11.997242+00:00",
-   "headline": "Turkish CPI MoM Actual 1.78% (Forecast 1.96%, Previous 0.99%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704680,
-   "ts": "2026-08-03T07:00:29+00:00",
-   "ingested": "2026-08-03T08:16:11.997256+00:00",
-   "headline": "Turkish CPI YoY Actual 31.75% (Forecast 31.93%, Previous 32.11%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704651,
-   "ts": "2026-08-03T06:30:00+00:00",
-   "ingested": "2026-08-03T08:16:11.997269+00:00",
-   "headline": "Swiss CPI MoM Actual -0.1% (Forecast -0.1%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704650,
-   "ts": "2026-08-03T06:30:00+00:00",
-   "ingested": "2026-08-03T08:16:11.997282+00:00",
-   "headline": "Swiss CPI YoY Actual 0.4% (Forecast 0.4%, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704649,
-   "ts": "2026-08-03T06:24:15+00:00",
-   "ingested": "2026-08-03T08:16:11.997305+00:00",
-   "headline": "Russia is taking measures to ensure the safety of navigation and the protection of ships in the Azov-Black Sea basin amid drone attacks - RIA cites the transport ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704617,
-   "ts": "2026-08-03T06:00:48+00:00",
-   "ingested": "2026-08-03T08:16:11.997318+00:00",
-   "headline": "German Real Retail Sales YoY Actual -0.2% (Forecast -, Previous 1.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704616,
-   "ts": "2026-08-03T06:00:02+00:00",
-   "ingested": "2026-08-03T08:16:11.997332+00:00",
-   "headline": "German Real Retail Sales MoM Actual -1.1% (Forecast -0.3%, Previous 1.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704597,
-   "ts": "2026-08-03T05:38:23+00:00",
-   "ingested": "2026-08-03T08:16:11.997344+00:00",
-   "headline": "Dutch Retail Sales YoY Actual 4.3% (Forecast -, Previous 1.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704544,
-   "ts": "2026-08-03T05:00:03+00:00",
-   "ingested": "2026-08-03T08:16:11.997383+00:00",
-   "headline": "India HSBC and S&P Global July final manufacturing PMI at 53.5, in line with forecast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704543,
-   "ts": "2026-08-03T05:00:03+00:00",
-   "ingested": "2026-08-03T08:16:11.997398+00:00",
-   "headline": "Netherlands S&P Global manufacturing PMI July at 54.4 vs 55.5 in June",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704542,
-   "ts": "2026-08-03T04:49:49+00:00",
-   "ingested": "2026-08-03T04:50:03.993654+00:00",
-   "headline": "Warehouse in Russia's Vladimir region struck in drone attack: Tass quotes governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704531,
-   "ts": "2026-08-03T04:46:43+00:00",
-   "ingested": "2026-08-03T04:50:03.993677+00:00",
-   "headline": "Dollar/yen slides 0.63% to 156.38",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704489,
-   "ts": "2026-08-03T03:59:47+00:00",
-   "ingested": "2026-08-03T04:50:03.993694+00:00",
-   "headline": "Myanmar government spokeswoman: Monday morning meeting held in Naypyitaw",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704488,
-   "ts": "2026-08-03T03:58:48+00:00",
-   "ingested": "2026-08-03T04:50:03.993711+00:00",
-   "headline": "Myanmar government spokeswoman: former leader Aung San Suu Kyi met with International Committee of the Red Cross representative Monday morning",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704478,
-   "ts": "2026-08-03T03:40:47+00:00",
-   "ingested": "2026-08-03T04:50:03.993726+00:00",
-   "headline": "U.S. Acting AG Blanche: DOJ withdraws order that created the anti-weaponization fund",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704435,
-   "ts": "2026-08-03T03:05:29+00:00",
-   "ingested": "2026-08-03T04:50:03.993740+00:00",
-   "headline": "Cuba's national electric utility: shutdown of national power grid occurred",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704434,
-   "ts": "2026-08-03T02:33:11+00:00",
-   "ingested": "2026-08-03T04:50:03.993753+00:00",
-   "headline": "Japan finance minister Katayama: no comment on possible forex intervention today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704433,
-   "ts": "2026-08-03T02:23:52+00:00",
-   "ingested": "2026-08-03T04:50:03.993766+00:00",
-   "headline": "Two people hospitalized following building collapse in Sydney: State Emergency Services",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704379,
-   "ts": "2026-08-03T01:57:19+00:00",
-   "ingested": "2026-08-03T04:50:03.993777+00:00",
-   "headline": "Dollar/yen falls 0.64% to 156.36",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704366,
-   "ts": "2026-08-03T01:45:43+00:00",
-   "ingested": "2026-08-03T04:50:03.993790+00:00",
-   "headline": "Chinese Manufacturing  PMI Actual 50.9 (Forecast 52, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704367,
-   "ts": "2026-08-03T01:45:03+00:00",
-   "ingested": "2026-08-03T04:50:03.993804+00:00",
-   "headline": "Ratingdog China general manufacturing PMI at 50.9 in July, below forecast 51.5",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704365,
-   "ts": "2026-08-03T01:40:04+00:00",
-   "ingested": "2026-08-03T04:50:03.993818+00:00",
-   "headline": "S. Korea central bank sells 91-day monetary stabilisation bonds at 2.83% yield",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704364,
-   "ts": "2026-08-03T01:37:15+00:00",
-   "ingested": "2026-08-03T04:50:03.993834+00:00",
-   "headline": "China's top securities regulator says it plans to expand mutual qualification recognition for futures professionals between China and Hong Kong",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704363,
-   "ts": "2026-08-03T01:35:28+00:00",
-   "ingested": "2026-08-03T04:50:03.993848+00:00",
-   "headline": "China's top securities regulator: supports Hong Kong in launching more yuan-denominated futures products",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9704362,
-   "ts": "2026-08-03T01:34:38+00:00",
-   "ingested": "2026-08-03T04:50:03.993861+00:00",
-   "headline": "China's top securities regulator: to introduce more ETF products tracking Chinese assets",
    "channel": "rss",
    "source": "financialjuice"
   }
