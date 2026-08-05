@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-05T20:43:58.337533+00:00",
+ "updated": "2026-08-05T21:58:30.293093+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9709457,
+   "ts": "2026-08-05T21:02:10+00:00",
+   "ingested": "2026-08-05T21:58:30.292823+00:00",
+   "headline": "AWS partners with Anthropic and OpenAI to integrate AWS Continuum into developer workflows - blog",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9709448,
+   "ts": "2026-08-05T21:00:06+00:00",
+   "ingested": "2026-08-05T21:58:30.292849+00:00",
+   "headline": "Iran conflict cut Middle East UREA supply by 4m-4.5m tons - CF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9709415,
    "ts": "2026-08-05T20:23:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-04T00:17:08+00:00",
    "ingested": "2026-08-04T01:08:42.692676+00:00",
    "headline": "Bank of Korea: August inflation likely to rise on base effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9705893,
-   "ts": "2026-08-04T00:01:04+00:00",
-   "ingested": "2026-08-04T01:08:42.692693+00:00",
-   "headline": "Ireland S&P Global July manufacturing PMI at 55.1 vs 54.9 in June",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9705892,
-   "ts": "2026-08-03T23:50:02+00:00",
-   "ingested": "2026-08-04T01:08:42.692709+00:00",
-   "headline": "Japanese Monetary Base YoY Actual -13.8% (Forecast -, Previous -13.7%)",
    "channel": "rss",
    "source": "financialjuice"
   }
