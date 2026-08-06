@@ -1,7 +1,55 @@
 {
- "updated": "2026-08-06T09:08:44.016747+00:00",
+ "updated": "2026-08-06T11:31:20.245415+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9710360,
+   "ts": "2026-08-06T11:03:01+00:00",
+   "ingested": "2026-08-06T11:31:20.244995+00:00",
+   "headline": "$WBD Warner Bros Discovery Q2 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710359,
+   "ts": "2026-08-06T11:02:19+00:00",
+   "ingested": "2026-08-06T11:31:20.245017+00:00",
+   "headline": "$COP ConocoPhillips Q2 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710310,
+   "ts": "2026-08-06T10:20:06+00:00",
+   "ingested": "2026-08-06T11:31:20.245036+00:00",
+   "headline": "ECB's Nagel's bid for Lagarde's job at ECB advances with talks in Berlin",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710309,
+   "ts": "2026-08-06T10:19:00+00:00",
+   "ingested": "2026-08-06T11:31:20.245055+00:00",
+   "headline": "Poll: Canadian dollar forecast to strengthen 2.6% to 1.366/usd in 12 months (vs 1.360 in July poll)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710308,
+   "ts": "2026-08-06T10:18:48+00:00",
+   "ingested": "2026-08-06T11:31:20.245072+00:00",
+   "headline": "Poll: Canadian dollar forecast to be barely changed at 1.40/usd in 3 months (unchanged from July poll)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710232,
+   "ts": "2026-08-06T09:30:50+00:00",
+   "ingested": "2026-08-06T11:31:20.245142+00:00",
+   "headline": "US Challenger Layoffs Actual 33.429k (Forecast -, Previous 45.849k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9710180,
    "ts": "2026-08-06T09:00:02+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-08-04T11:01:23+00:00",
    "ingested": "2026-08-04T12:13:10.591982+00:00",
    "headline": "$MCD McDonald's Q2 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706670,
-   "ts": "2026-08-04T10:51:46+00:00",
-   "ingested": "2026-08-04T12:13:10.591995+00:00",
-   "headline": "Qatar: Nothing in books when it comes to US-Iran direct talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706669,
-   "ts": "2026-08-04T10:51:35+00:00",
-   "ingested": "2026-08-04T12:13:10.592008+00:00",
-   "headline": "Qatar: Resolution would help to go back to US-Iran talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706668,
-   "ts": "2026-08-04T10:51:27+00:00",
-   "ingested": "2026-08-04T12:13:10.592021+00:00",
-   "headline": "Qatar: Focus right now is on short-term resolution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706667,
-   "ts": "2026-08-04T10:51:19+00:00",
-   "ingested": "2026-08-04T12:13:10.592034+00:00",
-   "headline": "Qatar: Draft on possible pact is circulating between parties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706694,
-   "ts": "2026-08-04T10:48:06+00:00",
-   "ingested": "2026-08-04T12:13:10.592046+00:00",
-   "headline": "$PFE Pfizer Q2 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706654,
-   "ts": "2026-08-04T10:45:34+00:00",
-   "ingested": "2026-08-04T12:13:10.592058+00:00",
-   "headline": "Qatar: Efforts are 'ongoing' for US-Iran resolution",
    "channel": "rss",
    "source": "financialjuice"
   }
