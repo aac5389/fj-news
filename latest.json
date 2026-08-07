@@ -1,7 +1,79 @@
 {
- "updated": "2026-08-07T16:10:32.888344+00:00",
+ "updated": "2026-08-07T17:10:35.430782+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9712683,
+   "ts": "2026-08-07T17:01:01+00:00",
+   "ingested": "2026-08-07T17:10:35.430368+00:00",
+   "headline": "US Baker Hughes Total Rig Count Actual 588 (Forecast -, Previous 588)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712682,
+   "ts": "2026-08-07T17:01:01+00:00",
+   "ingested": "2026-08-07T17:10:35.430393+00:00",
+   "headline": "US Baker Hughes Oil Rig Count Actual 454 (Forecast -, Previous 451)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712678,
+   "ts": "2026-08-07T16:49:25+00:00",
+   "ingested": "2026-08-07T17:10:35.430412+00:00",
+   "headline": "Trump moving forward with attempt to fire Fed's Cook after Supreme Court setback - ABC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712677,
+   "ts": "2026-08-07T16:48:07+00:00",
+   "ingested": "2026-08-07T17:10:35.430430+00:00",
+   "headline": "Iraqi PM: Iraq will not allow its territory to be used for actions targeting other countries - PM Office.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712674,
+   "ts": "2026-08-07T16:46:49+00:00",
+   "ingested": "2026-08-07T17:10:35.430448+00:00",
+   "headline": "Iraqi PM receives Saudi general intelligence chief. Discusses coordination on regional security developments - PM Office Statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712664,
+   "ts": "2026-08-07T16:40:36+00:00",
+   "ingested": "2026-08-07T17:10:35.430467+00:00",
+   "headline": "OpenAI to share Astra with governments for safety testing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712663,
+   "ts": "2026-08-07T16:38:39+00:00",
+   "ingested": "2026-08-07T17:10:35.430480+00:00",
+   "headline": "OpenAI: Astra indicates significant advancements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712652,
+   "ts": "2026-08-07T16:31:50+00:00",
+   "ingested": "2026-08-07T17:10:35.430493+00:00",
+   "headline": "OpenAI slows release of Astra model on cyber capabilities - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9712648,
+   "ts": "2026-08-07T16:30:23+00:00",
+   "ingested": "2026-08-07T17:10:35.430511+00:00",
+   "headline": "Iraqi Armed Forces Spokesperson: Saudi Arabia has not yet provided any evidence or proof to support its claims regarding attacks on Iraqi territory - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9712612,
    "ts": "2026-08-07T15:49:30+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-08-05T08:06:03+00:00",
    "ingested": "2026-08-05T09:58:41.449863+00:00",
    "headline": "China to tighten drone export controls to the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708372,
-   "ts": "2026-08-05T08:05:51+00:00",
-   "ingested": "2026-08-05T09:58:41.449890+00:00",
-   "headline": "EU receives \u20ac1.4 billion in revenue from immobilised Russian assets to be used for supporting Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708353,
-   "ts": "2026-08-05T08:00:00+00:00",
-   "ingested": "2026-08-05T09:58:41.449940+00:00",
-   "headline": "Eurozone Composite Final PMI Actual 52 (Forecast 51.9, Previous 51.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708351,
-   "ts": "2026-08-05T07:50:00+00:00",
-   "ingested": "2026-08-05T09:58:41.449966+00:00",
-   "headline": "French Services PMI Actual 49.6 (Forecast 49.8, Previous 49.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708307,
-   "ts": "2026-08-05T07:23:31+00:00",
-   "ingested": "2026-08-05T09:58:41.450059+00:00",
-   "headline": "60-Day Correation Matrix",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708304,
-   "ts": "2026-08-05T07:19:34+00:00",
-   "ingested": "2026-08-05T09:58:41.450095+00:00",
-   "headline": "Japan cabinet approves plan to slash consumption tax on food to 1% from 8% - Minister attending meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708303,
-   "ts": "2026-08-05T07:18:11+00:00",
-   "ingested": "2026-08-05T09:58:41.450125+00:00",
-   "headline": "Italy's Economy Minister Giorgetti: Italy to use EU escape clause on energy and defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708296,
-   "ts": "2026-08-05T07:15:34+00:00",
-   "ingested": "2026-08-05T09:58:41.450149+00:00",
-   "headline": "Japan cabinet approves food consumption tax cut -Kyodo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708290,
-   "ts": "2026-08-05T07:03:53+00:00",
-   "ingested": "2026-08-05T07:11:56.176876+00:00",
-   "headline": "Yemen's Houthis: Will target ships north of the Red Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708289,
-   "ts": "2026-08-05T07:03:38+00:00",
-   "ingested": "2026-08-05T07:11:56.176917+00:00",
-   "headline": "Yemen's Houthis attacked a Saudi oil tanker off Yanbu with missiles - Military spokesperson",
    "channel": "rss",
    "source": "financialjuice"
   }
