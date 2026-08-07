@@ -1,7 +1,87 @@
 {
- "updated": "2026-08-07T05:19:51.903492+00:00",
+ "updated": "2026-08-07T06:37:49.011737+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9711801,
+   "ts": "2026-08-07T06:19:23+00:00",
+   "ingested": "2026-08-07T06:37:49.011343+00:00",
+   "headline": "Lloyd's: Affordability remains a challenge",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711797,
+   "ts": "2026-08-07T06:18:00+00:00",
+   "ingested": "2026-08-07T06:37:49.011374+00:00",
+   "headline": "UK house prices rose 0.1% on the year in July -Lloyds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711795,
+   "ts": "2026-08-07T06:17:44+00:00",
+   "ingested": "2026-08-07T06:37:49.011394+00:00",
+   "headline": "UK house prices fell 0.3% on the quarter in July -Lloyds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711794,
+   "ts": "2026-08-07T06:17:30+00:00",
+   "ingested": "2026-08-07T06:37:49.011415+00:00",
+   "headline": "UK house prices unchanged on the month in July -Lloyds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711759,
+   "ts": "2026-08-07T06:00:06+00:00",
+   "ingested": "2026-08-07T06:37:49.011438+00:00",
+   "headline": "German Trade Balance SA Actual 15.4B (Forecast 17.2B, Previous 19.1B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711758,
+   "ts": "2026-08-07T06:00:06+00:00",
+   "ingested": "2026-08-07T06:37:49.011451+00:00",
+   "headline": "German Exports MoM SA Actual 0.9% (Forecast 0.5%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711757,
+   "ts": "2026-08-07T06:00:05+00:00",
+   "ingested": "2026-08-07T06:37:49.011463+00:00",
+   "headline": "German Imports MoM SA Actual 4.4% (Forecast 2%, Previous -2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711756,
+   "ts": "2026-08-07T06:00:02+00:00",
+   "ingested": "2026-08-07T06:37:49.011475+00:00",
+   "headline": "German Industrial Production YoY SA Actual -0.1% (Forecast 0.1%, Previous 0.11%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711755,
+   "ts": "2026-08-07T06:00:02+00:00",
+   "ingested": "2026-08-07T06:37:49.011487+00:00",
+   "headline": "German Industrial Production MoM Actual 0.2% (Forecast 0.2%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711729,
+   "ts": "2026-08-07T05:30:00+00:00",
+   "ingested": "2026-08-07T06:37:49.011499+00:00",
+   "headline": "French ILO Unemployment Rate Actual 8.3% (Forecast 8.2%, Previous 8.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9711721,
    "ts": "2026-08-07T05:10:40+00:00",
@@ -3919,86 +3999,6 @@
    "ts": "2026-08-04T23:00:00+00:00",
    "ingested": "2026-08-04T23:37:56.706282+00:00",
    "headline": "Australian Services PMI Final Actual 53.6 (Forecast -, Previous 53.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707647,
-   "ts": "2026-08-04T22:45:03+00:00",
-   "ingested": "2026-08-04T23:37:56.706297+00:00",
-   "headline": "NZ Q2 LCI private sector wages (excluding overtime) rise 0.7% on previous quarter (Poll: 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707646,
-   "ts": "2026-08-04T22:45:03+00:00",
-   "ingested": "2026-08-04T23:37:56.706310+00:00",
-   "headline": "NZ Q2 LCI private sector wages excluding overtime rise 2.1% on year, poll was 2.0%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707645,
-   "ts": "2026-08-04T22:45:03+00:00",
-   "ingested": "2026-08-04T23:37:56.706323+00:00",
-   "headline": "New Zealand Q2 seasonally adjusted jobs growth +0.5% quarter on quarter: poll +0.2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707643,
-   "ts": "2026-08-04T22:45:03+00:00",
-   "ingested": "2026-08-04T23:37:56.706336+00:00",
-   "headline": "New Zealand q2 s/adj unemployment rate 5.6%, poll 5.4%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707642,
-   "ts": "2026-08-04T22:45:03+00:00",
-   "ingested": "2026-08-04T23:37:56.706349+00:00",
-   "headline": "NZ Q2 labor force participation rate 70.7%, poll estimated 70.3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707641,
-   "ts": "2026-08-04T22:45:01+00:00",
-   "ingested": "2026-08-04T23:37:56.706365+00:00",
-   "headline": "New Zealand Participation Rate Actual 70.7% (Forecast 70.4%, Previous 70.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707640,
-   "ts": "2026-08-04T22:45:01+00:00",
-   "ingested": "2026-08-04T23:37:56.706380+00:00",
-   "headline": "New Zealand Job Growth QoQ Actual 0.5% (Forecast 0.1%, Previous 0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707639,
-   "ts": "2026-08-04T22:45:00+00:00",
-   "ingested": "2026-08-04T23:37:56.706393+00:00",
-   "headline": "New Zealand Unemployment Rate Actual 5.6% (Forecast 5.4%, Previous 5.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707613,
-   "ts": "2026-08-04T22:07:04+00:00",
-   "ingested": "2026-08-04T22:35:04.616315+00:00",
-   "headline": "20-Storey Apartment Building in Ukraine's Kyiv Catches Fire After Russian Airstrike, Mayor Says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707601,
-   "ts": "2026-08-04T22:01:44+00:00",
-   "ingested": "2026-08-04T22:35:04.616340+00:00",
-   "headline": "US Treasury Secretary Bessent: I am confident BoJ Governor Ueda will act in best interest of Japanese economy",
    "channel": "rss",
    "source": "financialjuice"
   }
