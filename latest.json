@@ -1,7 +1,783 @@
 {
- "updated": "2026-08-06T15:30:15.090889+00:00",
+ "updated": "2026-08-07T00:33:06.511162+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9711379,
+   "ts": "2026-08-07T00:14:36+00:00",
+   "ingested": "2026-08-07T00:33:06.509277+00:00",
+   "headline": "China PBOC likely to set yuan midpoint at 6.7548 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711372,
+   "ts": "2026-08-06T23:53:19+00:00",
+   "ingested": "2026-08-07T00:33:06.509302+00:00",
+   "headline": "Meta on New Mexico court ruling: disagrees with decision, plans to appeal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711371,
+   "ts": "2026-08-06T23:50:31+00:00",
+   "ingested": "2026-08-07T00:33:06.509321+00:00",
+   "headline": "Japan carried out yen-buying intervention on three days in April and May, finance ministry data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711370,
+   "ts": "2026-08-06T23:50:24+00:00",
+   "ingested": "2026-08-07T00:33:06.509340+00:00",
+   "headline": "Japan's biggest daily intervention in April-June quarter reached 6.2787 trillion yen on April 30, finance ministry data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711369,
+   "ts": "2026-08-06T23:50:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509356+00:00",
+   "headline": "Japan foreign reserves $1.29 trillion at end-july, down from $1.29 trillion at end-june: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711356,
+   "ts": "2026-08-06T23:40:53+00:00",
+   "ingested": "2026-08-07T00:33:06.509374+00:00",
+   "headline": "Japan govt official on June household spending: Typhoons, cold weather and more rain led to reduced beverage and dining out expenses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711355,
+   "ts": "2026-08-06T23:37:21+00:00",
+   "ingested": "2026-08-07T00:33:06.509389+00:00",
+   "headline": "New Mexico court directs Meta to pay $567 million abatement fund addressing awareness and prevention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711354,
+   "ts": "2026-08-06T23:34:34+00:00",
+   "ingested": "2026-08-07T00:33:06.509405+00:00",
+   "headline": "New Mexico court mandates Meta to set 90-hour monthly limit on Facebook, Instagram for under-18 users in state",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711353,
+   "ts": "2026-08-06T23:33:17+00:00",
+   "ingested": "2026-08-07T00:33:06.509418+00:00",
+   "headline": "New Mexico court directs Meta to identify users under 13 and remove their accounts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711352,
+   "ts": "2026-08-06T23:33:17+00:00",
+   "ingested": "2026-08-07T00:33:06.509431+00:00",
+   "headline": "New Mexico court directs Meta to enhance sextortion detection, obscure nude images",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711348,
+   "ts": "2026-08-06T23:32:01+00:00",
+   "ingested": "2026-08-07T00:33:06.509444+00:00",
+   "headline": "New Mexico court directs Meta to locate users undefined",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711347,
+   "ts": "2026-08-06T23:32:01+00:00",
+   "ingested": "2026-08-07T00:33:06.509457+00:00",
+   "headline": "Users under 13 must delete their accounts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711331,
+   "ts": "2026-08-06T23:30:56+00:00",
+   "ingested": "2026-08-07T00:33:06.509471+00:00",
+   "headline": "Japanese All Household Spending MoM Actual -6.4% (Forecast -, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711332,
+   "ts": "2026-08-06T23:30:09+00:00",
+   "ingested": "2026-08-07T00:33:06.509486+00:00",
+   "headline": "Japan June household spending falls 6.4% month-on-month, government data shows (Poll: -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711330,
+   "ts": "2026-08-06T23:30:07+00:00",
+   "ingested": "2026-08-07T00:33:06.509499+00:00",
+   "headline": "Japan June household spending declines 3.3% year on year: govt (Poll +1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711329,
+   "ts": "2026-08-06T23:30:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509513+00:00",
+   "headline": "Japanese All Household Spending YoY Actual -3.3% (Forecast 0.9%, Previous -0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711328,
+   "ts": "2026-08-06T23:29:57+00:00",
+   "ingested": "2026-08-07T00:33:06.509526+00:00",
+   "headline": "New Mexico court rules Meta products fuel state youth mental health crisis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711327,
+   "ts": "2026-08-06T23:28:19+00:00",
+   "ingested": "2026-08-07T00:33:06.509540+00:00",
+   "headline": "New Mexico jury orders Meta to pay $375 million in penalties, plus $567 million court-ordered fund",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711326,
+   "ts": "2026-08-06T23:21:41+00:00",
+   "ingested": "2026-08-07T00:33:06.509555+00:00",
+   "headline": "New Mexico court orders Meta to pay $567 million over state lawsuit alleging exposure of children to sexual exploitation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711264,
+   "ts": "2026-08-06T22:16:24+00:00",
+   "ingested": "2026-08-07T00:33:06.509567+00:00",
+   "headline": "Fed's Musalem: inflation expectations stable and align with 2% target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711263,
+   "ts": "2026-08-06T22:16:23+00:00",
+   "ingested": "2026-08-07T00:33:06.509579+00:00",
+   "headline": "Fed's Musalem: inflation expectations risk losing anchor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711262,
+   "ts": "2026-08-06T22:16:23+00:00",
+   "ingested": "2026-08-07T00:33:06.509592+00:00",
+   "headline": "Fed's Musalem: Sometimes it's acceptable for central bank to surprise markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711261,
+   "ts": "2026-08-06T22:16:23+00:00",
+   "ingested": "2026-08-07T00:33:06.509612+00:00",
+   "headline": "Fed's Musalem: focused on core inflation amid energy market volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711260,
+   "ts": "2026-08-06T22:16:23+00:00",
+   "ingested": "2026-08-07T00:33:06.509638+00:00",
+   "headline": "Fed's Musalem: central banks have faced increased supply shocks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711257,
+   "ts": "2026-08-06T22:14:29+00:00",
+   "ingested": "2026-08-07T00:33:06.509660+00:00",
+   "headline": "fertile ground for inflation expectations to slip unstuck",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711256,
+   "ts": "2026-08-06T22:13:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509683+00:00",
+   "headline": "El Nino weather event could trigger new supply shock",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711255,
+   "ts": "2026-08-06T22:13:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509707+00:00",
+   "headline": "Job market appears to be stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711254,
+   "ts": "2026-08-06T22:13:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509723+00:00",
+   "headline": "Fed must prioritize what's right, not be led by markets: officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711253,
+   "ts": "2026-08-06T22:13:04+00:00",
+   "ingested": "2026-08-07T00:33:06.509736+00:00",
+   "headline": "Financial conditions remain very accommodative: Fed is monitoring that",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711252,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509749+00:00",
+   "headline": "Tunes Out Political Noise, Focuses on Fed's Mandate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711251,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509762+00:00",
+   "headline": "US remains fastest-growing and most innovative economy, maintains strong rule of law",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711250,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509775+00:00",
+   "headline": "Doesn't anticipate conditions to dethrone dollar as main reserve currency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711249,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509788+00:00",
+   "headline": "there are times when it's acceptable for Fed to surprise markets:",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711248,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509800+00:00",
+   "headline": "inflation expectations steady and align with 2% target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711247,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509811+00:00",
+   "headline": "Central banks face increasing supply disruptions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711246,
+   "ts": "2026-08-06T22:13:03+00:00",
+   "ingested": "2026-08-07T00:33:06.509822+00:00",
+   "headline": "Many asset prices remain elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711245,
+   "ts": "2026-08-06T22:11:26+00:00",
+   "ingested": "2026-08-07T00:33:06.509835+00:00",
+   "headline": "Fed's Musalem: central banks face increased supply disruptions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711244,
+   "ts": "2026-08-06T22:10:51+00:00",
+   "ingested": "2026-08-07T00:33:06.509847+00:00",
+   "headline": "Fed's Musalem: no signs conditions will dethrone dollar as main reserve currency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711243,
+   "ts": "2026-08-06T22:10:27+00:00",
+   "ingested": "2026-08-07T00:33:06.509861+00:00",
+   "headline": "Fed's Musalem: US remains fastest-growing, most innovative economy with effective rule of law",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711242,
+   "ts": "2026-08-06T22:09:06+00:00",
+   "ingested": "2026-08-07T00:33:06.509873+00:00",
+   "headline": "Fed's Musalem: many asset prices remain high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711241,
+   "ts": "2026-08-06T22:08:43+00:00",
+   "ingested": "2026-08-07T00:33:06.509886+00:00",
+   "headline": "Fed's Musalem: financial conditions remain highly accommodative, central bank is monitoring",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711240,
+   "ts": "2026-08-06T22:06:20+00:00",
+   "ingested": "2026-08-07T00:33:06.509903+00:00",
+   "headline": "Microsoft commercial CEO Judson Althoff reports open market sale of 10,000 shares on Aug. 5 at avg price $487.89 per share: SEC filing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711239,
+   "ts": "2026-08-06T22:04:35+00:00",
+   "ingested": "2026-08-07T00:33:06.509916+00:00",
+   "headline": "Fed's Musalem: there are moments when central bank can surprise markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711238,
+   "ts": "2026-08-06T22:04:06+00:00",
+   "ingested": "2026-08-07T00:33:06.509929+00:00",
+   "headline": "Fed's Musalem: central bank must act in best interest but can't be swayed by markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711237,
+   "ts": "2026-08-06T22:02:20+00:00",
+   "ingested": "2026-08-07T00:33:06.509941+00:00",
+   "headline": "Fed's Musalem: closely monitors financial markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711231,
+   "ts": "2026-08-06T21:58:15+00:00",
+   "ingested": "2026-08-07T00:33:06.509957+00:00",
+   "headline": "Fed\u2019s Musalem: tunes out political noise, focuses on central bank mandate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711230,
+   "ts": "2026-08-06T21:57:44+00:00",
+   "ingested": "2026-08-07T00:33:06.509970+00:00",
+   "headline": "Fed's Musalem: labor market appears to be in strong shape",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711229,
+   "ts": "2026-08-06T21:52:41+00:00",
+   "ingested": "2026-08-07T00:33:06.509985+00:00",
+   "headline": "Fed's Musalem: El Ni\u00f1o weather event could trigger new supply shock",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711228,
+   "ts": "2026-08-06T21:52:18+00:00",
+   "ingested": "2026-08-07T00:33:06.510001+00:00",
+   "headline": "Turkey, Saudi Arabia and Pakistan to ink joint defense pact in Saudi Arabia on Friday, two regional sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711227,
+   "ts": "2026-08-06T21:50:15+00:00",
+   "ingested": "2026-08-07T00:33:06.510013+00:00",
+   "headline": "Fed's Musalem: very receptive to Fed task forces",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711226,
+   "ts": "2026-08-06T21:49:03+00:00",
+   "ingested": "2026-08-07T00:33:06.510047+00:00",
+   "headline": "Fed's Musalem: wants to see monthly inflation rates under 0.2% readings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711225,
+   "ts": "2026-08-06T21:48:41+00:00",
+   "ingested": "2026-08-07T00:33:06.510065+00:00",
+   "headline": "Fed's Musalem: Labor Market Is Not an Inflation Driver",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711224,
+   "ts": "2026-08-06T21:48:26+00:00",
+   "ingested": "2026-08-07T00:33:06.510080+00:00",
+   "headline": "Fed's Musalem: core inflation probably between 2.5% and 3%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711223,
+   "ts": "2026-08-06T21:47:37+00:00",
+   "ingested": "2026-08-07T00:33:06.510093+00:00",
+   "headline": "Fed's Musalem: incremental rate hikes less costly than sudden changes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711207,
+   "ts": "2026-08-06T21:47:09+00:00",
+   "ingested": "2026-08-07T00:33:06.510106+00:00",
+   "headline": "Fed's Musalem: foresees greater likelihood inflation will stay above target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711205,
+   "ts": "2026-08-06T21:46:46+00:00",
+   "ingested": "2026-08-07T00:33:06.510118+00:00",
+   "headline": "Fed's Musalem: preferred increasing rates at recent FOMC meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711190,
+   "ts": "2026-08-06T21:25:13+00:00",
+   "ingested": "2026-08-07T00:33:06.510136+00:00",
+   "headline": "Canada\u2019s LeBlanc: Canadian trade negotiators held productive and detailed talks with USTR Greer in Washington on Thursday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711189,
+   "ts": "2026-08-06T21:23:40+00:00",
+   "ingested": "2026-08-07T00:33:06.510150+00:00",
+   "headline": "Saudi-led coalition: injured include seven Saudis, one Yemeni, two Egyptians and one Pakistani",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711188,
+   "ts": "2026-08-06T21:22:28+00:00",
+   "ingested": "2026-08-07T00:33:06.510164+00:00",
+   "headline": "Saudi-led coalition: 111 civilians wounded in Saudi Arabia's Najran from Houthi strikes - statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711171,
+   "ts": "2026-08-06T21:15:50+00:00",
+   "ingested": "2026-08-07T00:33:06.510178+00:00",
+   "headline": "White House: tariffs on polysilicon and related products start at 12:01 a.m. ET on December 4, 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711163,
+   "ts": "2026-08-06T21:12:40+00:00",
+   "ingested": "2026-08-07T00:33:06.510193+00:00",
+   "headline": "White House: minimum import price program for polysilicon and related products starts 12:01 a.m. eastern time December 4, 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711162,
+   "ts": "2026-08-06T21:12:22+00:00",
+   "ingested": "2026-08-07T00:33:06.510207+00:00",
+   "headline": "executive order blocks entry to u.s. for those intending to engage in birth tourism",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711161,
+   "ts": "2026-08-06T21:11:31+00:00",
+   "ingested": "2026-08-07T00:33:06.510221+00:00",
+   "headline": "Trump executive order on birth tourism permanently blocks entry to anyone attempting to enter U.S. for birth tourism",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711160,
+   "ts": "2026-08-06T21:11:01+00:00",
+   "ingested": "2026-08-07T00:33:06.510234+00:00",
+   "headline": "Morocco ready to collaborate on repatriation of minors from Spain, state media says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711159,
+   "ts": "2026-08-06T21:10:16+00:00",
+   "ingested": "2026-08-07T00:33:06.510248+00:00",
+   "headline": "White House on birth tourism executive order: DHS chief may exempt foreign nationals for humanitarian reasons or national interest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711158,
+   "ts": "2026-08-06T21:08:47+00:00",
+   "ingested": "2026-08-07T00:33:06.510262+00:00",
+   "headline": "White House: U.S. sets minimum import price at $0.22 per watt for solar cells",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711157,
+   "ts": "2026-08-06T21:07:57+00:00",
+   "ingested": "2026-08-07T00:33:06.510276+00:00",
+   "headline": "White House: U.S. sets minimum import price of $100 per kilogram for polysilicon ingots and wafers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711156,
+   "ts": "2026-08-06T21:07:30+00:00",
+   "ingested": "2026-08-07T00:33:06.510289+00:00",
+   "headline": "White House: U.S. sets minimum import price at $21 per kilogram for polysilicon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711155,
+   "ts": "2026-08-06T21:05:57+00:00",
+   "ingested": "2026-08-07T00:33:06.510302+00:00",
+   "headline": "White House: Trump decides to impose 15% ad valorem tariff on polysilicon derivative imports",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711123,
+   "ts": "2026-08-06T20:44:47+00:00",
+   "ingested": "2026-08-07T00:33:06.510316+00:00",
+   "headline": "Saudi Official: Potential attacks could target civilian and economic sites, including energy infrastructure, ports and airports.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711122,
+   "ts": "2026-08-06T20:44:29+00:00",
+   "ingested": "2026-08-07T00:33:06.510331+00:00",
+   "headline": "Saudi official: Saudi Arabia has spotted drones and missiles being relocated, hinting at possible coordinated attacks from north and south",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711120,
+   "ts": "2026-08-06T20:41:52+00:00",
+   "ingested": "2026-08-07T00:33:06.510344+00:00",
+   "headline": "Saudi Official: Will take all necessary measures to respond to any aggression.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711119,
+   "ts": "2026-08-06T20:41:13+00:00",
+   "ingested": "2026-08-07T00:33:06.510359+00:00",
+   "headline": "Saudi Official: Saudi-US cooperation remains very high and strong at all levels, including operationally with US CENTCOM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711118,
+   "ts": "2026-08-06T20:40:40+00:00",
+   "ingested": "2026-08-07T00:33:06.510375+00:00",
+   "headline": "Saudi Official: Reports of planned attacks are shocking as Riyadh pursues de-escalation and peaceful resolution. Negotiations appear to be moving in the right direction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711114,
+   "ts": "2026-08-06T20:28:37+00:00",
+   "ingested": "2026-08-07T00:33:06.510391+00:00",
+   "headline": "Trump on munitions supply: We have unlimited supply.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711113,
+   "ts": "2026-08-06T20:28:04+00:00",
+   "ingested": "2026-08-07T00:33:06.510403+00:00",
+   "headline": "Trump: I'm involved in the negotiation around the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711112,
+   "ts": "2026-08-06T20:25:24+00:00",
+   "ingested": "2026-08-07T00:33:06.510415+00:00",
+   "headline": "Trump: Strait is sort of open right now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711111,
+   "ts": "2026-08-06T20:25:18+00:00",
+   "ingested": "2026-08-07T00:33:06.510428+00:00",
+   "headline": "Trump: Don't think Iran can go much longer.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711110,
+   "ts": "2026-08-06T20:25:12+00:00",
+   "ingested": "2026-08-07T00:33:06.510440+00:00",
+   "headline": "Trump on Iran: I think war will end pretty soon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711088,
+   "ts": "2026-08-06T20:14:35+00:00",
+   "ingested": "2026-08-07T00:33:06.510452+00:00",
+   "headline": "US Nonfarm Payrolls Cribsheet - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711087,
+   "ts": "2026-08-06T20:13:11+00:00",
+   "ingested": "2026-08-07T00:33:06.510463+00:00",
+   "headline": "Trump signs executive order targeting polysilicon industry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711066,
+   "ts": "2026-08-06T19:59:57+00:00",
+   "ingested": "2026-08-07T00:33:06.510477+00:00",
+   "headline": "OpenAI: New device doesn\u2019t infringe on Apple trade secrets. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711065,
+   "ts": "2026-08-06T19:59:54+00:00",
+   "ingested": "2026-08-07T00:33:06.510489+00:00",
+   "headline": "Ring-shaped OpenAI device will be portable around the house",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711064,
+   "ts": "2026-08-06T19:59:51+00:00",
+   "ingested": "2026-08-07T00:33:06.510501+00:00",
+   "headline": "OpenAI says product will use moving parts, lights to seem lifelike",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711063,
+   "ts": "2026-08-06T19:59:49+00:00",
+   "ingested": "2026-08-07T00:33:06.510514+00:00",
+   "headline": "OpenAI\u2019s gadget to resemble small doughnut with price exceeding $300",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711037,
+   "ts": "2026-08-06T19:27:29+00:00",
+   "ingested": "2026-08-07T00:33:06.510529+00:00",
+   "headline": "Japan to share advance defense procurement plans with contractors - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711036,
+   "ts": "2026-08-06T19:25:47+00:00",
+   "ingested": "2026-08-07T00:33:06.510545+00:00",
+   "headline": "2 explosions heard on Qeshm Island were linked to action against hostile targets near Strait of Hormuz entrance - Iran's Tasnim cites informed sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711035,
+   "ts": "2026-08-06T19:24:07+00:00",
+   "ingested": "2026-08-07T00:33:06.510557+00:00",
+   "headline": "Iran struck hostile targets in Strait of Hormuz - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711011,
+   "ts": "2026-08-06T19:14:54+00:00",
+   "ingested": "2026-08-07T00:33:06.510576+00:00",
+   "headline": "Trump administration likely to decline requests from some US solar makers for faster rollout of new tariff and price floor on polysilicon imports - source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9711000,
+   "ts": "2026-08-06T18:57:54+00:00",
+   "ingested": "2026-08-07T00:33:06.510588+00:00",
+   "headline": "Trump spoke with Saudi leader several hours ago - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710999,
+   "ts": "2026-08-06T18:47:51+00:00",
+   "ingested": "2026-08-07T00:33:06.510600+00:00",
+   "headline": "Brent Crude futures settle at $82.49/bbl, up $3.04, 3.83%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710980,
+   "ts": "2026-08-06T18:33:25+00:00",
+   "ingested": "2026-08-07T00:33:06.510617+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf on Trump: Acknowledge the facts and fulfill your commitments. We don\u2019t need more theater - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710968,
+   "ts": "2026-08-06T18:31:47+00:00",
+   "ingested": "2026-08-07T00:33:06.510629+00:00",
+   "headline": "NYMEX Nat Gas Sept. futures settle at $2.6400/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710964,
+   "ts": "2026-08-06T18:31:23+00:00",
+   "ingested": "2026-08-07T00:33:06.510641+00:00",
+   "headline": "NYMEX Gasoline Sept. futures settle at $2.9385 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710963,
+   "ts": "2026-08-06T18:31:14+00:00",
+   "ingested": "2026-08-07T00:33:06.510653+00:00",
+   "headline": "NYMEX Diesel Sept. futures settle at $3.8820 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710962,
+   "ts": "2026-08-06T18:31:02+00:00",
+   "ingested": "2026-08-07T00:33:06.510667+00:00",
+   "headline": "NYMEX WTI crude September futures settle at $77.29 a barrel up $2.07, 2.75%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9710959,
+   "ts": "2026-08-06T18:28:08+00:00",
+   "ingested": "2026-08-07T00:33:06.510684+00:00",
+   "headline": "Japan\u2019s FSA to establish study group of outside experts as early as this FY to consider changes to rules, including raising 10% limit - Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9710705,
    "ts": "2026-08-06T15:01:16+00:00",
@@ -3223,782 +3999,6 @@
    "ts": "2026-08-04T19:32:01+00:00",
    "ingested": "2026-08-04T20:02:28.429362+00:00",
    "headline": "SpaceX: SpaceX is partnering with Nvidia. $SPCX $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707403,
-   "ts": "2026-08-04T19:23:04+00:00",
-   "ingested": "2026-08-04T20:02:28.429378+00:00",
-   "headline": "House China Panel's report expected as soon as Tuesday.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707402,
-   "ts": "2026-08-04T19:22:55+00:00",
-   "ingested": "2026-08-04T20:02:28.429392+00:00",
-   "headline": "A Chinese telecom hack exposed data centers - House Report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707401,
-   "ts": "2026-08-04T19:22:53+00:00",
-   "ingested": "2026-08-04T20:02:28.429406+00:00",
-   "headline": "House China Panel's report points to cybersecurity risks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707379,
-   "ts": "2026-08-04T18:54:13+00:00",
-   "ingested": "2026-08-04T20:02:28.429425+00:00",
-   "headline": "Europe could foot bill in new plan to reopen Hormuz - The Telegraph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707378,
-   "ts": "2026-08-04T18:48:32+00:00",
-   "ingested": "2026-08-04T20:02:28.429443+00:00",
-   "headline": "Brent Crude futures settle at $79.36/bbl, down $4.41, 5.26%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707350,
-   "ts": "2026-08-04T18:31:55+00:00",
-   "ingested": "2026-08-04T20:02:28.429456+00:00",
-   "headline": "NYMEX Nat Gas Sept. futures settle at $2.6820/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707348,
-   "ts": "2026-08-04T18:31:28+00:00",
-   "ingested": "2026-08-04T20:02:28.429470+00:00",
-   "headline": "NYMEX Diesel Sept. futures settle at $3.7705 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707347,
-   "ts": "2026-08-04T18:31:19+00:00",
-   "ingested": "2026-08-04T20:02:28.429484+00:00",
-   "headline": "NYMEX Gasoline Sept. futures settle at $2.8522 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707346,
-   "ts": "2026-08-04T18:31:03+00:00",
-   "ingested": "2026-08-04T20:02:28.429499+00:00",
-   "headline": "NYMEX WTI Crude Sept. futures settle at $75.77 a barrel down $4.57, 5.69%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707344,
-   "ts": "2026-08-04T18:28:46+00:00",
-   "ingested": "2026-08-04T20:02:28.429521+00:00",
-   "headline": "US Official: Strait of Hormuz is an international waterway and no party controls its routes or the ability to pass through it - Al Jazeera",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707343,
-   "ts": "2026-08-04T18:25:16+00:00",
-   "ingested": "2026-08-04T20:02:28.429540+00:00",
-   "headline": "Negotiations on document to reopen Strait of Hormuz via Pakistan-mediated indirect US-Iran talks are close to finalization - Asia One News' Anas Malik",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707342,
-   "ts": "2026-08-04T18:21:35+00:00",
-   "ingested": "2026-08-04T20:02:28.429556+00:00",
-   "headline": "Iran-Oman agreement alone would not ensure security of the Strait of Hormuz - Fars News citing source close to negotiating team",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707341,
-   "ts": "2026-08-04T18:20:28+00:00",
-   "ingested": "2026-08-04T20:02:28.429575+00:00",
-   "headline": "Still concern that the obstructionist actions of the US or some regional parties may prolong or disrupt the negotiation process - Iran's Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707340,
-   "ts": "2026-08-04T18:19:45+00:00",
-   "ingested": "2026-08-04T20:02:28.429589+00:00",
-   "headline": "White House expected to extend Jones Act waiver in coming days - sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707339,
-   "ts": "2026-08-04T18:19:09+00:00",
-   "ingested": "2026-08-04T20:02:28.429606+00:00",
-   "headline": "In recent days, some US officials have sent mixed signals, directly or through some of their regional partners, causing disruptions in the negotiation process - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707338,
-   "ts": "2026-08-04T18:17:55+00:00",
-   "ingested": "2026-08-04T20:02:28.429621+00:00",
-   "headline": "Source close to negotiating team says no negotiations have been held with US - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707333,
-   "ts": "2026-08-04T18:17:21+00:00",
-   "ingested": "2026-08-04T20:02:28.429636+00:00",
-   "headline": "Source close to negotiating team says Iran is negotiating only with Oman on future Strait of Hormuz arrangements - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707317,
-   "ts": "2026-08-04T18:11:18+00:00",
-   "ingested": "2026-08-04T18:16:05.793603+00:00",
-   "headline": "Qatar's Emir and Trump discuss efforts to reduce escalation and converge viewpoints between US and Iran - Emir's Office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707276,
-   "ts": "2026-08-04T17:20:13+00:00",
-   "ingested": "2026-08-04T18:16:05.793629+00:00",
-   "headline": "API CEO: About 7mb/d of oil flows through Hormuz each day.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707254,
-   "ts": "2026-08-04T17:01:00+00:00",
-   "ingested": "2026-08-04T18:16:05.793648+00:00",
-   "headline": "US: Israel-Lebanon talks began today to continue through August 6th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707251,
-   "ts": "2026-08-04T16:49:02+00:00",
-   "ingested": "2026-08-04T18:16:05.793669+00:00",
-   "headline": "India Shipping Minister: Indian MSV Faize Noore Oliya has been hit by a projectile near Yemeni waters, causing the vessel to capsize and sink.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707229,
-   "ts": "2026-08-04T16:20:09+00:00",
-   "ingested": "2026-08-04T16:32:48.335102+00:00",
-   "headline": "Iran's Foreign Ministry spokesman: Talks have been positive at technical and political levels.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707228,
-   "ts": "2026-08-04T16:20:07+00:00",
-   "ingested": "2026-08-04T16:32:48.335147+00:00",
-   "headline": "Iran's Foreign Ministry spokesman: Iran, Oman are developing mechanisms for future shipping arrangements in the strategic waterway",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707227,
-   "ts": "2026-08-04T16:19:23+00:00",
-   "ingested": "2026-08-04T16:32:48.335192+00:00",
-   "headline": "Iran's Foreign Ministry Spokeman announced the continuation of negotiations between Iran and Oman aimed at ensuring the safe passage of shipping traffic in the Strait of Hormuz - IRIB.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707206,
-   "ts": "2026-08-04T16:03:52+00:00",
-   "ingested": "2026-08-04T16:32:48.335232+00:00",
-   "headline": "The Trump Administration is preparing to set a price floor and tariffs on imports of polysilicon and derivative products used in chips and solar panels - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707170,
-   "ts": "2026-08-04T15:45:44+00:00",
-   "ingested": "2026-08-04T16:32:48.335261+00:00",
-   "headline": "Traders no longer price 25bps of BoE rate hikes this year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707166,
-   "ts": "2026-08-04T15:39:51+00:00",
-   "ingested": "2026-08-04T16:32:48.335288+00:00",
-   "headline": "Iran weighs allowing Europe to clear mines in the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707164,
-   "ts": "2026-08-04T15:34:17+00:00",
-   "ingested": "2026-08-04T16:32:48.335348+00:00",
-   "headline": "US 52-Week Bill Bid-to-Cover Actual 3.620 (Forecast -, Previous 3.140)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707163,
-   "ts": "2026-08-04T15:33:30+00:00",
-   "ingested": "2026-08-04T16:32:48.335381+00:00",
-   "headline": "US 52-Week Bill Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707162,
-   "ts": "2026-08-04T15:32:04+00:00",
-   "ingested": "2026-08-04T16:32:48.335416+00:00",
-   "headline": "US 52-Week Bill High Yield Actual 3.88% (Forecast -, Previous 3.860%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707133,
-   "ts": "2026-08-04T15:10:30+00:00",
-   "ingested": "2026-08-04T16:32:48.335463+00:00",
-   "headline": "The remaining obstacle in talks is the continued obstruction by the United States and its regional accomplices - Official tells Press TV.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707132,
-   "ts": "2026-08-04T15:10:06+00:00",
-   "ingested": "2026-08-04T16:32:48.335505+00:00",
-   "headline": "The progress achieved during this period has been significant, and a bilateral Iran-Oman agreement is within reach - Press TV citing an Informed Source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707130,
-   "ts": "2026-08-04T15:08:44+00:00",
-   "ingested": "2026-08-04T16:32:48.335548+00:00",
-   "headline": "Iran-Oman Strait of Hormuz corridor talks enter new phase despite US obstruction - Press TV Citing Informed Source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707129,
-   "ts": "2026-08-04T15:06:55+00:00",
-   "ingested": "2026-08-04T16:32:48.335585+00:00",
-   "headline": "Nvidia: Nvidia Alpamayo 2 Super, the frontier open model for robotaxis and autonomous vehicles, now available for commercial use. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707125,
-   "ts": "2026-08-04T15:02:05+00:00",
-   "ingested": "2026-08-04T16:32:48.335615+00:00",
-   "headline": "DDN and Nvidia Collaborate on GPU-Initiated Data Access for AI $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707110,
-   "ts": "2026-08-04T15:00:40+00:00",
-   "ingested": "2026-08-04T16:32:48.335647+00:00",
-   "headline": "The US to sell $110 billion 4-week bills on August 6th, to settle on August 11th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707066,
-   "ts": "2026-08-04T14:18:52+00:00",
-   "ingested": "2026-08-04T14:41:49.071878+00:00",
-   "headline": "Crypto Fear & Greed Index: 25/100 - Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707065,
-   "ts": "2026-08-04T14:17:57+00:00",
-   "ingested": "2026-08-04T14:41:49.071902+00:00",
-   "headline": "Fear & Greed Index: 55/100 - Neutral",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707042,
-   "ts": "2026-08-04T14:12:28+00:00",
-   "ingested": "2026-08-04T14:41:49.071920+00:00",
-   "headline": "US Secretary of State Rubio: Iran and Oman are making progress in talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707041,
-   "ts": "2026-08-04T14:07:45+00:00",
-   "ingested": "2026-08-04T14:41:49.071937+00:00",
-   "headline": "UK Government: Gatwick to open second runway as government wins legal challenge.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707039,
-   "ts": "2026-08-04T14:04:31+00:00",
-   "ingested": "2026-08-04T14:41:49.071952+00:00",
-   "headline": "US Secretary of State Rubio: Nothing final on Hormuz; hoping an agreement will happen very shortly.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707038,
-   "ts": "2026-08-04T14:03:08+00:00",
-   "ingested": "2026-08-04T14:41:49.071968+00:00",
-   "headline": "US Secretary of State Rubio: There's been progress made in talks with Iran to reopen the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9707012,
-   "ts": "2026-08-04T14:01:46+00:00",
-   "ingested": "2026-08-04T14:41:49.071984+00:00",
-   "headline": "Saudi Arabia tries diplomacy to stop Houthi attacks from escalating.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706999,
-   "ts": "2026-08-04T14:00:01+00:00",
-   "ingested": "2026-08-04T14:41:49.071998+00:00",
-   "headline": "US Core Durable Goods Revised Actual 0.7% (Forecast 0.6%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706998,
-   "ts": "2026-08-04T14:00:01+00:00",
-   "ingested": "2026-08-04T14:41:49.072012+00:00",
-   "headline": "US JOLTS Job Openings Actual 7.359M (Forecast 7.4535M, Previous 7.594M, Revised 7.537M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706997,
-   "ts": "2026-08-04T14:00:01+00:00",
-   "ingested": "2026-08-04T14:41:49.072025+00:00",
-   "headline": "US Durable Goods Revised Actual 0.5% (Forecast 0.3%, Previous 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706996,
-   "ts": "2026-08-04T14:00:01+00:00",
-   "ingested": "2026-08-04T14:41:49.072042+00:00",
-   "headline": "US Factory Orders MoM Actual -0.3% (Forecast 0.2%, Previous -1.3%, Revised -1.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706960,
-   "ts": "2026-08-04T13:30:44+00:00",
-   "ingested": "2026-08-04T14:41:49.072056+00:00",
-   "headline": "Canadian Manufacturing PMI Actual 53.5 (Forecast -, Previous 53.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706959,
-   "ts": "2026-08-04T13:29:01+00:00",
-   "ingested": "2026-08-04T14:41:49.072075+00:00",
-   "headline": "Qatar's Ministry of Foreign Affairs: Efforts are underway to resume negotiations between Iran and the United States - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706958,
-   "ts": "2026-08-04T13:25:33+00:00",
-   "ingested": "2026-08-04T14:41:49.072090+00:00",
-   "headline": "Wells Fargo CEO: Wells Fargo sees paychecks rising faster than inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706957,
-   "ts": "2026-08-04T13:24:16+00:00",
-   "ingested": "2026-08-04T14:41:49.072107+00:00",
-   "headline": "The announcement of arrangements for the full reopening of the Strait of Hormuz may be within hours or tomorrow - Al Hadath, citing a high-level source.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706956,
-   "ts": "2026-08-04T13:23:13+00:00",
-   "ingested": "2026-08-04T14:41:49.072122+00:00",
-   "headline": "Communications are underway at full tilt, and progress has been made regarding the Strait of Hormuz - Al-Arabiya, citing a source.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706955,
-   "ts": "2026-08-04T13:22:04+00:00",
-   "ingested": "2026-08-04T14:41:49.072138+00:00",
-   "headline": "An announcement is expected regarding the reopening of the Strait of Hormuz - A high-ranking source told Al Arabiya.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706954,
-   "ts": "2026-08-04T13:20:06+00:00",
-   "ingested": "2026-08-04T14:41:49.072153+00:00",
-   "headline": "Ford: July 2026 US sales total vehicles 169,951 units, US total July electrified vehicles 16,151 units. $F",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706933,
-   "ts": "2026-08-04T13:15:13+00:00",
-   "ingested": "2026-08-04T14:41:49.072166+00:00",
-   "headline": "Morgan Stanley: Fed Reaction Function Comes Under Scrutiny - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706932,
-   "ts": "2026-08-04T13:13:18+00:00",
-   "ingested": "2026-08-04T14:41:49.072179+00:00",
-   "headline": "US Sentiment: Rotation into Semiconductors & Reduced Geopolitical Risk Boosts Riks Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706931,
-   "ts": "2026-08-04T13:11:37+00:00",
-   "ingested": "2026-08-04T14:41:49.072192+00:00",
-   "headline": "JPMorgan: Japan and the US Coordinate to Resist Yen Weakness - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706930,
-   "ts": "2026-08-04T13:11:19+00:00",
-   "ingested": "2026-08-04T14:41:49.072206+00:00",
-   "headline": "Ukrainian Minister: Russian attacks on vessels in black sea endanger global food security and will hike consumer prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706929,
-   "ts": "2026-08-04T13:11:18+00:00",
-   "ingested": "2026-08-04T14:41:49.072221+00:00",
-   "headline": "Ukrainian Minister: Losses for Ukraine's agricultural sector from Black Sea attacks could total $1.5 billion to $3 billion.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706928,
-   "ts": "2026-08-04T13:11:16+00:00",
-   "ingested": "2026-08-04T14:41:49.072234+00:00",
-   "headline": "Ukrainian Minister: Ukrainian farmers already see an average crop price drop of 30%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706927,
-   "ts": "2026-08-04T13:10:19+00:00",
-   "ingested": "2026-08-04T14:41:49.072247+00:00",
-   "headline": "Nvidia: AI leaders propose secure guidelines for cybersecurity openness $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706926,
-   "ts": "2026-08-04T13:09:58+00:00",
-   "ingested": "2026-08-04T14:41:49.072263+00:00",
-   "headline": "Nvidia, Cisco and CrowdStrike drafting safe AI guidelines $NVDA $CSCO $CRWD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706925,
-   "ts": "2026-08-04T13:08:33+00:00",
-   "ingested": "2026-08-04T14:41:49.072278+00:00",
-   "headline": "China: Taiwan is a red line in Japan relations that cannot be crossed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706924,
-   "ts": "2026-08-04T13:08:18+00:00",
-   "ingested": "2026-08-04T14:41:49.072291+00:00",
-   "headline": "Bank of America: Warsh Was Dovish, but September Hike Risk Remains - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706922,
-   "ts": "2026-08-04T13:05:56+00:00",
-   "ingested": "2026-08-04T14:41:49.072303+00:00",
-   "headline": "Nvidia: AI leaders propose safe guidelines for cybersecurity $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706915,
-   "ts": "2026-08-04T13:03:38+00:00",
-   "ingested": "2026-08-04T14:41:49.072315+00:00",
-   "headline": "China Defence Ministry: Firmly opposes Japan's new defence white paper - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706914,
-   "ts": "2026-08-04T13:02:31+00:00",
-   "ingested": "2026-08-04T14:41:49.072332+00:00",
-   "headline": "The ECB settled \u20ac1,681.8 billion in public-sector bond purchases",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706913,
-   "ts": "2026-08-04T13:02:10+00:00",
-   "ingested": "2026-08-04T14:41:49.072347+00:00",
-   "headline": "The ECB settled \u20ac218.2 billion in corporate bond purchases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706910,
-   "ts": "2026-08-04T13:01:35+00:00",
-   "ingested": "2026-08-04T14:41:49.072378+00:00",
-   "headline": "The ECB forex reserves drop \u20ac200 million to \u20ac348.1 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706904,
-   "ts": "2026-08-04T13:00:25+00:00",
-   "ingested": "2026-08-04T14:41:49.072391+00:00",
-   "headline": "ECB bond holdings under PEPP: \u20ac 1.29 trillion as of last week.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706903,
-   "ts": "2026-08-04T13:00:10+00:00",
-   "ingested": "2026-08-04T14:41:49.072404+00:00",
-   "headline": "Effective fed funds rate 3.63% on August 3 vs 3.63% on July 31st.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706902,
-   "ts": "2026-08-04T12:56:50+00:00",
-   "ingested": "2026-08-04T14:41:49.072417+00:00",
-   "headline": "US Redbook YoY Actual 8.7% (Forecast -, Previous 8.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706901,
-   "ts": "2026-08-04T12:52:00+00:00",
-   "ingested": "2026-08-04T14:41:49.072430+00:00",
-   "headline": "The US suggests tariffs on products such as welding machines and cranes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706900,
-   "ts": "2026-08-04T12:51:19+00:00",
-   "ingested": "2026-08-04T14:41:49.072442+00:00",
-   "headline": "The US seeks comment on including more products in metals tariffs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706893,
-   "ts": "2026-08-04T12:46:52+00:00",
-   "ingested": "2026-08-04T14:41:49.072455+00:00",
-   "headline": "Fed's Paulson: Want to understand the tradeoffs of 6 vs 8 FOMC meetings.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706886,
-   "ts": "2026-08-04T12:43:51+00:00",
-   "ingested": "2026-08-04T14:41:49.072468+00:00",
-   "headline": "Fed's Paulson: Can't provide rate guidance now when keeping an open mind.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706885,
-   "ts": "2026-08-04T12:43:37+00:00",
-   "ingested": "2026-08-04T14:41:49.072481+00:00",
-   "headline": "Fed's Paulson: It's great to take a fresh look at how the Fed does its work.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706884,
-   "ts": "2026-08-04T12:43:23+00:00",
-   "ingested": "2026-08-04T14:41:49.072494+00:00",
-   "headline": "Fed's Paulson: When rates are at zero, forward guidance is appropriate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706883,
-   "ts": "2026-08-04T12:43:03+00:00",
-   "ingested": "2026-08-04T14:41:49.072506+00:00",
-   "headline": "Fed's Paulson: Uncertainty in current climate complicates forward guidance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706882,
-   "ts": "2026-08-04T12:42:46+00:00",
-   "ingested": "2026-08-04T14:41:49.072518+00:00",
-   "headline": "Fed's Paulson: Forward guidance means something pretty specific.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706881,
-   "ts": "2026-08-04T12:41:33+00:00",
-   "ingested": "2026-08-04T14:41:49.072530+00:00",
-   "headline": "Fed's Paulson: It is right to look through supply shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706880,
-   "ts": "2026-08-04T12:40:15+00:00",
-   "ingested": "2026-08-04T14:41:49.072543+00:00",
-   "headline": "Fed's Paulson: It was not a close call to keep rates steady at FOMC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706879,
-   "ts": "2026-08-04T12:40:10+00:00",
-   "ingested": "2026-08-04T14:41:49.072556+00:00",
-   "headline": "US-China June trade deficit: $15.58 billion vs. May deficit $14.39 billion.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706878,
-   "ts": "2026-08-04T12:39:33+00:00",
-   "ingested": "2026-08-04T14:41:49.072567+00:00",
-   "headline": "Fed's Paulson: Economy is strong, inflation too high.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706877,
-   "ts": "2026-08-04T12:38:45+00:00",
-   "ingested": "2026-08-04T14:41:49.072580+00:00",
-   "headline": "Fed's Paulson: Need a mildly restrictive monetary policy, and the Fed likely has that now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706876,
-   "ts": "2026-08-04T12:38:27+00:00",
-   "ingested": "2026-08-04T14:41:49.072592+00:00",
-   "headline": "Fed's Paulson: Inflation is too high; we want to bring it down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706875,
-   "ts": "2026-08-04T12:38:02+00:00",
-   "ingested": "2026-08-04T14:41:49.072605+00:00",
-   "headline": "Fed's Paulson (Voter): This is a complicated time for monetary policy - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706847,
-   "ts": "2026-08-04T12:31:07+00:00",
-   "ingested": "2026-08-04T14:41:49.072626+00:00",
-   "headline": "US June oil import price $86.06/bbl vs May $87.44/bbl, +37.6% from June'25th $62.53/bbl.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706843,
-   "ts": "2026-08-04T12:30:01+00:00",
-   "ingested": "2026-08-04T14:41:49.072640+00:00",
-   "headline": "Canadian Trade Balance Actual 3.86B (Forecast 3B, Previous 4.24B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706842,
-   "ts": "2026-08-04T12:30:00+00:00",
-   "ingested": "2026-08-04T14:41:49.072655+00:00",
-   "headline": "US Trade Balance Actual -73.3B (Forecast -73B, Previous -77.6B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706817,
-   "ts": "2026-08-04T12:02:03+00:00",
-   "ingested": "2026-08-04T12:13:10.591355+00:00",
-   "headline": "Anthropic has struck a $10 billion deal for computing capacity from a months-old infrastructure startup - People Familiar with the Matter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706791,
-   "ts": "2026-08-04T11:59:58+00:00",
-   "ingested": "2026-08-04T12:13:10.591381+00:00",
-   "headline": "Secured overnight financing rate 3.65% August 3rd vs 3.66% July 31st",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706790,
-   "ts": "2026-08-04T11:59:11+00:00",
-   "ingested": "2026-08-04T12:13:10.591398+00:00",
-   "headline": "Bessent concludes interview on CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706789,
-   "ts": "2026-08-04T11:59:02+00:00",
-   "ingested": "2026-08-04T12:13:10.591417+00:00",
-   "headline": "US Treasury Secretary Bessent: Support for Japan in context of help also for us economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706788,
-   "ts": "2026-08-04T11:58:21+00:00",
-   "ingested": "2026-08-04T12:13:10.591435+00:00",
-   "headline": "US Treasury Secretary Bessent on yen intervention: US will do whatever it takes to support Japan yen.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706787,
-   "ts": "2026-08-04T11:57:57+00:00",
-   "ingested": "2026-08-04T12:13:10.591451+00:00",
-   "headline": "US Treasury Secretary Bessent on yen intervention: Japan has inflation problem, due to weak yen.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9706786,
-   "ts": "2026-08-04T11:57:45+00:00",
-   "ingested": "2026-08-04T12:13:10.591467+00:00",
-   "headline": "US Treasury Secretary Bessent on yen intervention: US would not have joined if it was not optimistic about Japan policies.",
    "channel": "rss",
    "source": "financialjuice"
   }
