@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-07T21:34:37.556495+00:00",
+ "updated": "2026-08-07T22:10:31.544461+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9713001,
+   "ts": "2026-08-07T21:45:37+00:00",
+   "ingested": "2026-08-07T22:10:31.544240+00:00",
+   "headline": "Data center company Switch to confidentially file for IPO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9712982,
    "ts": "2026-08-07T21:29:48+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-05T13:08:22+00:00",
    "ingested": "2026-08-05T14:28:42.142098+00:00",
    "headline": "Israel military: Launched strikes in southern Lebanon in response to Hezbollah ceasefire breach",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708837,
-   "ts": "2026-08-05T13:07:00+00:00",
-   "ingested": "2026-08-05T14:28:42.142111+00:00",
-   "headline": "IDF: Began conducting precise strikes in South Lebanon.",
    "channel": "rss",
    "source": "financialjuice"
   }
