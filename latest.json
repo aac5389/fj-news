@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-08T07:12:38.854374+00:00",
+ "updated": "2026-08-08T08:02:04.210758+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9713288,
+   "ts": "2026-08-08T07:58:40+00:00",
+   "ingested": "2026-08-08T08:02:04.210503+00:00",
+   "headline": "U.S. Senate approves temporary funding measure to prevent pre-election government shutdown",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9713280,
+   "ts": "2026-08-08T07:37:34+00:00",
+   "ingested": "2026-08-08T08:02:04.210529+00:00",
+   "headline": "Russia: drone hits ship carrying weapons for Ukrainian forces east of Odesa - Interfax",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9713116,
    "ts": "2026-08-08T01:25:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-05T14:30:01+00:00",
    "ingested": "2026-08-05T16:16:18.309085+00:00",
    "headline": "EIA Gasoline Inventories Actual -1.643M (Forecast -1.45M, Previous 0.007M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708946,
-   "ts": "2026-08-05T14:30:01+00:00",
-   "ingested": "2026-08-05T16:16:18.309099+00:00",
-   "headline": "EIA Distillate Inventories Actual -3.473M (Forecast 0.419M, Previous 1.062M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9708944,
-   "ts": "2026-08-05T14:18:32+00:00",
-   "ingested": "2026-08-05T14:28:42.141830+00:00",
-   "headline": "Crypto Fear and Greed Index: 27/100 = Fear",
    "channel": "rss",
    "source": "financialjuice"
   }
