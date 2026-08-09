@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-09T11:03:44.783882+00:00",
+ "updated": "2026-08-09T11:39:30.667725+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9713712,
+   "ts": "2026-08-09T11:18:13+00:00",
+   "ingested": "2026-08-09T11:39:30.667499+00:00",
+   "headline": "Iran\u2019s president recently met with Supreme Leader Khamenei to discuss economic and military matters: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9713700,
    "ts": "2026-08-09T11:01:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-05T18:32:10+00:00",
    "ingested": "2026-08-05T19:26:55.613331+00:00",
    "headline": "NYMEX Diesel Sept. futures settle at $3.7962 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709264,
-   "ts": "2026-08-05T18:32:03+00:00",
-   "ingested": "2026-08-05T19:26:55.613338+00:00",
-   "headline": "NYMEX Gasoline Sept. futures settle at $2.8388 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
