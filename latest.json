@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-09T11:39:30.667725+00:00",
+ "updated": "2026-08-09T12:02:08.255498+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9713724,
+   "ts": "2026-08-09T11:54:01+00:00",
+   "ingested": "2026-08-09T12:02:08.255221+00:00",
+   "headline": "Senior Hamas official Basem Naim: We stay committed to roadmap agreed with mediators and peace council reps in Cairo 10 days ago",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9713723,
+   "ts": "2026-08-09T11:52:21+00:00",
+   "ingested": "2026-08-09T12:02:08.255247+00:00",
+   "headline": "Senior Hamas official Basem Naim: Group expects mediators and US to pressure Netanyahu and his government to follow roadmap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9713712,
    "ts": "2026-08-09T11:18:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-05T18:46:36+00:00",
    "ingested": "2026-08-05T19:26:55.613317+00:00",
    "headline": "Iran's President Pezeshkian: Interaction with Supreme Leader is currently \u2018very difficult\u2019 - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709271,
-   "ts": "2026-08-05T18:43:17+00:00",
-   "ingested": "2026-08-05T19:26:55.613325+00:00",
-   "headline": "Brent Crude futures settle at $79.45/bbl, up 9 cents, 0.11%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709267,
-   "ts": "2026-08-05T18:32:10+00:00",
-   "ingested": "2026-08-05T19:26:55.613331+00:00",
-   "headline": "NYMEX Diesel Sept. futures settle at $3.7962 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
