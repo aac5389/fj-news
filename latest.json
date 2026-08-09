@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-08T23:56:00.177179+00:00",
+ "updated": "2026-08-09T01:37:02.734346+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9713537,
+   "ts": "2026-08-09T01:30:24+00:00",
+   "ingested": "2026-08-09T01:37:02.734039+00:00",
+   "headline": "China July PPI falls 0.7% from prior month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9713536,
+   "ts": "2026-08-09T01:30:24+00:00",
+   "ingested": "2026-08-09T01:37:02.734064+00:00",
+   "headline": "China July CPI declines 0.1% month-on-month, poll had forecast 0.2% increase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9713535,
+   "ts": "2026-08-09T01:30:24+00:00",
+   "ingested": "2026-08-09T01:37:02.734083+00:00",
+   "headline": "China reports July food CPI down 1.5% year on year; non-food CPI rises 0.9%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9713534,
+   "ts": "2026-08-09T01:30:21+00:00",
+   "ingested": "2026-08-09T01:37:02.734099+00:00",
+   "headline": "China July CPI rises 0.5% year on year, poll expected 0.8%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9713464,
    "ts": "2026-08-08T17:57:43+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-05T16:54:11+00:00",
    "ingested": "2026-08-05T17:55:59.228003+00:00",
    "headline": "Yemen's Houthis: Saudi Arabia has not yet grasped the dangerous situation it faces - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709162,
-   "ts": "2026-08-05T16:52:10+00:00",
-   "ingested": "2026-08-05T17:55:59.228018+00:00",
-   "headline": "AWS: AWS and JPMorgan collaborate to advance quantum computing R&D - Blog. $AMZN $JPM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709161,
-   "ts": "2026-08-05T16:51:34+00:00",
-   "ingested": "2026-08-05T17:55:59.228035+00:00",
-   "headline": "Yemen: Routes that were previously considered safe are no longer safe, based on the developments on the ground by the Yemeni armed forces - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709160,
-   "ts": "2026-08-05T16:50:58+00:00",
-   "ingested": "2026-08-05T17:55:59.228050+00:00",
-   "headline": "Yemen: Targeting a Saudi ship solidifies the equation of \"siege in exchange for siege.\" - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709159,
-   "ts": "2026-08-05T16:49:40+00:00",
-   "ingested": "2026-08-05T17:55:59.228066+00:00",
-   "headline": "Leader of the Yemeni Revolution orders general mobilization. Sana'a prepares for a full-scale confrontation with Saudi Arabia - Tasnim's Correspondent in Sana'a - Tasnim.",
    "channel": "rss",
    "source": "financialjuice"
   }
