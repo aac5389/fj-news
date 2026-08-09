@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-08-09T05:09:03.290158+00:00",
- "updated_et": "2026-08-09 01:09 ET",
+ "updated_utc": "2026-08-09T16:31:46.618958+00:00",
+ "updated_et": "2026-08-09 12:31 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -10,12 +10,12 @@
     "price": 7779.75,
     "time_utc": "2026-08-07T20:59:59+00:00",
     "time_et": "2026-08-07 16:59 ET",
-    "bar_age_min": 1929.1
+    "bar_age_min": 2611.8
    },
    "live_proxy": {
     "etf": "SPY",
     "ratio": 10.061672,
-    "etf_bar_age_min": 1989.1,
+    "etf_bar_age_min": 2671.8,
     "etf_last": 773.26,
     "etf_last_et": "2026-08-07 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?interval=1m&range=1d",
@@ -26,12 +26,12 @@
     "alternates": [
      {
       "etf": "IVV",
-      "bar_age_min": 1989.1,
+      "bar_age_min": 2671.9,
       "fit_err_median": 0.3
      },
      {
       "etf": "VOO",
-      "bar_age_min": 1989.1,
+      "bar_age_min": 2671.9,
       "fit_err_median": 0.16
      }
     ]
@@ -563,17 +563,17 @@
     {
      "name": "Consumer Price Index",
      "when_et": "2026-08-12 08:30 ET",
-     "minutes_until": 4760
+     "minutes_until": 4078
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-08-13 08:30 ET",
-     "minutes_until": 6200
+     "minutes_until": 5518
     },
     {
-     "name": "Gross Domestic Product",
+     "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 24920
+     "minutes_until": 24238
     }
    ]
   },
@@ -584,12 +584,12 @@
     "price": 78.18,
     "time_utc": "2026-08-07T20:59:59+00:00",
     "time_et": "2026-08-07 16:59 ET",
-    "bar_age_min": 1929.2
+    "bar_age_min": 2612.0
    },
    "live_proxy": {
     "etf": "USO",
     "ratio": 0.652517,
-    "etf_bar_age_min": 1989.2,
+    "etf_bar_age_min": 2672.0,
     "etf_last": 117.98,
     "etf_last_et": "2026-08-07 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/USO?interval=1m&range=1d",
@@ -600,7 +600,7 @@
     "alternates": [
      {
       "etf": "DBO",
-      "bar_age_min": 1989.3,
+      "bar_age_min": 2672.0,
       "fit_err_median": 0.03
      }
     ],
@@ -1135,18 +1135,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-11 16:30 ET",
-     "minutes_until": 3800,
+     "minutes_until": 3118,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-08-12 10:30 ET",
-     "minutes_until": 4880
+     "minutes_until": 4198
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-18 16:30 ET",
-     "minutes_until": 13880,
+     "minutes_until": 13198,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -1158,12 +1158,12 @@
     "price": 4399.7,
     "time_utc": "2026-08-07T20:59:55+00:00",
     "time_et": "2026-08-07 16:59 ET",
-    "bar_age_min": 1929.4
+    "bar_age_min": 2612.2
    },
    "live_proxy": {
     "etf": "GLD",
     "ratio": 11.051127,
-    "etf_bar_age_min": 1989.4,
+    "etf_bar_age_min": 2672.1,
     "etf_last": 398.47,
     "etf_last_et": "2026-08-07 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?interval=1m&range=1d",
@@ -1174,12 +1174,12 @@
     "alternates": [
      {
       "etf": "IAU",
-      "bar_age_min": 1989.4,
+      "bar_age_min": 2672.1,
       "fit_err_median": 0.4
      },
      {
       "etf": "GLDM",
-      "bar_age_min": 1989.4,
+      "bar_age_min": 2672.2,
       "fit_err_median": 0.3
      }
     ]
@@ -1711,17 +1711,17 @@
     {
      "name": "Consumer Price Index",
      "when_et": "2026-08-12 08:30 ET",
-     "minutes_until": 4760
+     "minutes_until": 4078
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-08-13 08:30 ET",
-     "minutes_until": 6200
+     "minutes_until": 5518
     },
     {
-     "name": "Gross Domestic Product",
+     "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 24920
+     "minutes_until": 24238
     }
    ]
   }
