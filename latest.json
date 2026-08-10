@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-10T05:47:05.899918+00:00",
+ "updated": "2026-08-10T06:58:51.026922+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9714145,
+   "ts": "2026-08-10T06:00:59+00:00",
+   "ingested": "2026-08-10T06:58:51.026711+00:00",
+   "headline": "Norwegian CPI MoM Actual 1.0% (Forecast -, Previous -0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714144,
+   "ts": "2026-08-10T06:00:58+00:00",
+   "ingested": "2026-08-10T06:58:51.026734+00:00",
+   "headline": "Norwegian CPI YoY Actual 3.0% (Forecast 2.8%, Previous 2.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9714129,
    "ts": "2026-08-10T05:22:46+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-06T00:51:50+00:00",
    "ingested": "2026-08-06T03:32:48.683178+00:00",
    "headline": "Fed's Daly: many expect supply shocks to trigger temporary inflation surge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709668,
-   "ts": "2026-08-06T00:45:01+00:00",
-   "ingested": "2026-08-06T03:32:48.683191+00:00",
-   "headline": "Fed's Daly: Technology spending is pushing inflation higher",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709667,
-   "ts": "2026-08-06T00:43:58+00:00",
-   "ingested": "2026-08-06T03:32:48.683204+00:00",
-   "headline": "Fed's Daly: Middle East war ending should ease inflation pressures",
    "channel": "rss",
    "source": "financialjuice"
   }
