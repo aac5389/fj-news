@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-10T21:54:37.560791+00:00",
+ "updated": "2026-08-10T22:32:54.635351+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9715340,
+   "ts": "2026-08-10T22:03:05+00:00",
+   "ingested": "2026-08-10T22:32:54.635069+00:00",
+   "headline": "Libya NOC: force majeure likely, operations at Zawiya refinery may fully stop if assaults persist",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9715335,
+   "ts": "2026-08-10T22:01:14+00:00",
+   "ingested": "2026-08-10T22:32:54.635094+00:00",
+   "headline": "Libya's National Oil Corporation: Drone strikes Zawiya oil blending plant, no damage or casualties",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9715281,
    "ts": "2026-08-10T21:08:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-06T21:58:15+00:00",
    "ingested": "2026-08-07T00:33:06.509957+00:00",
    "headline": "Fed\u2019s Musalem: tunes out political noise, focuses on central bank mandate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9711230,
-   "ts": "2026-08-06T21:57:44+00:00",
-   "ingested": "2026-08-07T00:33:06.509970+00:00",
-   "headline": "Fed's Musalem: labor market appears to be in strong shape",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9711229,
-   "ts": "2026-08-06T21:52:41+00:00",
-   "ingested": "2026-08-07T00:33:06.509985+00:00",
-   "headline": "Fed's Musalem: El Ni\u00f1o weather event could trigger new supply shock",
    "channel": "rss",
    "source": "financialjuice"
   }
