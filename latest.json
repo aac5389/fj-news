@@ -1,7 +1,71 @@
 {
- "updated": "2026-08-10T10:03:03.370124+00:00",
+ "updated": "2026-08-10T11:18:01.693365+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9714521,
+   "ts": "2026-08-10T11:01:00+00:00",
+   "ingested": "2026-08-10T11:18:01.692936+00:00",
+   "headline": "Japan growth minister kiuchi: Increased investment will be positive for yen.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714520,
+   "ts": "2026-08-10T11:01:00+00:00",
+   "ingested": "2026-08-10T11:18:01.692964+00:00",
+   "headline": "Japan Growth Minister Kiuchi: Don\u2019t expect Yen\u2019s depreciation to continue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714519,
+   "ts": "2026-08-10T11:00:49+00:00",
+   "ingested": "2026-08-10T11:18:01.692990+00:00",
+   "headline": "Japan Growth Minister Kiuchi: Not so difficult to find 5 tln yen for sales tax cut.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714516,
+   "ts": "2026-08-10T11:00:37+00:00",
+   "ingested": "2026-08-10T11:18:01.693007+00:00",
+   "headline": "Japan Growth Minister Kiuchi: Our fiscal situation is improving",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714493,
+   "ts": "2026-08-10T10:40:39+00:00",
+   "ingested": "2026-08-10T11:18:01.693025+00:00",
+   "headline": "Jefferies cuts Apple to underperform from hold; cuts target price to $263.66 from $285.56. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714464,
+   "ts": "2026-08-10T10:12:45+00:00",
+   "ingested": "2026-08-10T11:18:01.693038+00:00",
+   "headline": "China: Cautious in trade remedy measures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714463,
+   "ts": "2026-08-10T10:12:36+00:00",
+   "ingested": "2026-08-10T11:18:01.693051+00:00",
+   "headline": "Meta will resume releasing some open-source models soon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9714462,
+   "ts": "2026-08-10T10:06:24+00:00",
+   "ingested": "2026-08-10T11:18:01.693070+00:00",
+   "headline": "Iraqi Government Spokesperson: Iraq had no information on US-Saudi attacks on PMF HQ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9714430,
    "ts": "2026-08-10T09:48:28+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-08-06T01:30:46+00:00",
    "ingested": "2026-08-06T03:32:48.682836+00:00",
    "headline": "Australian Imports Actual -0.2% (Forecast -, Previous 2.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709723,
-   "ts": "2026-08-06T01:30:46+00:00",
-   "ingested": "2026-08-06T03:32:48.682873+00:00",
-   "headline": "Australian Exports Actual 9.6% (Forecast -, Previous -6.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709727,
-   "ts": "2026-08-06T01:30:03+00:00",
-   "ingested": "2026-08-06T03:32:48.682893+00:00",
-   "headline": "Australia June goods balance A$1,929 mln, seasonally adjusted versus poll A$-1,100 mln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709726,
-   "ts": "2026-08-06T01:30:03+00:00",
-   "ingested": "2026-08-06T03:32:48.682907+00:00",
-   "headline": "Australia June goods exports rise 9.6% m/m, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709725,
-   "ts": "2026-08-06T01:30:03+00:00",
-   "ingested": "2026-08-06T03:32:48.682921+00:00",
-   "headline": "Australia June goods imports decline 0.2% m/m, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709722,
-   "ts": "2026-08-06T01:30:01+00:00",
-   "ingested": "2026-08-06T03:32:48.682935+00:00",
-   "headline": "Australian Trade Balance Actual 1929M (Forecast -1080M, Previous -3,018M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709721,
-   "ts": "2026-08-06T01:28:36+00:00",
-   "ingested": "2026-08-06T03:32:48.682955+00:00",
-   "headline": "Fed's Daly: increase in borrowing for tech investment warrants attention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709720,
-   "ts": "2026-08-06T01:28:21+00:00",
-   "ingested": "2026-08-06T03:32:48.682970+00:00",
-   "headline": "South Korea Industry Minister: U.S. to reveal results of oversupply probe this month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9709719,
-   "ts": "2026-08-06T01:26:35+00:00",
-   "ingested": "2026-08-06T03:32:48.682984+00:00",
-   "headline": "Fed's Daly: focusing on investment levels in technology sector",
    "channel": "rss",
    "source": "financialjuice"
   }
