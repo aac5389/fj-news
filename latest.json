@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-11T06:39:00.747831+00:00",
+ "updated": "2026-08-11T07:53:13.786004+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9715988,
+   "ts": "2026-08-11T07:47:58+00:00",
+   "ingested": "2026-08-11T07:53:13.785719+00:00",
+   "headline": "Iran's Oil Minister Paknejad: 95 million cubic metres of gas will return to production cycle by end of September - Shana.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9715928,
+   "ts": "2026-08-11T07:01:36+00:00",
+   "ingested": "2026-08-11T07:53:13.785738+00:00",
+   "headline": "Currency Strength Chart: Strongest: JPY, CAD, USD, GBP, AUD, EUR, CHF, NZD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9715884,
    "ts": "2026-08-11T06:00:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-07T02:52:38+00:00",
    "ingested": "2026-08-07T03:34:51.442319+00:00",
    "headline": "China January-July copper concentrate and ore imports fall 1.8% to 16.99 million metric tons: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9711580,
-   "ts": "2026-08-07T02:52:06+00:00",
-   "ingested": "2026-08-07T03:34:51.442333+00:00",
-   "headline": "China January-July unwrought copper imports fall 6.2% to 2.92 million metric tons: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9711579,
-   "ts": "2026-08-07T02:51:17+00:00",
-   "ingested": "2026-08-07T03:34:51.442347+00:00",
-   "headline": "China July copper shipments at 425,000 metric tons: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
