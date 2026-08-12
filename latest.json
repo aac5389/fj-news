@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-12T21:12:45.646870+00:00",
+ "updated": "2026-08-12T22:05:39.631254+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9718698,
+   "ts": "2026-08-12T21:45:42+00:00",
+   "ingested": "2026-08-12T22:05:39.630939+00:00",
+   "headline": "Trump signed memo authorizing U.S. law enforcement to deploy cyber tools to disrupt criminal groups in foreign jurisdictions: White House",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9718695,
+   "ts": "2026-08-12T21:37:48+00:00",
+   "ingested": "2026-08-12T22:05:39.630963+00:00",
+   "headline": "Venezuela inflation rate hits 19.9% in July: central bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9718649,
    "ts": "2026-08-12T20:56:08+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-10T08:38:37+00:00",
    "ingested": "2026-08-10T08:43:53.814729+00:00",
    "headline": "MUFG: Europe Weekly - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714318,
-   "ts": "2026-08-10T08:30:00+00:00",
-   "ingested": "2026-08-10T08:43:53.814756+00:00",
-   "headline": "Eurozone Sentix Investor Confidence Index Actual 0.9 (Forecast -0.5, Previous -3.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714317,
-   "ts": "2026-08-10T08:29:29+00:00",
-   "ingested": "2026-08-10T08:43:53.814775+00:00",
-   "headline": "China removes Luo Wen from role of market regulator head - Official Statement.",
    "channel": "rss",
    "source": "financialjuice"
   }
