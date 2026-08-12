@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-12T22:56:31.540070+00:00",
+ "updated": "2026-08-12T23:40:38.543814+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9718791,
+   "ts": "2026-08-12T23:01:00+00:00",
+   "ingested": "2026-08-12T23:40:38.543571+00:00",
+   "headline": "UK RICS Housing Survey Actual -30 (Forecast -30, Previous -33)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9718768,
    "ts": "2026-08-12T22:32:56+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-10T08:52:25+00:00",
    "ingested": "2026-08-10T10:03:03.369782+00:00",
    "headline": "MUFG: Asia - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714355,
-   "ts": "2026-08-10T08:51:01+00:00",
-   "ingested": "2026-08-10T10:03:03.369799+00:00",
-   "headline": "Maersk: Marks step to gradual return to the trans-Suez corridor.",
    "channel": "rss",
    "source": "financialjuice"
   }
