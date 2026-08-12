@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-12T22:05:39.631254+00:00",
+ "updated": "2026-08-12T22:56:31.540070+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9718768,
+   "ts": "2026-08-12T22:32:56+00:00",
+   "ingested": "2026-08-12T22:56:31.539760+00:00",
+   "headline": "Apple discusses potential nine-figure payout for partner publishers - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9718767,
+   "ts": "2026-08-12T22:32:00+00:00",
+   "ingested": "2026-08-12T22:56:31.539790+00:00",
+   "headline": "Apple in discussions to compensate publishers to enhance AI-powered Siri: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9718698,
    "ts": "2026-08-12T21:45:42+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-10T08:51:01+00:00",
    "ingested": "2026-08-10T10:03:03.369799+00:00",
    "headline": "Maersk: Marks step to gradual return to the trans-Suez corridor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714332,
-   "ts": "2026-08-10T08:44:23+00:00",
-   "ingested": "2026-08-10T10:03:03.369812+00:00",
-   "headline": "JPMorgan: Q2 Earnings - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714331,
-   "ts": "2026-08-10T08:38:37+00:00",
-   "ingested": "2026-08-10T08:43:53.814729+00:00",
-   "headline": "MUFG: Europe Weekly - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
