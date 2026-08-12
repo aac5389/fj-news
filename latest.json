@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-12T19:46:44.392350+00:00",
+ "updated": "2026-08-12T20:25:35.169725+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9718601,
+   "ts": "2026-08-12T20:08:16+00:00",
+   "ingested": "2026-08-12T20:25:35.169367+00:00",
+   "headline": "$CBRS Cerebras Systems Q2 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9718600,
+   "ts": "2026-08-12T20:05:50+00:00",
+   "ingested": "2026-08-12T20:25:35.169390+00:00",
+   "headline": "$CSCO Cisco Q4 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9718599,
+   "ts": "2026-08-12T20:03:52+00:00",
+   "ingested": "2026-08-12T20:25:35.169412+00:00",
+   "headline": "The Emirati royal jet (A6-RJA) traveled to Tehran today. This aircraft also traveled to Tehran yesterday and returned to the UAE after one hour - Fars News citing air navigation data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9718520,
    "ts": "2026-08-12T19:06:27+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-10T05:22:46+00:00",
    "ingested": "2026-08-10T05:47:05.899604+00:00",
    "headline": "Kazakhstan re-routed some oil from cpc in July - Interfax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714114,
-   "ts": "2026-08-10T05:08:35+00:00",
-   "ingested": "2026-08-10T05:47:05.899630+00:00",
-   "headline": "Japanese Economy Watchers Poll Actual 45.7 (Forecast 44.5, Previous 44.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714109,
-   "ts": "2026-08-10T05:00:16+00:00",
-   "ingested": "2026-08-10T05:47:05.899650+00:00",
-   "headline": "Finnish June industrial output rises 4.5% y/y: Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714083,
-   "ts": "2026-08-10T04:30:06+00:00",
-   "ingested": "2026-08-10T05:47:05.899667+00:00",
-   "headline": "Dutch June manufacturing output falls 1.3% month on month: CBS",
    "channel": "rss",
    "source": "financialjuice"
   }
