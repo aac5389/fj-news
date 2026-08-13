@@ -1,7 +1,231 @@
 {
- "updated": "2026-08-13T21:12:26.135470+00:00",
+ "updated": "2026-08-13T22:05:24.794962+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9720598,
+   "ts": "2026-08-13T22:02:17+00:00",
+   "ingested": "2026-08-13T22:05:24.794248+00:00",
+   "headline": "RBNZ: financial policy committee reviewed house price trends, risk profile of recent mortgage lending, and borrower financial strain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720595,
+   "ts": "2026-08-13T22:01:05+00:00",
+   "ingested": "2026-08-13T22:05:24.794271+00:00",
+   "headline": "RBNZ maintains loan-to-value ratio settings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720572,
+   "ts": "2026-08-13T21:46:52+00:00",
+   "ingested": "2026-08-13T22:05:24.794288+00:00",
+   "headline": "Australia PM Albanese: President Trump agreed to consider request on tariffs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720563,
+   "ts": "2026-08-13T21:45:03+00:00",
+   "ingested": "2026-08-13T22:05:24.794302+00:00",
+   "headline": "Republic of Korea, Switzerland and Taiwan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720562,
+   "ts": "2026-08-13T21:44:59+00:00",
+   "ingested": "2026-08-13T22:05:24.794321+00:00",
+   "headline": "White House: Trump proclamation imposes 15% ad valorem tariff on drones and parts from European Union, Japan, Liechtenstein",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720561,
+   "ts": "2026-08-13T21:44:59+00:00",
+   "ingested": "2026-08-13T22:05:24.794334+00:00",
+   "headline": "Australia's PM Albanese: raised tariffs with Trump, urges full exemption consideration",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720560,
+   "ts": "2026-08-13T21:44:31+00:00",
+   "ingested": "2026-08-13T22:05:24.794350+00:00",
+   "headline": "Veritone now projects $3.90 million-$4.50 million in staff transition expenses and $0.70 million-$0.80 million in departure costs: SEC filing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720559,
+   "ts": "2026-08-13T21:41:41+00:00",
+   "ingested": "2026-08-13T22:05:24.794362+00:00",
+   "headline": "Australia PM Albanese: AUKUS initiative continues full steam ahead",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720558,
+   "ts": "2026-08-13T21:41:11+00:00",
+   "ingested": "2026-08-13T22:05:24.794374+00:00",
+   "headline": "Australia PM Albanese: reviewed advancements on AUKUS defence agreement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720557,
+   "ts": "2026-08-13T21:39:52+00:00",
+   "ingested": "2026-08-13T22:05:24.794386+00:00",
+   "headline": "Australia PM Albanese: spoke with President Donald Trump overnight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720556,
+   "ts": "2026-08-13T21:33:22+00:00",
+   "ingested": "2026-08-13T22:05:24.794399+00:00",
+   "headline": "Kushner poised to visit Cairo next week for discussions with Egyptian mediators: Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720549,
+   "ts": "2026-08-13T21:28:29+00:00",
+   "ingested": "2026-08-13T22:05:24.794415+00:00",
+   "headline": "White House: Trump instructs defense secretary to substitute advanced electromagnetic aircraft launch and weapons elevator systems with traditional steam and hydraulic methods",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720548,
+   "ts": "2026-08-13T21:27:43+00:00",
+   "ingested": "2026-08-13T22:05:24.794429+00:00",
+   "headline": "White House: Trump memo instructs Pentagon to boost direct investments in U.S. shipbuilding industry using Finland model",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720547,
+   "ts": "2026-08-13T21:27:40+00:00",
+   "ingested": "2026-08-13T22:05:24.794443+00:00",
+   "headline": "Advanced Micro Devices prices $4.75 billion senior notes offering in four parts: SEC filing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720546,
+   "ts": "2026-08-13T21:27:02+00:00",
+   "ingested": "2026-08-13T22:05:24.794458+00:00",
+   "headline": "White House: Trump signs national security presidential memorandum to address critical long-term challenges in navy shipbuilding and repair programs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720545,
+   "ts": "2026-08-13T21:26:27+00:00",
+   "ingested": "2026-08-13T22:05:24.794471+00:00",
+   "headline": "AWS: certificate manager to end support for email-validated public certificates by Sept. 30, 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720544,
+   "ts": "2026-08-13T21:26:05+00:00",
+   "ingested": "2026-08-13T22:05:24.794487+00:00",
+   "headline": "White House: tariffs on non-sensitive drone components to begin 180 days after signing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720543,
+   "ts": "2026-08-13T21:25:56+00:00",
+   "ingested": "2026-08-13T22:05:24.794501+00:00",
+   "headline": "White House: tariffs to begin 21 days after signing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720542,
+   "ts": "2026-08-13T21:25:45+00:00",
+   "ingested": "2026-08-13T22:05:24.794514+00:00",
+   "headline": "White House: Trump proclamation enforces 10% ad valorem tariff on drones from United Kingdom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720541,
+   "ts": "2026-08-13T21:25:15+00:00",
+   "ingested": "2026-08-13T22:05:24.794530+00:00",
+   "headline": "White House: trump proclamation imposes 15% ad valorem tariff on drones and parts from European Union, Japan, Liechtenstein, South Korea, Switzerland, and Taiwan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720540,
+   "ts": "2026-08-13T21:24:51+00:00",
+   "ingested": "2026-08-13T22:05:24.794546+00:00",
+   "headline": "White House: Trump proclamation imposes 25% ad valorem tariff on smaller drones lacking key national security features",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720539,
+   "ts": "2026-08-13T21:24:33+00:00",
+   "ingested": "2026-08-13T22:05:24.794561+00:00",
+   "headline": "White House: Trump proclamation enforces 100% ad valorem tariff on drones of specific size or capabilities deemed sensitive for national security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720538,
+   "ts": "2026-08-13T21:24:14+00:00",
+   "ingested": "2026-08-13T22:05:24.794573+00:00",
+   "headline": "White House: Trump signs proclamation imposing tariffs on drones and their components",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720537,
+   "ts": "2026-08-13T21:17:57+00:00",
+   "ingested": "2026-08-13T22:05:24.794584+00:00",
+   "headline": "North Korea: will keep expanding nuclear deterrent - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720523,
+   "ts": "2026-08-13T21:16:51+00:00",
+   "ingested": "2026-08-13T22:05:24.794600+00:00",
+   "headline": "North Korea warns new U.S. nuclear policy could be used first on Korean Peninsula - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720520,
+   "ts": "2026-08-13T21:13:05+00:00",
+   "ingested": "2026-08-13T22:05:24.794613+00:00",
+   "headline": "Securities and Exchange Commission: Meeting delayed due to unexpected scheduling conflict",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720519,
+   "ts": "2026-08-13T21:13:03+00:00",
+   "ingested": "2026-08-13T22:05:24.794626+00:00",
+   "headline": "US securities regulator abruptly cancels Friday meeting to discuss crypto rules: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720400,
+   "ts": "2026-08-13T19:50:30+00:00",
+   "ingested": "2026-08-13T22:05:24.794658+00:00",
+   "headline": "MOC Imbalance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9720518,
    "ts": "2026-08-13T21:10:34+00:00",
@@ -3775,230 +3999,6 @@
    "ts": "2026-08-11T14:18:29+00:00",
    "ingested": "2026-08-11T14:43:01.201855+00:00",
    "headline": "Trump: We control Iran's money and have complete control over it - Voice of America Interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716509,
-   "ts": "2026-08-11T14:05:02+00:00",
-   "ingested": "2026-08-11T14:43:01.201878+00:00",
-   "headline": "Talks between Israel and Lebanon in Rome will resume in early September. Prior to that, interim talks will be held in Washington, Beirut, and Jerusalem - Sky News Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716485,
-   "ts": "2026-08-11T14:01:17+00:00",
-   "ingested": "2026-08-11T14:43:01.201891+00:00",
-   "headline": "Russia sees Syria bases deal securing hub for Africa operations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716475,
-   "ts": "2026-08-11T14:00:00+00:00",
-   "ingested": "2026-08-11T14:43:01.201906+00:00",
-   "headline": "US Existing Home Sales Actual 4.06M (Forecast 4.05M, Previous 4.09M, Revised 4.13M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716474,
-   "ts": "2026-08-11T14:00:00+00:00",
-   "ingested": "2026-08-11T14:43:01.201919+00:00",
-   "headline": "US Existing Home Sales change Actual -1.7% (Forecast -1%, Previous -2.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716473,
-   "ts": "2026-08-11T13:59:24+00:00",
-   "ingested": "2026-08-11T14:43:01.201929+00:00",
-   "headline": "US CPI Cribsheet - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716461,
-   "ts": "2026-08-11T13:45:56+00:00",
-   "ingested": "2026-08-11T14:43:01.201944+00:00",
-   "headline": "Drilling starts at one of the largest undeveloped palladium-gold-platinum deposits at Skaergaard, Greenland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716454,
-   "ts": "2026-08-11T13:36:35+00:00",
-   "ingested": "2026-08-11T13:39:29.015284+00:00",
-   "headline": "Pakistan's Interior Minister arrives in Tehran - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716421,
-   "ts": "2026-08-11T13:13:53+00:00",
-   "ingested": "2026-08-11T13:39:29.015324+00:00",
-   "headline": "BofA: Consensus forecasts for 3Q26 and 4Q26 suggest the S&P 500 will grow >20% YoY for four consecutive quarters - this has only happened 10 times since 1936, with most recent booms of this magnitude following EPS recessions (e.g., COVID, GFC)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716420,
-   "ts": "2026-08-11T13:04:13+00:00",
-   "ingested": "2026-08-11T13:39:29.015341+00:00",
-   "headline": "Natixis on Upcoming US CPI - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716399,
-   "ts": "2026-08-11T13:00:47+00:00",
-   "ingested": "2026-08-11T13:39:29.015361+00:00",
-   "headline": "ECB forex reserves rose \u20ac800 mln to \u20ac348.9 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716397,
-   "ts": "2026-08-11T13:00:33+00:00",
-   "ingested": "2026-08-11T13:39:29.015376+00:00",
-   "headline": "ECB settled \u20ac1,678.8 bln public-sector bond purchases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716396,
-   "ts": "2026-08-11T13:00:28+00:00",
-   "ingested": "2026-08-11T13:39:29.015391+00:00",
-   "headline": "ECB settled \u20ac218.2 billion corporate bond purchases",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716395,
-   "ts": "2026-08-11T13:00:22+00:00",
-   "ingested": "2026-08-11T13:39:29.015405+00:00",
-   "headline": "ECB bond holdings under PEPP \u20ac1.29 tln as of last week.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716394,
-   "ts": "2026-08-11T12:59:47+00:00",
-   "ingested": "2026-08-11T13:39:29.015420+00:00",
-   "headline": "Effective Fed Funds Rate 3.63% August 10 vs 3.63% August 7.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716392,
-   "ts": "2026-08-11T12:55:55+00:00",
-   "ingested": "2026-08-11T13:39:29.015433+00:00",
-   "headline": "US Redbook YoY Actual 8.3% (Forecast -, Previous 8.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716393,
-   "ts": "2026-08-11T12:55:15+00:00",
-   "ingested": "2026-08-11T13:39:29.015446+00:00",
-   "headline": "Goldman Sachs Review of Market Reaction to FOMC - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716390,
-   "ts": "2026-08-11T12:48:57+00:00",
-   "ingested": "2026-08-11T13:39:29.015459+00:00",
-   "headline": "US Sentiment: US & Iran Close to Peace Deal? - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716343,
-   "ts": "2026-08-11T12:24:49+00:00",
-   "ingested": "2026-08-11T13:39:29.015478+00:00",
-   "headline": "US military helicopter fired at the Panama-flagged ship\u2019s rudder after crew ignored warnings from American personnel - WSJ citing US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716341,
-   "ts": "2026-08-11T12:22:43+00:00",
-   "ingested": "2026-08-11T13:39:29.015493+00:00",
-   "headline": "US forces fire on Panama-flagged ship attempting to run blockade of Iranian ports - WSJ Citing  US Official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716338,
-   "ts": "2026-08-11T12:15:00+00:00",
-   "ingested": "2026-08-11T13:39:29.015507+00:00",
-   "headline": "US ADP Wkly Employment Change Actual 8.25k (Forecast -, Previous 15k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716337,
-   "ts": "2026-08-11T12:09:35+00:00",
-   "ingested": "2026-08-11T13:39:29.015519+00:00",
-   "headline": "Pakistan: US-Iran are close to some arrangement on peace.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716326,
-   "ts": "2026-08-11T12:01:54+00:00",
-   "ingested": "2026-08-11T12:08:41.827232+00:00",
-   "headline": "IBM to deploy NVIDIA HGX B300 cluster on IBM Cloud. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716310,
-   "ts": "2026-08-11T12:00:25+00:00",
-   "ingested": "2026-08-11T12:08:41.827259+00:00",
-   "headline": "Secured overnight financing rate: 3.63% on August 10 vs 3.62% August 7th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716307,
-   "ts": "2026-08-11T11:51:51+00:00",
-   "ingested": "2026-08-11T12:08:41.827282+00:00",
-   "headline": "US 10-year treasury yield more likely to come in higher than expectations than lower over the next three months, said 18 of 22 bond strategists - Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716306,
-   "ts": "2026-08-11T11:51:43+00:00",
-   "ingested": "2026-08-11T12:08:41.827305+00:00",
-   "headline": "Poll: US 2-year Treasury yield to decline to 4.07% in three months, 3.92% in six months, and 3.80% in a year (vs 4.00%, 3.90%, and 3.85%, respectively, in the July poll)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716305,
-   "ts": "2026-08-11T11:51:27+00:00",
-   "ingested": "2026-08-11T12:08:41.827327+00:00",
-   "headline": "Poll: US 10-year Treasury yield to decline to 4.50% in three months, hold for the next three months, and 4.34% in a year (vs 4.48%, 4.48%, and 4.39%, respectively, in the July poll)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716284,
-   "ts": "2026-08-11T11:31:57+00:00",
-   "ingested": "2026-08-11T12:08:41.827345+00:00",
-   "headline": "River AI: Round includes investment from NVIDIA and AMD ventures. Raises $1.1B led by General Catalyst and Amp PBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716255,
-   "ts": "2026-08-11T11:00:13+00:00",
-   "ingested": "2026-08-11T11:25:57.336020+00:00",
-   "headline": "Pakistan's interior minister arrives in Tehran for talks - Mehr.",
    "channel": "rss",
    "source": "financialjuice"
   }
