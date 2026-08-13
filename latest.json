@@ -1,7 +1,95 @@
 {
- "updated": "2026-08-13T22:05:24.794962+00:00",
+ "updated": "2026-08-13T22:57:13.371275+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9720648,
+   "ts": "2026-08-13T22:46:00+00:00",
+   "ingested": "2026-08-13T22:57:13.370582+00:00",
+   "headline": "New Zealand External Migration & Visitors Actual 8.1% (Forecast -, Previous 6.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720650,
+   "ts": "2026-08-13T22:45:03+00:00",
+   "ingested": "2026-08-13T22:57:13.370619+00:00",
+   "headline": "New Zealand Subnational Net Migration Climbs 1,610 in June",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720649,
+   "ts": "2026-08-13T22:45:03+00:00",
+   "ingested": "2026-08-13T22:57:13.370646+00:00",
+   "headline": "NZ short-term visitors climb 8.1% in June compared with year earlier",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720647,
+   "ts": "2026-08-13T22:45:00+00:00",
+   "ingested": "2026-08-13T22:57:13.370671+00:00",
+   "headline": "New Zealand Visitor Arrivals Actual 1610 (Forecast -, Previous 1,860)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720636,
+   "ts": "2026-08-13T22:30:03+00:00",
+   "ingested": "2026-08-13T22:57:13.370695+00:00",
+   "headline": "New Zealand July s/adj PMI at 54.3: Business NZ Bank NZ survey",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720635,
+   "ts": "2026-08-13T22:30:00+00:00",
+   "ingested": "2026-08-13T22:57:13.370724+00:00",
+   "headline": "New Zealand Manufacturing PMI Actual 54.3 (Forecast -, Previous 59.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720615,
+   "ts": "2026-08-13T22:14:17+00:00",
+   "ingested": "2026-08-13T22:57:13.370744+00:00",
+   "headline": "Fed's Goolsbee: US economy remains stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720614,
+   "ts": "2026-08-13T22:12:09+00:00",
+   "ingested": "2026-08-13T22:57:13.370771+00:00",
+   "headline": "Fed's Goolsbee: If can put some of that behind us, can steer inflation back to 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720613,
+   "ts": "2026-08-13T22:11:50+00:00",
+   "ingested": "2026-08-13T22:57:13.370797+00:00",
+   "headline": "Fed's Goolsbee: many inflation factors stemmed from tariffs and oil, initially expected as one-time jumps",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720612,
+   "ts": "2026-08-13T22:11:34+00:00",
+   "ingested": "2026-08-13T22:57:13.370845+00:00",
+   "headline": "Fed's Goolsbee: latest inflation figures have improved slightly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720611,
+   "ts": "2026-08-13T22:10:29+00:00",
+   "ingested": "2026-08-13T22:57:13.370868+00:00",
+   "headline": "Fed's Goolsbee: inflation readings improving, hope trend persists",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9720598,
    "ts": "2026-08-13T22:02:17+00:00",
@@ -3911,94 +3999,6 @@
    "ts": "2026-08-11T15:00:26+00:00",
    "ingested": "2026-08-11T15:42:36.830821+00:00",
    "headline": "NY Fed: Q2 aggregate delinquency rate improved slightly to 4.7%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716565,
-   "ts": "2026-08-11T14:57:30+00:00",
-   "ingested": "2026-08-11T15:42:36.830833+00:00",
-   "headline": "NOC Chief: Libya's Zawiya refinery resumes operations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716549,
-   "ts": "2026-08-11T14:40:36+00:00",
-   "ingested": "2026-08-11T14:43:01.201699+00:00",
-   "headline": "Intel said to give no shares to about 33% of orders in offering. $INTC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716548,
-   "ts": "2026-08-11T14:38:58+00:00",
-   "ingested": "2026-08-11T14:43:01.201724+00:00",
-   "headline": "Atlanta Fed's Venable: Fed's inflation and jobs goals face nuanced risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716547,
-   "ts": "2026-08-11T14:38:22+00:00",
-   "ingested": "2026-08-11T14:43:01.201744+00:00",
-   "headline": "Atlanta Fed's Venable: Understanding of maximum employment influenced by stagnant labor supply, an unusual circumstance for the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716546,
-   "ts": "2026-08-11T14:37:41+00:00",
-   "ingested": "2026-08-11T14:43:01.201758+00:00",
-   "headline": "Fed's Venable: Job market appears broadly stable.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716545,
-   "ts": "2026-08-11T14:36:58+00:00",
-   "ingested": "2026-08-11T14:43:01.201777+00:00",
-   "headline": "Fed's Venable: Central question is whether price pressures will recede in coming months, with much depending on the outcome of the Middle East conflict.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716544,
-   "ts": "2026-08-11T14:35:25+00:00",
-   "ingested": "2026-08-11T14:43:01.201792+00:00",
-   "headline": "Atlanta Fed's Venable: Inflation is too high, with the same message heard from contacts across the southeast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716537,
-   "ts": "2026-08-11T14:22:54+00:00",
-   "ingested": "2026-08-11T14:43:01.201808+00:00",
-   "headline": "Pakistani Minister of Interior met with Iran\u2019s Foreign Minister Araghchi - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716536,
-   "ts": "2026-08-11T14:21:02+00:00",
-   "ingested": "2026-08-11T14:43:01.201821+00:00",
-   "headline": "Fear & Greed Index: 63/100 - Greed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716534,
-   "ts": "2026-08-11T14:19:18+00:00",
-   "ingested": "2026-08-11T14:43:01.201841+00:00",
-   "headline": "Trump: The US has no shortage of missile munitions. We can hit Iran very hard - Voice of America Interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716533,
-   "ts": "2026-08-11T14:18:29+00:00",
-   "ingested": "2026-08-11T14:43:01.201855+00:00",
-   "headline": "Trump: We control Iran's money and have complete control over it - Voice of America Interview",
    "channel": "rss",
    "source": "financialjuice"
   }
