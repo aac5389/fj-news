@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-13T22:57:13.371275+00:00",
+ "updated": "2026-08-13T23:41:51.184423+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9720682,
+   "ts": "2026-08-13T23:14:13+00:00",
+   "ingested": "2026-08-13T23:41:51.184189+00:00",
+   "headline": "US Treasury Secretary Bessent: We will implement unprecedented measures on Iran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9720648,
    "ts": "2026-08-13T22:46:00+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-11T15:00:30+00:00",
    "ingested": "2026-08-11T15:42:36.830809+00:00",
    "headline": "U.S. auto loans reach record $211 billion as consumers increase credit card and home equity debt, New York Fed report shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716568,
-   "ts": "2026-08-11T15:00:26+00:00",
-   "ingested": "2026-08-11T15:42:36.830821+00:00",
-   "headline": "NY Fed: Q2 aggregate delinquency rate improved slightly to 4.7%.",
    "channel": "rss",
    "source": "financialjuice"
   }
