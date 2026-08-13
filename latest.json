@@ -1,7 +1,311 @@
 {
- "updated": "2026-08-13T12:07:48.614547+00:00",
+ "updated": "2026-08-13T13:42:49.770763+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9719925,
+   "ts": "2026-08-13T13:30:22+00:00",
+   "ingested": "2026-08-13T13:42:49.769822+00:00",
+   "headline": "RBC's Forecasts for Oil - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719924,
+   "ts": "2026-08-13T13:25:23+00:00",
+   "ingested": "2026-08-13T13:42:49.769849+00:00",
+   "headline": "JPMorgan's View on US CPI - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719923,
+   "ts": "2026-08-13T13:22:22+00:00",
+   "ingested": "2026-08-13T13:42:49.769866+00:00",
+   "headline": "CIBC on US CPI - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719905,
+   "ts": "2026-08-13T13:16:49+00:00",
+   "ingested": "2026-08-13T13:42:49.769887+00:00",
+   "headline": "US Sentiment: Faster BoJ Hikes Said to be Supported by Japan - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719883,
+   "ts": "2026-08-13T13:01:56+00:00",
+   "ingested": "2026-08-13T13:42:49.769904+00:00",
+   "headline": "US Chamber of Commerce CEO Clark: We need to bring inflation down to 2% faster",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719879,
+   "ts": "2026-08-13T13:00:44+00:00",
+   "ingested": "2026-08-13T13:42:49.769921+00:00",
+   "headline": "Fed's Hammack: If it takes another 3-4 years to get to 2% inflation, can the public wait?",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719870,
+   "ts": "2026-08-13T13:00:11+00:00",
+   "ingested": "2026-08-13T13:42:49.769937+00:00",
+   "headline": "Fed's Hammack: Recent two inflation reports are welcome news, but no confidence we'll continue to see that progress",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719869,
+   "ts": "2026-08-13T13:00:01+00:00",
+   "ingested": "2026-08-13T13:42:49.769952+00:00",
+   "headline": "Effective Fed Funds Rate 3.63% August 12 vs 3.63% August 11.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719868,
+   "ts": "2026-08-13T12:59:47+00:00",
+   "ingested": "2026-08-13T13:42:49.769965+00:00",
+   "headline": "Fed's Hammack: Inflation from these supply shocks has proved more persistent",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719867,
+   "ts": "2026-08-13T12:58:38+00:00",
+   "ingested": "2026-08-13T13:42:49.769984+00:00",
+   "headline": "Fed's Barkin: Consumers seem \"bound and determined\" to spend, and are finding ways to finance it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719866,
+   "ts": "2026-08-13T12:57:21+00:00",
+   "ingested": "2026-08-13T13:42:49.769997+00:00",
+   "headline": "Fed's Hammack: Payroll data is noisy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719865,
+   "ts": "2026-08-13T12:56:37+00:00",
+   "ingested": "2026-08-13T13:42:49.770013+00:00",
+   "headline": "Fed's Barkin: Current levels of federal debt are an inflationary \"wind\" that the Fed has to navigate against.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719864,
+   "ts": "2026-08-13T12:54:08+00:00",
+   "ingested": "2026-08-13T13:42:49.770027+00:00",
+   "headline": "Fed's Hammack: I also watch private credit and whether AI is a bubble",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719863,
+   "ts": "2026-08-13T12:53:39+00:00",
+   "ingested": "2026-08-13T13:42:49.770043+00:00",
+   "headline": "Fed's Hammack: A lot of leverage is being used to buy treasuries. Treasuries is 1 area I monitor for financial stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719862,
+   "ts": "2026-08-13T12:49:33+00:00",
+   "ingested": "2026-08-13T13:42:49.770055+00:00",
+   "headline": "The US eases export controls on certain drones and parts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719846,
+   "ts": "2026-08-13T12:45:58+00:00",
+   "ingested": "2026-08-13T13:42:49.770070+00:00",
+   "headline": "Fed's Hammack: Businesses have adapted to tariff and oil shocks, there's resilience and investment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719838,
+   "ts": "2026-08-13T12:43:21+00:00",
+   "ingested": "2026-08-13T13:42:49.770086+00:00",
+   "headline": "Fed's Hammack: Raising interest rates can be painful, but must not let growth and investment be so fast the economy overheats.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719837,
+   "ts": "2026-08-13T12:42:22+00:00",
+   "ingested": "2026-08-13T13:42:49.770101+00:00",
+   "headline": "Fed's Hammack: Inflation is broad-based, not just in certain sectors, I have learned that from talking with businesses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719836,
+   "ts": "2026-08-13T12:40:49+00:00",
+   "ingested": "2026-08-13T13:42:49.770113+00:00",
+   "headline": "Fed's Barkin: The US economy remains resilient, driven by consumer",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719835,
+   "ts": "2026-08-13T12:40:40+00:00",
+   "ingested": "2026-08-13T13:42:49.770126+00:00",
+   "headline": "Fed's Barkin: US investment boom not confined to data centers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719834,
+   "ts": "2026-08-13T12:40:34+00:00",
+   "ingested": "2026-08-13T13:42:49.770140+00:00",
+   "headline": "Fed's Barkin: Much of today's inflation is from shocks that should pass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719833,
+   "ts": "2026-08-13T12:40:29+00:00",
+   "ingested": "2026-08-13T13:42:49.770153+00:00",
+   "headline": "Fed's Barkin: Some inflation drivers, including AI, could be persistent.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719832,
+   "ts": "2026-08-13T12:40:21+00:00",
+   "ingested": "2026-08-13T13:42:49.770165+00:00",
+   "headline": "Fed's Barkin: AI investment seems impervious to the level of rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719831,
+   "ts": "2026-08-13T12:40:13+00:00",
+   "ingested": "2026-08-13T13:42:49.770179+00:00",
+   "headline": "Fed's Hammack: It's important Fed is held accountable to one inflation number.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719830,
+   "ts": "2026-08-13T12:38:15+00:00",
+   "ingested": "2026-08-13T13:42:49.770193+00:00",
+   "headline": "Fed's Hammack: Policy is not restrictive, businesses are excited to grow and borrow",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719829,
+   "ts": "2026-08-13T12:37:40+00:00",
+   "ingested": "2026-08-13T13:42:49.770207+00:00",
+   "headline": "Fed's Hammack: Unemployment is the best indicator of the job market; it's stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719828,
+   "ts": "2026-08-13T12:37:39+00:00",
+   "ingested": "2026-08-13T13:42:49.770219+00:00",
+   "headline": "Fed's Hammack: Inflation amid recent shocks has risen.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719827,
+   "ts": "2026-08-13T12:37:11+00:00",
+   "ingested": "2026-08-13T13:42:49.770232+00:00",
+   "headline": "Fed's Hammack: The labor market is stable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719826,
+   "ts": "2026-08-13T12:36:43+00:00",
+   "ingested": "2026-08-13T13:42:49.770244+00:00",
+   "headline": "Fed's Hammack: My view is we need to act now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719807,
+   "ts": "2026-08-13T12:30:05+00:00",
+   "ingested": "2026-08-13T13:42:49.770257+00:00",
+   "headline": "US Core PPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.2%, Revised 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719806,
+   "ts": "2026-08-13T12:30:04+00:00",
+   "ingested": "2026-08-13T13:42:49.770270+00:00",
+   "headline": "US Core PPI YoY Actual 4.2% (Forecast 4.1%, Previous 4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719805,
+   "ts": "2026-08-13T12:30:03+00:00",
+   "ingested": "2026-08-13T13:42:49.770282+00:00",
+   "headline": "US PPI MoM Actual 0% (Forecast 0.2%, Previous -0.3%, Revised -0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719804,
+   "ts": "2026-08-13T12:30:03+00:00",
+   "ingested": "2026-08-13T13:42:49.770295+00:00",
+   "headline": "US PPI YoY Actual 4.7% (Forecast 4.9%, Previous 5.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719803,
+   "ts": "2026-08-13T12:30:00+00:00",
+   "ingested": "2026-08-13T13:42:49.770308+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.777M (Forecast 1.794M, Previous 1.801M, Revised 1.799M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719802,
+   "ts": "2026-08-13T12:30:00+00:00",
+   "ingested": "2026-08-13T13:42:49.770321+00:00",
+   "headline": "US Initial Jobless Claims Actual 209k (Forecast 202k, Previous 199k, Revised 200k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719780,
+   "ts": "2026-08-13T12:14:04+00:00",
+   "ingested": "2026-08-13T13:42:49.770337+00:00",
+   "headline": "Iran: Trump's claim of controlling the strait is a lie - IRIB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719779,
+   "ts": "2026-08-13T12:12:27+00:00",
+   "ingested": "2026-08-13T13:42:49.770349+00:00",
+   "headline": "Iran: We fully control the Strait of Hormuz - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9719778,
+   "ts": "2026-08-13T12:10:12+00:00",
+   "ingested": "2026-08-13T13:42:49.770361+00:00",
+   "headline": "Iran: No ship can safely transit Hormuz without approval - TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9719755,
    "ts": "2026-08-13T11:59:43+00:00",
@@ -3695,310 +3999,6 @@
    "ts": "2026-08-10T20:13:46+00:00",
    "ingested": "2026-08-10T20:19:14.416992+00:00",
    "headline": "Morgan Stanley launches US innovation infrastructure initiative, facilitating approximately $1.5 trln. $MS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715215,
-   "ts": "2026-08-10T20:05:36+00:00",
-   "ingested": "2026-08-10T20:19:14.417005+00:00",
-   "headline": "Oil Rally Pressures Stocks as Inflation Fears Build \u2013 US Market Wrap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715201,
-   "ts": "2026-08-10T19:53:38+00:00",
-   "ingested": "2026-08-10T20:19:14.417014+00:00",
-   "headline": "Intel share sale is said to be multiple times oversubscribed. $INTC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715193,
-   "ts": "2026-08-10T19:38:08+00:00",
-   "ingested": "2026-08-10T20:19:14.417024+00:00",
-   "headline": "Trump ends remarks in the Oval Office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715192,
-   "ts": "2026-08-10T19:35:25+00:00",
-   "ingested": "2026-08-10T20:19:14.417033+00:00",
-   "headline": "Trump: Spoke to Warsh once briefly a few days ago.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715191,
-   "ts": "2026-08-10T19:35:15+00:00",
-   "ingested": "2026-08-10T20:19:14.417046+00:00",
-   "headline": "Trump denies WSJ story about Warsh conversations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715190,
-   "ts": "2026-08-10T19:34:19+00:00",
-   "ingested": "2026-08-10T20:19:14.417055+00:00",
-   "headline": "Trump: Strait is a little complex because of occasional mines. US has mineswept the entire Strait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715189,
-   "ts": "2026-08-10T19:33:55+00:00",
-   "ingested": "2026-08-10T20:19:14.417062+00:00",
-   "headline": "Trump: US is the only one that has control of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715188,
-   "ts": "2026-08-10T19:33:17+00:00",
-   "ingested": "2026-08-10T20:19:14.417069+00:00",
-   "headline": "tRump: The Strait is open now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715165,
-   "ts": "2026-08-10T19:28:47+00:00",
-   "ingested": "2026-08-10T19:33:17.922604+00:00",
-   "headline": "IAEA will soon remove nuclear material stored at a clandestine site in syria - Axios cites US and Israeli officials on Syrian nuclear site deal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715164,
-   "ts": "2026-08-10T19:24:39+00:00",
-   "ingested": "2026-08-10T19:33:17.922631+00:00",
-   "headline": "Trump on Iran: US is going to ask for money for damage Iran has done.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715163,
-   "ts": "2026-08-10T19:24:06+00:00",
-   "ingested": "2026-08-10T19:33:17.922650+00:00",
-   "headline": "Trump on Iran: We still have ability to escalate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715153,
-   "ts": "2026-08-10T19:14:11+00:00",
-   "ingested": "2026-08-10T19:33:17.922677+00:00",
-   "headline": "NOC Chairman Suleman: A drone hit a laden fuel storage tank at Zawiya oil refinery. Another targeting took place on Saturday but caused no fire.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715133,
-   "ts": "2026-08-10T18:50:37+00:00",
-   "ingested": "2026-08-10T19:33:17.922690+00:00",
-   "headline": "WATCH LIVE: Trump Signs EO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715132,
-   "ts": "2026-08-10T18:50:33+00:00",
-   "ingested": "2026-08-10T19:33:17.922706+00:00",
-   "headline": "Fed's Hammack: Markets are a complement for the Fed, not a substitute.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715131,
-   "ts": "2026-08-10T18:49:42+00:00",
-   "ingested": "2026-08-10T19:33:17.922721+00:00",
-   "headline": "Fed's Hammack: still no signs of trouble in the job market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715130,
-   "ts": "2026-08-10T18:49:40+00:00",
-   "ingested": "2026-08-10T19:33:17.922736+00:00",
-   "headline": "Brent crude futures settle at $87.72/bbl, up $4.17, 4.99%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715129,
-   "ts": "2026-08-10T18:49:31+00:00",
-   "ingested": "2026-08-10T19:33:17.922751+00:00",
-   "headline": "Fed's Hammack: Don't see inflation coming back down on its own.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715124,
-   "ts": "2026-08-10T18:46:23+00:00",
-   "ingested": "2026-08-10T19:33:17.922766+00:00",
-   "headline": "Fed's Hammack: Now is the time for us to start acting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715123,
-   "ts": "2026-08-10T18:46:08+00:00",
-   "ingested": "2026-08-10T19:33:17.922782+00:00",
-   "headline": "Fed's Hammack: Current rate not meaningfully restricting the economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715116,
-   "ts": "2026-08-10T18:44:59+00:00",
-   "ingested": "2026-08-10T19:33:17.922799+00:00",
-   "headline": "Fed's Hammack: No intention to prejudge the number of rate increases or the final level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715115,
-   "ts": "2026-08-10T18:44:58+00:00",
-   "ingested": "2026-08-10T19:33:17.922816+00:00",
-   "headline": "Fed's Hammack (Voter): Would probably need some number of rate hikes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715114,
-   "ts": "2026-08-10T18:44:52+00:00",
-   "ingested": "2026-08-10T19:33:17.922833+00:00",
-   "headline": "Fire breaks out at diesel tank at Libya's Zawiya oil depot. Circumstances and cause remain unknown - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715111,
-   "ts": "2026-08-10T18:32:26+00:00",
-   "ingested": "2026-08-10T19:33:17.922848+00:00",
-   "headline": "NYMEX Natural Gas September futures settle at $2.7940/MMBTU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715098,
-   "ts": "2026-08-10T18:31:46+00:00",
-   "ingested": "2026-08-10T19:33:17.922863+00:00",
-   "headline": "NYMEX Diesel September futures settle at $4.1898 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715095,
-   "ts": "2026-08-10T18:31:26+00:00",
-   "ingested": "2026-08-10T19:33:17.922881+00:00",
-   "headline": "NYMEX Gasoline September futures settle at $3.1354 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715094,
-   "ts": "2026-08-10T18:31:12+00:00",
-   "ingested": "2026-08-10T19:33:17.922897+00:00",
-   "headline": "NYMEX WTI crude September futures settle at $82.13 a barrel, up $3.95, 5.05%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715091,
-   "ts": "2026-08-10T18:18:10+00:00",
-   "ingested": "2026-08-10T18:29:00.047845+00:00",
-   "headline": "Explosions occurred in fuel tank in Libya's Zawiya refinery. Nature of explosions unknown - 2 sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715054,
-   "ts": "2026-08-10T17:39:15+00:00",
-   "ingested": "2026-08-10T18:29:00.047871+00:00",
-   "headline": "Trump: With respect to the Iran negotiations, Iran should be responsible for the damages and deaths caused to the people of Lebanon, Syria, Yemen, and Gaza - Truth Social",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715034,
-   "ts": "2026-08-10T17:19:29+00:00",
-   "ingested": "2026-08-10T17:32:11.704267+00:00",
-   "headline": "OpenAI: Introducing GPT-5.6-Cyber",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715017,
-   "ts": "2026-08-10T17:02:18+00:00",
-   "ingested": "2026-08-10T17:32:11.704285+00:00",
-   "headline": "Pentagon and Maritime Agency to consult on case-by-case relief.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715015,
-   "ts": "2026-08-10T17:02:08+00:00",
-   "ingested": "2026-08-10T17:32:11.704298+00:00",
-   "headline": "Trump limits shipping waiver to energy commodities and fertilizer.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715010,
-   "ts": "2026-08-10T17:01:48+00:00",
-   "ingested": "2026-08-10T17:32:11.704311+00:00",
-   "headline": "Jones Act waiver extended for 90 days, with new focus on energy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715009,
-   "ts": "2026-08-10T17:00:49+00:00",
-   "ingested": "2026-08-10T17:32:11.704322+00:00",
-   "headline": "Trump extends and narrows US Jones Act shipping waiver",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714999,
-   "ts": "2026-08-10T16:51:00+00:00",
-   "ingested": "2026-08-10T17:32:11.704338+00:00",
-   "headline": "OpenAI: premium seats priced at $125 per user monthly, $100 per user with annual billing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714998,
-   "ts": "2026-08-10T16:51:00+00:00",
-   "ingested": "2026-08-10T17:32:11.704349+00:00",
-   "headline": "OpenAI introduces premium seats for ChatGPT Business website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714997,
-   "ts": "2026-08-10T16:47:12+00:00",
-   "ingested": "2026-08-10T17:32:11.704360+00:00",
-   "headline": "Trump Demands Compensation From Iran in Response to iran Demanding Compensation - Truth Social",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714979,
-   "ts": "2026-08-10T16:34:16+00:00",
-   "ingested": "2026-08-10T16:36:15.773747+00:00",
-   "headline": "Trump: Protestor compensation should be part of Iran talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9714978,
-   "ts": "2026-08-10T16:33:41+00:00",
-   "ingested": "2026-08-10T16:36:15.773773+00:00",
-   "headline": "Trump: Instructed my representatives to put this firmly into any, and all, future negotiations.",
    "channel": "rss",
    "source": "financialjuice"
   }
