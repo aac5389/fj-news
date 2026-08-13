@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-13T18:36:50.250564+00:00",
+ "updated": "2026-08-13T19:41:03.845930+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9720359,
+   "ts": "2026-08-13T19:12:55+00:00",
+   "ingested": "2026-08-13T19:41:03.845602+00:00",
+   "headline": "US money-market fund assets rise to $7.93 trillion at ICI.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720358,
+   "ts": "2026-08-13T19:05:13+00:00",
+   "ingested": "2026-08-13T19:41:03.845630+00:00",
+   "headline": "NY Fed: The desk plans to conduct approximately $17 billion in reinvestment purchases; no reserve management purchases between August 14th and September 14th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720327,
+   "ts": "2026-08-13T18:47:48+00:00",
+   "ingested": "2026-08-13T19:41:03.845647+00:00",
+   "headline": "Brent Crude futures settle at $87.07/bbl, down $1.91, 2.15%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9720323,
+   "ts": "2026-08-13T18:40:06+00:00",
+   "ingested": "2026-08-13T19:41:03.845669+00:00",
+   "headline": "Trump: Big win today on \u201cde minimis\u201d exemption at the US Court of International Trade - Truth Social.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9720307,
    "ts": "2026-08-13T18:32:03+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-11T08:01:29+00:00",
    "ingested": "2026-08-11T08:49:13.409585+00:00",
    "headline": "Italian Trade Balance EU Actual 1.577B (Forecast -, Previous 0.845B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715989,
-   "ts": "2026-08-11T08:01:20+00:00",
-   "ingested": "2026-08-11T08:49:13.409599+00:00",
-   "headline": "Italian International Trade Balance Actual 4.232B (Forecast -, Previous 4.793B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715988,
-   "ts": "2026-08-11T07:47:58+00:00",
-   "ingested": "2026-08-11T07:53:13.785719+00:00",
-   "headline": "Iran's Oil Minister Paknejad: 95 million cubic metres of gas will return to production cycle by end of September - Shana.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715928,
-   "ts": "2026-08-11T07:01:36+00:00",
-   "ingested": "2026-08-11T07:53:13.785738+00:00",
-   "headline": "Currency Strength Chart: Strongest: JPY, CAD, USD, GBP, AUD, EUR, CHF, NZD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9715884,
-   "ts": "2026-08-11T06:00:57+00:00",
-   "ingested": "2026-08-11T06:39:00.747450+00:00",
-   "headline": "Bank of Korea Senior Deputy Governor Ryoo: There will be an additional rate hike",
    "channel": "rss",
    "source": "financialjuice"
   }
