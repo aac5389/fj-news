@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-14T11:19:39.026916+00:00",
+ "updated": "2026-08-14T12:01:27.028123+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9721572,
+   "ts": "2026-08-14T12:00:05+00:00",
+   "ingested": "2026-08-14T12:01:27.027770+00:00",
+   "headline": "Secured overnight financing rate 3.62% August 13th vs 3.62% August 12th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721571,
+   "ts": "2026-08-14T11:52:54+00:00",
+   "ingested": "2026-08-14T12:01:27.027796+00:00",
+   "headline": "Goldman Sachs raises FTSE 100 index target for next 12 months to 11,400 from 11,000",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721570,
+   "ts": "2026-08-14T11:52:48+00:00",
+   "ingested": "2026-08-14T12:01:27.027813+00:00",
+   "headline": "Goldman Sachs raises Stoxx 600 index target for next 12 months to 695 from 660.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9721463,
    "ts": "2026-08-14T10:04:44+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-11T20:09:18+00:00",
    "ingested": "2026-08-11T20:26:22.037782+00:00",
    "headline": "Senator Sanders calls on AI companies to pause development, sends letter to OpenAI, Anthropic and Meta CEOs - NYT $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716946,
-   "ts": "2026-08-11T20:06:03+00:00",
-   "ingested": "2026-08-11T20:26:22.037801+00:00",
-   "headline": "Oracle has drawn up plans for a new round of layoffs, and would take place this month - Insider $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716945,
-   "ts": "2026-08-11T20:05:47+00:00",
-   "ingested": "2026-08-11T20:26:22.037818+00:00",
-   "headline": "$SMCI Super Micro Computer Q4 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716926,
-   "ts": "2026-08-11T19:58:45+00:00",
-   "ingested": "2026-08-11T20:26:22.037833+00:00",
-   "headline": "Oracle to preview OCI Quantum service in the coming months. $ORCL.",
    "channel": "rss",
    "source": "financialjuice"
   }
