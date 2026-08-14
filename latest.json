@@ -1,7 +1,71 @@
 {
- "updated": "2026-08-14T08:01:20.090564+00:00",
+ "updated": "2026-08-14T09:16:53.434510+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9721362,
+   "ts": "2026-08-14T09:01:06+00:00",
+   "ingested": "2026-08-14T09:16:53.434065+00:00",
+   "headline": "Eurozone Trade Balance NSA Actual 8.6B (Forecast -, Previous -7.8B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721361,
+   "ts": "2026-08-14T09:01:06+00:00",
+   "ingested": "2026-08-14T09:16:53.434091+00:00",
+   "headline": "Eurozone GDP YoY Flash Estimate Actual 1.0% (Forecast 1%, Previous 1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721360,
+   "ts": "2026-08-14T09:01:06+00:00",
+   "ingested": "2026-08-14T09:16:53.434110+00:00",
+   "headline": "Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721359,
+   "ts": "2026-08-14T09:01:05+00:00",
+   "ingested": "2026-08-14T09:16:53.434126+00:00",
+   "headline": "Eurozone Employment Change QoQ Flash Actual 0.1% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721370,
+   "ts": "2026-08-14T09:00:44+00:00",
+   "ingested": "2026-08-14T09:16:53.434141+00:00",
+   "headline": "Eurozone Trade Balance Actual 1.8B (Forecast -, Previous -5B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721349,
+   "ts": "2026-08-14T08:46:52+00:00",
+   "ingested": "2026-08-14T09:16:53.434154+00:00",
+   "headline": "ING: The JPY - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721328,
+   "ts": "2026-08-14T08:43:28+00:00",
+   "ingested": "2026-08-14T09:16:53.434174+00:00",
+   "headline": "Europe Sentiment: Stocks Rise Following Back to Back Benign US Inflation Reports - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9721304,
+   "ts": "2026-08-14T08:31:58+00:00",
+   "ingested": "2026-08-14T09:16:53.434189+00:00",
+   "headline": "China July M2 money supply rises 7.7% y/y, below poll estimate of 7.9%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9721252,
    "ts": "2026-08-14T07:59:58+00:00",
@@ -3935,70 +3999,6 @@
    "ts": "2026-08-11T19:31:02+00:00",
    "ingested": "2026-08-11T19:41:12.704009+00:00",
    "headline": "Ship pays $4 million to cut 10-day line to cross Panama Canal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716893,
-   "ts": "2026-08-11T19:13:56+00:00",
-   "ingested": "2026-08-11T19:41:12.704031+00:00",
-   "headline": "Yemen Houthi Spokesperson: Yemeni armed forces targeted Saudi troop concentrations, weapons depots and command headquarters in Al-Makha and Marib Governorate - Post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716892,
-   "ts": "2026-08-11T19:12:38+00:00",
-   "ingested": "2026-08-11T19:41:12.704050+00:00",
-   "headline": "Yemen Houthi Spokesperson: The Armed Forces will continue their operations to target all Saudi troop concentrations that seek, through them, to escalate and control Yemen.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716891,
-   "ts": "2026-08-11T19:08:31+00:00",
-   "ingested": "2026-08-11T19:41:12.704065+00:00",
-   "headline": "US Treasury Secretary Bessent: Sustaining US leadership in AI means advancing both open- and closed-weight models, ensuring the future is built on trusted foundations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716890,
-   "ts": "2026-08-11T19:08:07+00:00",
-   "ingested": "2026-08-11T19:41:12.704081+00:00",
-   "headline": "US Treasury Secretary Bessent: We welcome Meta\u2019s release of Muse Glimmer $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716889,
-   "ts": "2026-08-11T19:05:40+00:00",
-   "ingested": "2026-08-11T19:41:12.704093+00:00",
-   "headline": "Iran's General Naghdi: All of our military weapons are now domestically produced.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716872,
-   "ts": "2026-08-11T18:58:14+00:00",
-   "ingested": "2026-08-11T19:41:12.704109+00:00",
-   "headline": "US Military: Earlier today, CENTCOM forces disabled the steering gear of Panama-flagged M/V Vela Nova. The ship is no longer transiting to Iran in violation of the US blockade.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716870,
-   "ts": "2026-08-11T18:55:22+00:00",
-   "ingested": "2026-08-11T19:41:12.704121+00:00",
-   "headline": "US Space Force General Guetlein: We need to figure out the Golden Dome funding for 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9716867,
-   "ts": "2026-08-11T18:47:17+00:00",
-   "ingested": "2026-08-11T19:41:12.704134+00:00",
-   "headline": "US Space Force General Guetlein: The Golden Dome program has completed two successful tests.",
    "channel": "rss",
    "source": "financialjuice"
   }
