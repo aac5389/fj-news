@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-14T21:36:10.450785+00:00",
+ "updated": "2026-08-14T21:55:21.629056+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9722329,
+   "ts": "2026-08-14T21:52:43+00:00",
+   "ingested": "2026-08-14T21:55:21.628762+00:00",
+   "headline": "Jane Street: Recent losses prompt firm to be more selective about risk, closes significant portion of risk in areas with July losses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9722328,
+   "ts": "2026-08-14T21:50:20+00:00",
+   "ingested": "2026-08-14T21:55:21.628789+00:00",
+   "headline": "Jane Street executives to employees: July was a poor month, trading revenue turned negative for first time since 2016",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9722327,
+   "ts": "2026-08-14T21:48:16+00:00",
+   "ingested": "2026-08-14T21:55:21.628808+00:00",
+   "headline": "Jane Street says in note to employees on Friday 2026 revenue is about 25% below peak in late June",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9722300,
    "ts": "2026-08-14T21:27:47+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-12T12:36:24+00:00",
    "ingested": "2026-08-12T13:43:36.067130+00:00",
    "headline": "Traders keep bets on a 45% chance of a September Fed rate hike.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718060,
-   "ts": "2026-08-12T12:35:11+00:00",
-   "ingested": "2026-08-12T13:43:36.067145+00:00",
-   "headline": "US short-term interest-rate futures rise slightly after inflation report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718024,
-   "ts": "2026-08-12T12:31:06+00:00",
-   "ingested": "2026-08-12T13:43:36.067161+00:00",
-   "headline": "Canadian Building Permits MoM Actual 18.5% (Forecast 0.8%, Previous -1.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718021,
-   "ts": "2026-08-12T12:31:00+00:00",
-   "ingested": "2026-08-12T13:43:36.067176+00:00",
-   "headline": "US CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.5%)",
    "channel": "rss",
    "source": "financialjuice"
   }
