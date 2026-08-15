@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-15T14:54:48.342703+00:00",
+ "updated": "2026-08-15T15:15:59.250661+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9722817,
+   "ts": "2026-08-15T15:11:01+00:00",
+   "ingested": "2026-08-15T15:15:59.250227+00:00",
+   "headline": "Yemen's Mocha port suspends operations after Houthi assaults: port director",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9722816,
+   "ts": "2026-08-15T15:04:05+00:00",
+   "ingested": "2026-08-15T15:15:59.250264+00:00",
+   "headline": "Peru's GDP grows 1.75% in June vs a year earlier: government",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9722809,
    "ts": "2026-08-15T14:39:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-12T17:02:04+00:00",
    "ingested": "2026-08-12T17:40:36.659724+00:00",
    "headline": "US 10-Year Note High Yield Actual 4.683% (Forecast -, Previous 4.580%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718413,
-   "ts": "2026-08-12T17:02:04+00:00",
-   "ingested": "2026-08-12T17:40:36.659739+00:00",
-   "headline": "US 10-Year Note Bid-to-Cover Actual 2.53 (Forecast -, Previous 2.590)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718396,
-   "ts": "2026-08-12T17:00:22+00:00",
-   "ingested": "2026-08-12T17:40:36.659754+00:00",
-   "headline": "Treasury WI 10 Yr yield 4.682% before $42 billion auction",
    "channel": "rss",
    "source": "financialjuice"
   }
