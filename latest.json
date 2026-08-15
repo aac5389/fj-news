@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-15T14:34:36.277600+00:00",
+ "updated": "2026-08-15T14:54:48.342703+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9722809,
+   "ts": "2026-08-15T14:39:10+00:00",
+   "ingested": "2026-08-15T14:54:48.342472+00:00",
+   "headline": "Israel's PM Office: Hezbollah strike in Lebanon's 'security zone' wounds three soldiers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9722774,
    "ts": "2026-08-15T13:02:38+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-12T17:00:22+00:00",
    "ingested": "2026-08-12T17:40:36.659754+00:00",
    "headline": "Treasury WI 10 Yr yield 4.682% before $42 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718368,
-   "ts": "2026-08-12T16:26:33+00:00",
-   "ingested": "2026-08-12T16:39:30.812508+00:00",
-   "headline": "USITC institutes section 337 investigation of Samsung devices",
    "channel": "rss",
    "source": "financialjuice"
   }
