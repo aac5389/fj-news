@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-15T18:55:14.619038+00:00",
+ "updated": "2026-08-15T19:18:49.022482+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9722884,
+   "ts": "2026-08-15T19:13:50+00:00",
+   "ingested": "2026-08-15T19:18:49.022247+00:00",
+   "headline": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center agreement: The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9722876,
    "ts": "2026-08-15T18:42:11+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-12T17:33:57+00:00",
    "ingested": "2026-08-12T17:40:36.659607+00:00",
    "headline": "Google co-founder Sergey Brin urged staff in recent months to refocus on restoring the Gemini model to the forefront of AI - Sources $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718421,
-   "ts": "2026-08-12T17:24:55+00:00",
-   "ingested": "2026-08-12T17:40:36.659630+00:00",
-   "headline": "The proposal would also maintain an exemption for the value of American content in cars exported from Canada - Globe and Mail",
    "channel": "rss",
    "source": "financialjuice"
   }
