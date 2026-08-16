@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-16T09:44:57.524707+00:00",
+ "updated": "2026-08-16T10:01:15.920955+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723111,
+   "ts": "2026-08-16T10:00:04+00:00",
+   "ingested": "2026-08-16T10:01:15.920614+00:00",
+   "headline": "Israel Q2 exports rise 35.2%, private consumption grows 14.7%, investment up 6.3%: statistics bureau",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723110,
+   "ts": "2026-08-16T10:00:04+00:00",
+   "ingested": "2026-08-16T10:01:15.920637+00:00",
+   "headline": "Israel Q2 per capita GDP up 14% annualised: statistics bureau",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723109,
+   "ts": "2026-08-16T10:00:04+00:00",
+   "ingested": "2026-08-16T10:01:15.920654+00:00",
+   "headline": "Israel revises Q1 GDP to -2.2% annualized: statistics bureau",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723108,
+   "ts": "2026-08-16T10:00:04+00:00",
+   "ingested": "2026-08-16T10:01:15.920671+00:00",
+   "headline": "Israel Q2 GDP grows 15.4% annualized quarter-on-quarter in first estimate: Statistics Bureau (forecast 6.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723103,
    "ts": "2026-08-16T09:31:40+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-12T18:32:56+00:00",
    "ingested": "2026-08-12T18:39:20.309531+00:00",
    "headline": "NYMEX Natural Gas September futures settle at $2.8040/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718496,
-   "ts": "2026-08-12T18:32:09+00:00",
-   "ingested": "2026-08-12T18:39:20.309554+00:00",
-   "headline": "NYMEX Diesel September futures settle at $4.3040 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718488,
-   "ts": "2026-08-12T18:31:57+00:00",
-   "ingested": "2026-08-12T18:39:20.309571+00:00",
-   "headline": "NYMEX Gasoline September futures settle at $3.1537 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718487,
-   "ts": "2026-08-12T18:31:32+00:00",
-   "ingested": "2026-08-12T18:39:20.309588+00:00",
-   "headline": "NYMEX WTI Crude September futures settle at $83.27 a barrel, up 7 cents, 0.08%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718452,
-   "ts": "2026-08-12T17:58:51+00:00",
-   "ingested": "2026-08-12T18:39:20.309604+00:00",
-   "headline": "US Federal Budget Balance Actual -432.308B (Forecast -346B, Previous -120.00B)",
    "channel": "rss",
    "source": "financialjuice"
   }
