@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-16T09:12:25.669829+00:00",
+ "updated": "2026-08-16T09:44:57.524707+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723103,
+   "ts": "2026-08-16T09:31:40+00:00",
+   "ingested": "2026-08-16T09:44:57.524493+00:00",
+   "headline": "Russia's defence ministry: forces capture Pershomarivka village in Ukraine's Donetsk, Kudiivka in Kharkiv region -Tass",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723075,
    "ts": "2026-08-16T07:49:02+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-12T17:58:51+00:00",
    "ingested": "2026-08-12T18:39:20.309604+00:00",
    "headline": "US Federal Budget Balance Actual -432.308B (Forecast -346B, Previous -120.00B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718451,
-   "ts": "2026-08-12T17:50:00+00:00",
-   "ingested": "2026-08-12T18:39:20.309618+00:00",
-   "headline": "Yemeni Armed Forces: Drone strikes target Houthi gatherings in Al Jawf - Al Hadath",
    "channel": "rss",
    "source": "financialjuice"
   }
