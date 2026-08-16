@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-16T12:30:41.031263+00:00",
+ "updated": "2026-08-16T13:16:03.304348+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723181,
+   "ts": "2026-08-16T13:06:08+00:00",
+   "ingested": "2026-08-16T13:16:03.304090+00:00",
+   "headline": "Saudi civil defense: danger has passed in Jazan province",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723180,
+   "ts": "2026-08-16T13:02:25+00:00",
+   "ingested": "2026-08-16T13:16:03.304115+00:00",
+   "headline": "Saudi civil defense issues alert of potential danger in Jazan province - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723111,
    "ts": "2026-08-16T10:00:04+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-12T19:00:28+00:00",
    "ingested": "2026-08-12T19:46:44.392085+00:00",
    "headline": "Persian Gulf Waterways Management Authority: The Strait of Hormuz remains blocked, and it will not be reopened until Iran's conditions are met - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718500,
-   "ts": "2026-08-12T18:46:08+00:00",
-   "ingested": "2026-08-12T19:46:44.392098+00:00",
-   "headline": "Brent Crude futures settle at $88.98/bbl, up 7 cents, 0.08%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718497,
-   "ts": "2026-08-12T18:32:56+00:00",
-   "ingested": "2026-08-12T18:39:20.309531+00:00",
-   "headline": "NYMEX Natural Gas September futures settle at $2.8040/MMBtu.",
    "channel": "rss",
    "source": "financialjuice"
   }
