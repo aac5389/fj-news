@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-17T08:21:00.907073+00:00",
+ "updated": "2026-08-17T09:08:00.230548+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723900,
+   "ts": "2026-08-17T08:48:58+00:00",
+   "ingested": "2026-08-17T09:08:00.230249+00:00",
+   "headline": "ING: The EUR - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723899,
+   "ts": "2026-08-17T08:48:20+00:00",
+   "ingested": "2026-08-17T09:08:00.230270+00:00",
+   "headline": "ING: The GBP - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723881,
+   "ts": "2026-08-17T08:46:07+00:00",
+   "ingested": "2026-08-17T09:08:00.230287+00:00",
+   "headline": "Credit \u00c1gricole: FX Positions - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723874,
+   "ts": "2026-08-17T08:44:13+00:00",
+   "ingested": "2026-08-17T09:08:00.230303+00:00",
+   "headline": "Europe Sentiment: Anthropic Bolsters AI Optimism - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723806,
    "ts": "2026-08-17T07:37:48+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-13T06:00:03+00:00",
    "ingested": "2026-08-13T06:48:42.106945+00:00",
    "headline": "UK Manufacturing Production MoM Actual -0.5% (Forecast -0.1%, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719268,
-   "ts": "2026-08-13T06:00:03+00:00",
-   "ingested": "2026-08-13T06:48:42.106958+00:00",
-   "headline": "UK Services MoM Actual 0.4% (Forecast 0%, Previous 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719267,
-   "ts": "2026-08-13T06:00:03+00:00",
-   "ingested": "2026-08-13T06:48:42.106971+00:00",
-   "headline": "UK Industrial Production YoY Actual -0.2% (Forecast 0.3%, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719266,
-   "ts": "2026-08-13T06:00:02+00:00",
-   "ingested": "2026-08-13T06:48:42.106984+00:00",
-   "headline": "UK GDP QoQ Prelim Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719265,
-   "ts": "2026-08-13T06:00:02+00:00",
-   "ingested": "2026-08-13T06:48:42.106998+00:00",
-   "headline": "UK Business Investment QoQ Prelim Actual 1.66% (Forecast -0.25%, Previous 0.9%)",
    "channel": "rss",
    "source": "financialjuice"
   }
