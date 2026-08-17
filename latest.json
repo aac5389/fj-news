@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-17T03:35:06.194660+00:00",
+ "updated": "2026-08-17T04:22:51.777236+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723570,
+   "ts": "2026-08-17T04:10:58+00:00",
+   "ingested": "2026-08-17T04:22:51.776981+00:00",
+   "headline": "Euro rises above 1.15853, highest level since June 17",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723569,
+   "ts": "2026-08-17T04:10:58+00:00",
+   "ingested": "2026-08-17T04:22:51.777004+00:00",
+   "headline": "Euro Last Up 0.13% at $1.1586",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723568,
+   "ts": "2026-08-17T04:10:56+00:00",
+   "ingested": "2026-08-17T04:22:51.777021+00:00",
+   "headline": "Euro rises to highest level in two months against EBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723532,
    "ts": "2026-08-17T03:16:50+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-13T00:27:15+00:00",
    "ingested": "2026-08-13T00:44:53.941331+00:00",
    "headline": "Rba's Kent: Conditions in Housing Market Have Softened Noticeably in Recent Months",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718871,
-   "ts": "2026-08-13T00:26:56+00:00",
-   "ingested": "2026-08-13T00:44:53.941345+00:00",
-   "headline": "RBA's Kent: Neutral rate estimates have significant uncertainty",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718870,
-   "ts": "2026-08-13T00:26:40+00:00",
-   "ingested": "2026-08-13T00:44:53.941362+00:00",
-   "headline": "RBA's Kent: Cash rate near top of range of central estimates of neutral rate from various models",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718869,
-   "ts": "2026-08-13T00:25:54+00:00",
-   "ingested": "2026-08-13T00:44:53.941377+00:00",
-   "headline": "China PBOC seen setting yuan midpoint at 6.7470 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
