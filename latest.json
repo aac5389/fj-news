@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-17T07:31:14.945831+00:00",
+ "updated": "2026-08-17T08:21:00.907073+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723806,
+   "ts": "2026-08-17T07:37:48+00:00",
+   "ingested": "2026-08-17T08:21:00.906754+00:00",
+   "headline": "China has solid conditions to achieve annual growth target - NBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723805,
+   "ts": "2026-08-17T07:35:32+00:00",
+   "ingested": "2026-08-17T08:21:00.906782+00:00",
+   "headline": "Iran's Foreign Ministry Spokesperson: Talks with Oman are long due to complexity of subject, multiple actors involved, and countries seeking to undermine process.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9723804,
+   "ts": "2026-08-17T07:34:21+00:00",
+   "ingested": "2026-08-17T08:21:00.906800+00:00",
+   "headline": "Iran: Islamabad MOU with US doesn't have 60-day deadline.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723768,
    "ts": "2026-08-17T07:04:55+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-13T06:00:02+00:00",
    "ingested": "2026-08-13T06:48:42.106998+00:00",
    "headline": "UK Business Investment QoQ Prelim Actual 1.66% (Forecast -0.25%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719264,
-   "ts": "2026-08-13T06:00:02+00:00",
-   "ingested": "2026-08-13T06:48:42.107010+00:00",
-   "headline": "UK GDP YoY Prelim Actual 1.2% (Forecast 1.1%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719263,
-   "ts": "2026-08-13T06:00:01+00:00",
-   "ingested": "2026-08-13T06:48:42.107023+00:00",
-   "headline": "UK Construction Output MoM Actual -0.1% (Forecast -0.4%, Previous -0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719262,
-   "ts": "2026-08-13T06:00:01+00:00",
-   "ingested": "2026-08-13T06:48:42.107036+00:00",
-   "headline": "UK GDP Estimate MoM Actual 0.3% (Forecast -0.05%, Previous 0.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
