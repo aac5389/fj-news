@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-17T14:00:29.656507+00:00",
+ "updated": "2026-08-17T14:38:59.346694+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9724354,
+   "ts": "2026-08-17T14:34:19+00:00",
+   "ingested": "2026-08-17T14:38:59.346475+00:00",
+   "headline": "The Japanese Envoy is going to visit the Russian Foreign Ministry on Tuesday - IFX.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9724344,
+   "ts": "2026-08-17T14:17:32+00:00",
+   "ingested": "2026-08-17T14:38:59.346504+00:00",
+   "headline": "Crypto Fear & Greed Index: 31/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9724298,
    "ts": "2026-08-17T14:00:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-13T12:45:58+00:00",
    "ingested": "2026-08-13T13:42:49.770070+00:00",
    "headline": "Fed's Hammack: Businesses have adapted to tariff and oil shocks, there's resilience and investment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719838,
-   "ts": "2026-08-13T12:43:21+00:00",
-   "ingested": "2026-08-13T13:42:49.770086+00:00",
-   "headline": "Fed's Hammack: Raising interest rates can be painful, but must not let growth and investment be so fast the economy overheats.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719837,
-   "ts": "2026-08-13T12:42:22+00:00",
-   "ingested": "2026-08-13T13:42:49.770101+00:00",
-   "headline": "Fed's Hammack: Inflation is broad-based, not just in certain sectors, I have learned that from talking with businesses",
    "channel": "rss",
    "source": "financialjuice"
   }
