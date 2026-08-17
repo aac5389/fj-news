@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-17T05:07:12.885675+00:00",
+ "updated": "2026-08-17T05:47:17.582004+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9723630,
+   "ts": "2026-08-17T05:11:29+00:00",
+   "ingested": "2026-08-17T05:47:17.581744+00:00",
+   "headline": "Japanese Capacity Utilization MoM Actual 4.1% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723581,
    "ts": "2026-08-17T04:29:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-13T00:28:03+00:00",
    "ingested": "2026-08-13T00:44:53.941301+00:00",
    "headline": "RBA's Kent: Significant investment in data centres and AI infrastructure supports aggregate demand growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9718873,
-   "ts": "2026-08-13T00:27:43+00:00",
-   "ingested": "2026-08-13T00:44:53.941317+00:00",
-   "headline": "RBA's Kent: Tax changes in federal budget likely curbed demand in established housing market",
    "channel": "rss",
    "source": "financialjuice"
   }
