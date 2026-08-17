@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-17T11:26:45.823062+00:00",
+ "updated": "2026-08-17T11:50:28.936200+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9724084,
+   "ts": "2026-08-17T11:29:01+00:00",
+   "ingested": "2026-08-17T11:50:28.935965+00:00",
+   "headline": "Azerbaijan's oil production declined 3% y/y in January-July - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9724083,
    "ts": "2026-08-17T11:17:45+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-13T07:00:00+00:00",
    "ingested": "2026-08-13T08:07:37.692350+00:00",
    "headline": "Spanish HICP Final YoY Actual 3.9% (Forecast 3.8%, Previous 3.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719371,
-   "ts": "2026-08-13T07:00:00+00:00",
-   "ingested": "2026-08-13T08:07:37.692366+00:00",
-   "headline": "Spanish CPI MoM Final Actual 0.3% (Forecast 0.2%, Previous 0.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
