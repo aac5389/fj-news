@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-17T09:54:59.829456+00:00",
+ "updated": "2026-08-17T10:27:12.653388+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9724012,
+   "ts": "2026-08-17T10:18:57+00:00",
+   "ingested": "2026-08-17T10:27:12.653136+00:00",
+   "headline": "Trump: The number one goal is, and always will be, that Iran cannot have, in any way, shape, or form, a nuclear weapon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9724002,
+   "ts": "2026-08-17T10:06:48+00:00",
+   "ingested": "2026-08-17T10:27:12.653163+00:00",
+   "headline": "Empire Petroleum marks a strategic milestone with a successful 21,006-foot well in the western Haynesville in Texas",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9723900,
    "ts": "2026-08-17T08:48:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-13T06:00:05+00:00",
    "ingested": "2026-08-13T06:48:42.106917+00:00",
    "headline": "Swedish CPI YoY Actual 0.2% (Forecast 0.2%, Previous 0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719270,
-   "ts": "2026-08-13T06:00:04+00:00",
-   "ingested": "2026-08-13T06:48:42.106931+00:00",
-   "headline": "UK Industrial Production MoM Actual -0.2% (Forecast 0.1%, Previous -0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719269,
-   "ts": "2026-08-13T06:00:03+00:00",
-   "ingested": "2026-08-13T06:48:42.106945+00:00",
-   "headline": "UK Manufacturing Production MoM Actual -0.5% (Forecast -0.1%, Previous 0.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
