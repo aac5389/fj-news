@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-17T10:27:12.653388+00:00",
+ "updated": "2026-08-17T10:57:06.795324+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9724019,
+   "ts": "2026-08-17T10:44:09+00:00",
+   "ingested": "2026-08-17T10:57:06.795062+00:00",
+   "headline": "Israel's Prime Minister Netanyahu meets with Kushner, Mladenov and Blair - PM Spokesman",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9724014,
+   "ts": "2026-08-17T10:29:33+00:00",
+   "ingested": "2026-08-17T10:57:06.795086+00:00",
+   "headline": "Reports on the approval to extend the 60- day period between Iran and America - AI Arabiya Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9724012,
    "ts": "2026-08-17T10:18:57+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-13T06:00:05+00:00",
    "ingested": "2026-08-13T06:48:42.106885+00:00",
    "headline": "UK Goods Trade Balance Actual -23.007B (Forecast -20.4B, Previous -18.66B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719272,
-   "ts": "2026-08-13T06:00:05+00:00",
-   "ingested": "2026-08-13T06:48:42.106903+00:00",
-   "headline": "Swedish CPI MoM Actual -0.3% (Forecast -0.3%, Previous -0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719271,
-   "ts": "2026-08-13T06:00:05+00:00",
-   "ingested": "2026-08-13T06:48:42.106917+00:00",
-   "headline": "Swedish CPI YoY Actual 0.2% (Forecast 0.2%, Previous 0.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
