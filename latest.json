@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-17T16:21:58.476472+00:00",
+ "updated": "2026-08-17T16:53:55.648054+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9724517,
+   "ts": "2026-08-17T16:50:12+00:00",
+   "ingested": "2026-08-17T16:53:55.647773+00:00",
+   "headline": "Fitch Ratings: US corporate default rates stay broadly flat in July, but volume is going to build.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9724487,
+   "ts": "2026-08-17T16:24:30+00:00",
+   "ingested": "2026-08-17T16:53:55.647803+00:00",
+   "headline": "Stocks of Crude oil in the US Strategic Petroleum Reserve fell by about 5.3 mln barrels to 293.4 mln barrels last week, the lowest since 1982.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9724467,
    "ts": "2026-08-17T16:09:43+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-13T14:18:23+00:00",
    "ingested": "2026-08-13T14:46:21.097021+00:00",
    "headline": "Fear & Greed Index: 67/100 - Greed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719991,
-   "ts": "2026-08-13T14:13:52+00:00",
-   "ingested": "2026-08-13T14:46:21.097036+00:00",
-   "headline": "Traders no longer fully price in Fed rate hike this year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9719990,
-   "ts": "2026-08-13T14:12:57+00:00",
-   "ingested": "2026-08-13T14:46:21.097046+00:00",
-   "headline": "Databricks wraps $5 bln funding round at $190 bln valuation - CNBC",
    "channel": "rss",
    "source": "financialjuice"
   }
