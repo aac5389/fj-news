@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-18T05:15:18.884635+00:00",
+ "updated": "2026-08-18T05:47:31.194977+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9725327,
+   "ts": "2026-08-18T05:44:53+00:00",
+   "ingested": "2026-08-18T05:47:31.194693+00:00",
+   "headline": "China axing Microsoft Windows from state agencies ahead of plan $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725313,
+   "ts": "2026-08-18T05:29:25+00:00",
+   "ingested": "2026-08-18T05:47:31.194719+00:00",
+   "headline": "Iran's Ghalibaf to visit Iraq on Wednesday - State-Run IRNA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9725308,
    "ts": "2026-08-18T05:02:00+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-13T21:16:51+00:00",
    "ingested": "2026-08-13T22:05:24.794600+00:00",
    "headline": "North Korea warns new U.S. nuclear policy could be used first on Korean Peninsula - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720520,
-   "ts": "2026-08-13T21:13:05+00:00",
-   "ingested": "2026-08-13T22:05:24.794613+00:00",
-   "headline": "Securities and Exchange Commission: Meeting delayed due to unexpected scheduling conflict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720519,
-   "ts": "2026-08-13T21:13:03+00:00",
-   "ingested": "2026-08-13T22:05:24.794626+00:00",
-   "headline": "US securities regulator abruptly cancels Friday meeting to discuss crypto rules: statement",
    "channel": "rss",
    "source": "financialjuice"
   }
