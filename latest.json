@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-18T17:52:50.536338+00:00",
+ "updated": "2026-08-18T18:31:50.431695+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726350,
+   "ts": "2026-08-18T18:31:32+00:00",
+   "ingested": "2026-08-18T18:31:50.431407+00:00",
+   "headline": "NYMEX Nat Gas Sept. futures settle at $2.7760/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726349,
+   "ts": "2026-08-18T18:31:09+00:00",
+   "ingested": "2026-08-18T18:31:50.431431+00:00",
+   "headline": "NYMEX WTI Crude Sept. futures settle at $84.94 a barrel up 44 cents, 0.52%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726284,
    "ts": "2026-08-18T17:27:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-14T12:43:32+00:00",
    "ingested": "2026-08-14T13:35:25.481292+00:00",
    "headline": "US Sentiment: Apple & Baba Work on AI in China, Markets Wary of US-Iran - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721664,
-   "ts": "2026-08-14T12:33:16+00:00",
-   "ingested": "2026-08-14T13:35:25.481320+00:00",
-   "headline": "Traders pare wagers on more than one Fed rate hike by mid-2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721638,
-   "ts": "2026-08-14T12:32:25+00:00",
-   "ingested": "2026-08-14T13:35:25.481347+00:00",
-   "headline": "US Retail Sales YoY Actual 5.01% (Forecast -, Previous 6.72%)",
    "channel": "rss",
    "source": "financialjuice"
   }
