@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-18T21:22:23.112588+00:00",
+ "updated": "2026-08-18T21:46:17.572122+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726527,
+   "ts": "2026-08-18T21:24:54+00:00",
+   "ingested": "2026-08-18T21:46:17.571847+00:00",
+   "headline": "Canada's Prime Minister Mark Carney and President Trump spoke again this afternoon on ongoing talks: Carney's office statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726512,
    "ts": "2026-08-18T21:15:50+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-14T17:16:32+00:00",
    "ingested": "2026-08-14T17:26:45.468457+00:00",
    "headline": "Trump: The economy is doing unbelievably.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9722024,
-   "ts": "2026-08-14T17:12:59+00:00",
-   "ingested": "2026-08-14T17:26:45.468484+00:00",
-   "headline": "A group attacked Saudi Aramco's Najran facility with a drone - Yemen's Houthi-run news agency Saba cites a military source",
    "channel": "rss",
    "source": "financialjuice"
   }
