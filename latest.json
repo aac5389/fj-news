@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-18T17:22:32.797717+00:00",
+ "updated": "2026-08-18T17:52:50.536338+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726284,
+   "ts": "2026-08-18T17:27:37+00:00",
+   "ingested": "2026-08-18T17:52:50.536011+00:00",
+   "headline": "Canadian and US negotiators expected to meet again ahead of midnight tariff deadline - CBC News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726283,
+   "ts": "2026-08-18T17:24:59+00:00",
+   "ingested": "2026-08-18T17:52:50.536037+00:00",
+   "headline": "UKMTO: An unmanned cargo vessel was struck by multiple unknown projectiles, causing damage.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726282,
+   "ts": "2026-08-18T17:24:01+00:00",
+   "ingested": "2026-08-18T17:52:50.536057+00:00",
+   "headline": "UKMTO: Have received a report of an incident 40nm southeast of Al Mocha, Yemen.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726262,
    "ts": "2026-08-18T16:57:16+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-14T12:32:25+00:00",
    "ingested": "2026-08-14T13:35:25.481347+00:00",
    "headline": "US Retail Sales YoY Actual 5.01% (Forecast -, Previous 6.72%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721626,
-   "ts": "2026-08-14T12:31:05+00:00",
-   "ingested": "2026-08-14T13:35:25.481379+00:00",
-   "headline": "Canadian Manufacturing Sales MoM Actual 0.1% (Forecast -0.1%, Previous 1.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721628,
-   "ts": "2026-08-14T12:30:06+00:00",
-   "ingested": "2026-08-14T13:35:25.481409+00:00",
-   "headline": "Canadian Wholesale Sales MoM Actual 2.8% (Forecast 2.7%, Previous 0.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721627,
-   "ts": "2026-08-14T12:30:06+00:00",
-   "ingested": "2026-08-14T13:35:25.481442+00:00",
-   "headline": "US Core Retail Sales MoM Actual -0.3% (Forecast 0.2%, Previous -0.2%)",
    "channel": "rss",
    "source": "financialjuice"
   }
