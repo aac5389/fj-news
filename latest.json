@@ -1,7 +1,55 @@
 {
- "updated": "2026-08-18T20:35:36.687027+00:00",
+ "updated": "2026-08-18T20:56:09.061896+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726487,
+   "ts": "2026-08-18T20:48:33+00:00",
+   "ingested": "2026-08-18T20:56:09.061510+00:00",
+   "headline": "US API Gasoline Stock Change Actual 1.076M (Forecast -, Previous -1.531M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726486,
+   "ts": "2026-08-18T20:48:11+00:00",
+   "ingested": "2026-08-18T20:56:09.061533+00:00",
+   "headline": "US API Distillate Stock Change Actual -2.797M (Forecast -, Previous -0.596M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726485,
+   "ts": "2026-08-18T20:47:55+00:00",
+   "ingested": "2026-08-18T20:56:09.061549+00:00",
+   "headline": "US API Cushing Stock Change Actual -1.438M (Forecast -, Previous 1.571M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726484,
+   "ts": "2026-08-18T20:47:38+00:00",
+   "ingested": "2026-08-18T20:56:09.061563+00:00",
+   "headline": "US API Crude Oil Stock Change Actual -0.328M  (Forecast -, Previous 9.072M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726473,
+   "ts": "2026-08-18T20:46:22+00:00",
+   "ingested": "2026-08-18T20:56:09.061577+00:00",
+   "headline": "Israeli fighter jets fly over Idlib and the Syrian desert - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726471,
+   "ts": "2026-08-18T20:42:11+00:00",
+   "ingested": "2026-08-18T20:56:09.061593+00:00",
+   "headline": "Iran's Foreign Ministry Spokesperson rejects the UAE's statement on missiles being launched from Iran against the Gulf country.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726470,
    "ts": "2026-08-18T20:34:13+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-08-14T17:00:59+00:00",
    "ingested": "2026-08-14T17:26:45.468532+00:00",
    "headline": "US Baker Hughes Total Rig Count Actual 593 (Forecast -, Previous 588)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721999,
-   "ts": "2026-08-14T16:46:36+00:00",
-   "ingested": "2026-08-14T17:26:45.468547+00:00",
-   "headline": "Canada and US discuss critical minerals and defence in talks - Globe and Mail",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721992,
-   "ts": "2026-08-14T16:34:34+00:00",
-   "ingested": "2026-08-14T17:26:45.468574+00:00",
-   "headline": "Fed's Goolsbee: Persistent drop in productivity would change the AI narrative.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721991,
-   "ts": "2026-08-14T16:34:14+00:00",
-   "ingested": "2026-08-14T17:26:45.468587+00:00",
-   "headline": "Fed's Goolsbee: I supported the decision to hold rates in July.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721990,
-   "ts": "2026-08-14T16:34:00+00:00",
-   "ingested": "2026-08-14T17:26:45.468606+00:00",
-   "headline": "Fed's Goolsbee: Past 2 readings on productivity were very poor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721989,
-   "ts": "2026-08-14T16:33:49+00:00",
-   "ingested": "2026-08-14T17:26:45.468618+00:00",
-   "headline": "Fed's Goolsbee encouraged by CPI reports and needs more data.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721988,
-   "ts": "2026-08-14T16:33:26+00:00",
-   "ingested": "2026-08-14T17:26:45.468630+00:00",
-   "headline": "Fed's Goolsbee: Continued spending weakness would be worrying.",
    "channel": "rss",
    "source": "financialjuice"
   }
