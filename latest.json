@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-18T09:45:34.093025+00:00",
+ "updated": "2026-08-18T10:11:01.557519+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9725668,
+   "ts": "2026-08-18T10:00:06+00:00",
+   "ingested": "2026-08-18T10:11:01.557244+00:00",
+   "headline": "Saudi Arabia imposes extra oversight on UAE-bound bank transfers reserved for high-risk countries: sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9725651,
    "ts": "2026-08-18T09:28:34+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-13T22:12:09+00:00",
    "ingested": "2026-08-13T22:57:13.370771+00:00",
    "headline": "Fed's Goolsbee: If can put some of that behind us, can steer inflation back to 2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720613,
-   "ts": "2026-08-13T22:11:50+00:00",
-   "ingested": "2026-08-13T22:57:13.370797+00:00",
-   "headline": "Fed's Goolsbee: many inflation factors stemmed from tariffs and oil, initially expected as one-time jumps",
    "channel": "rss",
    "source": "financialjuice"
   }
