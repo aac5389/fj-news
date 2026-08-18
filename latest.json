@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-18T23:23:53.084522+00:00",
+ "updated": "2026-08-18T23:45:16.206197+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726659,
+   "ts": "2026-08-18T23:41:07+00:00",
+   "ingested": "2026-08-18T23:45:16.205939+00:00",
+   "headline": "Casey Askar secures Republican nomination for Florida's U.S. House District 22: DDHQ projects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726646,
+   "ts": "2026-08-18T23:29:02+00:00",
+   "ingested": "2026-08-18T23:45:16.205959+00:00",
+   "headline": "State Rep. Mike Beltran leads Republican nomination for Florida's newly redrawn U.S. House district 14: AP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726645,
    "ts": "2026-08-18T23:23:30+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-14T19:25:20+00:00",
    "ingested": "2026-08-14T19:27:49.034648+00:00",
    "headline": "Trump: Don't care if hitting Iran's economy before the midterm.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9722148,
-   "ts": "2026-08-14T19:22:15+00:00",
-   "ingested": "2026-08-14T19:27:49.034671+00:00",
-   "headline": "Monday FX Option Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9722147,
-   "ts": "2026-08-14T19:18:49+00:00",
-   "ingested": "2026-08-14T19:27:49.034712+00:00",
-   "headline": "Trump: Will hit Iran hard economically - Fox News",
    "channel": "rss",
    "source": "financialjuice"
   }
