@@ -1,7 +1,55 @@
 {
- "updated": "2026-08-18T05:47:31.194977+00:00",
+ "updated": "2026-08-18T06:17:07.700584+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9725349,
+   "ts": "2026-08-18T06:00:03+00:00",
+   "ingested": "2026-08-18T06:17:07.700234+00:00",
+   "headline": "UK Employment Change 3M/3M Actual 84k (Forecast 130k, Previous 147k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725348,
+   "ts": "2026-08-18T06:00:03+00:00",
+   "ingested": "2026-08-18T06:17:07.700259+00:00",
+   "headline": "UK Average Earnings (Ex-Bonus) Actual 3.5% (Forecast 3.4%, Previous 3.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725347,
+   "ts": "2026-08-18T06:00:03+00:00",
+   "ingested": "2026-08-18T06:17:07.700277+00:00",
+   "headline": "UK Average Weekly Earnings YoY Actual 4.1% (Forecast 4%, Previous 4.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725346,
+   "ts": "2026-08-18T06:00:03+00:00",
+   "ingested": "2026-08-18T06:17:07.700294+00:00",
+   "headline": "UK Unemployment Rate Actual 4.9% (Forecast 4.8%, Previous 4.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725345,
+   "ts": "2026-08-18T06:00:01+00:00",
+   "ingested": "2026-08-18T06:17:07.700310+00:00",
+   "headline": "UK Employment Change SA Actual -13k (Forecast 0k, Previous -4k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725344,
+   "ts": "2026-08-18T06:00:01+00:00",
+   "ingested": "2026-08-18T06:17:07.700325+00:00",
+   "headline": "UK Unemployment Change Actual -11k (Forecast -, Previous 6.7k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9725327,
    "ts": "2026-08-18T05:44:53+00:00",
@@ -3951,54 +3999,6 @@
    "ts": "2026-08-13T21:25:45+00:00",
    "ingested": "2026-08-13T22:05:24.794514+00:00",
    "headline": "White House: Trump proclamation enforces 10% ad valorem tariff on drones from United Kingdom",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720541,
-   "ts": "2026-08-13T21:25:15+00:00",
-   "ingested": "2026-08-13T22:05:24.794530+00:00",
-   "headline": "White House: trump proclamation imposes 15% ad valorem tariff on drones and parts from European Union, Japan, Liechtenstein, South Korea, Switzerland, and Taiwan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720540,
-   "ts": "2026-08-13T21:24:51+00:00",
-   "ingested": "2026-08-13T22:05:24.794546+00:00",
-   "headline": "White House: Trump proclamation imposes 25% ad valorem tariff on smaller drones lacking key national security features",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720539,
-   "ts": "2026-08-13T21:24:33+00:00",
-   "ingested": "2026-08-13T22:05:24.794561+00:00",
-   "headline": "White House: Trump proclamation enforces 100% ad valorem tariff on drones of specific size or capabilities deemed sensitive for national security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720538,
-   "ts": "2026-08-13T21:24:14+00:00",
-   "ingested": "2026-08-13T22:05:24.794573+00:00",
-   "headline": "White House: Trump signs proclamation imposing tariffs on drones and their components",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720537,
-   "ts": "2026-08-13T21:17:57+00:00",
-   "ingested": "2026-08-13T22:05:24.794584+00:00",
-   "headline": "North Korea: will keep expanding nuclear deterrent - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720523,
-   "ts": "2026-08-13T21:16:51+00:00",
-   "ingested": "2026-08-13T22:05:24.794600+00:00",
-   "headline": "North Korea warns new U.S. nuclear policy could be used first on Korean Peninsula - KCNA",
    "channel": "rss",
    "source": "financialjuice"
   }
