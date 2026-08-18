@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-18T11:43:39.347869+00:00",
+ "updated": "2026-08-18T12:03:05.645222+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9725836,
+   "ts": "2026-08-18T12:02:15+00:00",
+   "ingested": "2026-08-18T12:03:05.644864+00:00",
+   "headline": "US home prices rose 0.27% in July, essentially unchanged from a month earlier - Redfin.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725825,
+   "ts": "2026-08-18T12:00:12+00:00",
+   "ingested": "2026-08-18T12:03:05.644888+00:00",
+   "headline": "Secured overnight financing rate: 3.66% August 17th vs 3.62% August 14th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725824,
+   "ts": "2026-08-18T11:53:34+00:00",
+   "ingested": "2026-08-18T12:03:05.644911+00:00",
+   "headline": "Saudi enemy artillery targeted densely populated villages in the Gafera area of Al-Thahhar district in Sa'ada, Yemen - Reporter for Al-Masirah news network",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9725765,
    "ts": "2026-08-18T11:06:24+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-13T23:51:01+00:00",
    "ingested": "2026-08-14T00:44:36.204163+00:00",
    "headline": "Japanese Foreign Bond Investment Actual 1,629.4B (Forecast -, Previous 477.9B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720710,
-   "ts": "2026-08-13T23:51:00+00:00",
-   "ingested": "2026-08-14T00:44:36.204179+00:00",
-   "headline": "Foreign Investment Japanese Stocks Actual -368.5B (Forecast -, Previous -392.5B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720682,
-   "ts": "2026-08-13T23:14:13+00:00",
-   "ingested": "2026-08-13T23:41:51.184189+00:00",
-   "headline": "US Treasury Secretary Bessent: We will implement unprecedented measures on Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720648,
-   "ts": "2026-08-13T22:46:00+00:00",
-   "ingested": "2026-08-13T22:57:13.370582+00:00",
-   "headline": "New Zealand External Migration & Visitors Actual 8.1% (Forecast -, Previous 6.7%)",
    "channel": "rss",
    "source": "financialjuice"
   }
