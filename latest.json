@@ -1,7 +1,47 @@
 {
- "updated": "2026-08-18T15:41:53.816001+00:00",
+ "updated": "2026-08-18T16:11:12.917370+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9726200,
+   "ts": "2026-08-18T16:03:49+00:00",
+   "ingested": "2026-08-18T16:11:12.917001+00:00",
+   "headline": "Large fire in Sulaymaniyah, Iraq; unconfirmed reports suggest an energy facility in the province was targeted by an attack - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726194,
+   "ts": "2026-08-18T16:01:22+00:00",
+   "ingested": "2026-08-18T16:11:12.917025+00:00",
+   "headline": "Apple Resolves EU App Store Fee Dispute, Drops Per-Install Fee $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726193,
+   "ts": "2026-08-18T16:00:55+00:00",
+   "ingested": "2026-08-18T16:11:12.917045+00:00",
+   "headline": "Apple resolves dispute with EU over app store fees. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726192,
+   "ts": "2026-08-18T15:59:27+00:00",
+   "ingested": "2026-08-18T16:11:12.917066+00:00",
+   "headline": "News sources reported that Yemeni armed forces launched a drone attack on the city center of Al-Khukhah in southern Al-Hudaydah province, Western Yemen - IRNA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9726191,
+   "ts": "2026-08-18T15:52:15+00:00",
+   "ingested": "2026-08-18T16:11:12.917082+00:00",
+   "headline": "Russia reroutes Kazakh crude to the Black Sea from Ust-Luga - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9726164,
    "ts": "2026-08-18T15:32:50+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-08-14T09:32:02+00:00",
    "ingested": "2026-08-14T10:27:28.780167+00:00",
    "headline": "PBoC to dispose of 100 billion yuan in 3-month cash deposits on Aug. 19",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721362,
-   "ts": "2026-08-14T09:01:06+00:00",
-   "ingested": "2026-08-14T09:16:53.434065+00:00",
-   "headline": "Eurozone Trade Balance NSA Actual 8.6B (Forecast -, Previous -7.8B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721361,
-   "ts": "2026-08-14T09:01:06+00:00",
-   "ingested": "2026-08-14T09:16:53.434091+00:00",
-   "headline": "Eurozone GDP YoY Flash Estimate Actual 1.0% (Forecast 1%, Previous 1.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721360,
-   "ts": "2026-08-14T09:01:06+00:00",
-   "ingested": "2026-08-14T09:16:53.434110+00:00",
-   "headline": "Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721359,
-   "ts": "2026-08-14T09:01:05+00:00",
-   "ingested": "2026-08-14T09:16:53.434126+00:00",
-   "headline": "Eurozone Employment Change QoQ Flash Actual 0.1% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9721370,
-   "ts": "2026-08-14T09:00:44+00:00",
-   "ingested": "2026-08-14T09:16:53.434141+00:00",
-   "headline": "Eurozone Trade Balance Actual 1.8B (Forecast -, Previous -5B)",
    "channel": "rss",
    "source": "financialjuice"
   }
