@@ -1,7 +1,79 @@
 {
- "updated": "2026-08-18T08:31:05.932180+00:00",
+ "updated": "2026-08-18T09:06:23.464097+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9725603,
+   "ts": "2026-08-18T09:02:48+00:00",
+   "ingested": "2026-08-18T09:06:23.463519+00:00",
+   "headline": "UK 10 Yr Gilt Bid-to-Cover Actual 3.65 (Forecast -, Previous 3.13)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725602,
+   "ts": "2026-08-18T09:02:48+00:00",
+   "ingested": "2026-08-18T09:06:23.463551+00:00",
+   "headline": "UK 10 Yr Gilt Yield Actual 5.155% (Forecast -, Previous 5.04%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725576,
+   "ts": "2026-08-18T09:00:01+00:00",
+   "ingested": "2026-08-18T09:06:23.463576+00:00",
+   "headline": "German ZEW Economic Sentiment Actual 34.2 (Forecast 30, Previous 26.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725575,
+   "ts": "2026-08-18T09:00:00+00:00",
+   "ingested": "2026-08-18T09:06:23.463599+00:00",
+   "headline": "German ZEW Current Conditions Actual -61.1 (Forecast -69.3, Previous -77.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725574,
+   "ts": "2026-08-18T09:00:00+00:00",
+   "ingested": "2026-08-18T09:06:23.463622+00:00",
+   "headline": "Eurozone ZEW Survey Expectations Actual 31.4 (Forecast -, Previous 23.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725573,
+   "ts": "2026-08-18T08:54:00+00:00",
+   "ingested": "2026-08-18T09:06:23.463641+00:00",
+   "headline": "Westpac: Daily Prep - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725571,
+   "ts": "2026-08-18T08:46:54+00:00",
+   "ingested": "2026-08-18T09:06:23.463659+00:00",
+   "headline": "ING: UK Employment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725559,
+   "ts": "2026-08-18T08:38:39+00:00",
+   "ingested": "2026-08-18T09:06:23.463676+00:00",
+   "headline": "MUFG: The USD - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9725558,
+   "ts": "2026-08-18T08:36:08+00:00",
+   "ingested": "2026-08-18T09:06:23.463698+00:00",
+   "headline": "Iran's Top Negotiator Qalibaf: Hormuz Strait will remain closed until US meets interim deal conditions - State Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9725547,
    "ts": "2026-08-18T08:18:22+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-08-13T22:11:34+00:00",
    "ingested": "2026-08-13T22:57:13.370845+00:00",
    "headline": "Fed's Goolsbee: latest inflation figures have improved slightly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720611,
-   "ts": "2026-08-13T22:10:29+00:00",
-   "ingested": "2026-08-13T22:57:13.370868+00:00",
-   "headline": "Fed's Goolsbee: inflation readings improving, hope trend persists",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720598,
-   "ts": "2026-08-13T22:02:17+00:00",
-   "ingested": "2026-08-13T22:05:24.794248+00:00",
-   "headline": "RBNZ: financial policy committee reviewed house price trends, risk profile of recent mortgage lending, and borrower financial strain",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720595,
-   "ts": "2026-08-13T22:01:05+00:00",
-   "ingested": "2026-08-13T22:05:24.794271+00:00",
-   "headline": "RBNZ maintains loan-to-value ratio settings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720572,
-   "ts": "2026-08-13T21:46:52+00:00",
-   "ingested": "2026-08-13T22:05:24.794288+00:00",
-   "headline": "Australia PM Albanese: President Trump agreed to consider request on tariffs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720563,
-   "ts": "2026-08-13T21:45:03+00:00",
-   "ingested": "2026-08-13T22:05:24.794302+00:00",
-   "headline": "Republic of Korea, Switzerland and Taiwan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720562,
-   "ts": "2026-08-13T21:44:59+00:00",
-   "ingested": "2026-08-13T22:05:24.794321+00:00",
-   "headline": "White House: Trump proclamation imposes 15% ad valorem tariff on drones and parts from European Union, Japan, Liechtenstein",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720561,
-   "ts": "2026-08-13T21:44:59+00:00",
-   "ingested": "2026-08-13T22:05:24.794334+00:00",
-   "headline": "Australia's PM Albanese: raised tariffs with Trump, urges full exemption consideration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720560,
-   "ts": "2026-08-13T21:44:31+00:00",
-   "ingested": "2026-08-13T22:05:24.794350+00:00",
-   "headline": "Veritone now projects $3.90 million-$4.50 million in staff transition expenses and $0.70 million-$0.80 million in departure costs: SEC filing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9720559,
-   "ts": "2026-08-13T21:41:41+00:00",
-   "ingested": "2026-08-13T22:05:24.794362+00:00",
-   "headline": "Australia PM Albanese: AUKUS initiative continues full steam ahead",
    "channel": "rss",
    "source": "financialjuice"
   }
