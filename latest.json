@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-19T16:33:57.466086+00:00",
+ "updated": "2026-08-19T16:59:10.922300+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728037,
+   "ts": "2026-08-19T16:48:23+00:00",
+   "ingested": "2026-08-19T16:59:10.921980+00:00",
+   "headline": "De-escalation of regional tensions has been discussed by Qatari and Saudi Foreign Ministers - Tasnim News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728029,
+   "ts": "2026-08-19T16:43:42+00:00",
+   "ingested": "2026-08-19T16:59:10.922007+00:00",
+   "headline": "CNN Reporter: Sources see good reasons for another Trump-Kim summit, including North Korea's support for Russia's war in Ukraine.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728015,
    "ts": "2026-08-19T16:31:21+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-17T06:17:42+00:00",
    "ingested": "2026-08-17T06:22:27.123326+00:00",
    "headline": "Commodities Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9723707,
-   "ts": "2026-08-17T06:17:23+00:00",
-   "ingested": "2026-08-17T06:22:27.123337+00:00",
-   "headline": "FX Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9723706,
-   "ts": "2026-08-17T06:17:05+00:00",
-   "ingested": "2026-08-17T06:22:27.123348+00:00",
-   "headline": "US Index Futures Implied Volatility",
    "channel": "rss",
    "source": "financialjuice"
   }
