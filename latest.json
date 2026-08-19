@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-19T21:20:45.765526+00:00",
+ "updated": "2026-08-19T21:49:26.570987+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728391,
+   "ts": "2026-08-19T21:36:22+00:00",
+   "ingested": "2026-08-19T21:49:26.570707+00:00",
+   "headline": "UK foreign secretary condemns Israeli government\u2019s release of tender for E1 settlement project; announces summons for Israeli charge d\u2019affaires",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728390,
+   "ts": "2026-08-19T21:34:59+00:00",
+   "ingested": "2026-08-19T21:49:26.570733+00:00",
+   "headline": "Virtuix reports first-quarter fiscal 2027 results as Omni One orders surge 150% after Meta launch",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728354,
    "ts": "2026-08-19T21:11:01+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-17T12:31:07+00:00",
    "ingested": "2026-08-17T13:23:51.304373+00:00",
    "headline": "BoC Core CPI MoM Actual 0.2% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724159,
-   "ts": "2026-08-17T12:30:02+00:00",
-   "ingested": "2026-08-17T12:34:54.498722+00:00",
-   "headline": "Canadian CPI YoY Actual 3% (Forecast 2.9%, Previous 2.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724158,
-   "ts": "2026-08-17T12:30:02+00:00",
-   "ingested": "2026-08-17T12:34:54.498747+00:00",
-   "headline": "Canadian CPI MoM Actual 0.5% (Forecast 0.4%, Previous -0.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
