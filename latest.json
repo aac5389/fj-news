@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-19T19:55:11.249337+00:00",
+ "updated": "2026-08-19T20:21:45.715861+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728309,
+   "ts": "2026-08-19T20:17:48+00:00",
+   "ingested": "2026-08-19T20:21:45.715566+00:00",
+   "headline": "US State Department spokesperson tells Al Jazeera Trump administration opens discussions on Syria's sovereignty and Israel's right to defend itself",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728297,
+   "ts": "2026-08-19T20:05:49+00:00",
+   "ingested": "2026-08-19T20:21:45.715590+00:00",
+   "headline": "US total public debt outstanding exceeds record $40 trln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728257,
    "ts": "2026-08-19T19:42:59+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-17T12:30:00+00:00",
    "ingested": "2026-08-17T12:34:54.498797+00:00",
    "headline": "NY Fed Manufacturing Actual 20.6 (Forecast 10, Previous 15.60)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724154,
-   "ts": "2026-08-17T12:28:46+00:00",
-   "ingested": "2026-08-17T12:34:54.498813+00:00",
-   "headline": "Senior Iranian Official: Iran will not wait for the US to continue the naval blockade indefinitely",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724153,
-   "ts": "2026-08-17T12:28:23+00:00",
-   "ingested": "2026-08-17T12:34:54.498829+00:00",
-   "headline": "The timeframe set by Iran will be conveyed to US, regional countries via mediators - Senior Iranian Official.",
    "channel": "rss",
    "source": "financialjuice"
   }
