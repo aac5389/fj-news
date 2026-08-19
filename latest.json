@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-19T04:55:45.656368+00:00",
+ "updated": "2026-08-19T05:26:38.715156+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9727059,
+   "ts": "2026-08-19T05:03:09+00:00",
+   "ingested": "2026-08-19T05:26:38.714909+00:00",
+   "headline": "Democrat Mary Peltola to move forward to general election for U.S. Senate in Alaska: ddhq projects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9727058,
+   "ts": "2026-08-19T05:02:40+00:00",
+   "ingested": "2026-08-19T05:26:38.714934+00:00",
+   "headline": "Republican senator Dan Sullivan advances to Alaska U.S. Senate general election: DDHQ projects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9727038,
    "ts": "2026-08-19T04:47:39+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-14T23:29:51+00:00",
    "ingested": "2026-08-14T23:32:19.763835+00:00",
    "headline": "Third Point LLC: change in holdings as of June 30, 2026, compared with previous quarter ended March 31, 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9722329,
-   "ts": "2026-08-14T21:52:43+00:00",
-   "ingested": "2026-08-14T21:55:21.628762+00:00",
-   "headline": "Jane Street: Recent losses prompt firm to be more selective about risk, closes significant portion of risk in areas with July losses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9722328,
-   "ts": "2026-08-14T21:50:20+00:00",
-   "ingested": "2026-08-14T21:55:21.628789+00:00",
-   "headline": "Jane Street executives to employees: July was a poor month, trading revenue turned negative for first time since 2016",
    "channel": "rss",
    "source": "financialjuice"
   }
