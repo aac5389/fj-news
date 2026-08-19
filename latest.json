@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-19T15:57:35.795649+00:00",
+ "updated": "2026-08-19T16:33:57.466086+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728015,
+   "ts": "2026-08-19T16:31:21+00:00",
+   "ingested": "2026-08-19T16:33:57.465790+00:00",
+   "headline": "USTR Greer on Canada: I feel confident that we have reached a deal to protect the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728010,
+   "ts": "2026-08-19T16:19:49+00:00",
+   "ingested": "2026-08-19T16:33:57.465817+00:00",
+   "headline": "Canada's PM Carney: Canada is moving towards a trade deal with US and significant progress has been made in talks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9727977,
    "ts": "2026-08-19T15:52:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-17T06:17:05+00:00",
    "ingested": "2026-08-17T06:22:27.123348+00:00",
    "headline": "US Index Futures Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9723694,
-   "ts": "2026-08-17T06:16:45+00:00",
-   "ingested": "2026-08-17T06:22:27.123362+00:00",
-   "headline": "Top S&P 500 Stock Names Implied Volatility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9723693,
-   "ts": "2026-08-17T06:16:00+00:00",
-   "ingested": "2026-08-17T06:22:27.123373+00:00",
-   "headline": "120-Day Correlation Matrix",
    "channel": "rss",
    "source": "financialjuice"
   }
