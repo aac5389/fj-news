@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-19T20:53:07.169818+00:00",
+ "updated": "2026-08-19T21:20:45.765526+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728354,
+   "ts": "2026-08-19T21:11:01+00:00",
+   "ingested": "2026-08-19T21:20:45.765260+00:00",
+   "headline": "Australia foreign minister: will summon Israel ambassador over decision to forgo criminal proceedings in death of Australian aid worker",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728353,
+   "ts": "2026-08-19T21:04:40+00:00",
+   "ingested": "2026-08-19T21:20:45.765283+00:00",
+   "headline": "Kyiv under assault from Russian ballistic missiles: mayor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728348,
+   "ts": "2026-08-19T21:00:53+00:00",
+   "ingested": "2026-08-19T21:20:45.765302+00:00",
+   "headline": "Several blasts reported in central Kyiv: source witnesses",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728309,
    "ts": "2026-08-19T20:17:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-17T12:30:02+00:00",
    "ingested": "2026-08-17T12:34:54.498747+00:00",
    "headline": "Canadian CPI MoM Actual 0.5% (Forecast 0.4%, Previous -0.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724157,
-   "ts": "2026-08-17T12:30:02+00:00",
-   "ingested": "2026-08-17T12:34:54.498765+00:00",
-   "headline": "Canadian CPI Trim Actual 1.9% (Forecast 1.8%, Previous 1.8%, Revised 1.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724156,
-   "ts": "2026-08-17T12:30:02+00:00",
-   "ingested": "2026-08-17T12:34:54.498781+00:00",
-   "headline": "Canadian CPI Median Actual 2% (Forecast 1.9%, Previous 1.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724155,
-   "ts": "2026-08-17T12:30:00+00:00",
-   "ingested": "2026-08-17T12:34:54.498797+00:00",
-   "headline": "NY Fed Manufacturing Actual 20.6 (Forecast 10, Previous 15.60)",
    "channel": "rss",
    "source": "financialjuice"
   }
