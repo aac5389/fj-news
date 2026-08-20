@@ -1,101 +1,53 @@
 {
- "updated_utc": "2026-08-20T19:17:41.491024+00:00",
- "updated_et": "2026-08-20 15:17 ET",
+ "updated_utc": "2026-08-20T19:49:44.977309+00:00",
+ "updated_et": "2026-08-20 15:49 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
    "name": "E-mini S&P 500",
    "yahoo_symbol": "ES=F",
    "last": {
-    "price": 7674.0,
-    "time_utc": "2026-08-20T19:07:38+00:00",
-    "time_et": "2026-08-20 15:07 ET",
+    "price": 7673.25,
+    "time_utc": "2026-08-20T19:39:42+00:00",
+    "time_et": "2026-08-20 15:39 ET",
     "bar_age_min": 10.1
    },
    "live_proxy": {
-    "etf": "SPY",
-    "ratio": 10.050034,
+    "etf": "IVV",
+    "ratio": 10.002737,
     "etf_bar_age_min": 0.0,
-    "etf_last": 763.54,
-    "etf_last_et": "2026-08-20 15:17 ET",
-    "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?interval=1m&range=1d",
-    "ratio_asof_et": "2026-08-20 15:07 ET",
+    "etf_last": 766.87,
+    "etf_last_et": "2026-08-20 15:49 ET",
+    "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/IVV?interval=1m&range=1d",
+    "ratio_asof_et": "2026-08-20 15:39 ET",
     "bars_used": 30,
-    "fit_err_median": 0.11,
-    "fit_err_max": 0.3,
+    "fit_err_median": 0.2,
+    "fit_err_max": 0.95,
     "alternates": [
      {
-      "etf": "IVV",
-      "bar_age_min": 0.1,
-      "fit_err_median": 0.1
+      "etf": "SPY",
+      "bar_age_min": 0.0,
+      "fit_err_median": 0.18
      },
      {
       "etf": "VOO",
       "bar_age_min": 0.1,
-      "fit_err_median": 0.13
+      "fit_err_median": 0.14
      }
     ]
    },
    "regime": {
-    "autocorr_1m_30": 0.046,
-    "autocorr_1m_60": 0.092,
-    "autocorr_1m_120": 0.128,
+    "autocorr_1m_30": 0.033,
+    "autocorr_1m_60": 0.034,
+    "autocorr_1m_120": 0.122,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
     "range_position": 0.06,
-    "vwap_dist": -25.25,
-    "vwap_z": -1.0,
-    "realized_vol_vs_atr14": 0.61,
-    "streak_1m_bars": -1
+    "vwap_dist": -24.68,
+    "vwap_z": -0.95,
+    "realized_vol_vs_atr14": 0.62,
+    "streak_1m_bars": 0
    },
    "bars_5m": [
-    [
-     "10:10",
-     7705.0,
-     7705.75,
-     7697.5,
-     7698.25,
-     17332
-    ],
-    [
-     "10:15",
-     7698.0,
-     7699.75,
-     7691.75,
-     7692.5,
-     21913
-    ],
-    [
-     "10:20",
-     7692.75,
-     7707.75,
-     7691.75,
-     7706.0,
-     26307
-    ],
-    [
-     "10:25",
-     7706.0,
-     7706.75,
-     7698.0,
-     7700.25,
-     20962
-    ],
-    [
-     "10:30",
-     7700.0,
-     7706.5,
-     7698.25,
-     7699.0,
-     15558
-    ],
-    [
-     "10:35",
-     7699.25,
-     7710.25,
-     7697.5,
-     7708.0,
-     16912
-    ],
     [
      "10:40",
      7708.0,
@@ -523,10 +475,58 @@
     [
      "15:05",
      7672.25,
-     7675.25,
+     7675.5,
      7671.0,
-     7674.0,
-     4644
+     7674.5,
+     9601
+    ],
+    [
+     "15:10",
+     7674.75,
+     7675.0,
+     7672.25,
+     7673.5,
+     6884
+    ],
+    [
+     "15:15",
+     7673.5,
+     7676.25,
+     7671.0,
+     7671.75,
+     8490
+    ],
+    [
+     "15:20",
+     7672.0,
+     7676.0,
+     7670.5,
+     7675.25,
+     9177
+    ],
+    [
+     "15:25",
+     7674.75,
+     7676.0,
+     7673.0,
+     7673.5,
+     8275
+    ],
+    [
+     "15:30",
+     7673.5,
+     7673.75,
+     7668.75,
+     7670.5,
+     12003
+    ],
+    [
+     "15:35",
+     7670.5,
+     7675.0,
+     7669.5,
+     7673.25,
+     8338
     ]
    ],
    "bars_5m_cols": [
@@ -541,10 +541,10 @@
     "date_et": "2026-08-20",
     "open": 7741.75,
     "high": 7745.25,
-    "low": 7669.25,
-    "vwap": 7699.25,
+    "low": 7668.75,
+    "vwap": 7697.93,
     "volume_poc": 7704.0,
-    "volume": 1093268
+    "volume": 1151392
    },
    "prior_session": {
     "date_et": "2026-08-19",
@@ -563,17 +563,17 @@
     {
      "name": "Gross Domestic Product",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 8232
+     "minutes_until": 8200
     },
     {
      "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 8232
+     "minutes_until": 8200
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 21192
+     "minutes_until": 21160
     }
    ]
   },
@@ -581,95 +581,47 @@
    "name": "WTI Crude Oil",
    "yahoo_symbol": "CL=F",
    "last": {
-    "price": 86.8,
-    "time_utc": "2026-08-20T19:07:38+00:00",
-    "time_et": "2026-08-20 15:07 ET",
-    "bar_age_min": 10.2
+    "price": 86.6,
+    "time_utc": "2026-08-20T19:39:44+00:00",
+    "time_et": "2026-08-20 15:39 ET",
+    "bar_age_min": 10.1
    },
    "live_proxy": {
     "etf": "USO",
-    "ratio": 0.643677,
-    "etf_bar_age_min": 0.2,
-    "etf_last": 134.76,
-    "etf_last_et": "2026-08-20 15:17 ET",
+    "ratio": 0.643656,
+    "etf_bar_age_min": 0.1,
+    "etf_last": 134.63,
+    "etf_last_et": "2026-08-20 15:49 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/USO?interval=1m&range=1d",
-    "ratio_asof_et": "2026-08-20 15:06 ET",
+    "ratio_asof_et": "2026-08-20 15:39 ET",
     "bars_used": 30,
-    "fit_err_median": 0.0,
+    "fit_err_median": 0.01,
     "fit_err_max": 0.04,
     "alternates": [
      {
       "etf": "DBO",
-      "bar_age_min": 9.6,
+      "bar_age_min": 1.8,
       "fit_err_median": 0.02
      },
      {
       "etf": "USL",
-      "bar_age_min": 103.4,
+      "bar_age_min": 12.6,
       "fit_err_median": 0.11
      }
     ]
    },
    "regime": {
-    "autocorr_1m_30": -0.399,
-    "autocorr_1m_60": 0.13,
-    "autocorr_1m_120": -0.028,
+    "autocorr_1m_30": -0.434,
+    "autocorr_1m_60": -0.313,
+    "autocorr_1m_120": 0.018,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
-    "range_position": 0.74,
-    "vwap_dist": 0.35,
-    "vwap_z": 0.37,
+    "range_position": 0.68,
+    "vwap_dist": 0.14,
+    "vwap_z": 0.15,
     "realized_vol_vs_atr14": 0.46,
     "streak_1m_bars": 1
    },
    "bars_5m": [
-    [
-     "10:10",
-     86.64,
-     86.66,
-     86.37,
-     86.48,
-     1960
-    ],
-    [
-     "10:15",
-     86.48,
-     86.48,
-     86.05,
-     86.11,
-     3573
-    ],
-    [
-     "10:20",
-     86.12,
-     86.16,
-     85.69,
-     85.87,
-     3494
-    ],
-    [
-     "10:25",
-     85.87,
-     85.95,
-     85.78,
-     85.9,
-     2538
-    ],
-    [
-     "10:30",
-     85.9,
-     86.1,
-     85.88,
-     86.05,
-     2383
-    ],
-    [
-     "10:35",
-     86.05,
-     86.06,
-     85.9,
-     85.95,
-     1666
-    ],
     [
      "10:40",
      85.96,
@@ -1099,8 +1051,56 @@
      86.78,
      86.81,
      86.76,
-     86.8,
-     266
+     86.76,
+     893
+    ],
+    [
+     "15:10",
+     86.76,
+     86.77,
+     86.68,
+     86.74,
+     946
+    ],
+    [
+     "15:15",
+     86.73,
+     86.79,
+     86.69,
+     86.76,
+     228
+    ],
+    [
+     "15:20",
+     86.75,
+     86.76,
+     86.69,
+     86.7,
+     435
+    ],
+    [
+     "15:25",
+     86.7,
+     86.72,
+     86.64,
+     86.69,
+     406
+    ],
+    [
+     "15:30",
+     86.7,
+     86.7,
+     86.63,
+     86.63,
+     332
+    ],
+    [
+     "15:35",
+     86.63,
+     86.66,
+     86.56,
+     86.6,
+     272
     ]
    ],
    "bars_5m_cols": [
@@ -1116,9 +1116,9 @@
     "open": 84.46,
     "high": 87.69,
     "low": 84.33,
-    "vwap": 86.45,
+    "vwap": 86.46,
     "volume_poc": 86.55,
-    "volume": 223479
+    "volume": 226725
    },
    "prior_session": {
     "date_et": "2026-08-19",
@@ -1137,18 +1137,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-25 16:30 ET",
-     "minutes_until": 7272,
+     "minutes_until": 7240,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-08-26 10:30 ET",
-     "minutes_until": 8352
+     "minutes_until": 8320
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-01 16:30 ET",
-     "minutes_until": 17352,
+     "minutes_until": 17320,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -1157,95 +1157,47 @@
    "name": "Gold",
    "yahoo_symbol": "GC=F",
    "last": {
-    "price": 4580.1,
-    "time_utc": "2026-08-20T19:07:53+00:00",
-    "time_et": "2026-08-20 15:07 ET",
-    "bar_age_min": 10.0
+    "price": 4584.7,
+    "time_utc": "2026-08-20T19:39:50+00:00",
+    "time_et": "2026-08-20 15:39 ET",
+    "bar_age_min": 10.2
    },
    "live_proxy": {
-    "etf": "IAU",
-    "ratio": 53.862129,
-    "etf_bar_age_min": 0.1,
-    "etf_last": 85.13,
-    "etf_last_et": "2026-08-20 15:17 ET",
-    "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?interval=1m&range=1d",
-    "ratio_asof_et": "2026-08-20 15:07 ET",
+    "etf": "GLD",
+    "ratio": 11.040517,
+    "etf_bar_age_min": 0.0,
+    "etf_last": 415.3,
+    "etf_last_et": "2026-08-20 15:49 ET",
+    "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?interval=1m&range=1d",
+    "ratio_asof_et": "2026-08-20 15:39 ET",
     "bars_used": 30,
-    "fit_err_median": 0.3,
-    "fit_err_max": 0.8,
+    "fit_err_median": 0.1,
+    "fit_err_max": 0.9,
     "alternates": [
      {
-      "etf": "GLD",
-      "bar_age_min": 0.1,
-      "fit_err_median": 0.2
+      "etf": "IAU",
+      "bar_age_min": 0.0,
+      "fit_err_median": 0.3
      },
      {
       "etf": "GLDM",
-      "bar_age_min": 0.4,
-      "fit_err_median": 0.2
+      "bar_age_min": 1.0,
+      "fit_err_median": 0.1
      }
     ]
    },
    "regime": {
-    "autocorr_1m_30": 0.201,
-    "autocorr_1m_60": 0.187,
-    "autocorr_1m_120": -0.041,
+    "autocorr_1m_30": 0.297,
+    "autocorr_1m_60": 0.242,
+    "autocorr_1m_120": 0.221,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
-    "range_position": 0.81,
-    "vwap_dist": 27.2,
-    "vwap_z": 1.58,
-    "realized_vol_vs_atr14": 0.56,
-    "streak_1m_bars": -1
+    "range_position": 0.86,
+    "vwap_dist": 31.4,
+    "vwap_z": 1.76,
+    "realized_vol_vs_atr14": 0.57,
+    "streak_1m_bars": 0
    },
    "bars_5m": [
-    [
-     "10:10",
-     4540.1,
-     4544.8,
-     4538.5,
-     4541.0,
-     1396
-    ],
-    [
-     "10:15",
-     4541.0,
-     4545.4,
-     4537.4,
-     4538.0,
-     1559
-    ],
-    [
-     "10:20",
-     4538.0,
-     4549.9,
-     4537.4,
-     4546.8,
-     1380
-    ],
-    [
-     "10:25",
-     4546.6,
-     4549.0,
-     4542.6,
-     4547.4,
-     1303
-    ],
-    [
-     "10:30",
-     4547.6,
-     4553.5,
-     4547.5,
-     4550.1,
-     1694
-    ],
-    [
-     "10:35",
-     4550.1,
-     4556.6,
-     4548.6,
-     4551.6,
-     1385
-    ],
     [
      "10:40",
      4551.8,
@@ -1673,10 +1625,58 @@
     [
      "15:05",
      4578.3,
-     4580.9,
+     4582.9,
      4577.8,
+     4582.9,
+     285
+    ],
+    [
+     "15:10",
+     4582.9,
+     4584.6,
+     4580.8,
+     4584.2,
+     276
+    ],
+    [
+     "15:15",
+     4584.2,
+     4585.9,
+     4582.1,
+     4582.2,
+     294
+    ],
+    [
+     "15:20",
+     4582.6,
+     4584.5,
+     4580.2,
+     4583.5,
+     446
+    ],
+    [
+     "15:25",
+     4583.4,
+     4584.1,
+     4579.1,
+     4579.2,
+     255
+    ],
+    [
+     "15:30",
+     4579.0,
+     4580.9,
+     4578.2,
      4580.1,
-     39
+     253
+    ],
+    [
+     "15:35",
+     4579.7,
+     4585.7,
+     4579.2,
+     4584.7,
+     253
     ]
    ],
    "bars_5m_cols": [
@@ -1692,9 +1692,9 @@
     "open": 4556.4,
     "high": 4597.1,
     "low": 4506.0,
-    "vwap": 4552.9,
+    "vwap": 4553.3,
     "volume_poc": 4581.5,
-    "volume": 148769
+    "volume": 150792
    },
    "prior_session": {
     "date_et": "2026-08-19",
@@ -1713,17 +1713,17 @@
     {
      "name": "Gross Domestic Product",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 8232
+     "minutes_until": 8200
     },
     {
      "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 8232
+     "minutes_until": 8200
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 21192
+     "minutes_until": 21160
     }
    ]
   }
