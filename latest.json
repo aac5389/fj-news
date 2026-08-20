@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-20T06:17:13.391879+00:00",
+ "updated": "2026-08-20T07:10:37.858236+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9729039,
+   "ts": "2026-08-20T07:09:43+00:00",
+   "ingested": "2026-08-20T07:10:37.857950+00:00",
+   "headline": "China's commerce ministry, on US tariffs on drones: US Section 232 measures are unilateralist protectionist measures that overgeneralize the concept of national security",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9729019,
+   "ts": "2026-08-20T07:00:55+00:00",
+   "ingested": "2026-08-20T07:10:37.857975+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, CAD, EUR, GBP, USD, AUD, GBP, CHF - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728939,
    "ts": "2026-08-20T06:01:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-17T18:31:44+00:00",
    "ingested": "2026-08-17T18:32:46.199008+00:00",
    "headline": "NYMEX Gasoline Sept. futures settle at $3.2701 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724618,
-   "ts": "2026-08-17T18:31:35+00:00",
-   "ingested": "2026-08-17T18:32:46.199031+00:00",
-   "headline": "NYMEX Nat Gas Sept. futures settle at $2.6900/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724617,
-   "ts": "2026-08-17T18:31:06+00:00",
-   "ingested": "2026-08-17T18:32:46.199048+00:00",
-   "headline": "NYMEX Diesel Sept. futures settle at $4.4371 a gallon",
    "channel": "rss",
    "source": "financialjuice"
   }
