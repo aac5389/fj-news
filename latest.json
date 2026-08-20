@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-20T23:35:54.083579+00:00",
+ "updated": "2026-08-20T23:55:54.379586+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9730292,
+   "ts": "2026-08-20T23:38:42+00:00",
+   "ingested": "2026-08-20T23:55:54.379129+00:00",
+   "headline": "Japan July nationwide overall CPI rises 1.9% year on year, not 2.0%: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730291,
+   "ts": "2026-08-20T23:38:39+00:00",
+   "ingested": "2026-08-20T23:55:54.379174+00:00",
+   "headline": "Japan July CPI excluding fresh food, energy prices rises 1.9% year-on-year: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9730260,
    "ts": "2026-08-20T23:31:13+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-18T20:47:38+00:00",
    "ingested": "2026-08-18T20:56:09.061563+00:00",
    "headline": "US API Crude Oil Stock Change Actual -0.328M  (Forecast -, Previous 9.072M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726473,
-   "ts": "2026-08-18T20:46:22+00:00",
-   "ingested": "2026-08-18T20:56:09.061577+00:00",
-   "headline": "Israeli fighter jets fly over Idlib and the Syrian desert - Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726471,
-   "ts": "2026-08-18T20:42:11+00:00",
-   "ingested": "2026-08-18T20:56:09.061593+00:00",
-   "headline": "Iran's Foreign Ministry Spokesperson rejects the UAE's statement on missiles being launched from Iran against the Gulf country.",
    "channel": "rss",
    "source": "financialjuice"
   }
