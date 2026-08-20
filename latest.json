@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-20T11:24:57.759472+00:00",
+ "updated": "2026-08-20T11:52:10.593045+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9729384,
+   "ts": "2026-08-20T11:40:03+00:00",
+   "ingested": "2026-08-20T11:52:10.592728+00:00",
+   "headline": "USS George Washington transiting the Arabian Sea today - US military",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9729338,
    "ts": "2026-08-20T11:12:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-18T01:08:18+00:00",
    "ingested": "2026-08-18T02:17:13.250486+00:00",
    "headline": "S. Korea President Lee: US-South Korea alliance, independent national defense are mutually essential",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9725013,
-   "ts": "2026-08-18T01:07:18+00:00",
-   "ingested": "2026-08-18T02:17:13.250499+00:00",
-   "headline": "S. Korea President Lee: should continue opcon transfer as planned",
    "channel": "rss",
    "source": "financialjuice"
   }
