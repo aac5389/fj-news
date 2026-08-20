@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-20T05:43:48.608548+00:00",
+ "updated": "2026-08-20T06:17:13.391879+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9728939,
+   "ts": "2026-08-20T06:01:18+00:00",
+   "ingested": "2026-08-20T06:17:13.391639+00:00",
+   "headline": "German PPI YoY Actual 3.0% (Forecast 2.5%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728938,
+   "ts": "2026-08-20T06:01:18+00:00",
+   "ingested": "2026-08-20T06:17:13.391655+00:00",
+   "headline": "German PPI MoM Actual 1.1% (Forecast 0.6%, Previous -0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728937,
+   "ts": "2026-08-20T05:59:05+00:00",
+   "ingested": "2026-08-20T06:17:13.391667+00:00",
+   "headline": "Iran's Araghchi: US policies will bring defeat and enmity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9728936,
+   "ts": "2026-08-20T05:58:08+00:00",
+   "ingested": "2026-08-20T06:17:13.391680+00:00",
+   "headline": "Iran's Araghchi: \"Economic D-Day' is a diversion from the US' crisis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9728894,
    "ts": "2026-08-20T05:09:43+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-17T18:31:06+00:00",
    "ingested": "2026-08-17T18:32:46.199048+00:00",
    "headline": "NYMEX Diesel Sept. futures settle at $4.4371 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724616,
-   "ts": "2026-08-17T18:30:55+00:00",
-   "ingested": "2026-08-17T18:32:46.199064+00:00",
-   "headline": "NYMEX WTI Crude Sept. futures settle at $84.50 a barrel up $2.10, 2.55%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724610,
-   "ts": "2026-08-17T18:26:05+00:00",
-   "ingested": "2026-08-17T18:32:46.199077+00:00",
-   "headline": "Kushner: Breakthrough in roadmap to demilitarized Gaza - Fox",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724595,
-   "ts": "2026-08-17T18:15:39+00:00",
-   "ingested": "2026-08-17T18:32:46.199091+00:00",
-   "headline": "Trump: Not seeking extension of Iran MOU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9724594,
-   "ts": "2026-08-17T18:13:00+00:00",
-   "ingested": "2026-08-17T18:32:46.199103+00:00",
-   "headline": "Trump ends remarks to reporters at the White House",
    "channel": "rss",
    "source": "financialjuice"
   }
