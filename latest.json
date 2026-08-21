@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-21T10:03:40.267887+00:00",
+ "updated": "2026-08-21T10:42:10.812812+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731074,
+   "ts": "2026-08-21T10:16:25+00:00",
+   "ingested": "2026-08-21T10:42:10.812443+00:00",
+   "headline": "Tesla to recall 1,956,713 China-made Model 3 and Y vehicles - China market regulator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731053,
    "ts": "2026-08-21T10:01:24+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-19T06:00:07+00:00",
    "ingested": "2026-08-19T06:39:50.281273+00:00",
    "headline": "UK CPI MoM Actual 0.3% (Forecast 0.3%, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727095,
-   "ts": "2026-08-19T06:00:06+00:00",
-   "ingested": "2026-08-19T06:39:50.281282+00:00",
-   "headline": "UK CPI YoY Actual 2.9% (Forecast 2.9%, Previous 2.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
