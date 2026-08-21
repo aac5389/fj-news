@@ -1,7 +1,47 @@
 {
- "updated": "2026-08-21T13:06:29.133583+00:00",
+ "updated": "2026-08-21T13:55:05.936956+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731330,
+   "ts": "2026-08-21T13:45:00+00:00",
+   "ingested": "2026-08-21T13:55:05.936504+00:00",
+   "headline": "US S&P Composite PMI Flash  Actual 56 (Forecast 54, Previous 54.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731329,
+   "ts": "2026-08-21T13:45:00+00:00",
+   "ingested": "2026-08-21T13:55:05.936560+00:00",
+   "headline": "US S&P Services PMI Flash Actual 56.8 (Forecast 54, Previous 54.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731328,
+   "ts": "2026-08-21T13:45:00+00:00",
+   "ingested": "2026-08-21T13:55:05.936585+00:00",
+   "headline": "US S&P Manufacturing PMI Flash Actual 53.2 (Forecast 53.9, Previous 53.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731327,
+   "ts": "2026-08-21T13:32:21+00:00",
+   "ingested": "2026-08-21T13:55:05.936608+00:00",
+   "headline": "Cloverleaf targets GW-scale AI factory build-out in the US $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731323,
+   "ts": "2026-08-21T13:31:44+00:00",
+   "ingested": "2026-08-21T13:55:05.936632+00:00",
+   "headline": "Cloverleaf Infrastructure forms a partnership with NVIDIA to deploy the NVIDIA DSX platform at AI sites $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731302,
    "ts": "2026-08-21T13:04:11+00:00",
@@ -3959,46 +3999,6 @@
    "ts": "2026-08-19T08:01:38+00:00",
    "ingested": "2026-08-19T08:50:53.374709+00:00",
    "headline": "Eurozone Current Account NSA Actual 46.90B (Forecast -, Previous -6.20B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727286,
-   "ts": "2026-08-19T08:01:29+00:00",
-   "ingested": "2026-08-19T08:50:53.374725+00:00",
-   "headline": "Eurozone Current Account Actual 35.100B (Forecast -, Previous 25.100B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727285,
-   "ts": "2026-08-19T07:48:25+00:00",
-   "ingested": "2026-08-19T08:01:32.880651+00:00",
-   "headline": "Europe Sentiment: Stocks Halt Losses Yields Continue Rise - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727253,
-   "ts": "2026-08-19T07:28:06+00:00",
-   "ingested": "2026-08-19T08:01:32.880676+00:00",
-   "headline": "Japan Kansai business delegation to China to be delayed - Kyodo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727227,
-   "ts": "2026-08-19T07:12:36+00:00",
-   "ingested": "2026-08-19T07:23:58.205980+00:00",
-   "headline": "China's foreign ministry, on the US wanting countries to pick sides on AI: China firmly opposes taking sides against each other on the issue of AI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727226,
-   "ts": "2026-08-19T07:11:28+00:00",
-   "ingested": "2026-08-19T07:23:58.205994+00:00",
-   "headline": "ECB's President Lagarde: Europe can't afford to miss out on the AI revolution",
    "channel": "rss",
    "source": "financialjuice"
   }
