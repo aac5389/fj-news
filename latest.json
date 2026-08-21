@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-21T11:10:28.748776+00:00",
+ "updated": "2026-08-21T11:44:46.802042+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731154,
+   "ts": "2026-08-21T11:23:01+00:00",
+   "ingested": "2026-08-21T11:44:46.801769+00:00",
+   "headline": "President Pezeshkian: Iran should end the war now that it is in a position of strength and the world acknowledges its victory - ISNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731074,
    "ts": "2026-08-21T10:16:25+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-19T06:00:07+00:00",
    "ingested": "2026-08-19T06:39:50.281264+00:00",
    "headline": "UK RPI MoM Actual 0.6% (Forecast 0.8%, Previous 0.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727096,
-   "ts": "2026-08-19T06:00:07+00:00",
-   "ingested": "2026-08-19T06:39:50.281273+00:00",
-   "headline": "UK CPI MoM Actual 0.3% (Forecast 0.3%, Previous 0.1%)",
    "channel": "rss",
    "source": "financialjuice"
   }
