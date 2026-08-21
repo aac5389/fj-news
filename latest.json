@@ -1,7 +1,63 @@
 {
- "updated": "2026-08-21T05:44:15.238835+00:00",
+ "updated": "2026-08-21T06:18:18.006970+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9730695,
+   "ts": "2026-08-21T06:01:14+00:00",
+   "ingested": "2026-08-21T06:18:18.006587+00:00",
+   "headline": "UK PSNB ex Banks Actual 1.800B (Forecast -, Previous 15.989B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730697,
+   "ts": "2026-08-21T06:00:11+00:00",
+   "ingested": "2026-08-21T06:18:18.006613+00:00",
+   "headline": "Swedish Unemployment Rate Actual 7.8% (Forecast -, Previous 9.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730696,
+   "ts": "2026-08-21T06:00:05+00:00",
+   "ingested": "2026-08-21T06:18:18.006632+00:00",
+   "headline": "Swedish Unemployment Rate SA Actual 8.6% (Forecast 8.75%, Previous 8.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730692,
+   "ts": "2026-08-21T06:00:03+00:00",
+   "ingested": "2026-08-21T06:18:18.006649+00:00",
+   "headline": "UK Core Retail Sales MoM Actual -0.9% (Forecast -0.5%, Previous 1.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730691,
+   "ts": "2026-08-21T06:00:03+00:00",
+   "ingested": "2026-08-21T06:18:18.006665+00:00",
+   "headline": "UK Core Retail Sales YoY Actual 2.3% (Forecast 3.3%, Previous 5.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730690,
+   "ts": "2026-08-21T06:00:03+00:00",
+   "ingested": "2026-08-21T06:18:18.006681+00:00",
+   "headline": "UK Retail Sales MoM Actual -0.5% (Forecast -0.5%, Previous 1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9730689,
+   "ts": "2026-08-21T06:00:02+00:00",
+   "ingested": "2026-08-21T06:18:18.006695+00:00",
+   "headline": "UK Retail Sales YoY Actual 1.6% (Forecast 2.2%, Previous 4.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9730656,
    "ts": "2026-08-21T05:11:24+00:00",
@@ -3943,62 +3999,6 @@
    "ts": "2026-08-19T01:30:02+00:00",
    "ingested": "2026-08-19T01:49:27.435560+00:00",
    "headline": "Australian Wage Price Index QoQ Actual 0.8% (Forecast 0.8%, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726742,
-   "ts": "2026-08-19T01:30:01+00:00",
-   "ingested": "2026-08-19T01:49:27.435574+00:00",
-   "headline": "Australian Wage Price Index YoY\t Actual 3.2% (Forecast 3.2%, Previous 3.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726741,
-   "ts": "2026-08-19T01:28:48+00:00",
-   "ingested": "2026-08-19T01:49:27.435586+00:00",
-   "headline": "Exercise to end one week early: Pentagon official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726740,
-   "ts": "2026-08-19T01:28:34+00:00",
-   "ingested": "2026-08-19T01:49:27.435599+00:00",
-   "headline": "US military significantly scaling back drill with South Korea, Pentagon official says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726739,
-   "ts": "2026-08-19T01:25:04+00:00",
-   "ingested": "2026-08-19T01:49:27.435611+00:00",
-   "headline": "U.S. War Department Official: No Decline in U.S. Training Goals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726738,
-   "ts": "2026-08-19T01:24:01+00:00",
-   "ingested": "2026-08-19T01:49:27.435625+00:00",
-   "headline": "U.S. War Department Official: modifications to South Korea joint drill maintain readiness and training goals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726737,
-   "ts": "2026-08-19T01:21:48+00:00",
-   "ingested": "2026-08-19T01:49:27.435638+00:00",
-   "headline": "China cbank injects 327.4 billion yuan via overnight reverse repos: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9726736,
-   "ts": "2026-08-19T01:21:34+00:00",
-   "ingested": "2026-08-19T01:49:27.435652+00:00",
-   "headline": "China cbank: 7-day reverse repo volume at zero Wednesday amid primary dealer demand - statement",
    "channel": "rss",
    "source": "financialjuice"
   }
