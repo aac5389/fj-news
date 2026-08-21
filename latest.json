@@ -1,7 +1,39 @@
 {
- "updated": "2026-08-21T14:30:06.253050+00:00",
+ "updated": "2026-08-21T15:05:11.421742+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731461,
+   "ts": "2026-08-21T15:04:54+00:00",
+   "ingested": "2026-08-21T15:05:11.421383+00:00",
+   "headline": "SNB's Tschudin: We don't publish interest rate forecasts; the current inflation forecast should not be taken to mean interest rates will remain at the current level for three years.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731460,
+   "ts": "2026-08-21T15:04:42+00:00",
+   "ingested": "2026-08-21T15:05:11.421402+00:00",
+   "headline": "SNB's Tschudin: The franc has weakened because of higher interest rate expectations abroad.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731440,
+   "ts": "2026-08-21T15:00:43+00:00",
+   "ingested": "2026-08-21T15:05:11.421417+00:00",
+   "headline": "SNB's Tschudin: The SNB would cut rates below 0% if inflation required it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9731417,
+   "ts": "2026-08-21T14:38:05+00:00",
+   "ingested": "2026-08-21T15:05:11.421432+00:00",
+   "headline": "Israel's Prime Minister Netanyahu: Israel will continue to act forcefully against Turkey's attempts to disrupt stability in the region - Israel's Hayom News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731403,
    "ts": "2026-08-21T14:18:23+00:00",
@@ -3967,38 +3999,6 @@
    "ts": "2026-08-19T10:31:19+00:00",
    "ingested": "2026-08-19T10:35:59.924197+00:00",
    "headline": "$TGT Target Q2 2027 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727502,
-   "ts": "2026-08-19T10:10:32+00:00",
-   "ingested": "2026-08-19T10:35:59.924215+00:00",
-   "headline": "Advanced Micro-FAB to invest 3.5b Yuan in Shanghai project",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727427,
-   "ts": "2026-08-19T09:31:29+00:00",
-   "ingested": "2026-08-19T09:59:27.484559+00:00",
-   "headline": "German 10 Yr Bund Yield Actual 3.26% (Forecast -, Previous 3.13%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727426,
-   "ts": "2026-08-19T09:31:28+00:00",
-   "ingested": "2026-08-19T09:59:27.484576+00:00",
-   "headline": "German 10 Yr Bund Bid-to-Cover Actual 1.1 (Forecast -, Previous 1.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727371,
-   "ts": "2026-08-19T09:01:11+00:00",
-   "ingested": "2026-08-19T09:29:03.150008+00:00",
-   "headline": "Eurozone CPI YoY Final Actual 2.9% (Forecast 2.9%, Previous 2.9%)",
    "channel": "rss",
    "source": "financialjuice"
   }
