@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-21T17:55:07.988024+00:00",
+ "updated": "2026-08-21T18:30:33.333839+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731699,
+   "ts": "2026-08-21T18:29:24+00:00",
+   "ingested": "2026-08-21T18:30:33.333491+00:00",
+   "headline": "Moody's ratings affirms Microsoft's AAA rating. Outlook stable. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731668,
    "ts": "2026-08-21T17:51:59+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-19T12:31:51+00:00",
    "ingested": "2026-08-19T12:44:15.725585+00:00",
    "headline": "US Treasury Department announces increased sizes of nominal long-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727670,
-   "ts": "2026-08-19T12:30:02+00:00",
-   "ingested": "2026-08-19T12:44:15.725596+00:00",
-   "headline": "Marvell and Google entered a commercial pact on July 29th",
    "channel": "rss",
    "source": "financialjuice"
   }
