@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-21T11:44:46.802042+00:00",
+ "updated": "2026-08-21T12:04:28.612753+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9731189,
+   "ts": "2026-08-21T11:59:43+00:00",
+   "ingested": "2026-08-21T12:04:28.612542+00:00",
+   "headline": "Secured overnight financing rate: 3.63% August 20th vs 3.62% August 19th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9731154,
    "ts": "2026-08-21T11:23:01+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-19T06:00:07+00:00",
    "ingested": "2026-08-19T06:39:50.281254+00:00",
    "headline": "UK Services CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9727097,
-   "ts": "2026-08-19T06:00:07+00:00",
-   "ingested": "2026-08-19T06:39:50.281264+00:00",
-   "headline": "UK RPI MoM Actual 0.6% (Forecast 0.8%, Previous 0.3%)",
    "channel": "rss",
    "source": "financialjuice"
   }
