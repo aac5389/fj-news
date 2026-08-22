@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-22T08:28:10.756851+00:00",
+ "updated": "2026-08-22T08:58:14.540611+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732263,
+   "ts": "2026-08-22T08:41:34+00:00",
+   "ingested": "2026-08-22T08:58:14.540286+00:00",
+   "headline": "Iranian official: pilots held on water in poor physical condition - Tasnim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732262,
+   "ts": "2026-08-22T08:41:04+00:00",
+   "ingested": "2026-08-22T08:58:14.540314+00:00",
+   "headline": "Iranian official urges Qatar to move detained Iranian pilots to land hospital: Tasnim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732244,
    "ts": "2026-08-22T06:35:58+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-19T18:01:38+00:00",
    "ingested": "2026-08-19T18:29:17.896907+00:00",
    "headline": "Fed Staff Economic Outlook showed the inflation outlook was similar to one prepared for the June meeting, but the economic outlook was a touch weaker.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728130,
-   "ts": "2026-08-19T18:01:24+00:00",
-   "ingested": "2026-08-19T18:29:17.896929+00:00",
-   "headline": "Fed Minutes: A couple of participants said ample-reserves regime had helped maintain orderly market functioning during brief payments outage during intermeeting period.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728129,
-   "ts": "2026-08-19T18:01:14+00:00",
-   "ingested": "2026-08-19T18:29:17.896951+00:00",
-   "headline": "Fed Minutes: Fed staff economic outlook showed inflation forecast was similar to one prepared for the June meeting, but the economic outlook was a touch weaker.",
    "channel": "rss",
    "source": "financialjuice"
   }
