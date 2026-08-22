@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-22T18:22:35.810080+00:00",
+ "updated": "2026-08-22T18:56:51.209592+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732432,
+   "ts": "2026-08-22T18:56:35+00:00",
+   "ingested": "2026-08-22T18:56:51.209317+00:00",
+   "headline": "Nvidia price increases to take effect on systems shipped early next year; will affect systems with Vera Rubin and Grace Blackwell chips",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732431,
+   "ts": "2026-08-22T18:55:11+00:00",
+   "ingested": "2026-08-22T18:56:51.209340+00:00",
+   "headline": "Nvidia clients alerted to ai-driven price increases exceeding 15%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732397,
    "ts": "2026-08-22T15:47:19+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-19T19:26:29+00:00",
    "ingested": "2026-08-19T19:34:36.961909+00:00",
    "headline": "OpenAI will be public in 2027 or sooner - CNBC cites CFO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728244,
-   "ts": "2026-08-19T19:22:24+00:00",
-   "ingested": "2026-08-19T19:34:36.961930+00:00",
-   "headline": "Thursday FX Options Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728242,
-   "ts": "2026-08-19T19:21:24+00:00",
-   "ingested": "2026-08-19T19:34:36.961952+00:00",
-   "headline": "US conducting stealth operation to transport oil through Hormuz - Axios",
    "channel": "rss",
    "source": "financialjuice"
   }
