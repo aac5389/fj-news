@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-08-23T10:28:56.259252+00:00",
- "updated_et": "2026-08-23 06:28 ET",
+ "updated_utc": "2026-08-23T10:52:23.665638+00:00",
+ "updated_et": "2026-08-23 06:52 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -10,12 +10,12 @@
     "price": 7691.25,
     "time_utc": "2026-08-21T20:59:59+00:00",
     "time_et": "2026-08-21 16:59 ET",
-    "bar_age_min": 2249.0
+    "bar_age_min": 2272.4
    },
    "live_proxy": {
     "etf": "SPY",
     "ratio": 10.045614,
-    "etf_bar_age_min": 2309.0,
+    "etf_bar_age_min": 2332.5,
     "etf_last": 765.72,
     "etf_last_et": "2026-08-21 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?interval=1m&range=1d",
@@ -26,12 +26,12 @@
     "alternates": [
      {
       "etf": "IVV",
-      "bar_age_min": 2309.0,
+      "bar_age_min": 2332.5,
       "fit_err_median": 0.25
      },
      {
       "etf": "VOO",
-      "bar_age_min": 2309.0,
+      "bar_age_min": 2332.5,
       "fit_err_median": 0.22
      }
     ]
@@ -563,17 +563,17 @@
     {
      "name": "Gross Domestic Product",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 4441
+     "minutes_until": 4417
     },
     {
      "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 4441
+     "minutes_until": 4417
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 17401
+     "minutes_until": 17377
     }
    ]
   },
@@ -584,7 +584,7 @@
     "price": 87.06,
     "time_utc": "2026-08-21T20:59:59+00:00",
     "time_et": "2026-08-21 16:59 ET",
-    "bar_age_min": 2249.1
+    "bar_age_min": 2272.4
    },
    "live_proxy": {
     "etf": "USO",
@@ -1137,21 +1137,23 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-08-25 16:30 ET",
-     "minutes_until": 3481,
+     "minutes_until": 3457,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-08-26 10:30 ET",
-     "minutes_until": 4561
+     "minutes_until": 4537
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-01 16:30 ET",
-     "minutes_until": 13561,
+     "minutes_until": 13537,
      "note": "approximate; not holiday-adjusted"
     }
-   ]
+   ],
+   "stale": true,
+   "stale_reason": "CL: empty chart data"
   },
   "GC": {
    "name": "Gold",
@@ -1160,12 +1162,12 @@
     "price": 4680.6,
     "time_utc": "2026-08-21T20:59:58+00:00",
     "time_et": "2026-08-21 16:59 ET",
-    "bar_age_min": 2249.3
+    "bar_age_min": 2272.6
    },
    "live_proxy": {
     "etf": "IAU",
     "ratio": 53.845978,
-    "etf_bar_age_min": 2309.3,
+    "etf_bar_age_min": 2332.6,
     "etf_last": 86.79,
     "etf_last_et": "2026-08-21 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/IAU?interval=1m&range=1d",
@@ -1176,12 +1178,12 @@
     "alternates": [
      {
       "etf": "GLD",
-      "bar_age_min": 2309.2,
+      "bar_age_min": 2332.6,
       "fit_err_median": 0.2
      },
      {
       "etf": "GLDM",
-      "bar_age_min": 2309.3,
+      "bar_age_min": 2332.7,
       "fit_err_median": 0.3
      }
     ]
@@ -1713,17 +1715,17 @@
     {
      "name": "Gross Domestic Product",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 4441
+     "minutes_until": 4417
     },
     {
      "name": "Personal Income and Outlays",
      "when_et": "2026-08-26 08:30 ET",
-     "minutes_until": 4441
+     "minutes_until": 4417
     },
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 17401
+     "minutes_until": 17377
     }
    ]
   }
