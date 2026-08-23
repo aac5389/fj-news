@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-23T21:01:32.705463+00:00",
+ "updated": "2026-08-23T21:32:26.517522+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732767,
+   "ts": "2026-08-23T21:02:00+00:00",
+   "ingested": "2026-08-23T21:32:26.517110+00:00",
+   "headline": "Syria: immediate priority is Israeli troop pullback to pre-Dec. 8, 2024 lines, full execution of 1974 disengagement agreement - Syrian state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732764,
    "ts": "2026-08-23T21:00:55+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-19T23:51:08+00:00",
    "ingested": "2026-08-20T00:23:45.516493+00:00",
    "headline": "Japanese Total Trade Balance Actual -634.5B (Forecast -649B, Previous -406.9B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728494,
-   "ts": "2026-08-19T23:51:08+00:00",
-   "ingested": "2026-08-20T00:23:45.516520+00:00",
-   "headline": "Japanese Imports YoY Actual 27.8% (Forecast 25.1%, Previous 25.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
