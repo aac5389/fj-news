@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-23T20:17:26.822606+00:00",
+ "updated": "2026-08-23T20:43:04.680153+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732755,
+   "ts": "2026-08-23T20:25:52+00:00",
+   "ingested": "2026-08-23T20:43:04.679875+00:00",
+   "headline": "EU on Israel: settlements in West Bank, including E1 area, illegal under international law",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732754,
+   "ts": "2026-08-23T20:24:26+00:00",
+   "ingested": "2026-08-23T20:43:04.679901+00:00",
+   "headline": "EU high representative on Israel's E1 West Bank settlement plan: urges government to retract tender, suspend E1 development",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732745,
    "ts": "2026-08-23T19:07:10+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-19T23:50:03+00:00",
    "ingested": "2026-08-20T00:23:45.516627+00:00",
    "headline": "Japan's July exports to China rise 25.8% year on year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728499,
-   "ts": "2026-08-19T23:50:03+00:00",
-   "ingested": "2026-08-20T00:23:45.516654+00:00",
-   "headline": "Japan July trade balance -634.5 billion yen: Ministry of Finance (poll: -680.0 billion yen)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728498,
-   "ts": "2026-08-19T23:50:03+00:00",
-   "ingested": "2026-08-20T00:23:45.516678+00:00",
-   "headline": "Japan July exports to EU rise 19.1% year/year: MOF",
    "channel": "rss",
    "source": "financialjuice"
   }
