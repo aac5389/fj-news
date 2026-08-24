@@ -1,7 +1,383 @@
 {
- "updated": "2026-08-24T16:51:37.843093+00:00",
+ "updated": "2026-08-24T17:26:45.206096+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9734020,
+   "ts": "2026-08-24T17:25:57+00:00",
+   "ingested": "2026-08-24T17:26:45.205153+00:00",
+   "headline": "Musk: Space-optimized Vera Rubin significant scale in 2028 $NVDA $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734019,
+   "ts": "2026-08-24T17:25:21+00:00",
+   "ingested": "2026-08-24T17:26:45.205193+00:00",
+   "headline": "Musk: Vera Rubin NVL72 system for launch to orbit in Q4 next year. $NVDA $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734018,
+   "ts": "2026-08-24T17:22:48+00:00",
+   "ingested": "2026-08-24T17:26:45.205212+00:00",
+   "headline": "Canada's PM Carney: Canada may go a more targeted route on counter-tariffs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734017,
+   "ts": "2026-08-24T17:20:53+00:00",
+   "ingested": "2026-08-24T17:26:45.205225+00:00",
+   "headline": "US Treasury Secretary Bessent concludes comments at press conference.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734016,
+   "ts": "2026-08-24T17:20:39+00:00",
+   "ingested": "2026-08-24T17:26:45.205239+00:00",
+   "headline": "US Treasury Secretary Bessent: Should be set to leave the dollar system if there is no cooperation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734015,
+   "ts": "2026-08-24T17:19:42+00:00",
+   "ingested": "2026-08-24T17:26:45.205250+00:00",
+   "headline": "US Treasury Secretary Bessent: A warning shot is appropriate on Iran initiative.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734014,
+   "ts": "2026-08-24T17:19:04+00:00",
+   "ingested": "2026-08-24T17:26:45.205263+00:00",
+   "headline": "US Treasury Secretary Bessent: We haven't bought a single bond yet, next operation is Sept 9th. We'll see",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734013,
+   "ts": "2026-08-24T17:19:03+00:00",
+   "ingested": "2026-08-24T17:26:45.205274+00:00",
+   "headline": "US Treasury Secretary Bessent on Iran: Gave everyone an opportunity to remedy bad behavior.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734011,
+   "ts": "2026-08-24T17:18:28+00:00",
+   "ingested": "2026-08-24T17:26:45.205293+00:00",
+   "headline": "Aramco: Pacts & MOU have potential combined value of over $3.7b.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734010,
+   "ts": "2026-08-24T17:18:16+00:00",
+   "ingested": "2026-08-24T17:26:45.205302+00:00",
+   "headline": "Aramco reports an MOU with French companies.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734009,
+   "ts": "2026-08-24T17:17:36+00:00",
+   "ingested": "2026-08-24T17:26:45.205315+00:00",
+   "headline": "US Treasury Secretary Bessent: Trump would like Canada to come to the table and negotiate in good faith.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733997,
+   "ts": "2026-08-24T17:16:58+00:00",
+   "ingested": "2026-08-24T17:26:45.205327+00:00",
+   "headline": "US Treasury Secretary Bessent: I expect a major financial institution to be sanctioned this week.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733995,
+   "ts": "2026-08-24T17:16:32+00:00",
+   "ingested": "2026-08-24T17:26:45.205338+00:00",
+   "headline": "US Treasury Secretary Bessent: You will see a wave of sanctions after this.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733994,
+   "ts": "2026-08-24T17:16:16+00:00",
+   "ingested": "2026-08-24T17:26:45.205349+00:00",
+   "headline": "US Treasury Secretary Bessent: Trying to buy Iran's appeasement will no longer work.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733993,
+   "ts": "2026-08-24T17:15:39+00:00",
+   "ingested": "2026-08-24T17:26:45.205360+00:00",
+   "headline": "US Treasury Secretary Bessent: We're already seeing some results on the Iran push.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733991,
+   "ts": "2026-08-24T17:15:30+00:00",
+   "ingested": "2026-08-24T17:26:45.205370+00:00",
+   "headline": "US Treasury Secretary Bessent: UAE's recent Iran moves are not a coincidence but causal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733988,
+   "ts": "2026-08-24T17:14:31+00:00",
+   "ingested": "2026-08-24T17:26:45.205382+00:00",
+   "headline": "US Treasury Secretary Bessent: Every nation should be ready to face US sanctions if backing Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733987,
+   "ts": "2026-08-24T17:13:54+00:00",
+   "ingested": "2026-08-24T17:26:45.205393+00:00",
+   "headline": "Cyberattackers posed as engineer to bypass Claude controls",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733985,
+   "ts": "2026-08-24T17:13:38+00:00",
+   "ingested": "2026-08-24T17:26:45.205403+00:00",
+   "headline": "OpenAI and Anthropic chatbots deployed by China-backed cyber spies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733984,
+   "ts": "2026-08-24T17:13:34+00:00",
+   "ingested": "2026-08-24T17:26:45.205416+00:00",
+   "headline": "US Treasury Secretary Bessent: Will not set specific timelines for cutting ties; we don't have infinite patience.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733983,
+   "ts": "2026-08-24T17:13:33+00:00",
+   "ingested": "2026-08-24T17:26:45.205426+00:00",
+   "headline": "Chinese hackers used DeepSeek to intensify attacks - Researchers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733982,
+   "ts": "2026-08-24T17:13:13+00:00",
+   "ingested": "2026-08-24T17:26:45.205437+00:00",
+   "headline": "US Treasury Secretary Bessent: Ramifications if other nations don't respond quickly.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733981,
+   "ts": "2026-08-24T17:13:09+00:00",
+   "ingested": "2026-08-24T17:26:45.205453+00:00",
+   "headline": "US Treasury Secretary Bessent: won\u2019t set exact timelines for reducing Iran ties, patience isn\u2019t unlimited",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733980,
+   "ts": "2026-08-24T17:12:19+00:00",
+   "ingested": "2026-08-24T17:26:45.205463+00:00",
+   "headline": "US Treasury Secretary Bessent on China: If it facilitates transactions, to be targeted.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733979,
+   "ts": "2026-08-24T17:12:14+00:00",
+   "ingested": "2026-08-24T17:26:45.205474+00:00",
+   "headline": "US Treasury Secretary Bessent: no one, including China, is exempt from US sanctions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733978,
+   "ts": "2026-08-24T17:11:37+00:00",
+   "ingested": "2026-08-24T17:26:45.205485+00:00",
+   "headline": "US Treasury Secretary Bessent: No one is above the reach of US sanctions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733977,
+   "ts": "2026-08-24T17:11:13+00:00",
+   "ingested": "2026-08-24T17:26:45.205496+00:00",
+   "headline": "Canada's PM Carney: There could be a fair agreement between Canada and the US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733976,
+   "ts": "2026-08-24T17:10:29+00:00",
+   "ingested": "2026-08-24T17:26:45.205507+00:00",
+   "headline": "US Treasury Secretary Bessent: US efforts won't end until the Iranian regime stands alone.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733975,
+   "ts": "2026-08-24T17:10:12+00:00",
+   "ingested": "2026-08-24T17:26:45.205518+00:00",
+   "headline": "US Treasury Secretary Bessent: To those who enable Iran, don't test our resolve.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733974,
+   "ts": "2026-08-24T17:09:36+00:00",
+   "ingested": "2026-08-24T17:26:45.205529+00:00",
+   "headline": "US Treasury Secretary Bessent: Economic ties with Iran will trigger the full extent of American power.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733973,
+   "ts": "2026-08-24T17:09:30+00:00",
+   "ingested": "2026-08-24T17:26:45.205540+00:00",
+   "headline": "US Treasury Secretary Bessent: These measures broaden secondary sanctions risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733972,
+   "ts": "2026-08-24T17:08:21+00:00",
+   "ingested": "2026-08-24T17:26:45.205550+00:00",
+   "headline": "US Treasury Secretary Bessent: will block dollar access for those laundering Iran funds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733971,
+   "ts": "2026-08-24T17:08:19+00:00",
+   "ingested": "2026-08-24T17:26:45.205565+00:00",
+   "headline": "US Treasury Secretary Bessent: Countries will have a finite timeline to shut down activities identified by the Treasury, including closing Iran's bank branches abroad.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733970,
+   "ts": "2026-08-24T17:08:01+00:00",
+   "ingested": "2026-08-24T17:26:45.205581+00:00",
+   "headline": "US Treasury Secretary Bessent: Every country has a defined timeline to shut down the activities we have identified. if they do not take action, we will do so unilaterally through treasury authorities.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733969,
+   "ts": "2026-08-24T17:07:47+00:00",
+   "ingested": "2026-08-24T17:26:45.205592+00:00",
+   "headline": "US Treasury Secretary Bessent: If others don't act, the Treasury will unilaterally act.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733968,
+   "ts": "2026-08-24T17:07:32+00:00",
+   "ingested": "2026-08-24T17:26:45.205602+00:00",
+   "headline": "US Treasury Secretary Bessent: US expects action of other nations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733967,
+   "ts": "2026-08-24T17:07:06+00:00",
+   "ingested": "2026-08-24T17:26:45.205613+00:00",
+   "headline": "US Treasury Secretary Bessent: Trump calling specific nations to cease Iran dealings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733966,
+   "ts": "2026-08-24T17:06:45+00:00",
+   "ingested": "2026-08-24T17:26:45.205625+00:00",
+   "headline": "US Treasury's Bessent: Trump is making phone calls to world leaders to cut economic ties with Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733965,
+   "ts": "2026-08-24T17:06:31+00:00",
+   "ingested": "2026-08-24T17:26:45.205636+00:00",
+   "headline": "US Treasury's Bessent: The US will enforce zero leakage approach to Iran sanctions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733964,
+   "ts": "2026-08-24T17:05:30+00:00",
+   "ingested": "2026-08-24T17:26:45.205647+00:00",
+   "headline": "US Treasury Secretary Bessent: The US will block every potential revenue source for IRGC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733963,
+   "ts": "2026-08-24T17:04:57+00:00",
+   "ingested": "2026-08-24T17:26:45.205657+00:00",
+   "headline": "US Treasury Secretary Bessent: Iran has 2 paths, normalcy or total isolation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733962,
+   "ts": "2026-08-24T17:04:31+00:00",
+   "ingested": "2026-08-24T17:26:45.205667+00:00",
+   "headline": "US Treasury Secretary Bessent: Under Trump, we are ending the Iran threat.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733961,
+   "ts": "2026-08-24T17:03:11+00:00",
+   "ingested": "2026-08-24T17:26:45.205679+00:00",
+   "headline": "US treasury suspends general licenses that allowed some remittance payments to Iran - Treasury Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733960,
+   "ts": "2026-08-24T17:03:05+00:00",
+   "ingested": "2026-08-24T17:26:45.205692+00:00",
+   "headline": "US Treasury targets five sectors for potential secondary sanctions: digital assets, technology, gold, aviation, and shipping - Treasury statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733958,
+   "ts": "2026-08-24T17:02:49+00:00",
+   "ingested": "2026-08-24T17:26:45.205704+00:00",
+   "headline": "US Treasury sanctions nearly 60 Iran-linked entities, people, and vessels across nuclear, missile, cyber, and oil networks - Treasury statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733942,
+   "ts": "2026-08-24T17:00:30+00:00",
+   "ingested": "2026-08-24T17:26:45.205718+00:00",
+   "headline": "Goldman Sachs: Jackson Hole\u2014and the keynote address in particular\u2014can generate meaningful FX volatility - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9733937,
+   "ts": "2026-08-24T16:55:41+00:00",
+   "ingested": "2026-08-24T17:26:45.205728+00:00",
+   "headline": "Goldman Sachs on Potential Treasury Actions on Iran Announcement - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9733935,
    "ts": "2026-08-24T16:49:53+00:00",
@@ -3623,382 +3999,6 @@
    "ts": "2026-08-20T15:20:06+00:00",
    "ingested": "2026-08-20T15:39:45.110593+00:00",
    "headline": "US Treasury Secretary Bessent: A lot of corporate bond issues are yield agnostic.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729754,
-   "ts": "2026-08-20T15:19:52+00:00",
-   "ingested": "2026-08-20T15:39:45.110608+00:00",
-   "headline": "US Treasury Secretary Bessent: We don't want people to trade headlines in a thin market, we're trying to keep market in equilibrium.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729753,
-   "ts": "2026-08-20T15:19:33+00:00",
-   "ingested": "2026-08-20T15:39:45.110622+00:00",
-   "headline": "US Treasury Secretary Bessent on US Bonds: We will see what the conditions are and whether more action is needed - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729752,
-   "ts": "2026-08-20T15:17:33+00:00",
-   "ingested": "2026-08-20T15:39:45.110636+00:00",
-   "headline": "US Treasury Secretary Bessent on G20: Our message is that global growth is the way to take care of debt.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729746,
-   "ts": "2026-08-20T15:17:08+00:00",
-   "ingested": "2026-08-20T15:39:45.110649+00:00",
-   "headline": "US Treasury Secretary Bessent: The only inflationary impulses are from energy, and they're temporary.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729735,
-   "ts": "2026-08-20T15:16:32+00:00",
-   "ingested": "2026-08-20T15:39:45.110661+00:00",
-   "headline": "US Treasury Secretary Bessent: The underlying economy is very strong.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729734,
-   "ts": "2026-08-20T15:16:17+00:00",
-   "ingested": "2026-08-20T15:39:45.110675+00:00",
-   "headline": "US Treasury Secretary Bessent: It is going to be a couple of exciting weeks and months of fiscal news.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729733,
-   "ts": "2026-08-20T15:15:54+00:00",
-   "ingested": "2026-08-20T15:39:45.110687+00:00",
-   "headline": "US Treasury Secretary Bessent: We continue to have a strong-dollar policy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729732,
-   "ts": "2026-08-20T15:15:44+00:00",
-   "ingested": "2026-08-20T15:39:45.110701+00:00",
-   "headline": "US Treasury Secretary Bessent: The dollar had a big run, going back to a level from 2 months ago.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729731,
-   "ts": "2026-08-20T15:15:28+00:00",
-   "ingested": "2026-08-20T15:39:45.110714+00:00",
-   "headline": "US Treasury Secretary Bessent on USD: it has been stable -CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729726,
-   "ts": "2026-08-20T15:14:45+00:00",
-   "ingested": "2026-08-20T15:39:45.110727+00:00",
-   "headline": "US Treasury Secretary Bessent: Budget Director Vought knows where we can cut back.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729725,
-   "ts": "2026-08-20T15:13:55+00:00",
-   "ingested": "2026-08-20T15:39:45.110741+00:00",
-   "headline": "US Treasury Secretary Bessent: I am going to hold a press conference on Monday regarding the Iran plans.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729724,
-   "ts": "2026-08-20T15:13:15+00:00",
-   "ingested": "2026-08-20T15:39:45.110756+00:00",
-   "headline": "US Treasury Secretary Bessent on whether China will be affected by Iran sanctions: It is best to have talks in private.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729723,
-   "ts": "2026-08-20T15:12:37+00:00",
-   "ingested": "2026-08-20T15:39:45.110784+00:00",
-   "headline": "US Treasury Secretary Bessent on Iran: We are going to collapse this regime.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729722,
-   "ts": "2026-08-20T15:12:24+00:00",
-   "ingested": "2026-08-20T15:39:45.110798+00:00",
-   "headline": "US Treasury Secretary Bessent on Iran: We're going to have the toughest sanctions in history - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729721,
-   "ts": "2026-08-20T15:12:00+00:00",
-   "ingested": "2026-08-20T15:39:45.110815+00:00",
-   "headline": "US Treasury Secretary Bessent on Iran: Oil markets are misinterpreting what economic pressure means. The actions will curtail Iran's ability to take action through proxies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729720,
-   "ts": "2026-08-20T15:11:31+00:00",
-   "ingested": "2026-08-20T15:39:45.110829+00:00",
-   "headline": "US Treasury Secretary Bessent on Iran: This will be a coordinated economic isolation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729719,
-   "ts": "2026-08-20T15:11:11+00:00",
-   "ingested": "2026-08-20T15:39:45.110843+00:00",
-   "headline": "US Treasury Secretary Bessent on the Strait of Hormuz: We can continue getting ships out via the Southern lane.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729718,
-   "ts": "2026-08-20T15:10:42+00:00",
-   "ingested": "2026-08-20T15:39:45.110856+00:00",
-   "headline": "US Treasury Secretary Bessent on Iran: Maximum economic pressure means likely not a kinetic restart.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729717,
-   "ts": "2026-08-20T15:10:02+00:00",
-   "ingested": "2026-08-20T15:39:45.110870+00:00",
-   "headline": "US Treasury Secretary Bessent on Inflation: Markers are saying that it will be lower in the future - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729716,
-   "ts": "2026-08-20T15:08:25+00:00",
-   "ingested": "2026-08-20T15:39:45.110884+00:00",
-   "headline": "US Treasury Secretary Bessent: Rates have nothing to do with the buyback decision. We would adjust to any kind of Fed bond runoff.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729715,
-   "ts": "2026-08-20T15:07:58+00:00",
-   "ingested": "2026-08-20T15:39:45.110898+00:00",
-   "headline": "US Treasury Secretary Bessent: The Treasury and the Fed would work together if there were any change in the balance sheet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729714,
-   "ts": "2026-08-20T15:07:28+00:00",
-   "ingested": "2026-08-20T15:39:45.110910+00:00",
-   "headline": "US Treasury Secretary Bessent: Markets got a little ahead of themselves.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729713,
-   "ts": "2026-08-20T15:07:14+00:00",
-   "ingested": "2026-08-20T15:39:45.110924+00:00",
-   "headline": "US Treasury Secretary Bessent: US VP Vance's fraud task force could save hundreds of billions of dollars.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729712,
-   "ts": "2026-08-20T15:06:37+00:00",
-   "ingested": "2026-08-20T15:39:45.110937+00:00",
-   "headline": "US Treasury Secretary Bessent: There's a very good chance we have seen a peak in the fiscal deficit.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729711,
-   "ts": "2026-08-20T15:06:17+00:00",
-   "ingested": "2026-08-20T15:39:45.110952+00:00",
-   "headline": "US Treasury Secretary Bessent: There will be a fiscal announcement, probably at the end of the week or the start of next week.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729710,
-   "ts": "2026-08-20T15:05:47+00:00",
-   "ingested": "2026-08-20T15:39:45.110964+00:00",
-   "headline": "US Treasury Secretary Bessent: I expect tariff 2026 income will be similar to 2025 - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729709,
-   "ts": "2026-08-20T15:05:31+00:00",
-   "ingested": "2026-08-20T15:39:45.110977+00:00",
-   "headline": "US Treasury Secretary Bessent: We can grow our way out of the debt burden.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729708,
-   "ts": "2026-08-20T15:05:14+00:00",
-   "ingested": "2026-08-20T15:39:45.110990+00:00",
-   "headline": "US Treasury Secretary Bessent: There's nothing magical about the $40 trillion debt number.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729707,
-   "ts": "2026-08-20T15:04:54+00:00",
-   "ingested": "2026-08-20T15:39:45.111005+00:00",
-   "headline": "US Treasury Secretary Bessent: We're going to unveil increased fiscal-consolidation focus. Myself and the Budget Director will be looking at it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729706,
-   "ts": "2026-08-20T15:04:03+00:00",
-   "ingested": "2026-08-20T15:39:45.111019+00:00",
-   "headline": "US Treasury Secretary Bessent on bond buyback: probably going to announce increased focus on fiscal consolidation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729705,
-   "ts": "2026-08-20T15:03:54+00:00",
-   "ingested": "2026-08-20T15:39:45.111033+00:00",
-   "headline": "US Treasury Secretary Bessent: Liquidity in the 30-year point is especially poor.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729704,
-   "ts": "2026-08-20T15:03:41+00:00",
-   "ingested": "2026-08-20T15:39:45.111045+00:00",
-   "headline": "US Treasury Secretary Bessent: We have a big toolkit for the Treasuries market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729702,
-   "ts": "2026-08-20T15:03:25+00:00",
-   "ingested": "2026-08-20T15:39:45.111060+00:00",
-   "headline": "US Treasury Secretary Bessent on Bonds: Part of it is signaling. We want to show that yields do not reflect underlying fundamentals.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729701,
-   "ts": "2026-08-20T15:03:00+00:00",
-   "ingested": "2026-08-20T15:39:45.111073+00:00",
-   "headline": "US Treasury Secretary Bessent on bonds: The buyback could be more than 4 billion - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729700,
-   "ts": "2026-08-20T15:02:39+00:00",
-   "ingested": "2026-08-20T15:39:45.111089+00:00",
-   "headline": "US Treasury: 2-year note auction results could trigger an unscheduled reopening of 5-year notes if the high yield falls between 4.375% and 4.499%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729699,
-   "ts": "2026-08-20T15:02:33+00:00",
-   "ingested": "2026-08-20T15:39:45.111100+00:00",
-   "headline": "US Treasury Announces Note Auctions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729691,
-   "ts": "2026-08-20T15:01:02+00:00",
-   "ingested": "2026-08-20T15:39:45.111112+00:00",
-   "headline": "China and Switzerland Agree on Expanded Free-Trade Deal Removing Tariffs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729683,
-   "ts": "2026-08-20T14:55:10+00:00",
-   "ingested": "2026-08-20T14:59:20.496816+00:00",
-   "headline": "Iran's Foreign Ministry in Response to US sanctions: Iran will use all available tools and capacities to defend the dignity of the Iranian people and protect Iran's national interests - IRIB.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729668,
-   "ts": "2026-08-20T14:45:54+00:00",
-   "ingested": "2026-08-20T14:59:20.496841+00:00",
-   "headline": "South Korean President Lee met the SK Group Chair on Thursday - Yonhap.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729642,
-   "ts": "2026-08-20T14:30:01+00:00",
-   "ingested": "2026-08-20T14:59:20.496861+00:00",
-   "headline": "EIA Natural Gas Change BCF Actual 16B (Forecast 14B, Previous 36B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729641,
-   "ts": "2026-08-20T14:24:07+00:00",
-   "ingested": "2026-08-20T14:59:20.496882+00:00",
-   "headline": "The US is going to back minerals projects with $500m in grants, and is going to award the grants to 7 companies - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729640,
-   "ts": "2026-08-20T14:18:35+00:00",
-   "ingested": "2026-08-20T14:59:20.496897+00:00",
-   "headline": "Crypto Fear and Greed Index: 62/100 = Greed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729639,
-   "ts": "2026-08-20T14:17:56+00:00",
-   "ingested": "2026-08-20T14:59:20.496911+00:00",
-   "headline": "Fear and Greed Index: 56/100 = Greed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729634,
-   "ts": "2026-08-20T14:07:00+00:00",
-   "ingested": "2026-08-20T14:17:59.531606+00:00",
-   "headline": "Yemeni armed forces targeted the Najran airport and Aramco oil facilities using attack drones - Tasnim News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729612,
-   "ts": "2026-08-20T14:00:00+00:00",
-   "ingested": "2026-08-20T14:17:59.531630+00:00",
-   "headline": "US Leading Index Change MoM Actual 0.2% (Forecast 0.1%, Previous -0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729611,
-   "ts": "2026-08-20T13:59:47+00:00",
-   "ingested": "2026-08-20T14:17:59.531651+00:00",
-   "headline": "Google Threat Intelligence Group is tracking three distinct suspected Russian cyber espionage threat clusters - Blog. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9729553,
-   "ts": "2026-08-20T13:08:10+00:00",
-   "ingested": "2026-08-20T13:31:37.023848+00:00",
-   "headline": "Super Micro Computer - No evidence that previous financial statements could not be relied upon",
    "channel": "rss",
    "source": "financialjuice"
   }
