@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-24T08:42:37.284194+00:00",
+ "updated": "2026-08-24T09:30:44.795388+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9733298,
+   "ts": "2026-08-24T08:56:07+00:00",
+   "ingested": "2026-08-24T09:30:44.795060+00:00",
+   "headline": "Credit \u00c1gricole: US Week Ahead - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9733279,
    "ts": "2026-08-24T08:42:12+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-20T05:00:58+00:00",
    "ingested": "2026-08-20T05:07:25.491142+00:00",
    "headline": "Russia strikes munitions depot in Kyiv: defence ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728877,
-   "ts": "2026-08-20T05:00:03+00:00",
-   "ingested": "2026-08-20T05:07:25.491157+00:00",
-   "headline": "Russia hits drone parts factory in Kyiv: Russian newswires quote defence ministry",
    "channel": "rss",
    "source": "financialjuice"
   }
