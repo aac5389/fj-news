@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-24T02:35:58.041630+00:00",
+ "updated": "2026-08-24T03:35:05.689754+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732985,
+   "ts": "2026-08-24T03:30:04+00:00",
+   "ingested": "2026-08-24T03:35:05.689437+00:00",
+   "headline": "New Zealand PM Luxon: government to introduce bill banning social media for under-16s today",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732984,
+   "ts": "2026-08-24T03:24:35+00:00",
+   "ingested": "2026-08-24T03:35:05.689466+00:00",
+   "headline": "Drone debris triggers fire in warehouses in Russia's Dagestan region: Interfax quotes local officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732945,
+   "ts": "2026-08-24T03:07:59+00:00",
+   "ingested": "2026-08-24T03:35:05.689487+00:00",
+   "headline": "Nvidia talks perplexity funding at over $30 billion valuation, viewed as tech licensing agreement - The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732894,
    "ts": "2026-08-24T01:40:05+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-20T01:30:01+00:00",
    "ingested": "2026-08-20T01:58:01.954767+00:00",
    "headline": "Australian Participation Rate Actual 66.9% (Forecast 66.9%, Previous 67.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728607,
-   "ts": "2026-08-20T01:30:01+00:00",
-   "ingested": "2026-08-20T01:58:01.954779+00:00",
-   "headline": "Australian Unemployment Rate Actual 4.5% (Forecast 4.4%, Previous 4.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728606,
-   "ts": "2026-08-20T01:30:01+00:00",
-   "ingested": "2026-08-20T01:58:01.954791+00:00",
-   "headline": "Australian Employment Change Actual -15.8k (Forecast 12k, Previous 76.3k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728605,
-   "ts": "2026-08-20T01:21:58+00:00",
-   "ingested": "2026-08-20T01:58:01.954807+00:00",
-   "headline": "China cbank: 7-day reverse repo volume hits zero Thursday amid primary dealer demand - statement",
    "channel": "rss",
    "source": "financialjuice"
   }
