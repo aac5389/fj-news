@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-24T01:01:51.722831+00:00",
+ "updated": "2026-08-24T02:35:58.041630+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9732894,
+   "ts": "2026-08-24T01:40:05+00:00",
+   "ingested": "2026-08-24T02:35:58.041310+00:00",
+   "headline": "S. Korea central bank sells 91-day monetary stabilisation bonds yielding 2.965%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732875,
+   "ts": "2026-08-24T01:24:09+00:00",
+   "ingested": "2026-08-24T02:35:58.041343+00:00",
+   "headline": "Commodity vessel traffic through Strait of Hormuz under 20 over weekend, data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9732874,
+   "ts": "2026-08-24T01:20:30+00:00",
+   "ingested": "2026-08-24T02:35:58.041363+00:00",
+   "headline": "China c.bank injects 340 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9732854,
    "ts": "2026-08-24T00:56:26+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-20T01:21:58+00:00",
    "ingested": "2026-08-20T01:58:01.954807+00:00",
    "headline": "China cbank: 7-day reverse repo volume hits zero Thursday amid primary dealer demand - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728604,
-   "ts": "2026-08-20T01:17:54+00:00",
-   "ingested": "2026-08-20T01:58:01.954823+00:00",
-   "headline": "China sets yuan mid-point 612 pips below estimate, largest downside deviation since Feb. 27, 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728585,
-   "ts": "2026-08-20T01:16:20+00:00",
-   "ingested": "2026-08-20T01:58:01.954836+00:00",
-   "headline": "PBOC sets yuan midpoint at strongest level since Feb. 8, 2023",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9728576,
-   "ts": "2026-08-20T01:01:23+00:00",
-   "ingested": "2026-08-20T01:58:01.954850+00:00",
-   "headline": "PBoC Interest Rate 1 Yr Actual 3.00% (Forecast 3%, Previous 3.00%)",
    "channel": "rss",
    "source": "financialjuice"
   }
