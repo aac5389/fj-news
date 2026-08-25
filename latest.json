@@ -1,7 +1,79 @@
 {
- "updated": "2026-08-25T11:46:28.168511+00:00",
+ "updated": "2026-08-25T12:16:17.520946+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9735263,
+   "ts": "2026-08-25T12:15:00+00:00",
+   "ingested": "2026-08-25T12:16:17.520182+00:00",
+   "headline": "US ADP Wkly Employment Change Actual 11.75k (Forecast -, Previous 9.5k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735262,
+   "ts": "2026-08-25T12:13:16+00:00",
+   "ingested": "2026-08-25T12:16:17.520222+00:00",
+   "headline": "Russia may extend Diesel export ban into September - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735243,
+   "ts": "2026-08-25T12:01:22+00:00",
+   "ingested": "2026-08-25T12:16:17.520254+00:00",
+   "headline": "Superx gets $38.8m NVIDIA B300 server order.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735242,
+   "ts": "2026-08-25T12:00:52+00:00",
+   "ingested": "2026-08-25T12:16:17.520284+00:00",
+   "headline": "Cisco expands secure AI factory with NVIDIA for rack-scale era $CSCO $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735236,
+   "ts": "2026-08-25T12:00:28+00:00",
+   "ingested": "2026-08-25T12:16:17.520311+00:00",
+   "headline": "Google Cloud launches Gemini enterprise for legal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735234,
+   "ts": "2026-08-25T12:00:06+00:00",
+   "ingested": "2026-08-25T12:16:17.520340+00:00",
+   "headline": "Secured Overnight Financing Rate 3.65% August 24 vs 3.65% August 21.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735233,
+   "ts": "2026-08-25T11:56:31+00:00",
+   "ingested": "2026-08-25T12:16:17.520370+00:00",
+   "headline": "Recent round of tariffs are 'absolutely manageable\u2019 - BMO CEO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735232,
+   "ts": "2026-08-25T11:55:39+00:00",
+   "ingested": "2026-08-25T12:16:17.520397+00:00",
+   "headline": "Tariff impact will be mitigated by government support - BMO CEO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9735231,
+   "ts": "2026-08-25T11:52:28+00:00",
+   "ingested": "2026-08-25T12:16:17.520429+00:00",
+   "headline": "US July building permits revised to +4.3% from +5.0%, annual rate to 1.433 mln units from 1.443 mln units",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9735207,
    "ts": "2026-08-25T11:40:54+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-08-21T08:14:24+00:00",
    "ingested": "2026-08-21T08:50:27.188243+00:00",
    "headline": "Samsung announces 90t-110t won shareholder return package.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730915,
-   "ts": "2026-08-21T08:14:00+00:00",
-   "ingested": "2026-08-21T08:50:27.188258+00:00",
-   "headline": "Europe Sentiment: UK Retail Sales Drop - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730914,
-   "ts": "2026-08-21T08:03:41+00:00",
-   "ingested": "2026-08-21T08:50:27.188271+00:00",
-   "headline": "UBS lowers target to CHF 135 from CHF 145",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730888,
-   "ts": "2026-08-21T08:00:01+00:00",
-   "ingested": "2026-08-21T08:50:27.188286+00:00",
-   "headline": "Eurozone Manufacturing PMI Flash Actual 52.8 (Forecast 51.8, Previous 51.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730887,
-   "ts": "2026-08-21T08:00:01+00:00",
-   "ingested": "2026-08-21T08:50:27.188310+00:00",
-   "headline": "Eurozone Services PMI Flash Actual 51.7 (Forecast 51.5, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730886,
-   "ts": "2026-08-21T08:00:00+00:00",
-   "ingested": "2026-08-21T08:50:27.188325+00:00",
-   "headline": "Eurozone Composite PMI Flash Actual 52.1 (Forecast 51.7, Previous 52.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730885,
-   "ts": "2026-08-21T07:47:22+00:00",
-   "ingested": "2026-08-21T07:59:42.891497+00:00",
-   "headline": "NVIDIA and AI chipmaker Rebellions in talks for potential deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730832,
-   "ts": "2026-08-21T07:30:00+00:00",
-   "ingested": "2026-08-21T07:59:42.891538+00:00",
-   "headline": "German Service PMI Flash Actual 48.5 (Forecast 50.1, Previous 49.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730831,
-   "ts": "2026-08-21T07:30:00+00:00",
-   "ingested": "2026-08-21T07:59:42.891568+00:00",
-   "headline": "German Composite PMI Flash Actual 51 (Forecast 51.3, Previous 51.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730830,
-   "ts": "2026-08-21T07:30:00+00:00",
-   "ingested": "2026-08-21T07:59:42.891595+00:00",
-   "headline": "German Manufacturing PMI Flash Actual 54.1 (Forecast 52.1, Previous 52.2)",
    "channel": "rss",
    "source": "financialjuice"
   }
