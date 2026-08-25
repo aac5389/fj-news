@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-25T05:03:54.529589+00:00",
+ "updated": "2026-08-25T05:42:57.813843+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9734758,
+   "ts": "2026-08-25T05:06:58+00:00",
+   "ingested": "2026-08-25T05:42:57.813594+00:00",
+   "headline": "Japanese Leading Indicator Change Rev. Actual 0.0 (Forecast -, Previous 0.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734757,
+   "ts": "2026-08-25T05:06:58+00:00",
+   "ingested": "2026-08-25T05:42:57.813613+00:00",
+   "headline": "Japanese Chain Store Sales YoY Actual 0% (Forecast -, Previous -2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9734756,
    "ts": "2026-08-25T05:01:18+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-21T00:30:00+00:00",
    "ingested": "2026-08-21T01:09:54.765881+00:00",
    "headline": "Japanese Composite PMI Flash Actual 53.4 (Forecast -, Previous 52.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730333,
-   "ts": "2026-08-21T00:30:00+00:00",
-   "ingested": "2026-08-21T01:09:54.765896+00:00",
-   "headline": "Japanese Mfg PMI Flash Actual 55.1 (Forecast -, Previous 54.5)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730319,
-   "ts": "2026-08-21T00:12:26+00:00",
-   "ingested": "2026-08-21T01:09:54.765911+00:00",
-   "headline": "China PBOC likely to fix yuan midpoint at 6.7262 per dollar: estimate",
    "channel": "rss",
    "source": "financialjuice"
   }
