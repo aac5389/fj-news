@@ -1,7 +1,79 @@
 {
- "updated": "2026-08-25T02:46:19.404258+00:00",
+ "updated": "2026-08-25T03:34:50.008603+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9734663,
+   "ts": "2026-08-25T03:10:06+00:00",
+   "ingested": "2026-08-25T03:34:50.008148+00:00",
+   "headline": "Pakistan interior minister: talks with Iranian president conclude on highly positive note",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734662,
+   "ts": "2026-08-25T03:09:44+00:00",
+   "ingested": "2026-08-25T03:34:50.008174+00:00",
+   "headline": "Pakistan interior minister: discussions with Iran center on Middle East tensions and route to peace",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734661,
+   "ts": "2026-08-25T03:09:06+00:00",
+   "ingested": "2026-08-25T03:34:50.008193+00:00",
+   "headline": "Pakistan interior minister: Pakistan, Iran discuss reviving Islamabad agreement to resolve conflict",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734653,
+   "ts": "2026-08-25T03:08:03+00:00",
+   "ingested": "2026-08-25T03:34:50.008209+00:00",
+   "headline": "Fire caused by drone strike, governor says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734649,
+   "ts": "2026-08-25T03:07:15+00:00",
+   "ingested": "2026-08-25T03:34:50.008225+00:00",
+   "headline": "Fire erupts at Afipsky oil refinery in Russia's Krasnodar region: governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734648,
+   "ts": "2026-08-25T03:07:02+00:00",
+   "ingested": "2026-08-25T03:34:50.008240+00:00",
+   "headline": "Pakistan interior minister naqvi: substantial strides achieved in discussions with Iranian leadership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734647,
+   "ts": "2026-08-25T03:03:38+00:00",
+   "ingested": "2026-08-25T03:34:50.008256+00:00",
+   "headline": "Munir discussed regional peace and approaches to achieving negotiated settlement to disputes: Pakistan military statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734646,
+   "ts": "2026-08-25T03:03:08+00:00",
+   "ingested": "2026-08-25T03:34:50.008271+00:00",
+   "headline": "Pakistan army chief Munir: comprehensive talks with Iran focus on steps to avoid further escalation, Pakistan military statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734625,
+   "ts": "2026-08-25T02:47:37+00:00",
+   "ingested": "2026-08-25T03:34:50.008285+00:00",
+   "headline": "Commodity ship passage through Strait of Hormuz drops to lowest in over three months, data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9734609,
    "ts": "2026-08-25T02:30:32+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-08-20T23:30:03+00:00",
    "ingested": "2026-08-20T23:35:54.083249+00:00",
    "headline": "Japan July CPI excluding fresh food and energy rises 1.8% year on year: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730256,
-   "ts": "2026-08-20T23:30:03+00:00",
-   "ingested": "2026-08-20T23:35:54.083265+00:00",
-   "headline": "Japan July nationwide overall CPI rises 2.0% yr/yr: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730237,
-   "ts": "2026-08-20T23:01:03+00:00",
-   "ingested": "2026-08-20T23:01:39.230020+00:00",
-   "headline": "UK GfK Consumer confidence index at -14 in August vs -17 in July (poll: -18), strongest since August 2024",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730236,
-   "ts": "2026-08-20T23:01:03+00:00",
-   "ingested": "2026-08-20T23:01:39.230047+00:00",
-   "headline": "UK GfK consumer confidence major purchases gauge climbs to highest since December 2021",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730233,
-   "ts": "2026-08-20T23:00:04+00:00",
-   "ingested": "2026-08-20T23:01:39.230068+00:00",
-   "headline": "Australia S&P Global August flash composite PMI at 52.5 vs 53.2 in July",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730232,
-   "ts": "2026-08-20T23:00:00+00:00",
-   "ingested": "2026-08-20T23:01:39.230086+00:00",
-   "headline": "Australian Manufacturing PMI Flash Actual 52 (Forecast -, Previous 52.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730231,
-   "ts": "2026-08-20T23:00:00+00:00",
-   "ingested": "2026-08-20T23:01:39.230102+00:00",
-   "headline": "Australian Composite PMI Flash Actual 52.5 (Forecast -, Previous 53.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730230,
-   "ts": "2026-08-20T23:00:00+00:00",
-   "ingested": "2026-08-20T23:01:39.230116+00:00",
-   "headline": "Australian Services PMI Flash Actual 52.9 (Forecast -, Previous 53.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730221,
-   "ts": "2026-08-20T22:45:00+00:00",
-   "ingested": "2026-08-20T23:01:39.230132+00:00",
-   "headline": "New Zealand Trade Balance Actual -1949M (Forecast -, Previous 23.0M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730146,
-   "ts": "2026-08-20T21:02:08+00:00",
-   "ingested": "2026-08-20T21:11:53.321832+00:00",
-   "headline": "Memo released by White House: by 2030, space transport hubs must expand to support over 1,000 launches and reentries annually",
    "channel": "rss",
    "source": "financialjuice"
   }
