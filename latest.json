@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-25T23:33:55.007342+00:00",
+ "updated": "2026-08-25T23:55:22.268279+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9736121,
+   "ts": "2026-08-25T23:50:02+00:00",
+   "ingested": "2026-08-25T23:55:22.267990+00:00",
+   "headline": "Japanese Service PPI Actual 3.6% (Forecast 3.2%, Previous 3.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9736042,
    "ts": "2026-08-25T22:12:30+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-22T03:42:48+00:00",
    "ingested": "2026-08-22T04:04:24.759354+00:00",
    "headline": "Senior Trump administration official: deal would have handled Canada\u2019s earlier retaliation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9732183,
-   "ts": "2026-08-22T03:41:49+00:00",
-   "ingested": "2026-08-22T04:04:24.759367+00:00",
-   "headline": "Senior Trump administration official: no retaliation expected from Canada over new tariffs",
    "channel": "rss",
    "source": "financialjuice"
   }
