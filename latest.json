@@ -1,7 +1,31 @@
 {
- "updated": "2026-08-25T05:42:57.813843+00:00",
+ "updated": "2026-08-25T06:18:02.380696+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9734781,
+   "ts": "2026-08-25T06:01:23+00:00",
+   "ingested": "2026-08-25T06:18:02.380461+00:00",
+   "headline": "German GDP Final QoQ Actual 0.3% (Forecast 0.2%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734782,
+   "ts": "2026-08-25T06:00:05+00:00",
+   "ingested": "2026-08-25T06:18:02.380483+00:00",
+   "headline": "German GDP Final YoY NSA Actual 1% (Forecast 0.9%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9734780,
+   "ts": "2026-08-25T06:00:04+00:00",
+   "ingested": "2026-08-25T06:18:02.380500+00:00",
+   "headline": "German GDP Final YoY SA Actual 1% (Forecast 0.9%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9734758,
    "ts": "2026-08-25T05:06:58+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-08-21T00:30:03+00:00",
    "ingested": "2026-08-21T01:09:54.765829+00:00",
    "headline": "Kwon: cautious, adaptable policy moves needed amid FX volatility and geopolitical risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730336,
-   "ts": "2026-08-21T00:30:03+00:00",
-   "ingested": "2026-08-21T01:09:54.765843+00:00",
-   "headline": "Bank of Korea senior deputy governor Kwon: Growth advancing more than anticipated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730335,
-   "ts": "2026-08-21T00:30:03+00:00",
-   "ingested": "2026-08-21T01:09:54.765858+00:00",
-   "headline": "Kwon: Inflation surpassing target, financial stability risks persist",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9730334,
-   "ts": "2026-08-21T00:30:00+00:00",
-   "ingested": "2026-08-21T01:09:54.765881+00:00",
-   "headline": "Japanese Composite PMI Flash Actual 53.4 (Forecast -, Previous 52.7)",
    "channel": "rss",
    "source": "financialjuice"
   }
