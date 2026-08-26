@@ -1,7 +1,23 @@
 {
- "updated": "2026-08-26T05:45:54.359207+00:00",
+ "updated": "2026-08-26T06:19:46.875658+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9736528,
+   "ts": "2026-08-26T06:01:24+00:00",
+   "ingested": "2026-08-26T06:19:46.875346+00:00",
+   "headline": "Swedish PPI MoM Actual 0.1% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9736527,
+   "ts": "2026-08-26T06:00:03+00:00",
+   "ingested": "2026-08-26T06:19:46.875372+00:00",
+   "headline": "Swedish PPI YoY Actual 6.4% (Forecast -, Previous 7.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9736514,
    "ts": "2026-08-26T05:40:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-08-23T11:02:01+00:00",
    "ingested": "2026-08-23T11:31:19.148314+00:00",
    "headline": "Iran\u2019s oil minister: country discovers more than 7.5 trillion cubic feet of gas in field south of Fars province - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9732606,
-   "ts": "2026-08-23T09:13:45+00:00",
-   "ingested": "2026-08-23T09:26:51.460615+00:00",
-   "headline": "Zelenskiy: Ukrainian defense ministry confronts $27 billion funding shortfall this year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9732601,
-   "ts": "2026-08-23T08:52:11+00:00",
-   "ingested": "2026-08-23T08:56:37.514056+00:00",
-   "headline": "China foreign ministry: deputy foreign minister met iran deputy fm in Beijing on Aug. 17 - statement",
    "channel": "rss",
    "source": "financialjuice"
   }
