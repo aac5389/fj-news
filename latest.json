@@ -1,7 +1,15 @@
 {
- "updated": "2026-08-26T09:45:12.926146+00:00",
+ "updated": "2026-08-26T10:19:19.601370+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9736829,
+   "ts": "2026-08-26T10:00:00+00:00",
+   "ingested": "2026-08-26T10:19:19.601018+00:00",
+   "headline": "UK CBI Distributive Trades Actual -48 (Forecast -35, Previous -26)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9736820,
    "ts": "2026-08-26T09:35:23+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-08-23T21:02:00+00:00",
    "ingested": "2026-08-23T21:32:26.517110+00:00",
    "headline": "Syria: immediate priority is Israeli troop pullback to pre-Dec. 8, 2024 lines, full execution of 1974 disengagement agreement - Syrian state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9732764,
-   "ts": "2026-08-23T21:00:55+00:00",
-   "ingested": "2026-08-23T21:01:32.705127+00:00",
-   "headline": "Syria reaffirms Golan Heights occupied Syrian territory: discussing final status premature - state news agency",
    "channel": "rss",
    "source": "financialjuice"
   }
