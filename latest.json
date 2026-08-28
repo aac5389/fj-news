@@ -1,7 +1,319 @@
 {
- "updated": "2026-08-27T22:44:32.816359+00:00",
+ "updated": "2026-08-28T06:22:09.880654+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9739890,
+   "ts": "2026-08-28T06:01:33+00:00",
+   "ingested": "2026-08-28T06:22:09.879720+00:00",
+   "headline": "Swedish GDP Revised QoQ Actual 1.6% (Forecast -, Previous 1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739889,
+   "ts": "2026-08-28T06:01:33+00:00",
+   "ingested": "2026-08-28T06:22:09.879743+00:00",
+   "headline": "Swedish GDP Revised YoY Actual 3.3% (Forecast -, Previous 2.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739888,
+   "ts": "2026-08-28T06:01:30+00:00",
+   "ingested": "2026-08-28T06:22:09.879760+00:00",
+   "headline": "Norwegian Unemployment Rate NSA Actual 2.1% (Forecast -, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739887,
+   "ts": "2026-08-28T06:00:05+00:00",
+   "ingested": "2026-08-28T06:22:09.879778+00:00",
+   "headline": "German Import Prices YoY Actual 6.8% (Forecast 6.9%, Previous 6.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739886,
+   "ts": "2026-08-28T06:00:04+00:00",
+   "ingested": "2026-08-28T06:22:09.879793+00:00",
+   "headline": "German Imports Prices MoM Actual 0.2% (Forecast 0.3%, Previous -0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739869,
+   "ts": "2026-08-28T05:19:30+00:00",
+   "ingested": "2026-08-28T06:22:09.879807+00:00",
+   "headline": "ECB's Kazaks: Inflation mustn't be allowed to take root.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739860,
+   "ts": "2026-08-28T05:09:40+00:00",
+   "ingested": "2026-08-28T06:22:09.879821+00:00",
+   "headline": "Dutch Manufacturing Confidence Actual 3.7 (Forecast -, Previous 2.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739859,
+   "ts": "2026-08-28T05:02:56+00:00",
+   "ingested": "2026-08-28T06:22:09.879839+00:00",
+   "headline": "Finnish GDP rises 0.4% quarter on quarter, Statistics Finland",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739849,
+   "ts": "2026-08-28T05:00:20+00:00",
+   "ingested": "2026-08-28T06:22:09.879853+00:00",
+   "headline": "Finnish GDP rises 1.4% year on year in July, Statistics Finland",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739836,
+   "ts": "2026-08-28T04:47:48+00:00",
+   "ingested": "2026-08-28T06:22:09.879867+00:00",
+   "headline": "Moody's ratings affirms TSMC's AA3 ratings; changes outlook to positive.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739788,
+   "ts": "2026-08-28T03:58:43+00:00",
+   "ingested": "2026-08-28T06:22:09.879882+00:00",
+   "headline": "In July, expanded compute access to rapidly growing AI ecosystem remains available",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739787,
+   "ts": "2026-08-28T03:58:43+00:00",
+   "ingested": "2026-08-28T06:22:09.879895+00:00",
+   "headline": "Nvidia spokesperson: new business model introduced",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739761,
+   "ts": "2026-08-28T02:57:19+00:00",
+   "ingested": "2026-08-28T06:22:09.879913+00:00",
+   "headline": "Poll: Over two-thirds of economists predict at least one more rbnz rate increase after September, pushing cash rate to 3.00% or above by year-end",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739760,
+   "ts": "2026-08-28T02:57:16+00:00",
+   "ingested": "2026-08-28T06:22:09.879930+00:00",
+   "headline": "Poll: Reserve Bank of New Zealand to raise cash rate by 25 basis points to 2.75% on September 2, 27 of 31 economists say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739759,
+   "ts": "2026-08-28T02:48:32+00:00",
+   "ingested": "2026-08-28T06:22:09.879945+00:00",
+   "headline": "South Korea national security adviser: Seoul must not be sidelined in efforts to restart U.S.-North Korea talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739758,
+   "ts": "2026-08-28T02:48:32+00:00",
+   "ingested": "2026-08-28T06:22:09.879961+00:00",
+   "headline": "South Korea national security adviser: any U.S.-North Korea talks must not undermine South Korea's security preparedness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739757,
+   "ts": "2026-08-28T02:48:32+00:00",
+   "ingested": "2026-08-28T06:22:09.879978+00:00",
+   "headline": "South Korea national security adviser: Seoul to back Trump\u2019s push for talks with North Korea",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739746,
+   "ts": "2026-08-28T02:23:21+00:00",
+   "ingested": "2026-08-28T06:22:09.879993+00:00",
+   "headline": "Five commodity ships pass Strait of Hormuz on Thursday, versus 10-day average of 15, data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739745,
+   "ts": "2026-08-28T02:22:38+00:00",
+   "ingested": "2026-08-28T06:22:09.880011+00:00",
+   "headline": "Robot industry must be developed on local resources and industrial advantages, avoiding blind trend chasing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739744,
+   "ts": "2026-08-28T02:21:59+00:00",
+   "ingested": "2026-08-28T06:22:09.880026+00:00",
+   "headline": "China state planner spokesperson: robot advancement must suit local conditions and be conducted in a sound, orderly way",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739743,
+   "ts": "2026-08-28T02:16:36+00:00",
+   "ingested": "2026-08-28T06:22:09.880040+00:00",
+   "headline": "Japan finmin Katayama: Takaichi cabinet determined to strengthen economy and competitiveness, yen credibility to rise",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739742,
+   "ts": "2026-08-28T02:11:20+00:00",
+   "ingested": "2026-08-28T06:22:09.880058+00:00",
+   "headline": "Japan finance minister Katayama: to discuss world economy, global financial conditions with peers at G20",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739741,
+   "ts": "2026-08-28T02:09:55+00:00",
+   "ingested": "2026-08-28T06:22:09.880075+00:00",
+   "headline": "Japan finmin Katayama: to join G20 finance chiefs meeting in Asheville, North Carolina",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739661,
+   "ts": "2026-08-28T01:58:15+00:00",
+   "ingested": "2026-08-28T06:22:09.880089+00:00",
+   "headline": "Drones strike oil depot, apartment block in Russia-held Sevastopol: Moscow-installed authorities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739641,
+   "ts": "2026-08-28T01:34:07+00:00",
+   "ingested": "2026-08-28T06:22:09.880103+00:00",
+   "headline": "Judge blocks U.S. Postal Service from enforcing major Trump-backed rule limiting mail-in voting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739635,
+   "ts": "2026-08-28T01:21:07+00:00",
+   "ingested": "2026-08-28T06:22:09.880117+00:00",
+   "headline": "China cbank injects 333 billion yuan through overnight reverse repos: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739634,
+   "ts": "2026-08-28T01:20:23+00:00",
+   "ingested": "2026-08-28T06:22:09.880134+00:00",
+   "headline": "China c.bank injects 20 bln yuan with 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739602,
+   "ts": "2026-08-28T00:17:29+00:00",
+   "ingested": "2026-08-28T06:22:09.880148+00:00",
+   "headline": "China PBOC anticipated to fix yuan mid-point at 6.7208 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739601,
+   "ts": "2026-08-28T00:05:21+00:00",
+   "ingested": "2026-08-28T06:22:09.880161+00:00",
+   "headline": "South Korea, U.S., Japan to conduct freedom edge drills from Sept. 7 - media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739584,
+   "ts": "2026-08-27T23:35:19+00:00",
+   "ingested": "2026-08-28T06:22:09.880175+00:00",
+   "headline": "ICE awards $16.7 million deal to purchase thousands of electric shock gloves: CBS News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739574,
+   "ts": "2026-08-27T23:31:27+00:00",
+   "ingested": "2026-08-28T06:22:09.880188+00:00",
+   "headline": "Tokyo Core CPI YoY Actual 1.8% (Forecast 1.8%, Previous 1.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739578,
+   "ts": "2026-08-27T23:30:18+00:00",
+   "ingested": "2026-08-28T06:22:09.880201+00:00",
+   "headline": "Tokyo area August overall CPI rises 1.9% yr/yr: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739577,
+   "ts": "2026-08-27T23:30:13+00:00",
+   "ingested": "2026-08-28T06:22:09.880215+00:00",
+   "headline": "Japan july seasonally adjusted unemployment rate 2.4%: govt (Poll: 2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739576,
+   "ts": "2026-08-27T23:30:13+00:00",
+   "ingested": "2026-08-28T06:22:09.880229+00:00",
+   "headline": "Tokyo area August consumer prices excluding fresh food, energy increase 2.0% yr/yr: govt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739575,
+   "ts": "2026-08-27T23:30:13+00:00",
+   "ingested": "2026-08-28T06:22:09.880241+00:00",
+   "headline": "Tokyo CPI Overall Actual 1.9% (Forecast 1.9%, Previous 2.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739573,
+   "ts": "2026-08-27T23:30:05+00:00",
+   "ingested": "2026-08-28T06:22:09.880254+00:00",
+   "headline": "Tokyo area august core CPI rises 1.8% yr/yr: govt (poll 1.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739572,
+   "ts": "2026-08-27T23:30:05+00:00",
+   "ingested": "2026-08-28T06:22:09.880267+00:00",
+   "headline": "Japanese Unemployment Rate Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739571,
+   "ts": "2026-08-27T23:30:03+00:00",
+   "ingested": "2026-08-28T06:22:09.880280+00:00",
+   "headline": "Japan July jobs-applicants ratio steady at 1.18, unchanged from June: govt (Poll 1.19)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9739570,
+   "ts": "2026-08-27T23:30:00+00:00",
+   "ingested": "2026-08-28T06:22:09.880294+00:00",
+   "headline": "Japanese Jobs/Applicants Ratio Actual 1.18 (Forecast 1.19, Previous 1.18)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9739549,
    "ts": "2026-08-27T22:35:25+00:00",
@@ -3687,318 +3999,6 @@
    "ts": "2026-08-25T21:53:27+00:00",
    "ingested": "2026-08-25T22:02:30.574595+00:00",
    "headline": "Ukraine's Zelenskiy on X: peace could be a common accomplishment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9736014,
-   "ts": "2026-08-25T21:53:02+00:00",
-   "ingested": "2026-08-25T22:02:30.574627+00:00",
-   "headline": "Ukraine's Zelenskiy on X: We expect more cooperation and China's key diplomatic role in ending Russia's war against our country",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735981,
-   "ts": "2026-08-25T21:30:24+00:00",
-   "ingested": "2026-08-25T21:45:57.665309+00:00",
-   "headline": "Rubio tells foreign counterparts u.s. unlikely to launch new Iran strikes for time being: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735943,
-   "ts": "2026-08-25T20:59:26+00:00",
-   "ingested": "2026-08-25T21:10:43.037408+00:00",
-   "headline": "Fed's Barkin: If debt rises at some point, investors will stop buying.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735941,
-   "ts": "2026-08-25T20:52:53+00:00",
-   "ingested": "2026-08-25T21:10:43.037435+00:00",
-   "headline": "US API Gasoline Stock Change Actual -3.2M (Forecast -, Previous 1.076M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735940,
-   "ts": "2026-08-25T20:52:41+00:00",
-   "ingested": "2026-08-25T21:10:43.037454+00:00",
-   "headline": "US API Distillate Stock Change Actual -0.5M (Forecast -, Previous -2.797M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735939,
-   "ts": "2026-08-25T20:52:30+00:00",
-   "ingested": "2026-08-25T21:10:43.037471+00:00",
-   "headline": "US API Cushing Stock Change Actual 1M (Forecast -, Previous -1.438M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735938,
-   "ts": "2026-08-25T20:52:20+00:00",
-   "ingested": "2026-08-25T21:10:43.037489+00:00",
-   "headline": "US API Crude Oil Stock Change Actual 4.2M (Forecast -, Previous -0.328M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735902,
-   "ts": "2026-08-25T20:14:06+00:00",
-   "ingested": "2026-08-25T20:40:45.541947+00:00",
-   "headline": "Iranian Deputy Foreign Minister Gharibabadi: Iran told negotiators that the US must correct its errors and return to its commitments if it wants a reopening of the Strait of Hormuz -  State TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735901,
-   "ts": "2026-08-25T20:13:29+00:00",
-   "ingested": "2026-08-25T20:40:45.541972+00:00",
-   "headline": "Iran and Oman aim for a permanent Hormuz route in 60 days - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735852,
-   "ts": "2026-08-25T19:19:39+00:00",
-   "ingested": "2026-08-25T19:40:58.196757+00:00",
-   "headline": "ECB Policymakers have little appetite to signal further tightening - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735851,
-   "ts": "2026-08-25T19:19:26+00:00",
-   "ingested": "2026-08-25T19:40:58.196782+00:00",
-   "headline": "ECB policymakers ready to raise rates in sept to stem side effects of the Iran war - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735848,
-   "ts": "2026-08-25T19:17:10+00:00",
-   "ingested": "2026-08-25T19:40:58.196800+00:00",
-   "headline": "OpenAI's Head of Data Centers Malone Has Left The Company - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735821,
-   "ts": "2026-08-25T18:51:04+00:00",
-   "ingested": "2026-08-25T19:00:10.159861+00:00",
-   "headline": "Brent crude futures settle at $88.58/bbl, down $3.59, 3.89%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735801,
-   "ts": "2026-08-25T18:37:51+00:00",
-   "ingested": "2026-08-25T19:00:10.159890+00:00",
-   "headline": "UK chancellor on Iran: Support US work to secure diplomatic solution; welcome efforts to increase pressure, including through operation economic outcast.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735800,
-   "ts": "2026-08-25T18:36:29+00:00",
-   "ingested": "2026-08-25T19:00:10.159910+00:00",
-   "headline": "Northrop Grumman CEO Warden: We expect to have a decent share of Golden Dome. $NOC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735799,
-   "ts": "2026-08-25T18:35:42+00:00",
-   "ingested": "2026-08-25T19:00:10.159928+00:00",
-   "headline": "Northrop Grumman CEO Warden: Golden Dome is becoming very tangible for defense firms $NOC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735798,
-   "ts": "2026-08-25T18:33:11+00:00",
-   "ingested": "2026-08-25T19:00:10.159945+00:00",
-   "headline": "Nymex Natural Gas September futures settle at $2.7700/MMBTU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735797,
-   "ts": "2026-08-25T18:32:25+00:00",
-   "ingested": "2026-08-25T19:00:10.159959+00:00",
-   "headline": "NYMEX Gasoline September futures settle at $3.2529 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735796,
-   "ts": "2026-08-25T18:32:11+00:00",
-   "ingested": "2026-08-25T19:00:10.159973+00:00",
-   "headline": "NYMEX Diesel September futures settle at $4.2438 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735793,
-   "ts": "2026-08-25T18:31:49+00:00",
-   "ingested": "2026-08-25T19:00:10.159988+00:00",
-   "headline": "NYMEX WTI crude October futures settle at $82.36 a barrel, down $2.65, 3.12%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735792,
-   "ts": "2026-08-25T18:26:33+00:00",
-   "ingested": "2026-08-25T19:00:10.160003+00:00",
-   "headline": "The Democrats urge Fed Chair Warsh to maintain the FOMC schedule of 8 meetings a year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735774,
-   "ts": "2026-08-25T18:02:39+00:00",
-   "ingested": "2026-08-25T18:15:18.147743+00:00",
-   "headline": "IMF's Managing Director Georgieva: Excess global imbalances need to be addressed to strengthen the global economy. The IMF is refining its external balance assessment model.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735772,
-   "ts": "2026-08-25T18:02:27+00:00",
-   "ingested": "2026-08-25T18:15:18.147767+00:00",
-   "headline": "IMF's Managing Director Georgieva: Central banks must be 'laser-focused' on price stability.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735771,
-   "ts": "2026-08-25T18:02:19+00:00",
-   "ingested": "2026-08-25T18:15:18.147787+00:00",
-   "headline": "IMF's Managing Director Georgieva: AI future carries risks for financial stability, possibility of low-income countries falling behind.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735770,
-   "ts": "2026-08-25T18:02:16+00:00",
-   "ingested": "2026-08-25T18:15:18.147807+00:00",
-   "headline": "IMF's Managing Director Georgieva: All countries need to tackle fiscal problems and present credible plans to ensure debt and deficits are on sustainable paths.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735757,
-   "ts": "2026-08-25T18:02:01+00:00",
-   "ingested": "2026-08-25T18:15:18.147825+00:00",
-   "headline": "IMF's Managing Director Georgieva: The IMF is concerned about mounting fiscal pressures as evidenced by rising bond yields and a stalled disinflation process.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735756,
-   "ts": "2026-08-25T18:01:58+00:00",
-   "ingested": "2026-08-25T18:15:18.147864+00:00",
-   "headline": "IMF's Managing Director Georgieva: Risks to the outlook are more balanced than in spring but still tilted to the downside.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735751,
-   "ts": "2026-08-25T18:01:42+00:00",
-   "ingested": "2026-08-25T18:15:18.147885+00:00",
-   "headline": "IMF's Managing Director Georgieva: A renewed rise in oil prices could fuel inflation, forcing central banks to retain a restrictive policy stance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735749,
-   "ts": "2026-08-25T18:01:27+00:00",
-   "ingested": "2026-08-25T18:15:18.147904+00:00",
-   "headline": "IMF's Managing Director Georgieva: Global economy has weathered the Iran war energy shock better than feared due to drawdowns of oil and gas reserves, increases in non-Gulf energy supplies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735748,
-   "ts": "2026-08-25T18:01:06+00:00",
-   "ingested": "2026-08-25T18:15:18.147921+00:00",
-   "headline": "IMF's Managing Director Georgieva: Lower energy demand, increased renewables, shift back to coal in some places have also eased the Gulf supply crunch.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735747,
-   "ts": "2026-08-25T18:00:52+00:00",
-   "ingested": "2026-08-25T18:15:18.147938+00:00",
-   "headline": "IMF's Managing Director Georgieva: Global economy enjoying tailwinds from AI investment, supply boom that is spreading outside US to other countries such as Thailand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735742,
-   "ts": "2026-08-25T18:00:17+00:00",
-   "ingested": "2026-08-25T18:15:18.147955+00:00",
-   "headline": "Panama Canal authority: Some vessels that transited the canal have paid amounts exceeding one million dollars at auction to meet specific market needs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735741,
-   "ts": "2026-08-25T18:00:03+00:00",
-   "ingested": "2026-08-25T18:15:18.147971+00:00",
-   "headline": "Panama Canal Authority: Auctions for transit slots have seen an increase in market costs due to shifts in global trade supply and demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735698,
-   "ts": "2026-08-25T17:04:51+00:00",
-   "ingested": "2026-08-25T17:08:12.406341+00:00",
-   "headline": "US 2-Year Note Bid-to-Cover Actual 2.600 (Forecast -, Previous 2.660)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735699,
-   "ts": "2026-08-25T17:04:48+00:00",
-   "ingested": "2026-08-25T17:08:12.406365+00:00",
-   "headline": "Japan to trial real-time stock and bond settlements with blockchain tech - Nikkei",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735697,
-   "ts": "2026-08-25T17:03:16+00:00",
-   "ingested": "2026-08-25T17:08:12.406382+00:00",
-   "headline": "US 2-Year Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735693,
-   "ts": "2026-08-25T17:02:03+00:00",
-   "ingested": "2026-08-25T17:08:12.406397+00:00",
-   "headline": "US 2-Year Note High Yield Actual 4.204% (Forecast -, Previous 4.315%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735690,
-   "ts": "2026-08-25T17:00:49+00:00",
-   "ingested": "2026-08-25T17:08:12.406411+00:00",
-   "headline": "Treasury WI 2-year yield about 4.208% before $69 billion auction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9735643,
-   "ts": "2026-08-25T16:24:58+00:00",
-   "ingested": "2026-08-25T16:31:31.618499+00:00",
-   "headline": "Omani Foreign Minister: Discussions with regional partners will be conducted in support of peace, cooperation, stability, and freedom of navigation.",
    "channel": "rss",
    "source": "financialjuice"
   }
