@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-08-30T14:59:18.057271+00:00",
- "updated_et": "2026-08-30 10:59 ET",
+ "updated_utc": "2026-08-30T18:33:09.018861+00:00",
+ "updated_et": "2026-08-30 14:33 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -10,12 +10,12 @@
     "price": 7722.0,
     "time_utc": "2026-08-28T20:59:59+00:00",
     "time_et": "2026-08-28 16:59 ET",
-    "bar_age_min": 2519.4
+    "bar_age_min": 2733.2
    },
    "live_proxy": {
     "etf": "SPY",
     "ratio": 10.038081,
-    "etf_bar_age_min": 2579.4,
+    "etf_bar_age_min": 2793.2,
     "etf_last": 769.35,
     "etf_last_et": "2026-08-28 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?interval=1m&range=1d",
@@ -26,26 +26,26 @@
     "alternates": [
      {
       "etf": "IVV",
-      "bar_age_min": 2579.4,
+      "bar_age_min": 2793.2,
       "fit_err_median": 0.15
      },
      {
       "etf": "VOO",
-      "bar_age_min": 2579.4,
+      "bar_age_min": 2793.2,
       "fit_err_median": 0.18
      }
     ]
    },
    "regime": {
-    "autocorr_1m_30": -0.045,
-    "autocorr_1m_60": -0.074,
-    "autocorr_1m_120": -0.045,
+    "autocorr_1m_30": 0.051,
+    "autocorr_1m_60": -0.024,
+    "autocorr_1m_120": -0.036,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
     "range_position": 0.14,
-    "vwap_dist": -9.88,
-    "vwap_z": -0.68,
+    "vwap_dist": -18.04,
+    "vwap_z": -1.34,
     "realized_vol_vs_atr14": 0.88,
-    "streak_1m_bars": -1
+    "streak_1m_bars": 0
    },
    "bars_5m": [
     [
@@ -526,7 +526,7 @@
      7725.25,
      7722.0,
      7722.0,
-     1458003
+     2331
     ]
    ],
    "bars_5m_cols": [
@@ -542,9 +542,9 @@
     "open": 7738.25,
     "high": 7782.5,
     "low": 7711.75,
-    "vwap": 7731.88,
-    "volume_poc": 7725.0,
-    "volume": 2877560
+    "vwap": 7740.04,
+    "volume_poc": 7723.0,
+    "volume": 1421888
    },
    "prior_session": {
     "date_et": "2026-08-27",
@@ -563,17 +563,17 @@
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 7050
+     "minutes_until": 6836
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-09-10 08:30 ET",
-     "minutes_until": 15690
+     "minutes_until": 15476
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-09-11 08:30 ET",
-     "minutes_until": 17130
+     "minutes_until": 16916
     }
    ]
   },
@@ -584,12 +584,12 @@
     "price": 83.4,
     "time_utc": "2026-08-28T20:59:58+00:00",
     "time_et": "2026-08-28 16:59 ET",
-    "bar_age_min": 2519.5
+    "bar_age_min": 2733.3
    },
    "live_proxy": {
     "etf": "USO",
     "ratio": 0.643088,
-    "etf_bar_age_min": 2579.5,
+    "etf_bar_age_min": 2793.3,
     "etf_last": 129.7,
     "etf_last_et": "2026-08-28 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/USO?interval=1m&range=1d",
@@ -600,12 +600,12 @@
     "alternates": [
      {
       "etf": "DBO",
-      "bar_age_min": 2579.5,
+      "bar_age_min": 2793.4,
       "fit_err_median": 0.03
      },
      {
       "etf": "USL",
-      "bar_age_min": 2583.5,
+      "bar_age_min": 2797.4,
       "fit_err_median": 0.11
      }
     ]
@@ -1137,18 +1137,18 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-01 16:30 ET",
-     "minutes_until": 3210,
+     "minutes_until": 2996,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-09-02 10:30 ET",
-     "minutes_until": 4290
+     "minutes_until": 4076
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-08 16:30 ET",
-     "minutes_until": 13290,
+     "minutes_until": 13076,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -1160,12 +1160,12 @@
     "price": 4529.9,
     "time_utc": "2026-08-28T20:59:57+00:00",
     "time_et": "2026-08-28 16:59 ET",
-    "bar_age_min": 2519.6
+    "bar_age_min": 2733.5
    },
    "live_proxy": {
     "etf": "GLD",
     "ratio": 11.027156,
-    "etf_bar_age_min": 2579.6,
+    "etf_bar_age_min": 2793.5,
     "etf_last": 408.89,
     "etf_last_et": "2026-08-28 16:00 ET",
     "quote_url": "https://query1.finance.yahoo.com/v8/finance/chart/GLD?interval=1m&range=1d",
@@ -1176,26 +1176,26 @@
     "alternates": [
      {
       "etf": "IAU",
-      "bar_age_min": 2579.6,
+      "bar_age_min": 2793.5,
       "fit_err_median": 0.3
      },
      {
       "etf": "GLDM",
-      "bar_age_min": 2579.6,
+      "bar_age_min": 2793.5,
       "fit_err_median": 0.4
      }
     ]
    },
    "regime": {
-    "autocorr_1m_30": -0.011,
-    "autocorr_1m_60": -0.016,
-    "autocorr_1m_120": -0.029,
+    "autocorr_1m_30": -0.085,
+    "autocorr_1m_60": -0.069,
+    "autocorr_1m_120": -0.066,
     "autocorr_hint": "positive => momentum (moves continue); negative => mean reversion (fades work); |value| under ~0.05 is noise, treat as neither",
     "range_position": 0.18,
-    "vwap_dist": -23.9,
-    "vwap_z": -0.3,
+    "vwap_dist": -64.2,
+    "vwap_z": -1.05,
     "realized_vol_vs_atr14": 1.36,
-    "streak_1m_bars": 1
+    "streak_1m_bars": 0
    },
    "bars_5m": [
     [
@@ -1676,7 +1676,7 @@
      4529.9,
      4502.7,
      4529.9,
-     269002
+     328
     ]
    ],
    "bars_5m_cols": [
@@ -1692,9 +1692,9 @@
     "open": 4632.3,
     "high": 4688.0,
     "low": 4495.0,
-    "vwap": 4553.8,
-    "volume_poc": 4504.0,
-    "volume": 543478
+    "vwap": 4594.1,
+    "volume_poc": 4637.5,
+    "volume": 274804
    },
    "prior_session": {
     "date_et": "2026-08-27",
@@ -1713,17 +1713,17 @@
     {
      "name": "Employment Situation",
      "when_et": "2026-09-04 08:30 ET",
-     "minutes_until": 7050
+     "minutes_until": 6836
     },
     {
      "name": "Producer Price Index",
      "when_et": "2026-09-10 08:30 ET",
-     "minutes_until": 15690
+     "minutes_until": 15476
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-09-11 08:30 ET",
-     "minutes_until": 17130
+     "minutes_until": 16916
     }
    ]
   }
