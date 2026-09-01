@@ -1,7 +1,383 @@
 {
- "updated": "2026-09-01T05:30:26.081416+00:00",
+ "updated": "2026-09-01T10:24:06.039880+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9744597,
+   "ts": "2026-09-01T10:07:02+00:00",
+   "ingested": "2026-09-01T10:24:06.039198+00:00",
+   "headline": "USTR Greer: Ideally we leave energy markets alone - Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744596,
+   "ts": "2026-09-01T10:04:55+00:00",
+   "ingested": "2026-09-01T10:24:06.039214+00:00",
+   "headline": "Traders boost BoE rate-hike bets, price 50bps by February.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744595,
+   "ts": "2026-09-01T10:03:56+00:00",
+   "ingested": "2026-09-01T10:24:06.039224+00:00",
+   "headline": "NVIDIA to buy $1.5b of SB Energy class N stock in placement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744585,
+   "ts": "2026-09-01T10:00:52+00:00",
+   "ingested": "2026-09-01T10:24:06.039233+00:00",
+   "headline": "57% of Americans oppose Trump's new higher tariffs on Canadian imports - Poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744579,
+   "ts": "2026-09-01T09:52:32+00:00",
+   "ingested": "2026-09-01T10:24:06.039240+00:00",
+   "headline": "ING: The NZD - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744544,
+   "ts": "2026-09-01T09:30:57+00:00",
+   "ingested": "2026-09-01T10:24:06.039248+00:00",
+   "headline": "German 5 Yr Bobl Yield Actual 3.09% (Forecast -, Previous 2.93%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744543,
+   "ts": "2026-09-01T09:30:57+00:00",
+   "ingested": "2026-09-01T10:24:06.039256+00:00",
+   "headline": "German 5 Yr Bobl Bid-to-Cover Actual 1.6 (Forecast -, Previous 1.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744535,
+   "ts": "2026-09-01T09:28:34+00:00",
+   "ingested": "2026-09-01T10:24:06.039265+00:00",
+   "headline": "South Korea, Japan held economic security dialogue in Tokyo, discussed AI, chips, critical minerals, supply chains - Blue House",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744480,
+   "ts": "2026-09-01T09:00:48+00:00",
+   "ingested": "2026-09-01T10:24:06.039274+00:00",
+   "headline": "Italian HICP Prelim YoY Actual 3.2% (Forecast 3.4%, Previous 2.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744479,
+   "ts": "2026-09-01T09:00:48+00:00",
+   "ingested": "2026-09-01T10:24:06.039281+00:00",
+   "headline": "Italian CPI YoY Prelim Actual 3.3% (Forecast 3.3%, Previous 2.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744478,
+   "ts": "2026-09-01T09:00:48+00:00",
+   "ingested": "2026-09-01T10:24:06.039289+00:00",
+   "headline": "Italian CPI MoM Prelim Actual 0.5% (Forecast 0.4%, Previous 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744477,
+   "ts": "2026-09-01T09:00:48+00:00",
+   "ingested": "2026-09-01T10:24:06.039296+00:00",
+   "headline": "Italian HICP Prelim MoM Actual 0.1% (Forecast 0.3%, Previous -1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744472,
+   "ts": "2026-09-01T09:00:10+00:00",
+   "ingested": "2026-09-01T10:24:06.039303+00:00",
+   "headline": "Eurozone CPI YoY Flash Actual 3.3% (Forecast 3.3%, Previous 2.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744473,
+   "ts": "2026-09-01T09:00:04+00:00",
+   "ingested": "2026-09-01T10:24:06.039310+00:00",
+   "headline": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.5%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744471,
+   "ts": "2026-09-01T09:00:03+00:00",
+   "ingested": "2026-09-01T10:24:06.039317+00:00",
+   "headline": "Eurozone Core CPI YoY Flash Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744470,
+   "ts": "2026-09-01T09:00:01+00:00",
+   "ingested": "2026-09-01T10:24:06.039324+00:00",
+   "headline": "Eurozone Unemployment Rate Actual 6.4% (Forecast 6.3%, Previous 6.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744453,
+   "ts": "2026-09-01T08:45:35+00:00",
+   "ingested": "2026-09-01T10:24:06.039330+00:00",
+   "headline": "JPMorgan: US Treasuries - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744431,
+   "ts": "2026-09-01T08:30:34+00:00",
+   "ingested": "2026-09-01T10:24:06.039338+00:00",
+   "headline": "Italian Unemployment Rate Actual 5.8% (Forecast 5.6%, Previous 5.7% ,Revision 5.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744427,
+   "ts": "2026-09-01T08:30:17+00:00",
+   "ingested": "2026-09-01T10:24:06.039345+00:00",
+   "headline": "UK Mortgage Lending Actual 4.292B (Forecast 5.7B, Previous 7.727B ,Revision 7.677B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744426,
+   "ts": "2026-09-01T08:30:16+00:00",
+   "ingested": "2026-09-01T10:24:06.039352+00:00",
+   "headline": "UK M4 Money Supply Actual -0.3% (Forecast -, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744428,
+   "ts": "2026-09-01T08:30:16+00:00",
+   "ingested": "2026-09-01T10:24:06.039360+00:00",
+   "headline": "UK Mortgage Approvals Actual 56.053k (Forecast 59.35k, Previous 58.200k ,Revision 58.215k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744425,
+   "ts": "2026-09-01T08:30:16+00:00",
+   "ingested": "2026-09-01T10:24:06.039368+00:00",
+   "headline": "BoE Consumer Credit Actual 2.006B (Forecast 1.7B, Previous 1.807B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744424,
+   "ts": "2026-09-01T08:30:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039375+00:00",
+   "headline": "UK Manufacturing PMI Final Actual 51.7 (Forecast 51.5, Previous 51.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744413,
+   "ts": "2026-09-01T08:10:58+00:00",
+   "ingested": "2026-09-01T10:24:06.039383+00:00",
+   "headline": "Iraq sets floor prices for crude oil cargoes offered via tender for September loading outside Hormuz Strait - Document",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744412,
+   "ts": "2026-09-01T08:05:59+00:00",
+   "ingested": "2026-09-01T10:24:06.039391+00:00",
+   "headline": "Two oil supertankers hit by projectiles in Hormuz - Marisks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744395,
+   "ts": "2026-09-01T08:00:51+00:00",
+   "ingested": "2026-09-01T10:24:06.039398+00:00",
+   "headline": "Italian GDP Final YoY Actual 1.0% (Forecast 1%, Previous 1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744394,
+   "ts": "2026-09-01T08:00:50+00:00",
+   "ingested": "2026-09-01T10:24:06.039405+00:00",
+   "headline": "Italian GDP Final QoQ Actual 0.2% (Forecast 0.2%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744392,
+   "ts": "2026-09-01T08:00:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039412+00:00",
+   "headline": "Eurozone Manufacturing PMI Final Actual 52.7 (Forecast 52.8, Previous 52.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744391,
+   "ts": "2026-09-01T07:55:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039420+00:00",
+   "headline": "German Manufacturing PMI Final Actual 54.3 (Forecast 54.1, Previous 54.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744390,
+   "ts": "2026-09-01T07:50:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039427+00:00",
+   "headline": "French Manufacturing PMI Actual 51.1 (Forecast 51.5, Previous 51.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744389,
+   "ts": "2026-09-01T07:46:23+00:00",
+   "ingested": "2026-09-01T10:24:06.039434+00:00",
+   "headline": "ECB's Kocher: Upside risks for Euro-Area inflation increased lately.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744347,
+   "ts": "2026-09-01T07:30:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039441+00:00",
+   "headline": "Swiss Manufacturing PMI Actual 57.1 (Forecast 54, Previous 53.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744346,
+   "ts": "2026-09-01T07:17:47+00:00",
+   "ingested": "2026-09-01T10:24:06.039449+00:00",
+   "headline": "Japan's Chief Cabinet Sec. Kihara: Higher interest costs risk fiscal rigidity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744335,
+   "ts": "2026-09-01T07:15:55+00:00",
+   "ingested": "2026-09-01T10:24:06.039456+00:00",
+   "headline": "Japan's Chief Cabinet Sec. Kihara decline comment on daily moves in rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744330,
+   "ts": "2026-09-01T07:15:23+00:00",
+   "ingested": "2026-09-01T10:24:06.039464+00:00",
+   "headline": "Japan's Chief Cabinet Sec. Kihara: Will review fiscal scale, control annual JGB issuance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744329,
+   "ts": "2026-09-01T07:15:00+00:00",
+   "ingested": "2026-09-01T10:24:06.039471+00:00",
+   "headline": "Spanish Manufacturing PMI Actual 49.5 (Forecast 50.5, Previous 50.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744328,
+   "ts": "2026-09-01T07:13:26+00:00",
+   "ingested": "2026-09-01T10:24:06.039479+00:00",
+   "headline": "Japan's Chief Cabinet Sec. Kihara: Interest rates are set by markets on various factors.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744327,
+   "ts": "2026-09-01T07:12:56+00:00",
+   "ingested": "2026-09-01T10:24:06.039486+00:00",
+   "headline": "Japan Chief Cabinet Secretary Kihara: Closely watching market moves.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744288,
+   "ts": "2026-09-01T06:37:59+00:00",
+   "ingested": "2026-09-01T10:24:06.039504+00:00",
+   "headline": "Fitch: China's new-home sales and construction activity are unlikely to change materially in 2026.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744287,
+   "ts": "2026-09-01T06:36:30+00:00",
+   "ingested": "2026-09-01T10:24:06.039513+00:00",
+   "headline": "Fitch: China's housing demand is likely to remain weak as the mortgage easing is unlikely to offset high inventory levels and low buyer confidence.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744286,
+   "ts": "2026-09-01T06:33:03+00:00",
+   "ingested": "2026-09-01T10:24:06.039521+00:00",
+   "headline": "Swiss Retail Sales YoY Actual 2.3% (Forecast -, Previous 1.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744285,
+   "ts": "2026-09-01T06:32:12+00:00",
+   "ingested": "2026-09-01T10:24:06.039528+00:00",
+   "headline": "Currency Strength Chart: Strongest: USD, AUD, CAD, GBP, EUR, JPY, NZD, CHF - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744270,
+   "ts": "2026-09-01T06:29:07+00:00",
+   "ingested": "2026-09-01T10:24:06.039535+00:00",
+   "headline": "Fire in Russia's Ust-Luga port extinguished -Governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744220,
+   "ts": "2026-09-01T06:00:16+00:00",
+   "ingested": "2026-09-01T10:24:06.039571+00:00",
+   "headline": "UK Nationwide House Price MoM Actual 0.2% (Forecast 0.1%, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744219,
+   "ts": "2026-09-01T06:00:16+00:00",
+   "ingested": "2026-09-01T10:24:06.039579+00:00",
+   "headline": "UK Nationwide House Price YoY Actual 1.6% (Forecast 2.1%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744218,
+   "ts": "2026-09-01T06:00:11+00:00",
+   "ingested": "2026-09-01T10:24:06.039586+00:00",
+   "headline": "German Real Retail Sales YoY Actual -2.5% (Forecast -, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9744217,
+   "ts": "2026-09-01T06:00:02+00:00",
+   "ingested": "2026-09-01T10:24:06.039594+00:00",
+   "headline": "German Real Retail Sales MoM Actual -3.4% (Forecast 0.5%, Previous -0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9744184,
    "ts": "2026-09-01T05:14:41+00:00",
@@ -3623,382 +3999,6 @@
    "ts": "2026-08-28T16:44:13+00:00",
    "ingested": "2026-08-28T18:53:38.570807+00:00",
    "headline": "Fed's Goolsbee: I agree inflation is Fed's main issue right now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740814,
-   "ts": "2026-08-28T16:43:56+00:00",
-   "ingested": "2026-08-28T18:53:38.570818+00:00",
-   "headline": "Fed's Goolsbee: Agreed with Warsh about details of economy - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740812,
-   "ts": "2026-08-28T16:37:39+00:00",
-   "ingested": "2026-08-28T18:53:38.570830+00:00",
-   "headline": "Nvidia-backed Lambda inks $1 bln private debt for chip deal. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740811,
-   "ts": "2026-08-28T16:37:16+00:00",
-   "ingested": "2026-08-28T18:53:38.570842+00:00",
-   "headline": "Fitch Ratings: Strong US mortgage insurer results reflect strong credit performance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740792,
-   "ts": "2026-08-28T16:28:45+00:00",
-   "ingested": "2026-08-28T18:53:38.570858+00:00",
-   "headline": "Iran's Supreme Leader Mojtaba Khamenei to make speech about Govt Week in a few minutes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740791,
-   "ts": "2026-08-28T16:26:55+00:00",
-   "ingested": "2026-08-28T18:53:38.570872+00:00",
-   "headline": "Egypt Central Bank: US Iran-related measures limited to Banque Misr's UAE branch and US-dollar correspondent transactions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740790,
-   "ts": "2026-08-28T16:25:48+00:00",
-   "ingested": "2026-08-28T18:53:38.570886+00:00",
-   "headline": "Odds of 2 Fed hikes in 2026 from 1 after Fed's Warsh's speech, according to Fed Fund futures - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740777,
-   "ts": "2026-08-28T16:11:37+00:00",
-   "ingested": "2026-08-28T18:53:38.570905+00:00",
-   "headline": "Kremlin: Putin and China\u2019s President Xi to discuss power of Siberia 2 - IFX.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740775,
-   "ts": "2026-08-28T16:02:02+00:00",
-   "ingested": "2026-08-28T18:53:38.570921+00:00",
-   "headline": "Kremlin Aide Ushakov on Ukraine's expectations of talks: I saw the media reports, but can't say anything concrete about this.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740773,
-   "ts": "2026-08-28T16:01:41+00:00",
-   "ingested": "2026-08-28T18:53:38.570937+00:00",
-   "headline": "Kremlin: Putin will take part in SCO summit on August 31st - September 1st, will meet China's Xi, India's Modi, Iran's Pezeshkian among other leaders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740760,
-   "ts": "2026-08-28T16:01:07+00:00",
-   "ingested": "2026-08-28T18:53:38.570950+00:00",
-   "headline": "Kremlin: Putin will also meet Turkey's Erdogan, they will discuss situation in Black Sea and Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740758,
-   "ts": "2026-08-28T16:00:45+00:00",
-   "ingested": "2026-08-28T18:53:38.570962+00:00",
-   "headline": "Kremlin: This line of Armenian leadership is a big concern for Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740750,
-   "ts": "2026-08-28T15:56:48+00:00",
-   "ingested": "2026-08-28T18:53:38.570988+00:00",
-   "headline": "BoE Gov. Bailey: AI will cause both demand and supply shocks in the UK.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740749,
-   "ts": "2026-08-28T15:55:18+00:00",
-   "ingested": "2026-08-28T18:53:38.571013+00:00",
-   "headline": "US Treasury Secretary Bessent: Law authorizes Treasury, with presidential approval, to conduct foreign exchange operations in support of orderly exchange arrangements.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740748,
-   "ts": "2026-08-28T15:54:47+00:00",
-   "ingested": "2026-08-28T18:53:38.571036+00:00",
-   "headline": "US Treasury Secretary Bessent: Treasury previously used the Exchange Stabilization Fund to stabilize Argentina during acute liquidity stress.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740747,
-   "ts": "2026-08-28T15:54:37+00:00",
-   "ingested": "2026-08-28T18:53:38.571055+00:00",
-   "headline": "BoE Gov. Bailey: It's important to cut interest rate risk on balance sheet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740746,
-   "ts": "2026-08-28T15:54:30+00:00",
-   "ingested": "2026-08-28T18:53:38.571076+00:00",
-   "headline": "US Treasury Secretary Bessent: Disorderly Yen markets could destabilize global markets and raise US borrowing costs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740745,
-   "ts": "2026-08-28T15:54:16+00:00",
-   "ingested": "2026-08-28T18:53:38.571098+00:00",
-   "headline": "US Treasury Secretary Bessent: No new congressional appropriation was involved, and no credit was extended to Japan.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740744,
-   "ts": "2026-08-28T15:53:58+00:00",
-   "ingested": "2026-08-28T18:53:38.571119+00:00",
-   "headline": "BoE Gov. Bailey: I cannot promise that muted 2nd round effects will continue.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740743,
-   "ts": "2026-08-28T15:53:12+00:00",
-   "ingested": "2026-08-28T18:53:38.571132+00:00",
-   "headline": "US Treasury Secretary Bessent: No risk Japan fails to repay debt that doesn't exist.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740742,
-   "ts": "2026-08-28T15:52:19+00:00",
-   "ingested": "2026-08-28T18:53:38.571145+00:00",
-   "headline": "US Treasury Secretary Bessent: No credit extended to Japan, Japan doesn't owe the Treasury",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740741,
-   "ts": "2026-08-28T15:51:36+00:00",
-   "ingested": "2026-08-28T18:53:38.571157+00:00",
-   "headline": "US Treasury Secretary Bessent sends Warren a letter on August 27th about Yen transactions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740740,
-   "ts": "2026-08-28T15:51:22+00:00",
-   "ingested": "2026-08-28T18:53:38.571172+00:00",
-   "headline": "Russia's Rostov region declares a state of emergency over grain buildup caused by disruptions to shipping in the Azov-Black Sea basin - Authorities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740739,
-   "ts": "2026-08-28T15:49:52+00:00",
-   "ingested": "2026-08-28T18:53:38.571184+00:00",
-   "headline": "Microsoft seeks to reassure employees about data centers impact. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740738,
-   "ts": "2026-08-28T15:49:40+00:00",
-   "ingested": "2026-08-28T18:53:38.571196+00:00",
-   "headline": "BoE Gov. Bailey: We are seeing quite subdued 2nd-round effects so far.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740737,
-   "ts": "2026-08-28T15:48:32+00:00",
-   "ingested": "2026-08-28T18:53:38.571210+00:00",
-   "headline": "WATCH LIVE: BoE Gov. Bailey Speaks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740736,
-   "ts": "2026-08-28T15:48:24+00:00",
-   "ingested": "2026-08-28T18:53:38.571222+00:00",
-   "headline": "BoE Gov. Bailey: Fed's Warsh gave a speech of real substance.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740719,
-   "ts": "2026-08-28T15:40:12+00:00",
-   "ingested": "2026-08-28T18:53:38.571235+00:00",
-   "headline": "The Yen weakens to 160 per dollar for the first time since July 31st",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740694,
-   "ts": "2026-08-28T15:11:58+00:00",
-   "ingested": "2026-08-28T18:53:38.571250+00:00",
-   "headline": "Russia's Gasoline output fell to about 70% of domestic consumption at the end of August - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740693,
-   "ts": "2026-08-28T15:10:24+00:00",
-   "ingested": "2026-08-28T18:53:38.571262+00:00",
-   "headline": "ECB's Dolenc: The arguments are there for a September rate hike.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740692,
-   "ts": "2026-08-28T15:10:09+00:00",
-   "ingested": "2026-08-28T18:53:38.571274+00:00",
-   "headline": "ECB's Dolenc: Inflation situation not resolving itself.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740691,
-   "ts": "2026-08-28T15:09:46+00:00",
-   "ingested": "2026-08-28T18:53:38.571286+00:00",
-   "headline": "ECB's Dolenc: New projections will offer clarity in December.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740690,
-   "ts": "2026-08-28T15:09:36+00:00",
-   "ingested": "2026-08-28T18:53:38.571302+00:00",
-   "headline": "ECB'S Dolenc: Shouldn't wait for second-round effects to appear.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740689,
-   "ts": "2026-08-28T15:09:03+00:00",
-   "ingested": "2026-08-28T18:53:38.571318+00:00",
-   "headline": "Citi Global Head of Macro Asset Allocation Willer: 30-year Treasury capped below 5.30% could create negative dollar impetus. $C",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740640,
-   "ts": "2026-08-28T15:00:00+00:00",
-   "ingested": "2026-08-28T18:53:38.571330+00:00",
-   "headline": "Canadian Budget Balance Actual 0.99B (Forecast -, Previous -0.31B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740616,
-   "ts": "2026-08-28T14:37:14+00:00",
-   "ingested": "2026-08-28T18:53:38.571344+00:00",
-   "headline": "Traders now see a September Fed rate hike more likely than a continued hold.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740615,
-   "ts": "2026-08-28T14:37:07+00:00",
-   "ingested": "2026-08-28T18:53:38.571359+00:00",
-   "headline": "US Treasury: FinCEN proposed a rule that would revoke Banque Misr UAE's correspondent banking access to US financial institutions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740594,
-   "ts": "2026-08-28T14:26:42+00:00",
-   "ingested": "2026-08-28T18:53:38.571371+00:00",
-   "headline": "Fed Fund Futures Before & After Fed's Warsh's Comments - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740593,
-   "ts": "2026-08-28T14:24:15+00:00",
-   "ingested": "2026-08-28T18:53:38.571385+00:00",
-   "headline": "Traders price in about a 50% chance of a Fed rate hike in September.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740571,
-   "ts": "2026-08-28T14:08:43+00:00",
-   "ingested": "2026-08-28T18:53:38.571399+00:00",
-   "headline": "US short-term interest-rate futures fall as traders add to bets on Fed rate hike after Fed Chair Warsh speech",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740570,
-   "ts": "2026-08-28T14:08:07+00:00",
-   "ingested": "2026-08-28T18:53:38.571413+00:00",
-   "headline": "Traders now see about a 50-50 chance of a Fed rate hike in September, based on pricing in rates futures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740568,
-   "ts": "2026-08-28T14:05:36+00:00",
-   "ingested": "2026-08-28T18:53:38.571426+00:00",
-   "headline": "Fed's Warsh: Have work to do if inflation is not moving to 2% with speed.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740566,
-   "ts": "2026-08-28T14:03:30+00:00",
-   "ingested": "2026-08-28T18:53:38.571452+00:00",
-   "headline": "Fed's Warsh: I believe labor markets are consistent with full employment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740565,
-   "ts": "2026-08-28T14:03:25+00:00",
-   "ingested": "2026-08-28T18:53:38.571464+00:00",
-   "headline": "US treasury imposes limits on Egyptian bank for doing business with Iran - FT.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740562,
-   "ts": "2026-08-28T14:03:03+00:00",
-   "ingested": "2026-08-28T18:53:38.571485+00:00",
-   "headline": "Fed's Warsh: Fed's 2% PCE target is firm and fixed; it is Fed's job to deliver stable prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740561,
-   "ts": "2026-08-28T14:02:44+00:00",
-   "ingested": "2026-08-28T18:53:38.571499+00:00",
-   "headline": "Fed's Warsh: Inflation expectations tend to look durable until they don't; must be closely monitored.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740560,
-   "ts": "2026-08-28T14:02:29+00:00",
-   "ingested": "2026-08-28T18:53:38.571513+00:00",
-   "headline": "Fed's Warsh: Important to gauge effects of high growth expectations for cap-ex and corporate earnings.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9740559,
-   "ts": "2026-08-28T14:02:13+00:00",
-   "ingested": "2026-08-28T18:53:38.571525+00:00",
-   "headline": "Fed's Warsh: Fed's predominant focus right now should be on prices.",
    "channel": "rss",
    "source": "financialjuice"
   }
