@@ -1,7 +1,791 @@
 {
- "updated": "2026-09-03T10:06:30.357740+00:00",
+ "updated": "2026-09-03T14:29:26.881341+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9748799,
+   "ts": "2026-09-03T14:17:59+00:00",
+   "ingested": "2026-09-03T14:29:26.879491+00:00",
+   "headline": "Fear & Greed Index: 35/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748769,
+   "ts": "2026-09-03T14:08:57+00:00",
+   "ingested": "2026-09-03T14:29:26.879515+00:00",
+   "headline": "Trump administration ratchets up its fight to get more oil flowing from California - AP news",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748768,
+   "ts": "2026-09-03T14:07:27+00:00",
+   "ingested": "2026-09-03T14:29:26.879533+00:00",
+   "headline": "German Defence Minister Pistorius is to meet his US counterpart in Washington on 15th September - Welt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748767,
+   "ts": "2026-09-03T14:06:24+00:00",
+   "ingested": "2026-09-03T14:29:26.879552+00:00",
+   "headline": "Canada's PM Carney: Canada government to invest c$4.7 bln to manufacture and maintain 313 passenger rail cars for via rail fleet.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748766,
+   "ts": "2026-09-03T14:06:06+00:00",
+   "ingested": "2026-09-03T14:29:26.879571+00:00",
+   "headline": "CANADA PM CARNEY: Via's passenger cars will be built in Canada for the first time in four decades. These cars used to be built in the united states.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748739,
+   "ts": "2026-09-03T14:00:01+00:00",
+   "ingested": "2026-09-03T14:29:26.879585+00:00",
+   "headline": "US ISM Services Employment Actual 47.8 (Forecast 48.3, Previous 47.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748738,
+   "ts": "2026-09-03T14:00:01+00:00",
+   "ingested": "2026-09-03T14:29:26.879598+00:00",
+   "headline": "US ISM Services PMI Actual 55.4 (Forecast 54.1, Previous 54.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748737,
+   "ts": "2026-09-03T14:00:01+00:00",
+   "ingested": "2026-09-03T14:29:26.879610+00:00",
+   "headline": "US ISM Services New Orders Actual 60.9 (Forecast 56, Previous 57.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748736,
+   "ts": "2026-09-03T14:00:00+00:00",
+   "ingested": "2026-09-03T14:29:26.879629+00:00",
+   "headline": "US ISM Services Prices Paid Actual 72.6 (Forecast 70, Previous 70.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748733,
+   "ts": "2026-09-03T13:47:13+00:00",
+   "ingested": "2026-09-03T14:29:26.879640+00:00",
+   "headline": "Fitch affirms ASML at 'A+'; outlook stable. $ASML",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748720,
+   "ts": "2026-09-03T13:45:01+00:00",
+   "ingested": "2026-09-03T14:29:26.879654+00:00",
+   "headline": "US S&P Composite PMI Final Actual 56 (Forecast 56.1, Previous 56.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748719,
+   "ts": "2026-09-03T13:45:00+00:00",
+   "ingested": "2026-09-03T14:29:26.879667+00:00",
+   "headline": "US S&P Services PMI Final Actual 56.5 (Forecast 56.8, Previous 56.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748718,
+   "ts": "2026-09-03T13:41:42+00:00",
+   "ingested": "2026-09-03T14:29:26.879679+00:00",
+   "headline": "China to deepen investment cooperation with Russia - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748717,
+   "ts": "2026-09-03T13:39:44+00:00",
+   "ingested": "2026-09-03T14:29:26.879713+00:00",
+   "headline": "BofA Global Research cuts Broadcom's price objective to $460 from $530. $AVGO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748716,
+   "ts": "2026-09-03T13:33:21+00:00",
+   "ingested": "2026-09-03T14:29:26.879728+00:00",
+   "headline": "OpenAI President Brockman is expected to make an announcement about expanding access to the company's tools to critical infrastructure - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748715,
+   "ts": "2026-09-03T13:31:21+00:00",
+   "ingested": "2026-09-03T14:29:26.879740+00:00",
+   "headline": "OpenAI convening security leaders ahead of cyber announcement - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748686,
+   "ts": "2026-09-03T13:15:00+00:00",
+   "ingested": "2026-09-03T14:29:26.879753+00:00",
+   "headline": "Fed's Waller event ends.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748685,
+   "ts": "2026-09-03T13:14:52+00:00",
+   "ingested": "2026-09-03T14:29:26.879766+00:00",
+   "headline": "Fed's Waller: Inflation task force could be the most interesting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748684,
+   "ts": "2026-09-03T13:14:42+00:00",
+   "ingested": "2026-09-03T14:29:26.879780+00:00",
+   "headline": "Fed's Waller on data task force: We must be wary about trust problem, need to use data people can verify.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748683,
+   "ts": "2026-09-03T13:14:28+00:00",
+   "ingested": "2026-09-03T14:29:26.879794+00:00",
+   "headline": "Fed's Waller on balance sheet task force: I will be against any recommendation to go to scarce reserves.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748682,
+   "ts": "2026-09-03T13:14:13+00:00",
+   "ingested": "2026-09-03T14:29:26.879808+00:00",
+   "headline": "Fed's Waller: Not sure a whole lot will come out of communications task force.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748681,
+   "ts": "2026-09-03T13:14:05+00:00",
+   "ingested": "2026-09-03T14:29:26.879819+00:00",
+   "headline": "Fed's Waller: Pushback again scenarios views last year was strong.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748680,
+   "ts": "2026-09-03T13:13:24+00:00",
+   "ingested": "2026-09-03T14:29:26.879832+00:00",
+   "headline": "Fed's Waller: People at Fed have very strong views on communications",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748679,
+   "ts": "2026-09-03T13:12:38+00:00",
+   "ingested": "2026-09-03T14:29:26.879845+00:00",
+   "headline": "Fed's Waller: Providing some insight on what's next is preferable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748678,
+   "ts": "2026-09-03T13:11:49+00:00",
+   "ingested": "2026-09-03T14:29:26.879862+00:00",
+   "headline": "Fed\u2019s Waller: \u2018Never explain\u2019 was outdated approach, not a good model",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748677,
+   "ts": "2026-09-03T13:11:35+00:00",
+   "ingested": "2026-09-03T14:29:26.879877+00:00",
+   "headline": "Fed's Waller: providing some insight on what's coming helps investors decide",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748676,
+   "ts": "2026-09-03T13:11:30+00:00",
+   "ingested": "2026-09-03T14:29:26.879889+00:00",
+   "headline": "Waller: Warsh letting perfect be enemy of good",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748675,
+   "ts": "2026-09-03T13:10:55+00:00",
+   "ingested": "2026-09-03T14:29:26.879902+00:00",
+   "headline": "Fed's Waller on Fed transparency: it doesn't do any good to surprise markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748674,
+   "ts": "2026-09-03T13:09:53+00:00",
+   "ingested": "2026-09-03T14:29:26.879915+00:00",
+   "headline": "Fed's Waller: have a very different view on reaction function perfection than Warsh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748673,
+   "ts": "2026-09-03T13:09:52+00:00",
+   "ingested": "2026-09-03T14:29:26.879929+00:00",
+   "headline": "Fed's Waller: Exact levels of reaction function may have flaws, but its qualitative importance remains",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748672,
+   "ts": "2026-09-03T13:09:10+00:00",
+   "ingested": "2026-09-03T14:29:26.879941+00:00",
+   "headline": "Figure & Nscale: To deploy Nvidia Vera Rubin, up to 100k GPUs. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748671,
+   "ts": "2026-09-03T13:08:55+00:00",
+   "ingested": "2026-09-03T14:29:26.879953+00:00",
+   "headline": "Fed's Waller: that's just economics 101, not unusual advice",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748670,
+   "ts": "2026-09-03T13:08:54+00:00",
+   "ingested": "2026-09-03T14:29:26.879965+00:00",
+   "headline": "Fed's Waller: Need for consistent reaction function.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748669,
+   "ts": "2026-09-03T13:08:17+00:00",
+   "ingested": "2026-09-03T14:29:26.879977+00:00",
+   "headline": "Fed's Waller: need rule for how Fed will respond or can't forecast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748668,
+   "ts": "2026-09-03T13:07:57+00:00",
+   "ingested": "2026-09-03T14:29:26.879992+00:00",
+   "headline": "Pentagon\u2019s Michael: Anthropic remains flagged as supply chain risk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748667,
+   "ts": "2026-09-03T13:07:31+00:00",
+   "ingested": "2026-09-03T14:29:26.880005+00:00",
+   "headline": "Fed\u2019s Waller: \u2018Don\u2019t look at the mirror\u2019",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748666,
+   "ts": "2026-09-03T13:07:26+00:00",
+   "ingested": "2026-09-03T14:29:26.880018+00:00",
+   "headline": "Fed's Waller: Our mandate is price stability, full employment, not financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748665,
+   "ts": "2026-09-03T13:07:24+00:00",
+   "ingested": "2026-09-03T14:29:26.880032+00:00",
+   "headline": "Fed's Waller: Focus on the economy, not financial markets over 'hall of mirrors' issue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748664,
+   "ts": "2026-09-03T13:06:26+00:00",
+   "ingested": "2026-09-03T14:29:26.880045+00:00",
+   "headline": "Tyson Foods now projects full-year revenue growth of 1.5% to 2%. $TSN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748663,
+   "ts": "2026-09-03T13:06:02+00:00",
+   "ingested": "2026-09-03T14:29:26.880061+00:00",
+   "headline": "Nscale targets initial GPU deployment starting H2 2027 in Barstow, Texas; deal for $3.5 billion of compute with intent to expand beyond $6 billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748662,
+   "ts": "2026-09-03T13:05:18+00:00",
+   "ingested": "2026-09-03T14:29:26.880076+00:00",
+   "headline": "Fed's Waller: Short-run interventions don't do much, but it's Bessent's prerogative to do it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748661,
+   "ts": "2026-09-03T13:05:02+00:00",
+   "ingested": "2026-09-03T14:29:26.880088+00:00",
+   "headline": "Fed's Waller: What Treasury does is Treasury's business.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748660,
+   "ts": "2026-09-03T13:04:28+00:00",
+   "ingested": "2026-09-03T14:29:26.880101+00:00",
+   "headline": "Fed's Waller: That means investors are uncertain about world and dollar reserve currency status.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748659,
+   "ts": "2026-09-03T13:04:04+00:00",
+   "ingested": "2026-09-03T14:29:26.880112+00:00",
+   "headline": "Fed's Waller: Term premium is also rising.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748658,
+   "ts": "2026-09-03T13:03:53+00:00",
+   "ingested": "2026-09-03T14:29:26.880126+00:00",
+   "headline": "Fed's Waller: Convenience yield going away is a 'bad story' and raises yields.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748657,
+   "ts": "2026-09-03T13:03:42+00:00",
+   "ingested": "2026-09-03T14:29:26.880140+00:00",
+   "headline": "Fed's Waller: Zero population growth brings down yields and real rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748632,
+   "ts": "2026-09-03T13:01:07+00:00",
+   "ingested": "2026-09-03T14:29:26.880152+00:00",
+   "headline": "Fed's Waller: Premium for US government debt may be fading",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748631,
+   "ts": "2026-09-03T13:01:05+00:00",
+   "ingested": "2026-09-03T14:29:26.880164+00:00",
+   "headline": "Fed's Waller: Yields climbing partly due to debt and AI investment demand.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748624,
+   "ts": "2026-09-03T13:00:24+00:00",
+   "ingested": "2026-09-03T14:29:26.880177+00:00",
+   "headline": "Fed's Waller: that trend has led me to increase neutral rate estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748621,
+   "ts": "2026-09-03T13:00:19+00:00",
+   "ingested": "2026-09-03T14:29:26.880190+00:00",
+   "headline": "Effective fed funds rate: 3.63% September 2nd vs 3.63% September 1st.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748620,
+   "ts": "2026-09-03T13:00:17+00:00",
+   "ingested": "2026-09-03T14:29:26.880203+00:00",
+   "headline": "Fed\u2019s Waller: Research indicates Treasury premium vanished, pushing yields higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748619,
+   "ts": "2026-09-03T12:59:44+00:00",
+   "ingested": "2026-09-03T14:29:26.880216+00:00",
+   "headline": "Fed's Waller: Maybe doesn't mean you walk off a cliff, but yields may go up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748618,
+   "ts": "2026-09-03T12:59:01+00:00",
+   "ingested": "2026-09-03T14:29:26.880228+00:00",
+   "headline": "Fed's Waller: Can't keep running a 3% structural deficit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748617,
+   "ts": "2026-09-03T12:58:30+00:00",
+   "ingested": "2026-09-03T14:29:26.880241+00:00",
+   "headline": "Fed's Waller: Current rate setting could get us back to 2% inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748616,
+   "ts": "2026-09-03T12:58:08+00:00",
+   "ingested": "2026-09-03T14:29:26.880253+00:00",
+   "headline": "Fed's Waller: Main Street American not seeing loose conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748615,
+   "ts": "2026-09-03T12:57:55+00:00",
+   "ingested": "2026-09-03T14:29:26.880265+00:00",
+   "headline": "Fed's Waller: Loose financial conditions driven by the stock market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748614,
+   "ts": "2026-09-03T12:57:38+00:00",
+   "ingested": "2026-09-03T14:29:26.880279+00:00",
+   "headline": "Fed's Waller: loose financial conditions is really a reflection of stock prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748613,
+   "ts": "2026-09-03T12:57:19+00:00",
+   "ingested": "2026-09-03T14:29:26.880291+00:00",
+   "headline": "Fed's Waller: AI not yet showing up in firm profits.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748612,
+   "ts": "2026-09-03T12:57:01+00:00",
+   "ingested": "2026-09-03T14:29:26.880304+00:00",
+   "headline": "Fed's Waller: Mortgage rates and auto loan rates are not low.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748611,
+   "ts": "2026-09-03T12:56:11+00:00",
+   "ingested": "2026-09-03T14:29:26.880316+00:00",
+   "headline": "Fed's Waller: AI hasn't shown up yet in data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748610,
+   "ts": "2026-09-03T12:55:53+00:00",
+   "ingested": "2026-09-03T14:29:26.880328+00:00",
+   "headline": "Fed's Waller: I think potential growth is rising.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748609,
+   "ts": "2026-09-03T12:55:35+00:00",
+   "ingested": "2026-09-03T14:29:26.880340+00:00",
+   "headline": "Fed's Waller: Could see disinflation from AI; potential is rising.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748608,
+   "ts": "2026-09-03T12:55:22+00:00",
+   "ingested": "2026-09-03T14:29:26.880353+00:00",
+   "headline": "Fed's Waller: If increasing potential capacity, then increased output is not inflationary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748607,
+   "ts": "2026-09-03T12:54:30+00:00",
+   "ingested": "2026-09-03T14:29:26.880366+00:00",
+   "headline": "Fed's Waller: Maybe should push aside nonmarket prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748606,
+   "ts": "2026-09-03T12:54:28+00:00",
+   "ingested": "2026-09-03T14:29:26.880376+00:00",
+   "headline": "Credit Agricole on NFP - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748605,
+   "ts": "2026-09-03T12:53:41+00:00",
+   "ingested": "2026-09-03T14:29:26.880388+00:00",
+   "headline": "Fed's Waller: Don't want to raise rates into disinflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748604,
+   "ts": "2026-09-03T12:53:28+00:00",
+   "ingested": "2026-09-03T14:29:26.880400+00:00",
+   "headline": "Fed's Waller: But not taking big chances.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748603,
+   "ts": "2026-09-03T12:53:04+00:00",
+   "ingested": "2026-09-03T14:29:26.880411+00:00",
+   "headline": "Fed's Waller: This is risk management.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748602,
+   "ts": "2026-09-03T12:52:50+00:00",
+   "ingested": "2026-09-03T14:29:26.880424+00:00",
+   "headline": "MUFG: USD/JPY Carry Index implies USD/JPY should be a lot lower - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748601,
+   "ts": "2026-09-03T12:52:43+00:00",
+   "ingested": "2026-09-03T14:29:26.880436+00:00",
+   "headline": "Fed's Waller: Little cost to wait one meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748600,
+   "ts": "2026-09-03T12:52:26+00:00",
+   "ingested": "2026-09-03T14:29:26.880448+00:00",
+   "headline": "Fed's Waller: Give disinflation a chance; we can wait one meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748599,
+   "ts": "2026-09-03T12:51:53+00:00",
+   "ingested": "2026-09-03T14:29:26.880460+00:00",
+   "headline": "Fed's Waller: Might see a significant drop in core with revisions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748598,
+   "ts": "2026-09-03T12:51:11+00:00",
+   "ingested": "2026-09-03T14:29:26.880475+00:00",
+   "headline": "Fed's Waller: Don't want to put a number on it, but if the 3-month number gets to 2.8, that's fine.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748597,
+   "ts": "2026-09-03T12:50:55+00:00",
+   "ingested": "2026-09-03T14:29:26.880486+00:00",
+   "headline": "Fed's Waller: I'll let you define what hot is.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748596,
+   "ts": "2026-09-03T12:50:01+00:00",
+   "ingested": "2026-09-03T14:29:26.880499+00:00",
+   "headline": "Fed's Waller: If that reverses in august willing to pull trigger on rate hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748595,
+   "ts": "2026-09-03T12:49:40+00:00",
+   "ingested": "2026-09-03T14:29:26.880511+00:00",
+   "headline": "Fed's Waller: Willing to sit and wait and be patient.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748594,
+   "ts": "2026-09-03T12:49:34+00:00",
+   "ingested": "2026-09-03T14:29:26.880525+00:00",
+   "headline": "Fed's Waller: We should start to see some lower numbers on inflation, expect a reasonable CPI.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748593,
+   "ts": "2026-09-03T12:49:25+00:00",
+   "ingested": "2026-09-03T14:29:26.880538+00:00",
+   "headline": "Fed's Waller: With CPI and PPI in hand, have a pretty accurate view of PCE inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748592,
+   "ts": "2026-09-03T12:47:02+00:00",
+   "ingested": "2026-09-03T14:29:26.880550+00:00",
+   "headline": "BofA: Equity Stress Decreased The Most Last Week - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748563,
+   "ts": "2026-09-03T12:38:15+00:00",
+   "ingested": "2026-09-03T14:29:26.880567+00:00",
+   "headline": "Fed's Waller inclined to support holding policy rate steady at Fed's September 15-16 meeting if August inflation data shows continued progress.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748562,
+   "ts": "2026-09-03T12:37:19+00:00",
+   "ingested": "2026-09-03T14:29:26.880580+00:00",
+   "headline": "Fed's Waller: If August inflation data comes in hot, I would consider a September rate hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748560,
+   "ts": "2026-09-03T12:36:08+00:00",
+   "ingested": "2026-09-03T14:29:26.880593+00:00",
+   "headline": "Traders pare Fed hike bets after Fed's Waller points to disinflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748558,
+   "ts": "2026-09-03T12:33:23+00:00",
+   "ingested": "2026-09-03T14:29:26.880605+00:00",
+   "headline": "Fed\u2019s Waller: Rate decision in September hinges on August inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748557,
+   "ts": "2026-09-03T12:32:46+00:00",
+   "ingested": "2026-09-03T14:29:26.880621+00:00",
+   "headline": "US short-term interest rate futures jump after Waller says he'd support holding policy rate steady if August inflation data extends recent progress.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748556,
+   "ts": "2026-09-03T12:32:09+00:00",
+   "ingested": "2026-09-03T14:29:26.880637+00:00",
+   "headline": "Waller: Pending revisions to Commerce Department non-market price estimate could reduce 12-month PCE by a few tenths of a percentage point",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748555,
+   "ts": "2026-09-03T12:32:07+00:00",
+   "ingested": "2026-09-03T14:29:26.880651+00:00",
+   "headline": "Waller sees considerable improvement with encouraging pace in three-month core inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748554,
+   "ts": "2026-09-03T12:32:06+00:00",
+   "ingested": "2026-09-03T14:29:26.880664+00:00",
+   "headline": "Waller: personal consumption expenditures, core PCE not best indicator of inflation direction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748553,
+   "ts": "2026-09-03T12:32:05+00:00",
+   "ingested": "2026-09-03T14:29:26.880677+00:00",
+   "headline": "Waller signals some upside risk to inflation, though wage growth aligns with 2% target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748552,
+   "ts": "2026-09-03T12:32:05+00:00",
+   "ingested": "2026-09-03T14:29:26.880700+00:00",
+   "headline": "Waller: Labor market also in good shape, expects similar August jobs report",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748551,
+   "ts": "2026-09-03T12:32:04+00:00",
+   "ingested": "2026-09-03T14:29:26.880712+00:00",
+   "headline": "Waller: expect GDP to expand slightly above 2% this year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748550,
+   "ts": "2026-09-03T12:31:48+00:00",
+   "ingested": "2026-09-03T14:29:26.880726+00:00",
+   "headline": "Fed's Walller: AI investment is legitimate' part of GDP. AI will 'reliably' raise productivity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748559,
+   "ts": "2026-09-03T12:30:55+00:00",
+   "ingested": "2026-09-03T14:29:26.880738+00:00",
+   "headline": "Fed's Waller: Finally seeing some signs of disinflation in recent data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748523,
+   "ts": "2026-09-03T12:30:03+00:00",
+   "ingested": "2026-09-03T14:29:26.880751+00:00",
+   "headline": "US Initial Jobless Claims Actual 206k (Forecast 205k, Previous 203k, Revision 204K)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748522,
+   "ts": "2026-09-03T12:30:03+00:00",
+   "ingested": "2026-09-03T14:29:26.880764+00:00",
+   "headline": "US Productivity Revised Actual 1.4% (Forecast 1.4%, Previous 1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748521,
+   "ts": "2026-09-03T12:30:02+00:00",
+   "ingested": "2026-09-03T14:29:26.880777+00:00",
+   "headline": "US Labor Costs Revised Actual 1.2% (Forecast 1.3%, Previous 1.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748520,
+   "ts": "2026-09-03T12:30:02+00:00",
+   "ingested": "2026-09-03T14:29:26.880790+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.779M (Forecast 1.7835M, Previous 1.778M, Revision 1.771M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748519,
+   "ts": "2026-09-03T12:30:01+00:00",
+   "ingested": "2026-09-03T14:29:26.880803+00:00",
+   "headline": "Canadian Labor Productivity Rate Actual 1% (Forecast -, Previous -0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9748518,
+   "ts": "2026-09-03T12:30:01+00:00",
+   "ingested": "2026-09-03T14:29:26.880816+00:00",
+   "headline": "Canadian Trade Balance Actual 0.77B (Forecast 3.175B, Previous 3.86B, Revision 4.20B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9748296,
    "ts": "2026-09-03T09:59:10+00:00",
@@ -3215,790 +3999,6 @@
    "ts": "2026-09-02T00:42:44+00:00",
    "ingested": "2026-09-02T01:12:02.471333+00:00",
    "headline": "State Dept: Deputy Secretary Christopher Landau announces over $150 million in U.S. aid for Pacific Islands",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745751,
-   "ts": "2026-09-02T00:31:20+00:00",
-   "ingested": "2026-09-02T01:12:02.471358+00:00",
-   "headline": "Massachusetts Democratic Senator Ed Markey wins renomination, overcoming primary challenge from U.S. Rep. Seth Moulton, DDHQ projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745744,
-   "ts": "2026-09-02T00:27:20+00:00",
-   "ingested": "2026-09-02T01:12:02.471373+00:00",
-   "headline": "U.S. military attacked two Iranian government tankers: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745743,
-   "ts": "2026-09-02T00:26:11+00:00",
-   "ingested": "2026-09-02T01:12:02.471393+00:00",
-   "headline": "U.S. energy secretary says 17 million barrels of oil passed through Strait of Hormuz on Monday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745742,
-   "ts": "2026-09-02T00:19:45+00:00",
-   "ingested": "2026-09-02T01:12:02.471410+00:00",
-   "headline": "BoJ Governor Ueda: We are monitoring FX moves among factors behind upside price risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745741,
-   "ts": "2026-09-02T00:19:12+00:00",
-   "ingested": "2026-09-02T01:12:02.471427+00:00",
-   "headline": "BoJ Governor Ueda: risk-management approach now emphasizes upside and downside risks, with special attention to upside price risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745740,
-   "ts": "2026-09-02T00:18:36+00:00",
-   "ingested": "2026-09-02T01:12:02.471445+00:00",
-   "headline": "BoJ Governor Ueda: Won't solely focus on fx, will react more strongly to currency moves in policy decisions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745727,
-   "ts": "2026-09-02T00:15:36+00:00",
-   "ingested": "2026-09-02T01:12:02.471463+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.7238 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745725,
-   "ts": "2026-09-02T00:14:30+00:00",
-   "ingested": "2026-09-02T01:12:02.471480+00:00",
-   "headline": "BoJ Governor Ueda: underlying inflation is close to 2%, we must ensure it stabilizes around that level",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745724,
-   "ts": "2026-09-02T00:13:58+00:00",
-   "ingested": "2026-09-02T01:12:02.471496+00:00",
-   "headline": "Japan finance minister katayama: held 30-minute talks with frb chair warsh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745723,
-   "ts": "2026-09-02T00:12:54+00:00",
-   "ingested": "2026-09-02T01:12:02.471511+00:00",
-   "headline": "BoJ Governor Ueda: impact of yield changes on economy depends on underlying drivers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745722,
-   "ts": "2026-09-02T00:12:26+00:00",
-   "ingested": "2026-09-02T01:12:02.471528+00:00",
-   "headline": "BoJ governor Ueda: recent increase in long-term rates mainly caused by global yield rises",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745721,
-   "ts": "2026-09-02T00:11:56+00:00",
-   "ingested": "2026-09-02T01:12:02.471545+00:00",
-   "headline": "BoJ Governor Ueda: want to closely examine long-term rate fluctuations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745720,
-   "ts": "2026-09-02T00:11:00+00:00",
-   "ingested": "2026-09-02T01:12:02.471561+00:00",
-   "headline": "Bank of Korea: inflation to ease in September but core prices to keep rising",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745719,
-   "ts": "2026-09-02T00:10:06+00:00",
-   "ingested": "2026-09-02T01:12:02.471587+00:00",
-   "headline": "Iran\u2019s Revolutionary Guards: combined missile and drone attacks on U.S. bases in Iraq\u2019s Erbil; no official confirmation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745718,
-   "ts": "2026-09-02T00:06:53+00:00",
-   "ingested": "2026-09-02T01:12:02.471602+00:00",
-   "headline": "Japan finmin katayama: total budget requests appear reasonable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745717,
-   "ts": "2026-09-02T00:04:48+00:00",
-   "ingested": "2026-09-02T01:12:02.471619+00:00",
-   "headline": "Japan finance minister Katayama: will implement debt management policy properly while maintaining close communication with markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745716,
-   "ts": "2026-09-02T00:04:05+00:00",
-   "ingested": "2026-09-02T01:12:02.471635+00:00",
-   "headline": "Skyworks extends deadline for exchange offers on Qorvo senior notes maturing 2029 and 2031",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745715,
-   "ts": "2026-09-02T00:03:56+00:00",
-   "ingested": "2026-09-02T01:12:02.471649+00:00",
-   "headline": "Japan finmin Katayama: watching debt market conditions with heightened urgency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745714,
-   "ts": "2026-09-02T00:03:24+00:00",
-   "ingested": "2026-09-02T01:12:02.471664+00:00",
-   "headline": "Japan finmin Katayama: interest rates set by markets based on various factors",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745713,
-   "ts": "2026-09-02T00:02:51+00:00",
-   "ingested": "2026-09-02T01:12:02.471683+00:00",
-   "headline": "Japan finmin katayama: won\u2019t comment on specific levels after question on benchmark JGB yield reaching 3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745712,
-   "ts": "2026-09-02T00:02:50+00:00",
-   "ingested": "2026-09-02T01:12:02.471699+00:00",
-   "headline": "BoJ governor Ueda: we will also consider upside price risks in policy deliberations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745711,
-   "ts": "2026-09-02T00:02:35+00:00",
-   "ingested": "2026-09-02T01:12:02.471719+00:00",
-   "headline": "BoJ Governor Ueda: policy rate hiked five times, need to carefully assess cumulative impact on economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745710,
-   "ts": "2026-09-02T00:02:23+00:00",
-   "ingested": "2026-09-02T01:12:02.471734+00:00",
-   "headline": "Russia attacks Ukraine's Odesa, damages infrastructure: Odesa official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745709,
-   "ts": "2026-09-02T00:02:07+00:00",
-   "ingested": "2026-09-02T01:12:02.471749+00:00",
-   "headline": "BoJ Governor Ueda: Monetary conditions remain loose, so we want to keep hiking rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745708,
-   "ts": "2026-09-02T00:01:50+00:00",
-   "ingested": "2026-09-02T01:12:02.471766+00:00",
-   "headline": "BoJ governor Ueda: increased likelihood of economic scenario and inflation risks to be discussed at next board meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745707,
-   "ts": "2026-09-02T00:01:31+00:00",
-   "ingested": "2026-09-02T01:12:02.471781+00:00",
-   "headline": "Nicaragua national assembly approves reform blocking opposition from elections",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745701,
-   "ts": "2026-09-02T00:00:06+00:00",
-   "ingested": "2026-09-02T01:12:02.471795+00:00",
-   "headline": "Russia's Grushko: Moscow to react to Bonn consulate shutdown",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745700,
-   "ts": "2026-09-01T23:58:37+00:00",
-   "ingested": "2026-09-02T01:12:02.471812+00:00",
-   "headline": "Japan finmin Katayama: Bessent says aiming for higher growth potential and productivity through domestic investment is right",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745699,
-   "ts": "2026-09-01T23:58:35+00:00",
-   "ingested": "2026-09-02T01:12:02.471828+00:00",
-   "headline": "Russia's deputy foreign minister Grushko: no basis for Black Sea grain deal to restart",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745698,
-   "ts": "2026-09-01T23:57:35+00:00",
-   "ingested": "2026-09-02T01:12:02.471843+00:00",
-   "headline": "Bahrain: air defense systems shot down Iranian drones over kingdom",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745697,
-   "ts": "2026-09-01T23:55:02+00:00",
-   "ingested": "2026-09-02T01:12:02.471862+00:00",
-   "headline": "Japan finance minister Katayama: Bessent has said since October last year that a new approach is needed if Japan's deflation outlook has shifted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745696,
-   "ts": "2026-09-01T23:54:31+00:00",
-   "ingested": "2026-09-02T01:12:02.471878+00:00",
-   "headline": "BoJ Governor Ueda: will assess if economy, prices align with our scenario along with risks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745695,
-   "ts": "2026-09-01T23:54:13+00:00",
-   "ingested": "2026-09-02T01:12:02.471894+00:00",
-   "headline": "BoJ Governor Ueda: will discuss suitable policy at next meeting while examining economy, prices, financial conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745694,
-   "ts": "2026-09-01T23:53:39+00:00",
-   "ingested": "2026-09-02T01:12:02.471911+00:00",
-   "headline": "BoJ Governor Ueda: focus on Middle East conflict, oil demand, FX impact on economy and prices in policy guidance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745693,
-   "ts": "2026-09-01T23:53:09+00:00",
-   "ingested": "2026-09-02T01:12:02.471928+00:00",
-   "headline": "BoJ Governor Ueda: our fundamental approach to monetary policy remains mostly unchanged since July",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745692,
-   "ts": "2026-09-01T23:52:56+00:00",
-   "ingested": "2026-09-02T01:12:02.471944+00:00",
-   "headline": "BoJ Governor Ueda: data since July meeting broadly matches projections in July quarterly report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745691,
-   "ts": "2026-09-01T23:50:34+00:00",
-   "ingested": "2026-09-02T01:12:02.471963+00:00",
-   "headline": "BoJ Governor Ueda: no comment on daily moves, markets price in high likelihood of September rate increase",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745690,
-   "ts": "2026-09-01T23:50:31+00:00",
-   "ingested": "2026-09-02T01:12:02.471983+00:00",
-   "headline": "Japan Finmin Katayama: G20 meeting was valuable chance to deepen understanding of joint FX intervention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745689,
-   "ts": "2026-09-01T23:50:01+00:00",
-   "ingested": "2026-09-02T01:12:02.471998+00:00",
-   "headline": "Japanese Monetary Base YoY Actual -15.7% (Forecast -, Previous -13.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745688,
-   "ts": "2026-09-01T23:49:47+00:00",
-   "ingested": "2026-09-02T01:12:02.472013+00:00",
-   "headline": "Japan finmin Katayama: no comment on specific FX levels",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745687,
-   "ts": "2026-09-01T23:49:43+00:00",
-   "ingested": "2026-09-02T01:12:02.472028+00:00",
-   "headline": "Japan finmin Katayama: told G20 US-Japan currency intervention aligned with G7 pledge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745675,
-   "ts": "2026-09-01T23:46:11+00:00",
-   "ingested": "2026-09-02T01:12:02.472046+00:00",
-   "headline": "Japan finmin katayama: spoke with JPMorgan's dimon, who commended japan's recent reform",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745671,
-   "ts": "2026-09-01T23:42:56+00:00",
-   "ingested": "2026-09-02T01:12:02.472061+00:00",
-   "headline": "Japan finance minister Katayama: Bessent referenced U.S. strategies to manage debt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745670,
-   "ts": "2026-09-01T23:41:16+00:00",
-   "ingested": "2026-09-02T01:12:02.472080+00:00",
-   "headline": "Japan finmin Katayama: debt growth is global trend, Japan outlines fiscal policy targeting growth and sustainability",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745669,
-   "ts": "2026-09-01T23:37:12+00:00",
-   "ingested": "2026-09-02T01:12:02.472106+00:00",
-   "headline": "BoJ Governor Ueda: Held talks with US Bessent but no details disclosed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745668,
-   "ts": "2026-09-01T23:36:20+00:00",
-   "ingested": "2026-09-02T01:12:02.472125+00:00",
-   "headline": "BoJ Governor Ueda: discussed with central banks need to communicate for suitable monetary policy to achieve price stability amid changing global environment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745667,
-   "ts": "2026-09-01T23:33:08+00:00",
-   "ingested": "2026-09-02T01:12:02.472141+00:00",
-   "headline": "Japan finmin Katayama: G20 addressed global imbalances, emerging market debt, financial literacy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745666,
-   "ts": "2026-09-01T23:32:09+00:00",
-   "ingested": "2026-09-02T01:12:02.472155+00:00",
-   "headline": "Japan finance minister Katayama: held discussions with Fed chief",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745654,
-   "ts": "2026-09-01T23:14:40+00:00",
-   "ingested": "2026-09-01T23:20:53.513908+00:00",
-   "headline": "Anthropic co-founder Tom Brown to address G20 tech meeting on Wednesday, company says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745653,
-   "ts": "2026-09-01T23:10:14+00:00",
-   "ingested": "2026-09-01T23:20:53.513936+00:00",
-   "headline": "Sonora's Agua Prieta cattle crossing to U.S. set to reopen Sept. 8 after exports paused for repairs, Sonora livestock union",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745632,
-   "ts": "2026-09-01T23:00:08+00:00",
-   "ingested": "2026-09-01T23:20:53.513954+00:00",
-   "headline": "AIG Manufacturing Index Actual -16.6 (Forecast -, Previous -19.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745631,
-   "ts": "2026-09-01T23:00:07+00:00",
-   "ingested": "2026-09-01T23:20:53.513970+00:00",
-   "headline": "AIG Construction Index Actual -6.9 (Forecast -, Previous -40.6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745635,
-   "ts": "2026-09-01T23:00:04+00:00",
-   "ingested": "2026-09-01T23:20:53.513986+00:00",
-   "headline": "S. Korea August Core CPI rises 3.4% y/y vs 2.6% in July: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745634,
-   "ts": "2026-09-01T23:00:04+00:00",
-   "ingested": "2026-09-01T23:20:53.514000+00:00",
-   "headline": "S.Korea August consumer price index rises 0.2% month on month: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745633,
-   "ts": "2026-09-01T23:00:04+00:00",
-   "ingested": "2026-09-01T23:20:53.514014+00:00",
-   "headline": "S.Korea August consumer price index rises 3.1% y/y, below poll of 3.2%: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745630,
-   "ts": "2026-09-01T23:00:00+00:00",
-   "ingested": "2026-09-01T23:20:53.514027+00:00",
-   "headline": "S. Korean CPI YoY Actual 3.1% (Forecast 3.2%, Previous 2.80%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745629,
-   "ts": "2026-09-01T23:00:00+00:00",
-   "ingested": "2026-09-01T23:20:53.514040+00:00",
-   "headline": "S. Korean CPI MoM Actual 0.2% (Forecast 0.4%, Previous -0.20%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745628,
-   "ts": "2026-09-01T22:56:12+00:00",
-   "ingested": "2026-09-01T23:20:53.514053+00:00",
-   "headline": "Trump: very productive and positive talks held at G20 finance ministers meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745627,
-   "ts": "2026-09-01T22:53:08+00:00",
-   "ingested": "2026-09-01T23:20:53.514067+00:00",
-   "headline": "Trump: pleased to nominate a genuine warrior, Hung Cao, as next secretary of Navy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745626,
-   "ts": "2026-09-01T22:51:28+00:00",
-   "ingested": "2026-09-01T23:20:53.514086+00:00",
-   "headline": "Bahrain interior ministry alerts potential threat, urges citizens and residents to stay calm and seek nearest safe location",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745610,
-   "ts": "2026-09-01T22:45:05+00:00",
-   "ingested": "2026-09-01T23:20:53.514100+00:00",
-   "headline": "New Zealand seasonally adjusted new dwelling consents fall 4.3% in July versus previous month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745609,
-   "ts": "2026-09-01T22:45:01+00:00",
-   "ingested": "2026-09-01T23:20:53.514112+00:00",
-   "headline": "New Zealand Building Consents Actual -4.3% (Forecast -, Previous -3.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745608,
-   "ts": "2026-09-01T22:35:59+00:00",
-   "ingested": "2026-09-01T23:20:53.514126+00:00",
-   "headline": "Centcom: U.S. Central Command forces complete wave of strikes on Iranian military targets Sept. 1",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745605,
-   "ts": "2026-09-01T22:30:15+00:00",
-   "ingested": "2026-09-01T23:20:53.514139+00:00",
-   "headline": "Teamsters: Amazon Teamsters at DJT6 to start one-day unfair labor practice strike on Sept. 2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745604,
-   "ts": "2026-09-01T22:29:35+00:00",
-   "ingested": "2026-09-01T23:20:53.514152+00:00",
-   "headline": "Teamsters: Amazon teamsters at DJT6 to start unfair labor practice strike",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745603,
-   "ts": "2026-09-01T22:28:37+00:00",
-   "ingested": "2026-09-01T23:20:53.514166+00:00",
-   "headline": "U.S. Postal Service: agency reviewing issues raised by senator, whistleblower over proposed mail-in voting limits",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745602,
-   "ts": "2026-09-01T22:22:58+00:00",
-   "ingested": "2026-09-01T23:20:53.514179+00:00",
-   "headline": "US Treasury Secretary Bessent: AI will feature in Trump-Xi September talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745591,
-   "ts": "2026-09-01T22:09:25+00:00",
-   "ingested": "2026-09-01T23:20:53.514192+00:00",
-   "headline": "Kuwait air defences responding to hostile drone strikes after Iranian attack: Kuwaiti army",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745590,
-   "ts": "2026-09-01T22:02:10+00:00",
-   "ingested": "2026-09-01T23:20:53.514206+00:00",
-   "headline": "AWS: Federal Election Commission grants DDC special authorization to offer cybersecurity support to eligible federal campaigns",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745588,
-   "ts": "2026-09-01T22:02:01+00:00",
-   "ingested": "2026-09-01T23:20:53.514219+00:00",
-   "headline": "US Treasury Secretary Bessent: statement mirrors views of 19 g20 members",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745587,
-   "ts": "2026-09-01T22:01:40+00:00",
-   "ingested": "2026-09-01T23:20:53.514232+00:00",
-   "headline": "US Treasury Secretary Bessent: expected joint communique, all except China reached consensus",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745571,
-   "ts": "2026-09-01T22:00:06+00:00",
-   "ingested": "2026-09-01T23:20:53.514247+00:00",
-   "headline": "AWS expands protection for digital campaigns in 2026 U.S. election with 20+ cybersecurity services at no/low cost - blog post",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745569,
-   "ts": "2026-09-01T21:51:25+00:00",
-   "ingested": "2026-09-01T23:20:53.514266+00:00",
-   "headline": "G20 chair\u2019s statement supports IMF boost of analytical tools to enhance surveillance of policies driving global imbalances",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745568,
-   "ts": "2026-09-01T21:51:05+00:00",
-   "ingested": "2026-09-01T23:20:53.514282+00:00",
-   "headline": "Countries with persistent and excessive external surpluses should eliminate distortions causing overdependence on exports for growth: G20 chair",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745567,
-   "ts": "2026-09-01T21:50:37+00:00",
-   "ingested": "2026-09-01T23:20:53.514296+00:00",
-   "headline": "G20 economies acknowledge excessive imbalances pose risks and cause distortions, adverse spillovers: chair's statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745566,
-   "ts": "2026-09-01T21:50:16+00:00",
-   "ingested": "2026-09-01T23:20:53.514311+00:00",
-   "headline": "Advancing growth a key focus across G20 economies: working to tackle regulatory and administrative hurdles, G20 chair says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745565,
-   "ts": "2026-09-01T21:49:56+00:00",
-   "ingested": "2026-09-01T23:20:53.514326+00:00",
-   "headline": "G20 finance leaders urge nations to avoid needless export limits to keep supply chains operating normally: G20 chair's statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745564,
-   "ts": "2026-09-01T21:49:26+00:00",
-   "ingested": "2026-09-01T23:20:53.514340+00:00",
-   "headline": "G20 concerned by ongoing disruptions to energy trade and safe navigation through Strait of Hormuz, G20 chair's statement:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745563,
-   "ts": "2026-09-01T21:47:50+00:00",
-   "ingested": "2026-09-01T23:20:53.514357+00:00",
-   "headline": "Global economy stayed resilient despite multiple shocks, including ongoing wars and conflicts: G20 chair's statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745554,
-   "ts": "2026-09-01T21:32:33+00:00",
-   "ingested": "2026-09-01T23:20:53.514371+00:00",
-   "headline": "Iranian media: military launches large-scale drone strike on U.S. base in Bahrain; no official confirmation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745531,
-   "ts": "2026-09-01T21:19:42+00:00",
-   "ingested": "2026-09-01T23:20:53.514384+00:00",
-   "headline": "Jordan: three ballistic missiles landed in remote areas away from population centers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745530,
-   "ts": "2026-09-01T21:17:09+00:00",
-   "ingested": "2026-09-01T23:20:53.514399+00:00",
-   "headline": "No US casualties from Iranian strike on facilities in Jordan so far, two US officials say - source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745527,
-   "ts": "2026-09-01T21:16:42+00:00",
-   "ingested": "2026-09-01T23:20:53.514413+00:00",
-   "headline": "Jordan air defenses intercepted 10 of 13 ballistic missiles entering kingdom airspace: military",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745511,
-   "ts": "2026-09-01T21:15:45+00:00",
-   "ingested": "2026-09-01T23:20:53.514427+00:00",
-   "headline": "Jordan air defenses intercepted 13 ballistic missiles entering kingdom's airspace: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745506,
-   "ts": "2026-09-01T21:15:11+00:00",
-   "ingested": "2026-09-01T23:20:53.514439+00:00",
-   "headline": "Apple begins renaming Lake Ontario to \"Lake America\" on Apple Maps website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745505,
-   "ts": "2026-09-01T21:13:31+00:00",
-   "ingested": "2026-09-01T23:20:53.514452+00:00",
-   "headline": "Argentina August tax revenue hits 20.51 trillion pesos: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745504,
-   "ts": "2026-09-01T21:07:11+00:00",
-   "ingested": "2026-09-01T21:11:41.447043+00:00",
-   "headline": "Google\u2019s AI research unit set to unveil Gemini 3.8 Flash as soon as Wednesday: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745450,
-   "ts": "2026-09-01T20:44:36+00:00",
-   "ingested": "2026-09-01T21:11:41.447068+00:00",
-   "headline": "US API Gasoline Stock Change Actual 0.3M (Forecast -, Previous -3.2M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745449,
-   "ts": "2026-09-01T20:44:35+00:00",
-   "ingested": "2026-09-01T21:11:41.447086+00:00",
-   "headline": "US API Distillate Stock Change Actual -0.3M (Forecast -, Previous -0.5M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745448,
-   "ts": "2026-09-01T20:44:34+00:00",
-   "ingested": "2026-09-01T21:11:41.447102+00:00",
-   "headline": "US API Cushing Stock Change Actual 0.2M (Forecast -, Previous 1M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745447,
-   "ts": "2026-09-01T20:43:12+00:00",
-   "ingested": "2026-09-01T21:11:41.447117+00:00",
-   "headline": "US API Crude Oil Stock Change Actual -2.6M (Forecast -, Previous 4.2M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745429,
-   "ts": "2026-09-01T20:05:58+00:00",
-   "ingested": "2026-09-01T21:11:41.447132+00:00",
-   "headline": "$DELL Dell Technologies Q2 Earnings & FY Guidance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745415,
-   "ts": "2026-09-01T20:01:24+00:00",
-   "ingested": "2026-09-01T21:11:41.447148+00:00",
-   "headline": "Tasnim News: Residents report air defences activated in eastern Tehran, no official confirmation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745410,
-   "ts": "2026-09-01T20:01:11+00:00",
-   "ingested": "2026-09-01T21:11:41.447163+00:00",
-   "headline": "OpenAI to limit Astra\u2019s full cyber abilities to the test group.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745409,
-   "ts": "2026-09-01T20:00:51+00:00",
-   "ingested": "2026-09-01T21:11:41.447176+00:00",
-   "headline": "OpenAI: The Astra model is coming soon with cyber limits.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745391,
-   "ts": "2026-09-01T19:40:41+00:00",
-   "ingested": "2026-09-01T21:11:41.447193+00:00",
-   "headline": "US missile attack targets site near Iran's Ahvaz - Mehr",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745374,
-   "ts": "2026-09-01T19:30:32+00:00",
-   "ingested": "2026-09-01T21:11:41.447208+00:00",
-   "headline": "G20 Finance Meeting \u2013 Treasury Undersecretary Erin Browne",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9745373,
-   "ts": "2026-09-01T19:23:25+00:00",
-   "ingested": "2026-09-01T21:11:41.447220+00:00",
-   "headline": "Wednesday FX Options Expiries",
    "channel": "rss",
    "source": "financialjuice"
   }
