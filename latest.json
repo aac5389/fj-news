@@ -1,7 +1,31 @@
 {
- "updated": "2026-09-04T21:46:11.108363+00:00",
+ "updated": "2026-09-04T23:23:56.324406+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9751012,
+   "ts": "2026-09-04T22:39:11+00:00",
+   "ingested": "2026-09-04T23:23:56.324062+00:00",
+   "headline": "Anthropic plans to release ipo prospectus in late September, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9751011,
+   "ts": "2026-09-04T22:39:09+00:00",
+   "ingested": "2026-09-04T23:23:56.324088+00:00",
+   "headline": "Anthropic expected to start marketing IPO by mid-October earliest, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9750996,
+   "ts": "2026-09-04T21:46:33+00:00",
+   "ingested": "2026-09-04T23:23:56.324108+00:00",
+   "headline": "Kraken: funding delays for select blockchain networks; deposits paused, withdrawals delayed - status page",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9750995,
    "ts": "2026-09-04T21:41:08+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-09-03T01:30:11+00:00",
    "ingested": "2026-09-03T05:45:16.064157+00:00",
    "headline": "Australian Exports Actual -3.3% (Forecast -, Previous 9.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9747678,
-   "ts": "2026-09-03T01:30:05+00:00",
-   "ingested": "2026-09-03T05:45:16.064167+00:00",
-   "headline": "Australia July goods exports fall 3.3% m/m, seasonally adjusted",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9747677,
-   "ts": "2026-09-03T01:30:05+00:00",
-   "ingested": "2026-09-03T05:45:16.064179+00:00",
-   "headline": "Australia July goods trade balance A$1.923 billion, seasonally adjusted (poll: A$1.45 billion)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9747674,
-   "ts": "2026-09-03T01:30:01+00:00",
-   "ingested": "2026-09-03T05:45:16.064190+00:00",
-   "headline": "Australian Trade Balance Actual 1923M (Forecast 1500M, Previous 1,929M)",
    "channel": "rss",
    "source": "financialjuice"
   }
