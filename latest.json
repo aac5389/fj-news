@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-05T01:13:23.639649+00:00",
+ "updated": "2026-09-05T05:48:52.322074+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9751227,
+   "ts": "2026-09-05T05:40:52+00:00",
+   "ingested": "2026-09-05T05:48:52.321734+00:00",
+   "headline": "S. Korea's 2026 exports reach $709.4 billion year-to-date, setting new record",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9751161,
+   "ts": "2026-09-05T02:12:59+00:00",
+   "ingested": "2026-09-05T05:48:52.321759+00:00",
+   "headline": "White House reviews candidates to replace U.S. deputy defense secretary Feinberg, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9751012,
    "ts": "2026-09-04T22:39:11+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-03T01:39:52+00:00",
    "ingested": "2026-09-03T05:45:16.064137+00:00",
    "headline": "Kuwait air defences responding to missile, drone strikes: Kuwaiti army",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9747676,
-   "ts": "2026-09-03T01:30:11+00:00",
-   "ingested": "2026-09-03T05:45:16.064147+00:00",
-   "headline": "Australian Imports Actual -2.5% (Forecast -, Previous -0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9747675,
-   "ts": "2026-09-03T01:30:11+00:00",
-   "ingested": "2026-09-03T05:45:16.064157+00:00",
-   "headline": "Australian Exports Actual -3.3% (Forecast -, Previous 9.6%)",
    "channel": "rss",
    "source": "financialjuice"
   }
