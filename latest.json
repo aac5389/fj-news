@@ -1,7 +1,31 @@
 {
- "updated": "2026-09-06T01:18:27.549569+00:00",
+ "updated": "2026-09-06T06:02:55.484641+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9751582,
+   "ts": "2026-09-06T03:25:47+00:00",
+   "ingested": "2026-09-06T06:02:55.484305+00:00",
+   "headline": "Israeli military: striking southern Lebanon after Hezbollah sent drones toward Israel soldiers in security zone",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9751569,
+   "ts": "2026-09-06T03:09:28+00:00",
+   "ingested": "2026-09-06T06:02:55.484333+00:00",
+   "headline": "White House official: US and Russian officials discussed detailed plans for next steps in Russia-Ukraine war talks, to be announced in coming weeks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9751568,
+   "ts": "2026-09-06T03:09:28+00:00",
+   "ingested": "2026-09-06T06:02:55.484351+00:00",
+   "headline": "Iran FM Aragchi holds calls with Saudi, Turkish foreign ministers on regional developments, diplomatic efforts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9751515,
    "ts": "2026-09-06T01:16:41+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-09-03T08:57:24+00:00",
    "ingested": "2026-09-03T10:06:30.356879+00:00",
    "headline": "French 15 Yr OAT Yield Actual 4.51% (Forecast -, Previous 4.03%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9748212,
-   "ts": "2026-09-03T08:57:09+00:00",
-   "ingested": "2026-09-03T10:06:30.356890+00:00",
-   "headline": "French 10 Yr OAT Bid-to-Cover Actual 2.28 (Forecast -, Previous 2.33)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9748211,
-   "ts": "2026-09-03T08:57:09+00:00",
-   "ingested": "2026-09-03T10:06:30.356901+00:00",
-   "headline": "French 20 Yr OAT Bid-to-Cover Actual 3.07 (Forecast -, Previous 2.78)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9748210,
-   "ts": "2026-09-03T08:57:08+00:00",
-   "ingested": "2026-09-03T10:06:30.356912+00:00",
-   "headline": "French 20 Yr OAT Yield Actual 4.74% (Forecast -, Previous 4.27%)",
    "channel": "rss",
    "source": "financialjuice"
   }
