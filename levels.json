@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-09-06T23:09:10.415588+00:00",
- "updated_et": "2026-09-06 19:09 ET",
+ "updated_utc": "2026-09-07T01:00:11.397278+00:00",
+ "updated_et": "2026-09-06 21:00 ET",
  "note": "Yahoo futures are exchange-delayed: ES(CME) ~10 min, CL(NYMEX) and GC(COMEX) ~30 min. bar_age_min fields were measured at BUILD time and this file is only rewritten when the market moves - compute the true age as now minus last.time_utc. A symbol or live_proxy carrying stale:true is retained data from an earlier run kept through a fetch failure. Session = latest available; on weekends that is Friday's. For a real-time price use live_proxy: fetch its quote_url for the ETF's last price and multiply by ratio.",
  "symbols": {
   "ES": {
@@ -8,9 +8,9 @@
    "yahoo_symbol": "ES=F",
    "last": {
     "price": 7722.0,
-    "time_utc": "2026-09-06T22:58:58+00:00",
-    "time_et": "2026-09-06 18:58 ET",
-    "bar_age_min": 10.2
+    "time_utc": "2026-09-07T00:50:09+00:00",
+    "time_et": "2026-09-06 20:50 ET",
+    "bar_age_min": 10.1
    },
    "live_proxy": {
     "etf": "VOO",
@@ -51,7 +51,7 @@
    },
    "bars_5m": [
     [
-     "18:55",
+     "20:50",
      7722.0,
      7722.0,
      7722.0,
@@ -93,17 +93,17 @@
     {
      "name": "Producer Price Index",
      "when_et": "2026-09-10 08:30 ET",
-     "minutes_until": 5120
+     "minutes_until": 5009
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-09-11 08:30 ET",
-     "minutes_until": 6560
+     "minutes_until": 6449
     },
     {
-     "name": "Personal Income and Outlays",
+     "name": "Gross Domestic Product",
      "when_et": "2026-09-30 08:30 ET",
-     "minutes_until": 33920
+     "minutes_until": 33809
     }
    ]
   },
@@ -112,8 +112,8 @@
    "yahoo_symbol": "CL=F",
    "last": {
     "price": 91.48,
-    "time_utc": "2026-09-06T22:59:12+00:00",
-    "time_et": "2026-09-06 18:59 ET",
+    "time_utc": "2026-09-07T00:50:14+00:00",
+    "time_et": "2026-09-06 20:50 ET",
     "bar_age_min": 10.1
    },
    "live_proxy": {
@@ -155,7 +155,7 @@
    },
    "bars_5m": [
     [
-     "18:55",
+     "20:50",
      91.48,
      91.48,
      91.48,
@@ -197,19 +197,19 @@
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-08 16:30 ET",
-     "minutes_until": 2720,
+     "minutes_until": 2609,
      "note": "approximate; not holiday-adjusted"
     },
     {
      "name": "EIA Weekly Petroleum Status Report",
      "when_et": "2026-09-10 12:00 ET",
-     "minutes_until": 5330,
+     "minutes_until": 5219,
      "note": "shifted for Labor Day"
     },
     {
      "name": "API Crude Inventories",
      "when_et": "2026-09-15 16:30 ET",
-     "minutes_until": 12800,
+     "minutes_until": 12689,
      "note": "approximate; not holiday-adjusted"
     }
    ]
@@ -219,8 +219,8 @@
    "yahoo_symbol": "GC=F",
    "last": {
     "price": 4476.6,
-    "time_utc": "2026-09-06T22:59:21+00:00",
-    "time_et": "2026-09-06 18:59 ET",
+    "time_utc": "2026-09-07T00:50:25+00:00",
+    "time_et": "2026-09-06 20:50 ET",
     "bar_age_min": 10.1
    },
    "live_proxy": {
@@ -262,7 +262,7 @@
    },
    "bars_5m": [
     [
-     "18:55",
+     "20:50",
      4476.6,
      4476.6,
      4476.6,
@@ -304,17 +304,17 @@
     {
      "name": "Producer Price Index",
      "when_et": "2026-09-10 08:30 ET",
-     "minutes_until": 5120
+     "minutes_until": 5009
     },
     {
      "name": "Consumer Price Index",
      "when_et": "2026-09-11 08:30 ET",
-     "minutes_until": 6560
+     "minutes_until": 6449
     },
     {
-     "name": "Personal Income and Outlays",
+     "name": "Gross Domestic Product",
      "when_et": "2026-09-30 08:30 ET",
-     "minutes_until": 33920
+     "minutes_until": 33809
     }
    ]
   }
