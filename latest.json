@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-06T22:25:14.374809+00:00",
+ "updated": "2026-09-07T00:09:41.438651+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9751897,
+   "ts": "2026-09-06T23:50:04+00:00",
+   "ingested": "2026-09-07T00:09:41.438333+00:00",
+   "headline": "Japan foreign reserves $1,207.524 billion at end-August, down from $1,287.099 billion at end-July: MOF",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9751883,
+   "ts": "2026-09-06T23:26:46+00:00",
+   "ingested": "2026-09-07T00:09:41.438360+00:00",
+   "headline": "Average of 10 commodity vessels cross Strait of Hormuz daily, lowest since May, Kpler 10-day moving average says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9751874,
    "ts": "2026-09-06T22:10:56+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-03T13:05:18+00:00",
    "ingested": "2026-09-03T14:29:26.880076+00:00",
    "headline": "Fed's Waller: Short-run interventions don't do much, but it's Bessent's prerogative to do it.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9748661,
-   "ts": "2026-09-03T13:05:02+00:00",
-   "ingested": "2026-09-03T14:29:26.880088+00:00",
-   "headline": "Fed's Waller: What Treasury does is Treasury's business.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9748660,
-   "ts": "2026-09-03T13:04:28+00:00",
-   "ingested": "2026-09-03T14:29:26.880101+00:00",
-   "headline": "Fed's Waller: That means investors are uncertain about world and dollar reserve currency status.",
    "channel": "rss",
    "source": "financialjuice"
   }
