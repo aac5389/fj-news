@@ -1,7 +1,591 @@
 {
- "updated": "2026-09-08T00:17:17.316534+00:00",
+ "updated": "2026-09-08T04:49:00.611301+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9753346,
+   "ts": "2026-09-08T04:42:41+00:00",
+   "ingested": "2026-09-08T04:49:00.609792+00:00",
+   "headline": "Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753336,
+   "ts": "2026-09-08T04:30:03+00:00",
+   "ingested": "2026-09-08T04:49:00.609816+00:00",
+   "headline": "Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753335,
+   "ts": "2026-09-08T04:30:01+00:00",
+   "ingested": "2026-09-08T04:49:00.609834+00:00",
+   "headline": "Dutch CPI YoY Actual 3.3% (Forecast -, Previous 3.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753334,
+   "ts": "2026-09-08T04:30:01+00:00",
+   "ingested": "2026-09-08T04:49:00.609850+00:00",
+   "headline": "Dutch CPI MoM Actual 0.3% (Forecast -, Previous 1.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753301,
+   "ts": "2026-09-08T04:02:27+00:00",
+   "ingested": "2026-09-08T04:49:00.609866+00:00",
+   "headline": "Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753299,
+   "ts": "2026-09-08T04:00:04+00:00",
+   "ingested": "2026-09-08T04:49:00.609884+00:00",
+   "headline": "Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753298,
+   "ts": "2026-09-08T04:00:03+00:00",
+   "ingested": "2026-09-08T04:49:00.609900+00:00",
+   "headline": "Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753278,
+   "ts": "2026-09-08T03:47:39+00:00",
+   "ingested": "2026-09-08T04:49:00.609914+00:00",
+   "headline": "Euro drops 0.67% versus yen; sterling declines 0.78% against yen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753277,
+   "ts": "2026-09-08T03:47:29+00:00",
+   "ingested": "2026-09-08T04:49:00.609927+00:00",
+   "headline": "Dollar/yen drops 0.75% to 153.165",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753276,
+   "ts": "2026-09-08T03:43:53+00:00",
+   "ingested": "2026-09-08T04:49:00.609941+00:00",
+   "headline": "RBA's Hunter: board may need to hike rates if inflation looks set to intensify",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753275,
+   "ts": "2026-09-08T03:43:19+00:00",
+   "ingested": "2026-09-08T04:49:00.609958+00:00",
+   "headline": "RBA\u2019s Hunter: Board worried about inflation, has low tolerance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753274,
+   "ts": "2026-09-08T03:42:36+00:00",
+   "ingested": "2026-09-08T04:49:00.609972+00:00",
+   "headline": "RBA's Hunter: July CPI data represented just one month",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753273,
+   "ts": "2026-09-08T03:42:12+00:00",
+   "ingested": "2026-09-08T04:49:00.609986+00:00",
+   "headline": "RBA\u2019s Hunter: Board has been clear inflation is top priority",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753272,
+   "ts": "2026-09-08T03:40:23+00:00",
+   "ingested": "2026-09-08T04:49:00.610000+00:00",
+   "headline": "Russian air strikes kill 2, injure 7 in Ukraine's Kyiv: officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753271,
+   "ts": "2026-09-08T03:38:15+00:00",
+   "ingested": "2026-09-08T04:49:00.610013+00:00",
+   "headline": "RBA's Hunter: Monitoring Bathla situation, no systemic risk seen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753270,
+   "ts": "2026-09-08T03:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610028+00:00",
+   "headline": "Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753269,
+   "ts": "2026-09-08T03:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610041+00:00",
+   "headline": "Saudi-led coalition in Yemen: will respond firmly to Houthi attacks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753266,
+   "ts": "2026-09-08T03:33:15+00:00",
+   "ingested": "2026-09-08T04:49:00.610054+00:00",
+   "headline": "Saudi-led coalition in Yemen: 73 injured in Houthi attacks on Saudi Arabia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753265,
+   "ts": "2026-09-08T03:30:37+00:00",
+   "ingested": "2026-09-08T04:49:00.610066+00:00",
+   "headline": "RBA's Hunter: aiming to cool down housing market, economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753264,
+   "ts": "2026-09-08T03:29:13+00:00",
+   "ingested": "2026-09-08T04:49:00.610079+00:00",
+   "headline": "RBA's Hunter: We Want to See a Weaker Economy Relative to Trend",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753263,
+   "ts": "2026-09-08T03:26:45+00:00",
+   "ingested": "2026-09-08T04:49:00.610093+00:00",
+   "headline": "RBA\u2019s Hunter: don\u2019t anticipate recession in economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753262,
+   "ts": "2026-09-08T03:25:57+00:00",
+   "ingested": "2026-09-08T04:49:00.610106+00:00",
+   "headline": "RBA's Hunter: effect of house price changes on consumer spending actually quite small",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753261,
+   "ts": "2026-09-08T03:23:21+00:00",
+   "ingested": "2026-09-08T04:49:00.610121+00:00",
+   "headline": "Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753239,
+   "ts": "2026-09-08T02:51:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610133+00:00",
+   "headline": "JP Morgan upgrades ADP to overweight from neutral rating",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753229,
+   "ts": "2026-09-08T02:36:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610150+00:00",
+   "headline": "China Jan-Aug unwrought aluminium and aluminium products exports 4.665 million tonnes vs 3.996 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753228,
+   "ts": "2026-09-08T02:36:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610165+00:00",
+   "headline": "China jan-aug rare earth shipments 39,441.4 tonnes vs 44,355.3 tonnes yr earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753227,
+   "ts": "2026-09-08T02:36:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610181+00:00",
+   "headline": "China August unwrought aluminium and aluminium products exports 626,000 tonnes vs 643,000 tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753226,
+   "ts": "2026-09-08T02:36:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610196+00:00",
+   "headline": "China August rare earth shipments 4,735.1 tonnes vs 4,223.5 tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753225,
+   "ts": "2026-09-08T02:36:49+00:00",
+   "ingested": "2026-09-08T04:49:00.610210+00:00",
+   "headline": "China August oil product exports 6.01 million tonnes vs 4.65 million tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753224,
+   "ts": "2026-09-08T02:36:04+00:00",
+   "ingested": "2026-09-08T04:49:00.610225+00:00",
+   "headline": "China august copper concentrate imports 2.51 million tonnes, vs 2.38 million tonnes in july: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753223,
+   "ts": "2026-09-08T02:36:04+00:00",
+   "ingested": "2026-09-08T04:49:00.610240+00:00",
+   "headline": "China jan-aug unwrought copper and copper products imports: 3,297,000 tonnes vs 3,533,000 tonnes a year earlier - customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753222,
+   "ts": "2026-09-08T02:36:04+00:00",
+   "ingested": "2026-09-08T04:49:00.610255+00:00",
+   "headline": "China jan-aug copper concentrates imports 19.49 million tonnes vs 20.06 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753221,
+   "ts": "2026-09-08T02:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610270+00:00",
+   "headline": "China Jan-Aug crude oil imports 320.90 million tonnes vs 375.71 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753220,
+   "ts": "2026-09-08T02:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610284+00:00",
+   "headline": "China august natural gas imports 10.33 mln tonnes vs 10.54 mln tonnes in july: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753219,
+   "ts": "2026-09-08T02:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610299+00:00",
+   "headline": "China August unwrought copper and copper product imports 382,000 tonnes vs 425,000 tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753218,
+   "ts": "2026-09-08T02:36:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610313+00:00",
+   "headline": "China jan-aug natural gas imports 78.23 mln tonnes vs 81.81 mln tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753217,
+   "ts": "2026-09-08T02:36:01+00:00",
+   "ingested": "2026-09-08T04:49:00.610328+00:00",
+   "headline": "China Jan-Aug oil product imports 22.15 million tonnes vs 26.73 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753216,
+   "ts": "2026-09-08T02:36:01+00:00",
+   "ingested": "2026-09-08T04:49:00.610342+00:00",
+   "headline": "China August oil product imports 2.25 mln tonnes vs 2.48 mln tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753215,
+   "ts": "2026-09-08T02:36:01+00:00",
+   "ingested": "2026-09-08T04:49:00.610356+00:00",
+   "headline": "China August crude oil imports 37.93 mln tonnes vs 35.73 mln tonnes in July: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753214,
+   "ts": "2026-09-08T02:35:57+00:00",
+   "ingested": "2026-09-08T04:49:00.610371+00:00",
+   "headline": "China's Aug trade surplus with US $29.18 bln, vs $28 bln surplus in July, customs data show",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753213,
+   "ts": "2026-09-08T02:34:56+00:00",
+   "ingested": "2026-09-08T04:49:00.610384+00:00",
+   "headline": "China August trade surplus $119.09 billion vs. $119.05 billion estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753212,
+   "ts": "2026-09-08T02:34:46+00:00",
+   "ingested": "2026-09-08T04:49:00.610397+00:00",
+   "headline": "China August yuan-denominated imports rise 21.7% year on year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753211,
+   "ts": "2026-09-08T02:34:44+00:00",
+   "ingested": "2026-09-08T04:49:00.610409+00:00",
+   "headline": "China Aug yuan-denominated exports rise 18.6% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753210,
+   "ts": "2026-09-08T02:34:37+00:00",
+   "ingested": "2026-09-08T04:49:00.610422+00:00",
+   "headline": "China August trade surplus 809.3 billion yuan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753209,
+   "ts": "2026-09-08T02:34:35+00:00",
+   "ingested": "2026-09-08T04:49:00.610435+00:00",
+   "headline": "China Aug dollar-denominated exports rise 25% y/y, matching poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753203,
+   "ts": "2026-09-08T02:30:20+00:00",
+   "ingested": "2026-09-08T04:49:00.610449+00:00",
+   "headline": "Japan finance minister Katayama: will engage openly with markets, public to build trust",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753202,
+   "ts": "2026-09-08T02:30:13+00:00",
+   "ingested": "2026-09-08T04:49:00.610463+00:00",
+   "headline": "China Aug yuan-denominated exports rise 18.6% y/y: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753201,
+   "ts": "2026-09-08T02:28:25+00:00",
+   "ingested": "2026-09-08T04:49:00.610478+00:00",
+   "headline": "Hormuz traffic slows at start of week as Middle East tensions escalate, shipping data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753200,
+   "ts": "2026-09-08T02:24:19+00:00",
+   "ingested": "2026-09-08T04:49:00.610512+00:00",
+   "headline": "Dollar/yen down 0.9% to 152.95",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753113,
+   "ts": "2026-09-08T01:43:52+00:00",
+   "ingested": "2026-09-08T04:49:00.610528+00:00",
+   "headline": "Ukraine drone attack damages civilian infrastructure in Russia's Saratov region, some injured, governor says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753112,
+   "ts": "2026-09-08T01:40:57+00:00",
+   "ingested": "2026-09-08T04:49:00.610543+00:00",
+   "headline": "China foreign ministry: special envoy discusses key issues with officials from both countries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753111,
+   "ts": "2026-09-08T01:40:37+00:00",
+   "ingested": "2026-09-08T04:49:00.610556+00:00",
+   "headline": "Anthropic said to abandon $6 billion Decart buyout",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753110,
+   "ts": "2026-09-08T01:40:28+00:00",
+   "ingested": "2026-09-08T04:49:00.610569+00:00",
+   "headline": "China foreign ministry: China's special envoy for Afghanistan holds talks in Pakistan, Saudi Arabia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753109,
+   "ts": "2026-09-08T01:39:58+00:00",
+   "ingested": "2026-09-08T04:49:00.610585+00:00",
+   "headline": "Japan finance minister Katayama: mortgage lenders must grasp risks of rising interest rates through talks with banks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753108,
+   "ts": "2026-09-08T01:38:28+00:00",
+   "ingested": "2026-09-08T04:49:00.610599+00:00",
+   "headline": "Japan finance minister Katayama: will coordinate closely with U.S. to ensure orderly forex markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753107,
+   "ts": "2026-09-08T01:38:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610613+00:00",
+   "headline": "Japan finance minister Katayama: no change to forex policy since Japan-US joint intervention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753106,
+   "ts": "2026-09-08T01:37:16+00:00",
+   "ingested": "2026-09-08T04:49:00.610626+00:00",
+   "headline": "Japan finmin Katayama: declines to comment on specific FX levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753105,
+   "ts": "2026-09-08T01:35:46+00:00",
+   "ingested": "2026-09-08T04:49:00.610642+00:00",
+   "headline": "Japan finance minister Katayama: will engage openly with markets, public to build trust in fiscal policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753104,
+   "ts": "2026-09-08T01:35:13+00:00",
+   "ingested": "2026-09-08T04:49:00.610656+00:00",
+   "headline": "Japan finance minister Katayama: will adequately regulate new bond issuance for full fiscal year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753103,
+   "ts": "2026-09-08T01:34:28+00:00",
+   "ingested": "2026-09-08T04:49:00.610670+00:00",
+   "headline": "Japan finance minister Katayama: will intensify efforts to obtain financing for food consumption tax reduction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753102,
+   "ts": "2026-09-08T01:31:55+00:00",
+   "ingested": "2026-09-08T04:49:00.610683+00:00",
+   "headline": "Dollar/yen drops 0.6% to 153.410 in last trading",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753077,
+   "ts": "2026-09-08T01:30:04+00:00",
+   "ingested": "2026-09-08T04:49:00.610696+00:00",
+   "headline": "Australia aug business conditions index drops to -1 from +4 in july: nab",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753076,
+   "ts": "2026-09-08T01:30:04+00:00",
+   "ingested": "2026-09-08T04:49:00.610710+00:00",
+   "headline": "Australia Aug business confidence index declines to -8 from -7 in July: NAB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753075,
+   "ts": "2026-09-08T01:20:19+00:00",
+   "ingested": "2026-09-08T04:49:00.610725+00:00",
+   "headline": "China c.bank pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753067,
+   "ts": "2026-09-08T01:13:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610736+00:00",
+   "headline": "Russia strikes Kyiv with ballistic missiles: mayor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753066,
+   "ts": "2026-09-08T01:09:59+00:00",
+   "ingested": "2026-09-08T04:49:00.610751+00:00",
+   "headline": "S. Korea Defence Minister Ahn: North Korea strengthening DMZ beyond precedent, dialogue needed to resolve issue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753061,
+   "ts": "2026-09-08T01:00:25+00:00",
+   "ingested": "2026-09-08T04:49:00.610765+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805%, unchanged from previous session",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753060,
+   "ts": "2026-09-08T00:51:27+00:00",
+   "ingested": "2026-09-08T04:49:00.610778+00:00",
+   "headline": "Two residential buildings damaged in Ukraine's Kyiv in Russian air strike: city officials",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753056,
+   "ts": "2026-09-08T00:32:55+00:00",
+   "ingested": "2026-09-08T04:49:00.610791+00:00",
+   "headline": "Dollar/yen down 0.52% at 153.530",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753055,
+   "ts": "2026-09-08T00:32:08+00:00",
+   "ingested": "2026-09-08T04:49:00.610803+00:00",
+   "headline": "Explosion heard in Ukraine's Kyiv: witness source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753051,
+   "ts": "2026-09-08T00:30:03+00:00",
+   "ingested": "2026-09-08T04:49:00.610817+00:00",
+   "headline": "Australia September Westpac-MI consumer confidence index falls 5.2% to 84.4",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753050,
+   "ts": "2026-09-08T00:30:00+00:00",
+   "ingested": "2026-09-08T04:49:00.610830+00:00",
+   "headline": "Australian Consumer Sentiment Actual -5.2% (Forecast -, Previous 6.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9753049,
+   "ts": "2026-09-08T00:20:22+00:00",
+   "ingested": "2026-09-08T04:49:00.610844+00:00",
+   "headline": "China PBOC likely to set yuan midpoint at 6.7104 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9753027,
    "ts": "2026-09-07T23:50:42+00:00",
@@ -3415,590 +3999,6 @@
    "ts": "2026-09-04T00:37:11+00:00",
    "ingested": "2026-09-04T00:49:15.383943+00:00",
    "headline": "U.S. Director of Federal Housing Pulte: Equifax, Experian and TransUnion Have Been Overcharging Americans for Too Long, This Will End Soon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749462,
-   "ts": "2026-09-04T00:36:35+00:00",
-   "ingested": "2026-09-04T00:49:15.383958+00:00",
-   "headline": "S. Korea finance minister: closely watching bond market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749449,
-   "ts": "2026-09-04T00:16:52+00:00",
-   "ingested": "2026-09-04T00:49:15.383973+00:00",
-   "headline": "China PBOC expected to set yuan midpoint at 6.7093 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749448,
-   "ts": "2026-09-04T00:09:23+00:00",
-   "ingested": "2026-09-04T00:49:15.383988+00:00",
-   "headline": "Argentina president: to submit bill to congress to tighten sanctions on companies involved in unauthorized activities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749447,
-   "ts": "2026-09-04T00:08:55+00:00",
-   "ingested": "2026-09-04T00:49:15.384001+00:00",
-   "headline": "Argentina president: plans to build naval base in Tierra del Fuego",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749446,
-   "ts": "2026-09-04T00:07:57+00:00",
-   "ingested": "2026-09-04T00:49:15.384014+00:00",
-   "headline": "Argentina president: to sign decree sanctioning companies exploring oil off Falkland Islands",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749445,
-   "ts": "2026-09-04T00:06:37+00:00",
-   "ingested": "2026-09-04T00:49:15.384026+00:00",
-   "headline": "Dollar/yen drops 0.32% to 155.305",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749444,
-   "ts": "2026-09-04T00:06:29+00:00",
-   "ingested": "2026-09-04T00:49:15.384038+00:00",
-   "headline": "Japan top currency diplomat Mimura: consistently in touch with US authorities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749443,
-   "ts": "2026-09-04T00:06:19+00:00",
-   "ingested": "2026-09-04T00:49:15.384051+00:00",
-   "headline": "Japan's top currency diplomat Mimura: stay prepared on forex",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749436,
-   "ts": "2026-09-03T23:59:15+00:00",
-   "ingested": "2026-09-04T00:49:15.384064+00:00",
-   "headline": "Japan government official on July household spending: year-on-year decline biggest since January 2024",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749404,
-   "ts": "2026-09-03T23:30:14+00:00",
-   "ingested": "2026-09-04T00:49:15.384078+00:00",
-   "headline": "Japanese All Household Spending MoM Actual 0.5% (Forecast -, Previous -6.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749403,
-   "ts": "2026-09-03T23:30:13+00:00",
-   "ingested": "2026-09-04T00:49:15.384090+00:00",
-   "headline": "Japanese All Household Spending YoY Actual -3.6% (Forecast -1.6%, Previous -3.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749406,
-   "ts": "2026-09-03T23:30:06+00:00",
-   "ingested": "2026-09-04T00:49:15.384103+00:00",
-   "headline": "Japan July household spending falls 3.6% year/year, government says (Poll: -1.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749405,
-   "ts": "2026-09-03T23:30:06+00:00",
-   "ingested": "2026-09-04T00:49:15.384117+00:00",
-   "headline": "Japan July household spending rises 0.5% month-on-month, government data Poll expectations 2.6%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749402,
-   "ts": "2026-09-03T23:17:34+00:00",
-   "ingested": "2026-09-04T00:49:15.384135+00:00",
-   "headline": "Trump on Missouri Supreme Court redistricting ruling: \u2018horrible, ridiculous and unconstitutional\u2019",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749394,
-   "ts": "2026-09-03T23:00:02+00:00",
-   "ingested": "2026-09-04T00:49:15.384156+00:00",
-   "headline": "S. Korea Jan-July current account surplus provisional $233.09 billion vs $59.82 billion year earlier: central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749393,
-   "ts": "2026-09-03T23:00:02+00:00",
-   "ingested": "2026-09-04T00:49:15.384170+00:00",
-   "headline": "S.Korea July current account surplus at provisional $42.08 billion vs $49.73 billion in June: central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749392,
-   "ts": "2026-09-03T23:00:01+00:00",
-   "ingested": "2026-09-04T00:49:15.384183+00:00",
-   "headline": "S. Korean Current Account Bal NSA Actual 42.078B (Forecast -, Previous 49.73B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749391,
-   "ts": "2026-09-03T22:50:17+00:00",
-   "ingested": "2026-09-03T22:56:45.550861+00:00",
-   "headline": "Anthropic close to securing $15 billion pre-IPO credit line",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749368,
-   "ts": "2026-09-03T22:38:13+00:00",
-   "ingested": "2026-09-03T22:56:45.550881+00:00",
-   "headline": "RBNZ's Hansen: Watching for data \"surprises,\" not one indicator, before October decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749367,
-   "ts": "2026-09-03T22:38:10+00:00",
-   "ingested": "2026-09-03T22:56:45.550896+00:00",
-   "headline": "RBNZ monetary policy committee member Carl Hansen: Wednesday's rate increase was a clear consensus decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749366,
-   "ts": "2026-09-03T22:38:10+00:00",
-   "ingested": "2026-09-03T22:56:45.550908+00:00",
-   "headline": "RBNZ's Hansen: future policy moves hinge on trends across broad economic data sets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749365,
-   "ts": "2026-09-03T22:37:43+00:00",
-   "ingested": "2026-09-03T22:56:45.550920+00:00",
-   "headline": "Trump: appoints Adam Telle, current assistant secretary of Army for civil works, as acting secretary of Army",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749347,
-   "ts": "2026-09-03T22:25:44+00:00",
-   "ingested": "2026-09-03T22:56:45.550931+00:00",
-   "headline": "IMF: El Salvador to receive about $140 million, subject to executive board approval",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749346,
-   "ts": "2026-09-03T22:25:17+00:00",
-   "ingested": "2026-09-03T22:56:45.550942+00:00",
-   "headline": "IMF reaches staff-level pact on combined second and third reviews under El Salvador's extended fund facility arrangement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749345,
-   "ts": "2026-09-03T22:18:41+00:00",
-   "ingested": "2026-09-03T22:56:45.550952+00:00",
-   "headline": "Greer: optimistic about relationship with China in Fox News interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749344,
-   "ts": "2026-09-03T22:18:08+00:00",
-   "ingested": "2026-09-03T22:56:45.550963+00:00",
-   "headline": "U.S. trade representative Greer: Likely some announcements on agriculture during Xi visit - Fox News interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749342,
-   "ts": "2026-09-03T22:16:13+00:00",
-   "ingested": "2026-09-03T22:56:45.550973+00:00",
-   "headline": "Greer: trade deficit falls 20% year-on-year in Fox News interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749339,
-   "ts": "2026-09-03T22:14:32+00:00",
-   "ingested": "2026-09-03T22:56:45.550983+00:00",
-   "headline": "Greer: Mexico keen to protect North America from Chinese imports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749338,
-   "ts": "2026-09-03T22:13:42+00:00",
-   "ingested": "2026-09-03T22:56:45.551015+00:00",
-   "headline": "U.S. trade representative Greer: met Mexican trade minister on Thursday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749316,
-   "ts": "2026-09-03T21:41:12+00:00",
-   "ingested": "2026-09-03T22:56:45.551026+00:00",
-   "headline": "S. Korea Industry Minister Kim: Plans to Announce First U.S. Investment Project Within Sept - Newsis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749296,
-   "ts": "2026-09-03T21:09:58+00:00",
-   "ingested": "2026-09-03T22:56:45.551036+00:00",
-   "headline": "SpaceXAI launches Grok bot for enterprises with two-week free trial for business clients",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749241,
-   "ts": "2026-09-03T20:05:38+00:00",
-   "ingested": "2026-09-03T20:51:46.679946+00:00",
-   "headline": "Iran's Foreign Ministry Spokesperson Baghaei: Iran's defensive strikes have been exclusively against military targets.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749224,
-   "ts": "2026-09-03T19:47:40+00:00",
-   "ingested": "2026-09-03T20:51:46.679974+00:00",
-   "headline": "Altman: I assume we will go public.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749213,
-   "ts": "2026-09-03T19:41:06+00:00",
-   "ingested": "2026-09-03T20:51:46.679992+00:00",
-   "headline": "OpenAI's Altman: Astra model took longer to release than hoped for.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749212,
-   "ts": "2026-09-03T19:40:38+00:00",
-   "ingested": "2026-09-03T20:51:46.680010+00:00",
-   "headline": "SpaceXAI: Grok issues after outage at Memphis Compute Center; all systems restored, functioning normally.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749211,
-   "ts": "2026-09-03T19:39:43+00:00",
-   "ingested": "2026-09-03T20:51:46.680027+00:00",
-   "headline": "Patrick De Haan of GasBuddy on X: US average diesel prices hit a new record of $5.820/gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749188,
-   "ts": "2026-09-03T19:16:34+00:00",
-   "ingested": "2026-09-03T20:51:46.680049+00:00",
-   "headline": "Iran's Minister of Oil: Started drilling more than 30 wells in the South Pars gas field. Some have yielded positive results.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749172,
-   "ts": "2026-09-03T19:14:26+00:00",
-   "ingested": "2026-09-03T20:51:46.680065+00:00",
-   "headline": "US money-market fund assets hit a record $7.98 trillion at ICI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749170,
-   "ts": "2026-09-03T19:01:39+00:00",
-   "ingested": "2026-09-03T20:51:46.680079+00:00",
-   "headline": "Crusoe signs roughly $13 billion AI cloud deal with Jane Street.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749152,
-   "ts": "2026-09-03T18:48:47+00:00",
-   "ingested": "2026-09-03T20:51:46.680092+00:00",
-   "headline": "Trump interview with GB News ends.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749151,
-   "ts": "2026-09-03T18:47:51+00:00",
-   "ingested": "2026-09-03T20:51:46.680106+00:00",
-   "headline": "Iraq's losses since the Iran war are nearly $80b - SOMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749149,
-   "ts": "2026-09-03T18:46:50+00:00",
-   "ingested": "2026-09-03T20:51:46.680121+00:00",
-   "headline": "Brent crude futures settle at $95.52/bbl, down 11 cents, 0.12%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749148,
-   "ts": "2026-09-03T18:46:26+00:00",
-   "ingested": "2026-09-03T20:51:46.680135+00:00",
-   "headline": "Trump on Social Media: Companies can do more to protect kids.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749144,
-   "ts": "2026-09-03T18:41:35+00:00",
-   "ingested": "2026-09-03T20:51:46.680148+00:00",
-   "headline": "Vice President JD Vance ends White House press briefing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749142,
-   "ts": "2026-09-03T18:38:33+00:00",
-   "ingested": "2026-09-03T20:51:46.680160+00:00",
-   "headline": "Trump: Data centers are fabulous.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749141,
-   "ts": "2026-09-03T18:38:18+00:00",
-   "ingested": "2026-09-03T20:51:46.680173+00:00",
-   "headline": "Trump: AI has some negatives, those will be straightened out.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749140,
-   "ts": "2026-09-03T18:37:41+00:00",
-   "ingested": "2026-09-03T20:51:46.680186+00:00",
-   "headline": "US VP Vance: China is willing to be more responsible regarding Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749139,
-   "ts": "2026-09-03T18:36:52+00:00",
-   "ingested": "2026-09-03T20:51:46.680200+00:00",
-   "headline": "Zuckerberg told Trump opposed to a national AI regulator - Insider $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749138,
-   "ts": "2026-09-03T18:35:46+00:00",
-   "ingested": "2026-09-03T20:51:46.680213+00:00",
-   "headline": "Iraq's oil revenues in August stood at around $4.5b - SOMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749137,
-   "ts": "2026-09-03T18:35:22+00:00",
-   "ingested": "2026-09-03T20:51:46.680233+00:00",
-   "headline": "Iraq's August oil exports 73m bbl, highest in the Iran war - SOMO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749136,
-   "ts": "2026-09-03T18:32:34+00:00",
-   "ingested": "2026-09-03T20:51:46.680247+00:00",
-   "headline": "Nymex Natural Gas October futures settle at $2.9130/MMBTU.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749134,
-   "ts": "2026-09-03T18:32:05+00:00",
-   "ingested": "2026-09-03T20:51:46.680260+00:00",
-   "headline": "NYMEX Gasoline October futures settle at $3.1349 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749133,
-   "ts": "2026-09-03T18:31:52+00:00",
-   "ingested": "2026-09-03T20:51:46.680272+00:00",
-   "headline": "NYMEX Diesel October futures settle at $4.5936 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749130,
-   "ts": "2026-09-03T18:31:36+00:00",
-   "ingested": "2026-09-03T20:51:46.680287+00:00",
-   "headline": "NYMEX WTI Crude October futures settle at $91.30 a barrel,  up 29 cents, 0.32%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749114,
-   "ts": "2026-09-03T18:28:01+00:00",
-   "ingested": "2026-09-03T20:51:46.680300+00:00",
-   "headline": "US VP Vance: China has been responsive to some of our requests.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749113,
-   "ts": "2026-09-03T18:26:33+00:00",
-   "ingested": "2026-09-03T20:51:46.680335+00:00",
-   "headline": "US VP Vance on Iran attempted cyberattack: Confident homeland is safe.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749112,
-   "ts": "2026-09-03T18:25:21+00:00",
-   "ingested": "2026-09-03T20:51:46.680350+00:00",
-   "headline": "Trump: I just want the war ended in Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749111,
-   "ts": "2026-09-03T18:23:35+00:00",
-   "ingested": "2026-09-03T20:51:46.680364+00:00",
-   "headline": "Trump: I did the right thing on Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749110,
-   "ts": "2026-09-03T18:23:22+00:00",
-   "ingested": "2026-09-03T20:51:46.680379+00:00",
-   "headline": "US VP Vance: It's proper and responsible for the Fed to lower rates.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749109,
-   "ts": "2026-09-03T18:23:02+00:00",
-   "ingested": "2026-09-03T20:51:46.680394+00:00",
-   "headline": "Trump: 30 to 40 boats nightly coming through Hormuz Strait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749108,
-   "ts": "2026-09-03T18:22:12+00:00",
-   "ingested": "2026-09-03T20:51:46.680408+00:00",
-   "headline": "US VP Vance: We believe the Fed should be lowering interest rates.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749107,
-   "ts": "2026-09-03T18:21:49+00:00",
-   "ingested": "2026-09-03T20:51:46.680423+00:00",
-   "headline": "US VP Vance: Won't set an artificial timeline for the end of the war in Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749106,
-   "ts": "2026-09-03T18:19:13+00:00",
-   "ingested": "2026-09-03T20:51:46.680438+00:00",
-   "headline": "US VP Vance: Would not call it a war in Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749105,
-   "ts": "2026-09-03T18:17:06+00:00",
-   "ingested": "2026-09-03T20:51:46.680452+00:00",
-   "headline": "US Secretary of State Rubio to visit Colombia next week",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749089,
-   "ts": "2026-09-03T18:12:24+00:00",
-   "ingested": "2026-09-03T20:51:46.680466+00:00",
-   "headline": "US VP Vance: We're not talking to Iran unless they stop shooting at ships.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749088,
-   "ts": "2026-09-03T18:12:05+00:00",
-   "ingested": "2026-09-03T20:51:46.680479+00:00",
-   "headline": "US VP Vance: Major combat operations are not currently ongoing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749087,
-   "ts": "2026-09-03T18:08:54+00:00",
-   "ingested": "2026-09-03T20:51:46.680493+00:00",
-   "headline": "US VP Vance reiterates that the US has a set of tools to use against Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749086,
-   "ts": "2026-09-03T18:06:38+00:00",
-   "ingested": "2026-09-03T20:51:46.680504+00:00",
-   "headline": "Trump Speaks On GB News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749085,
-   "ts": "2026-09-03T18:05:43+00:00",
-   "ingested": "2026-09-03T20:51:46.680517+00:00",
-   "headline": "Trump: Reiterates Spain doesn't pay what they should in NATO.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749072,
-   "ts": "2026-09-03T18:01:09+00:00",
-   "ingested": "2026-09-03T20:51:46.680535+00:00",
-   "headline": "OpenAI rolls out GPT-6 Astra model with added cyber guardrails.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749069,
-   "ts": "2026-09-03T18:00:19+00:00",
-   "ingested": "2026-09-03T20:51:46.680549+00:00",
-   "headline": "US VP Vance: I won't make promises on the timing of lower gasoline prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749068,
-   "ts": "2026-09-03T17:58:53+00:00",
-   "ingested": "2026-09-03T20:51:46.680563+00:00",
-   "headline": "US Vice President Vance: About 15 million barrels out of the Strait of Hormuz yesterday.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9749066,
-   "ts": "2026-09-03T17:58:06+00:00",
-   "ingested": "2026-09-03T17:58:58.148191+00:00",
-   "headline": "US VP Vance on Gasoline prices: They're high because Iran is shooting at ships.",
    "channel": "rss",
    "source": "financialjuice"
   }
