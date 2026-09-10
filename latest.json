@@ -1,7 +1,351 @@
 {
- "updated": "2026-09-10T00:29:34.689019+00:00",
+ "updated": "2026-09-10T05:07:10.522465+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9756885,
+   "ts": "2026-09-10T05:00:14+00:00",
+   "ingested": "2026-09-10T05:07:10.521414+00:00",
+   "headline": "Finnish industrial output rises 4.5% in July year on year, Statistics Finland",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756884,
+   "ts": "2026-09-10T04:53:27+00:00",
+   "ingested": "2026-09-10T05:07:10.521440+00:00",
+   "headline": "Japan chief cabinet secretary Kihara: aim to tackle abduction issue firmly to achieve Japan-North Korea summit meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756883,
+   "ts": "2026-09-10T04:51:39+00:00",
+   "ingested": "2026-09-10T05:07:10.521459+00:00",
+   "headline": "Russian defence ministry: also struck Ukraine's Black Sea port of Chornomorsk, two ships near Odesa",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756882,
+   "ts": "2026-09-10T04:50:43+00:00",
+   "ingested": "2026-09-10T05:07:10.521475+00:00",
+   "headline": "Russian Defence Ministry: drone warehouse struck in Ukraine's Mykolaiv",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756880,
+   "ts": "2026-09-10T04:46:40+00:00",
+   "ingested": "2026-09-10T05:07:10.521489+00:00",
+   "headline": "Russian air strikes hit Ukraine's Mykolaiv port, kill four: official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756853,
+   "ts": "2026-09-10T04:30:09+00:00",
+   "ingested": "2026-09-10T05:07:10.521503+00:00",
+   "headline": "Dutch July manufacturing output rises 1.6% m/m: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756852,
+   "ts": "2026-09-10T04:17:51+00:00",
+   "ingested": "2026-09-10T05:07:10.521519+00:00",
+   "headline": "China's state-run Sinograin purchased 14-15 shipments or about 1 mln tons of US soybeans in deals this week: sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756836,
+   "ts": "2026-09-10T04:10:17+00:00",
+   "ingested": "2026-09-10T05:07:10.521537+00:00",
+   "headline": "Russian air strikes kill five, injure 24 in Ukraine\u2019s Sumy region: police",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756835,
+   "ts": "2026-09-10T04:08:08+00:00",
+   "ingested": "2026-09-10T05:07:10.521551+00:00",
+   "headline": "Mubadala: to make major minority investment in Luckin Coffee alongside Centurium Capital",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756834,
+   "ts": "2026-09-10T04:06:58+00:00",
+   "ingested": "2026-09-10T05:07:10.521564+00:00",
+   "headline": "Ukraine air strikes target Russia's Caspian Sea port of Makhachkala, official says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756833,
+   "ts": "2026-09-10T04:06:49+00:00",
+   "ingested": "2026-09-10T05:07:10.521577+00:00",
+   "headline": "Saudi civil defence: threat has passed in Khamis Mushait",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756832,
+   "ts": "2026-09-10T04:03:44+00:00",
+   "ingested": "2026-09-10T05:07:10.521592+00:00",
+   "headline": "Mubadala: continues to see strong long-term prospects in China\u2019s consumer sector",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756831,
+   "ts": "2026-09-10T04:03:00+00:00",
+   "ingested": "2026-09-10T05:07:10.521606+00:00",
+   "headline": "IMF drops Ricardo Reis as lead candidate for new chief economist: FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756830,
+   "ts": "2026-09-10T04:03:00+00:00",
+   "ingested": "2026-09-10T05:07:10.521619+00:00",
+   "headline": "Mubadala investment arrives as China\u2019s coffee market keeps growing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756829,
+   "ts": "2026-09-10T04:01:47+00:00",
+   "ingested": "2026-09-10T05:07:10.521632+00:00",
+   "headline": "IMF dropped leading candidate for chief economist role over Trump tariff comments: FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756808,
+   "ts": "2026-09-10T04:00:18+00:00",
+   "ingested": "2026-09-10T05:07:10.521646+00:00",
+   "headline": "Saudi civil defence issues emergency warning for province of Khamis Mushait - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756767,
+   "ts": "2026-09-10T03:25:51+00:00",
+   "ingested": "2026-09-10T05:07:10.521660+00:00",
+   "headline": "Fortum: JP Morgan upgrades to neutral from underperform, lifts target to EUR 24.3 from EUR 17.8",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756764,
+   "ts": "2026-09-10T03:05:32+00:00",
+   "ingested": "2026-09-10T05:07:10.521675+00:00",
+   "headline": "Strait of Hormuz commodity vessel crossings below 10 on Wednesday, less than 10-day average of about 14, data shows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756729,
+   "ts": "2026-09-10T02:10:31+00:00",
+   "ingested": "2026-09-10T05:07:10.521690+00:00",
+   "headline": "Trump: if Republicans secure house and senate, I'll issue $5,000 payout to every U.S. adult",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756626,
+   "ts": "2026-09-10T01:50:02+00:00",
+   "ingested": "2026-09-10T05:07:10.521705+00:00",
+   "headline": "Yield gap between 10-year Chinese government bonds and US Treasury expands to record 316.7 basis points",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756625,
+   "ts": "2026-09-10T01:47:37+00:00",
+   "ingested": "2026-09-10T05:07:10.521719+00:00",
+   "headline": "BOJ's Masu: Debating maturity zones of JGBs held more crucial than balance sheet size",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756622,
+   "ts": "2026-09-10T01:46:00+00:00",
+   "ingested": "2026-09-10T05:07:10.521734+00:00",
+   "headline": "BOJ's Masu: no sign recent rate increases are weakening corporate demand for funds, concerned about potential overheating of corporate investment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756619,
+   "ts": "2026-09-10T01:44:44+00:00",
+   "ingested": "2026-09-10T05:07:10.521750+00:00",
+   "headline": "Boj's Masu: Boj Must Raise Rates Further and Push Policy Rate to Estimated Neutral Level to Prepare for Nimble Policy Moves",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756618,
+   "ts": "2026-09-10T01:43:45+00:00",
+   "ingested": "2026-09-10T05:07:10.521763+00:00",
+   "headline": "BOJ's Masu: Japan's financial conditions steady, rapid rate hikes possible if inflation picks up",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756617,
+   "ts": "2026-09-10T01:42:54+00:00",
+   "ingested": "2026-09-10T05:07:10.521778+00:00",
+   "headline": "BOJ\u2019s Masu: policy rate nearing estimated neutral range, must closely monitor price, job, financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756616,
+   "ts": "2026-09-10T01:42:00+00:00",
+   "ingested": "2026-09-10T05:07:10.521792+00:00",
+   "headline": "Boj's Masu: Japan no longer in deflation, must raise real interest rate above negative territory promptly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756615,
+   "ts": "2026-09-10T01:41:44+00:00",
+   "ingested": "2026-09-10T05:07:10.521805+00:00",
+   "headline": "BOJ's Masu: Weak yen has greater effect on inflation than before, warrants attention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756614,
+   "ts": "2026-09-10T01:40:30+00:00",
+   "ingested": "2026-09-10T05:07:10.521819+00:00",
+   "headline": "BOJ's Masu: food cost increases set to re-accelerate, may hold key to long-term inflation outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756613,
+   "ts": "2026-09-10T01:38:45+00:00",
+   "ingested": "2026-09-10T05:07:10.521835+00:00",
+   "headline": "Boj\u2019s Masu: recent 7% rise in producer prices requires attention as increase could boost consumer inflation more than before",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756612,
+   "ts": "2026-09-10T01:37:30+00:00",
+   "ingested": "2026-09-10T05:07:10.521848+00:00",
+   "headline": "BOJ's Masu: government measures to ease cost of living impact may increase demand, drive inflation higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756611,
+   "ts": "2026-09-10T01:36:05+00:00",
+   "ingested": "2026-09-10T05:07:10.521862+00:00",
+   "headline": "BOJ board member Masu: rising costs from Middle East conflict may drive overall prices higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756610,
+   "ts": "2026-09-10T01:34:56+00:00",
+   "ingested": "2026-09-10T05:07:10.521877+00:00",
+   "headline": "BOJ board member Masu: rise in fuel, chemical prices may be one-off shock but could affect prices through distribution costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756609,
+   "ts": "2026-09-10T01:34:08+00:00",
+   "ingested": "2026-09-10T05:07:10.521890+00:00",
+   "headline": "BOJ board member Masu: key focus is preventing underlying inflation from sharply exceeding 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756608,
+   "ts": "2026-09-10T01:33:39+00:00",
+   "ingested": "2026-09-10T05:07:10.521906+00:00",
+   "headline": "Multiple US military aircraft damaged in strikes overnight at Muwaffaq Salti Air Base in Jordan: CBS reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756607,
+   "ts": "2026-09-10T01:33:20+00:00",
+   "ingested": "2026-09-10T05:07:10.521924+00:00",
+   "headline": "BOJ board member Masu: pace and timing of rate increase will depend on likelihood of meeting baseline projections and risks, considering oil price changes, al-demand, and currency fluctuations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756606,
+   "ts": "2026-09-10T01:32:13+00:00",
+   "ingested": "2026-09-10T05:07:10.521937+00:00",
+   "headline": "BoJ board member Masu: BoJ likely to keep raising interest rates amid current loose financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756605,
+   "ts": "2026-09-10T01:31:32+00:00",
+   "ingested": "2026-09-10T05:07:10.521964+00:00",
+   "headline": "Bank of Japan board member Masu: underlying inflation remains under 2% but close to that level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756588,
+   "ts": "2026-09-10T01:21:04+00:00",
+   "ingested": "2026-09-10T05:07:10.521978+00:00",
+   "headline": "China cbank injects 3 bln yuan via 7-day reverse repos: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756587,
+   "ts": "2026-09-10T01:16:54+00:00",
+   "ingested": "2026-09-10T05:07:10.521993+00:00",
+   "headline": "China sets yuan midpoint at strongest level since Feb. 8, 2023, PBOC says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756558,
+   "ts": "2026-09-10T01:00:28+00:00",
+   "ingested": "2026-09-10T05:07:10.522006+00:00",
+   "headline": "Taiwan overnight interbank rate opens at 0.805% matching previous session opening",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756556,
+   "ts": "2026-09-10T00:59:47+00:00",
+   "ingested": "2026-09-10T05:07:10.522019+00:00",
+   "headline": "Saudi civil defence: danger has passed in Khamis Mushait and Abha",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756555,
+   "ts": "2026-09-10T00:57:11+00:00",
+   "ingested": "2026-09-10T05:07:10.522032+00:00",
+   "headline": "Saudi civil defence warns of possible threat in Khamis Mushait and Abha",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9756554,
+   "ts": "2026-09-10T00:55:18+00:00",
+   "ingested": "2026-09-10T05:07:10.522044+00:00",
+   "headline": "Saudi civil defence issues urgent warning for Khamis Mushait and Abha",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9756535,
    "ts": "2026-09-10T00:25:29+00:00",
@@ -3655,350 +3999,6 @@
    "ts": "2026-09-08T06:00:39+00:00",
    "ingested": "2026-09-08T09:10:03.303758+00:00",
    "headline": "Yemen's Houthi Military Spokesperson: Group will announce broad military operation deep into Saudi territory.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753409,
-   "ts": "2026-09-08T06:00:05+00:00",
-   "ingested": "2026-09-08T09:10:03.303771+00:00",
-   "headline": "German Exports MoM SA Actual -0.8% (Forecast 0.3%, Previous 0.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753408,
-   "ts": "2026-09-08T06:00:04+00:00",
-   "ingested": "2026-09-08T09:10:03.303785+00:00",
-   "headline": "German Trade Balance SA Actual 21.3B (Forecast 15.8B, Previous 15.4B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753407,
-   "ts": "2026-09-08T06:00:04+00:00",
-   "ingested": "2026-09-08T09:10:03.303798+00:00",
-   "headline": "German Imports MoM SA Actual -5.7% (Forecast -1%, Previous 4.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753392,
-   "ts": "2026-09-08T05:23:35+00:00",
-   "ingested": "2026-09-08T09:10:03.303810+00:00",
-   "headline": "Saudis say operations at some energy sites halted.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753391,
-   "ts": "2026-09-08T05:23:28+00:00",
-   "ingested": "2026-09-08T09:10:03.303822+00:00",
-   "headline": "Saudis say fire erupted in several energy sites.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753390,
-   "ts": "2026-09-08T05:23:19+00:00",
-   "ingested": "2026-09-08T09:10:03.303835+00:00",
-   "headline": "Saudis say energy facilities targeted on September 8",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753380,
-   "ts": "2026-09-08T05:04:32+00:00",
-   "ingested": "2026-09-08T09:10:03.303850+00:00",
-   "headline": "UK govt commits \u00a3100 mln to air defence package including Patriot missiles to boost Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753369,
-   "ts": "2026-09-08T05:02:27+00:00",
-   "ingested": "2026-09-08T09:10:03.303865+00:00",
-   "headline": "China auto industry body CPCA: China sold 1.55 million passenger cars in August, down 23.7% y/y",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753368,
-   "ts": "2026-09-08T05:01:30+00:00",
-   "ingested": "2026-09-08T09:10:03.303880+00:00",
-   "headline": "UK govt: UK commits winter air defense package to strengthen Ukraine's defenses",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753367,
-   "ts": "2026-09-08T05:00:32+00:00",
-   "ingested": "2026-09-08T09:10:03.303896+00:00",
-   "headline": "Japanese Economy Watchers Poll Actual 46.4 (Forecast 46.2, Previous 45.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753361,
-   "ts": "2026-09-08T04:56:51+00:00",
-   "ingested": "2026-09-08T09:10:03.303911+00:00",
-   "headline": "Russia hits targets in Ukraine's Kyiv, region and Chornomorsk port: Russian defence ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753346,
-   "ts": "2026-09-08T04:42:41+00:00",
-   "ingested": "2026-09-08T04:49:00.609792+00:00",
-   "headline": "Censof Holdings Bhd: Century Software named Microsoft reseller for cloud, productivity and security solutions in Malaysia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753336,
-   "ts": "2026-09-08T04:30:03+00:00",
-   "ingested": "2026-09-08T04:49:00.609816+00:00",
-   "headline": "Dutch Aug CPI rises 3.3% y/y after 3.2% in July: CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753335,
-   "ts": "2026-09-08T04:30:01+00:00",
-   "ingested": "2026-09-08T04:49:00.609834+00:00",
-   "headline": "Dutch CPI YoY Actual 3.3% (Forecast -, Previous 3.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753334,
-   "ts": "2026-09-08T04:30:01+00:00",
-   "ingested": "2026-09-08T04:49:00.609850+00:00",
-   "headline": "Dutch CPI MoM Actual 0.3% (Forecast -, Previous 1.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753301,
-   "ts": "2026-09-08T04:02:27+00:00",
-   "ingested": "2026-09-08T04:49:00.609866+00:00",
-   "headline": "Anthropic and OpenAI financiers seek prime credit ratings after IPO - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753299,
-   "ts": "2026-09-08T04:00:04+00:00",
-   "ingested": "2026-09-08T04:49:00.609884+00:00",
-   "headline": "Swedish apartment prices rose 4.8% in June-August versus same period a year earlier, svensk maklarstatistik data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753298,
-   "ts": "2026-09-08T04:00:03+00:00",
-   "ingested": "2026-09-08T04:49:00.609900+00:00",
-   "headline": "Swedish single-family home prices rise 3.9% in June-August versus year earlier, Svensk maklarstatistik data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753278,
-   "ts": "2026-09-08T03:47:39+00:00",
-   "ingested": "2026-09-08T04:49:00.609914+00:00",
-   "headline": "Euro drops 0.67% versus yen; sterling declines 0.78% against yen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753277,
-   "ts": "2026-09-08T03:47:29+00:00",
-   "ingested": "2026-09-08T04:49:00.609927+00:00",
-   "headline": "Dollar/yen drops 0.75% to 153.165",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753276,
-   "ts": "2026-09-08T03:43:53+00:00",
-   "ingested": "2026-09-08T04:49:00.609941+00:00",
-   "headline": "RBA's Hunter: board may need to hike rates if inflation looks set to intensify",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753275,
-   "ts": "2026-09-08T03:43:19+00:00",
-   "ingested": "2026-09-08T04:49:00.609958+00:00",
-   "headline": "RBA\u2019s Hunter: Board worried about inflation, has low tolerance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753274,
-   "ts": "2026-09-08T03:42:36+00:00",
-   "ingested": "2026-09-08T04:49:00.609972+00:00",
-   "headline": "RBA's Hunter: July CPI data represented just one month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753273,
-   "ts": "2026-09-08T03:42:12+00:00",
-   "ingested": "2026-09-08T04:49:00.609986+00:00",
-   "headline": "RBA\u2019s Hunter: Board has been clear inflation is top priority",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753272,
-   "ts": "2026-09-08T03:40:23+00:00",
-   "ingested": "2026-09-08T04:49:00.610000+00:00",
-   "headline": "Russian air strikes kill 2, injure 7 in Ukraine's Kyiv: officials",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753271,
-   "ts": "2026-09-08T03:38:15+00:00",
-   "ingested": "2026-09-08T04:49:00.610013+00:00",
-   "headline": "RBA's Hunter: Monitoring Bathla situation, no systemic risk seen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753270,
-   "ts": "2026-09-08T03:36:03+00:00",
-   "ingested": "2026-09-08T04:49:00.610028+00:00",
-   "headline": "Saudi-led coalition in Yemen: Houthis hit civilian, economic sites in Saudi cities Abha, Khamis Mushait, Najran, and Jazan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753269,
-   "ts": "2026-09-08T03:36:03+00:00",
-   "ingested": "2026-09-08T04:49:00.610041+00:00",
-   "headline": "Saudi-led coalition in Yemen: will respond firmly to Houthi attacks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753266,
-   "ts": "2026-09-08T03:33:15+00:00",
-   "ingested": "2026-09-08T04:49:00.610054+00:00",
-   "headline": "Saudi-led coalition in Yemen: 73 injured in Houthi attacks on Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753265,
-   "ts": "2026-09-08T03:30:37+00:00",
-   "ingested": "2026-09-08T04:49:00.610066+00:00",
-   "headline": "RBA's Hunter: aiming to cool down housing market, economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753264,
-   "ts": "2026-09-08T03:29:13+00:00",
-   "ingested": "2026-09-08T04:49:00.610079+00:00",
-   "headline": "RBA's Hunter: We Want to See a Weaker Economy Relative to Trend",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753263,
-   "ts": "2026-09-08T03:26:45+00:00",
-   "ingested": "2026-09-08T04:49:00.610093+00:00",
-   "headline": "RBA\u2019s Hunter: don\u2019t anticipate recession in economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753262,
-   "ts": "2026-09-08T03:25:57+00:00",
-   "ingested": "2026-09-08T04:49:00.610106+00:00",
-   "headline": "RBA's Hunter: effect of house price changes on consumer spending actually quite small",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753261,
-   "ts": "2026-09-08T03:23:21+00:00",
-   "ingested": "2026-09-08T04:49:00.610121+00:00",
-   "headline": "Reserve Bank of Australia Assistant Governor Hunter: Housing market crucial transition channel for monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753239,
-   "ts": "2026-09-08T02:51:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610133+00:00",
-   "headline": "JP Morgan upgrades ADP to overweight from neutral rating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753229,
-   "ts": "2026-09-08T02:36:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610150+00:00",
-   "headline": "China Jan-Aug unwrought aluminium and aluminium products exports 4.665 million tonnes vs 3.996 million tonnes year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753228,
-   "ts": "2026-09-08T02:36:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610165+00:00",
-   "headline": "China jan-aug rare earth shipments 39,441.4 tonnes vs 44,355.3 tonnes yr earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753227,
-   "ts": "2026-09-08T02:36:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610181+00:00",
-   "headline": "China August unwrought aluminium and aluminium products exports 626,000 tonnes vs 643,000 tonnes in July: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753226,
-   "ts": "2026-09-08T02:36:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610196+00:00",
-   "headline": "China August rare earth shipments 4,735.1 tonnes vs 4,223.5 tonnes in July: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753225,
-   "ts": "2026-09-08T02:36:49+00:00",
-   "ingested": "2026-09-08T04:49:00.610210+00:00",
-   "headline": "China August oil product exports 6.01 million tonnes vs 4.65 million tonnes in July: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753224,
-   "ts": "2026-09-08T02:36:04+00:00",
-   "ingested": "2026-09-08T04:49:00.610225+00:00",
-   "headline": "China august copper concentrate imports 2.51 million tonnes, vs 2.38 million tonnes in july: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753223,
-   "ts": "2026-09-08T02:36:04+00:00",
-   "ingested": "2026-09-08T04:49:00.610240+00:00",
-   "headline": "China jan-aug unwrought copper and copper products imports: 3,297,000 tonnes vs 3,533,000 tonnes a year earlier - customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9753222,
-   "ts": "2026-09-08T02:36:04+00:00",
-   "ingested": "2026-09-08T04:49:00.610255+00:00",
-   "headline": "China jan-aug copper concentrates imports 19.49 million tonnes vs 20.06 million tonnes year earlier: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
