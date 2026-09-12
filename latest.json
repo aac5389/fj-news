@@ -1,7 +1,15 @@
 {
- "updated": "2026-09-12T19:14:43.930085+00:00",
+ "updated": "2026-09-12T21:28:13.758013+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9760629,
+   "ts": "2026-09-12T20:05:25+00:00",
+   "ingested": "2026-09-12T21:28:13.757830+00:00",
+   "headline": "ECB releases media interview with Quest-France",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9760616,
    "ts": "2026-09-12T18:58:06+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-09-10T12:54:03+00:00",
    "ingested": "2026-09-10T13:48:37.586704+00:00",
    "headline": "ECB's Lagarde: Near-term growth outlook has improved.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9757611,
-   "ts": "2026-09-10T12:53:47+00:00",
-   "ingested": "2026-09-10T13:48:37.586717+00:00",
-   "headline": "ECB's Lagarde: Growth in employment continues to slow.",
    "channel": "rss",
    "source": "financialjuice"
   }
