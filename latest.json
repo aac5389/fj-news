@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-12T23:11:55.672512+00:00",
+ "updated": "2026-09-13T01:04:44.681077+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9760654,
+   "ts": "2026-09-13T01:01:14+00:00",
+   "ingested": "2026-09-13T01:04:44.680663+00:00",
+   "headline": "Ukmto: status of crew, damage assessment and environmental impact currently unknown",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9760652,
+   "ts": "2026-09-13T01:00:40+00:00",
+   "ingested": "2026-09-13T01:04:44.680692+00:00",
+   "headline": "Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9760629,
    "ts": "2026-09-12T20:05:25+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-10T12:54:27+00:00",
    "ingested": "2026-09-10T13:48:37.586677+00:00",
    "headline": "ECB's Lagarde: Growth will be bolstered by business and housing investment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9757613,
-   "ts": "2026-09-10T12:54:15+00:00",
-   "ingested": "2026-09-10T13:48:37.586691+00:00",
-   "headline": "ECB's Lagarde: This reflects the resilience of consumption, public investment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9757612,
-   "ts": "2026-09-10T12:54:03+00:00",
-   "ingested": "2026-09-10T13:48:37.586704+00:00",
-   "headline": "ECB's Lagarde: Near-term growth outlook has improved.",
    "channel": "rss",
    "source": "financialjuice"
   }
