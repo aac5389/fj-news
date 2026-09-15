@@ -1,7 +1,783 @@
 {
- "updated": "2026-09-15T12:12:46.487120+00:00",
+ "updated": "2026-09-15T17:04:17.073079+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9764127,
+   "ts": "2026-09-15T17:03:36+00:00",
+   "ingested": "2026-09-15T17:04:17.071202+00:00",
+   "headline": "US 20 Yr Bond Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764126,
+   "ts": "2026-09-15T17:02:14+00:00",
+   "ingested": "2026-09-15T17:04:17.071227+00:00",
+   "headline": "US 20-Year Bond Bid-to-Cover Actual 2.570 (Forecast -, Previous 2.530)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764125,
+   "ts": "2026-09-15T17:02:03+00:00",
+   "ingested": "2026-09-15T17:04:17.071244+00:00",
+   "headline": "US 20-Year Bond High Yield Actual 5.42% (Forecast -, Previous 5.204%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764111,
+   "ts": "2026-09-15T17:00:34+00:00",
+   "ingested": "2026-09-15T17:04:17.071260+00:00",
+   "headline": "US Treasury Secretary Bessent hearing at House Financial Services panel concludes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764106,
+   "ts": "2026-09-15T17:00:16+00:00",
+   "ingested": "2026-09-15T17:04:17.071273+00:00",
+   "headline": "Treasury WI 20 Yr yield 5.400% before $13 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764091,
+   "ts": "2026-09-15T16:39:19+00:00",
+   "ingested": "2026-09-15T17:04:17.071291+00:00",
+   "headline": "French Central Bank forecasts 2026 HICP inflation at 2.3% (vs 2.5% in June), sees 1.9% in 2027 (vs 1.7%) and 1.6% in 2028 (vs 1.7%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764075,
+   "ts": "2026-09-15T16:24:24+00:00",
+   "ingested": "2026-09-15T17:04:17.071304+00:00",
+   "headline": "US and Israeli and Arab military chiefs held secret meeting on Iran - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764074,
+   "ts": "2026-09-15T16:22:36+00:00",
+   "ingested": "2026-09-15T17:04:17.071317+00:00",
+   "headline": "Bank of France trims 2026 GDP forecast, sees pickup next year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764073,
+   "ts": "2026-09-15T16:22:27+00:00",
+   "ingested": "2026-09-15T17:04:17.071329+00:00",
+   "headline": "Bank of France survey indicates 3Q GDP to rise 0.1%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764072,
+   "ts": "2026-09-15T16:22:18+00:00",
+   "ingested": "2026-09-15T17:04:17.071340+00:00",
+   "headline": "Bank of France sees economy expanding 0.4% in 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764071,
+   "ts": "2026-09-15T16:22:03+00:00",
+   "ingested": "2026-09-15T17:04:17.071353+00:00",
+   "headline": "FOMC Past Market Reactions & Deviations - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764070,
+   "ts": "2026-09-15T16:18:19+00:00",
+   "ingested": "2026-09-15T17:04:17.071363+00:00",
+   "headline": "FOMC Cribsheet - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764036,
+   "ts": "2026-09-15T16:01:04+00:00",
+   "ingested": "2026-09-15T17:04:17.071378+00:00",
+   "headline": "US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764035,
+   "ts": "2026-09-15T15:58:41+00:00",
+   "ingested": "2026-09-15T17:04:17.071391+00:00",
+   "headline": "US Treasury Secretary Bessent: We do not set equilibrium price for yield levels.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764034,
+   "ts": "2026-09-15T15:54:30+00:00",
+   "ingested": "2026-09-15T17:04:17.071403+00:00",
+   "headline": "US Energy Secretary Wright's interview on CNBC ends",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764033,
+   "ts": "2026-09-15T15:52:18+00:00",
+   "ingested": "2026-09-15T17:04:17.071418+00:00",
+   "headline": "US Treasury Secretary Bessent: For a nominal amount, US Treasury was able to signal support for Japanese policies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764032,
+   "ts": "2026-09-15T15:51:18+00:00",
+   "ingested": "2026-09-15T17:04:17.071430+00:00",
+   "headline": "US Energy Secretary Wright: I think pipeline opening will be measured in days.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764031,
+   "ts": "2026-09-15T15:50:57+00:00",
+   "ingested": "2026-09-15T17:04:17.071449+00:00",
+   "headline": "US Energy Secretary Wright on Saudis and oil: I think will see pipeline running again very soon - CNBC Interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764030,
+   "ts": "2026-09-15T15:50:03+00:00",
+   "ingested": "2026-09-15T17:04:17.071461+00:00",
+   "headline": "US Treasury Secretary Bessent: US made tens of mlns of dollars on yen intervention.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764029,
+   "ts": "2026-09-15T15:49:50+00:00",
+   "ingested": "2026-09-15T17:04:17.071474+00:00",
+   "headline": "US Treasury's Bessent: Stronger yen is better for US exporters.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764025,
+   "ts": "2026-09-15T15:49:32+00:00",
+   "ingested": "2026-09-15T17:04:17.071486+00:00",
+   "headline": "US Treasury Secretary Bessent: US used nominal amount for yen intervention.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764024,
+   "ts": "2026-09-15T15:49:15+00:00",
+   "ingested": "2026-09-15T17:04:17.071499+00:00",
+   "headline": "US Treasury Secretary Bessent: We had been in constant dialog on Japan interventions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764013,
+   "ts": "2026-09-15T15:43:10+00:00",
+   "ingested": "2026-09-15T17:04:17.071511+00:00",
+   "headline": "Bessent signals work in process on offsets for $5,000 checks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764012,
+   "ts": "2026-09-15T15:34:52+00:00",
+   "ingested": "2026-09-15T17:04:17.071524+00:00",
+   "headline": "US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9764011,
+   "ts": "2026-09-15T15:34:32+00:00",
+   "ingested": "2026-09-15T17:04:17.071536+00:00",
+   "headline": "US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763986,
+   "ts": "2026-09-15T15:22:25+00:00",
+   "ingested": "2026-09-15T17:04:17.071550+00:00",
+   "headline": "US Treasury Secretary Bessent: There are ways to do $5,000 checks without affecting deficit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763985,
+   "ts": "2026-09-15T15:21:05+00:00",
+   "ingested": "2026-09-15T17:04:17.071563+00:00",
+   "headline": "US Treasury Secretary Bessent: Examining $5,000 check proposal at Treasury",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763984,
+   "ts": "2026-09-15T15:18:09+00:00",
+   "ingested": "2026-09-15T17:04:17.071575+00:00",
+   "headline": "US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763972,
+   "ts": "2026-09-15T15:04:48+00:00",
+   "ingested": "2026-09-15T17:04:17.071587+00:00",
+   "headline": "US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763970,
+   "ts": "2026-09-15T15:01:40+00:00",
+   "ingested": "2026-09-15T17:04:17.071599+00:00",
+   "headline": "Meta Launches Meta One Subscription Plans Globally $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763952,
+   "ts": "2026-09-15T15:00:36+00:00",
+   "ingested": "2026-09-15T17:04:17.071625+00:00",
+   "headline": "US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763945,
+   "ts": "2026-09-15T14:56:59+00:00",
+   "ingested": "2026-09-15T17:04:17.071639+00:00",
+   "headline": "US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763944,
+   "ts": "2026-09-15T14:55:49+00:00",
+   "ingested": "2026-09-15T17:04:17.071651+00:00",
+   "headline": "US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763943,
+   "ts": "2026-09-15T14:55:12+00:00",
+   "ingested": "2026-09-15T17:04:17.071666+00:00",
+   "headline": "House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763942,
+   "ts": "2026-09-15T14:53:40+00:00",
+   "ingested": "2026-09-15T17:04:17.071680+00:00",
+   "headline": "US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763940,
+   "ts": "2026-09-15T14:51:29+00:00",
+   "ingested": "2026-09-15T17:04:17.071694+00:00",
+   "headline": "Oil loadings suspended at top Saudi Red Sea port of Yanbu after previous attack on east-west pipeline - Shipping sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763939,
+   "ts": "2026-09-15T14:51:17+00:00",
+   "ingested": "2026-09-15T17:04:17.071706+00:00",
+   "headline": "US House Speaker Johnson: $5,000 checks will take time.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763937,
+   "ts": "2026-09-15T14:49:37+00:00",
+   "ingested": "2026-09-15T17:04:17.071719+00:00",
+   "headline": "3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763936,
+   "ts": "2026-09-15T14:48:45+00:00",
+   "ingested": "2026-09-15T17:04:17.071738+00:00",
+   "headline": "Germany\u2019s Chancellor Merz on fuel prices: I see no legal or factual basis for a windfall profit tax.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763935,
+   "ts": "2026-09-15T14:48:15+00:00",
+   "ingested": "2026-09-15T17:04:17.071751+00:00",
+   "headline": "Yemen denies Saudi Arabia's claim of a threat to attack Mecca - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763934,
+   "ts": "2026-09-15T14:47:47+00:00",
+   "ingested": "2026-09-15T17:04:17.071763+00:00",
+   "headline": "US Treasury Secretary Bessent: Fiscal consolidation is coming.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763933,
+   "ts": "2026-09-15T14:47:23+00:00",
+   "ingested": "2026-09-15T17:04:17.071776+00:00",
+   "headline": "US Treasury Secretary Bessent: Dollar drop in reserves mainly due to China and Russia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763932,
+   "ts": "2026-09-15T14:46:46+00:00",
+   "ingested": "2026-09-15T17:04:17.071790+00:00",
+   "headline": "US Treasury Secretary Bessent: Dollar continues to thrive as reserve currency. Transaction volume in dollars has risen.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763918,
+   "ts": "2026-09-15T14:45:44+00:00",
+   "ingested": "2026-09-15T17:04:17.071805+00:00",
+   "headline": "US Treasury Secretary Bessent: We will continue to push for transparency in debt restructuring in light of hidden China debt provisions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763913,
+   "ts": "2026-09-15T14:38:59+00:00",
+   "ingested": "2026-09-15T17:04:17.071817+00:00",
+   "headline": "Traders pare ECB bets. See 50% chance of rate hike in October.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763912,
+   "ts": "2026-09-15T14:38:50+00:00",
+   "ingested": "2026-09-15T17:04:17.071830+00:00",
+   "headline": "US Treasury Secretary Bessent: We would have continued fiscal contraction this year if not for tariff refunds.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763911,
+   "ts": "2026-09-15T14:38:16+00:00",
+   "ingested": "2026-09-15T17:04:17.071844+00:00",
+   "headline": "US Treasury Secretary Bessent: At a defict-to-GDP ratio of 3%, we can start to pay down debt.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763910,
+   "ts": "2026-09-15T14:36:01+00:00",
+   "ingested": "2026-09-15T17:04:17.071858+00:00",
+   "headline": "US Treasury Secretary Bessent: I have been coordinating for 6 months on AI and cybersecurity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763907,
+   "ts": "2026-09-15T14:32:58+00:00",
+   "ingested": "2026-09-15T17:04:17.071870+00:00",
+   "headline": "US Treasury Secretary Bessent: AI company CEOs can stop progress anytime they want to.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763891,
+   "ts": "2026-09-15T14:31:00+00:00",
+   "ingested": "2026-09-15T17:04:17.071883+00:00",
+   "headline": "US Treasury Secretary Bessent: The US bond market is the best performing in the world.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763885,
+   "ts": "2026-09-15T14:29:50+00:00",
+   "ingested": "2026-09-15T17:04:17.071895+00:00",
+   "headline": "Senate Republican Leader Thune: I am open to considering an export ban on diesel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763884,
+   "ts": "2026-09-15T14:29:34+00:00",
+   "ingested": "2026-09-15T17:04:17.071907+00:00",
+   "headline": "US Redbook YoY Actual 8.5% (Forecast -, Previous 8.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763883,
+   "ts": "2026-09-15T14:28:27+00:00",
+   "ingested": "2026-09-15T17:04:17.071920+00:00",
+   "headline": "US Treasury Secretary Bessent: The IMF is in advanced talks with China on their imbalances.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763882,
+   "ts": "2026-09-15T14:27:33+00:00",
+   "ingested": "2026-09-15T17:04:17.071935+00:00",
+   "headline": "US Treasury Secretary Bessent: Trump and China\u2019s President Xi will continue discussions on Iran at a summit later this month.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763881,
+   "ts": "2026-09-15T14:27:01+00:00",
+   "ingested": "2026-09-15T17:04:17.071949+00:00",
+   "headline": "US Treasury Secretary Bessent: I will continue discussions with China's He Lifeng this weekend on Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763880,
+   "ts": "2026-09-15T14:26:39+00:00",
+   "ingested": "2026-09-15T17:04:17.071962+00:00",
+   "headline": "US Treasury Secretary Bessent: We have had good private discussions with China on Iranian financial links.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763879,
+   "ts": "2026-09-15T14:26:04+00:00",
+   "ingested": "2026-09-15T17:04:17.071975+00:00",
+   "headline": "US Treasury Secretary Bessent: I have seen forward-facing statements on Iran from the UAE.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763878,
+   "ts": "2026-09-15T14:25:33+00:00",
+   "ingested": "2026-09-15T17:04:17.071992+00:00",
+   "headline": "The UK, US and the Netherlands issue an advisory exposing spyware used by Iranian state actors to target dissidents, activists, and journalists' - Statement by UK's NCSC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763877,
+   "ts": "2026-09-15T14:22:42+00:00",
+   "ingested": "2026-09-15T17:04:17.072005+00:00",
+   "headline": "US Treasury Secretary Bessent: We are now ending the Iran threat, not managing it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763876,
+   "ts": "2026-09-15T14:22:14+00:00",
+   "ingested": "2026-09-15T17:04:17.072017+00:00",
+   "headline": "US Treasury Secretary Bessent: A new industrial super-cycle is underway.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763875,
+   "ts": "2026-09-15T14:19:17+00:00",
+   "ingested": "2026-09-15T17:04:17.072029+00:00",
+   "headline": "OpenAI: We're working with Anthropic, Google on AI safety.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763873,
+   "ts": "2026-09-15T14:18:13+00:00",
+   "ingested": "2026-09-15T17:04:17.072046+00:00",
+   "headline": "Fear and Greed Index: 31/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763860,
+   "ts": "2026-09-15T14:06:08+00:00",
+   "ingested": "2026-09-15T17:04:17.072060+00:00",
+   "headline": "US Treasury Secretary Bessent: We have set the table for a robust economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763859,
+   "ts": "2026-09-15T14:04:06+00:00",
+   "ingested": "2026-09-15T17:04:17.072072+00:00",
+   "headline": "US Treasury Secretary Bessent asked on 10-Yr yields, blames oil price rise.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763858,
+   "ts": "2026-09-15T14:03:50+00:00",
+   "ingested": "2026-09-15T17:04:17.072085+00:00",
+   "headline": "Standard Charted on FOMC: Hiking is the wrong choice - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763836,
+   "ts": "2026-09-15T14:01:08+00:00",
+   "ingested": "2026-09-15T17:04:17.072098+00:00",
+   "headline": "META: Chips will save money and energy compared with Nvidia. $META $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763834,
+   "ts": "2026-09-15T14:00:40+00:00",
+   "ingested": "2026-09-15T17:04:17.072111+00:00",
+   "headline": "META to deploy new in-house Arke chips in first half of 2027. $META $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763825,
+   "ts": "2026-09-15T14:00:18+00:00",
+   "ingested": "2026-09-15T17:04:17.072124+00:00",
+   "headline": "META to roll out next-generation Astrid Chips at end of 2027. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763824,
+   "ts": "2026-09-15T13:59:28+00:00",
+   "ingested": "2026-09-15T17:04:17.072135+00:00",
+   "headline": "JPMorgan Rate Forecasts - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763823,
+   "ts": "2026-09-15T13:56:05+00:00",
+   "ingested": "2026-09-15T17:04:17.072146+00:00",
+   "headline": "Goldman Sachs on NQ - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763822,
+   "ts": "2026-09-15T13:55:00+00:00",
+   "ingested": "2026-09-15T17:04:17.072158+00:00",
+   "headline": "WATCH LIVE: US Treasury Secretary Bessent Speaks 10 AM ET",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763808,
+   "ts": "2026-09-15T13:47:20+00:00",
+   "ingested": "2026-09-15T17:04:17.072171+00:00",
+   "headline": "US Treasury Secretary Bessent asked about rising bond yields on Tuesday: This is due to global issues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763804,
+   "ts": "2026-09-15T13:42:14+00:00",
+   "ingested": "2026-09-15T17:04:17.072183+00:00",
+   "headline": "OpenAI backs the House plan for safety assessments - Politico.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763803,
+   "ts": "2026-09-15T13:40:04+00:00",
+   "ingested": "2026-09-15T17:04:17.072195+00:00",
+   "headline": "Canada's corporate tax deduction is going to cost C$36b over five years.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763798,
+   "ts": "2026-09-15T13:32:28+00:00",
+   "ingested": "2026-09-15T17:04:17.072207+00:00",
+   "headline": "Libya NOC: Output halted at the Hamada and Al-tahara fields.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763796,
+   "ts": "2026-09-15T13:31:10+00:00",
+   "ingested": "2026-09-15T17:04:17.072222+00:00",
+   "headline": "Saudi Arabia is informing some European oil refiners that their September-loading Crude cargoes are cancelled after the East-West pipeline closure - Three trade sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763787,
+   "ts": "2026-09-15T13:28:42+00:00",
+   "ingested": "2026-09-15T17:04:17.072237+00:00",
+   "headline": "Karachaganak output to drop up to 450k tons during repair - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763786,
+   "ts": "2026-09-15T13:26:58+00:00",
+   "ingested": "2026-09-15T17:04:17.072251+00:00",
+   "headline": "French PM Lecornu aims to keep govt spending flat in 2027 budget - Echos",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763785,
+   "ts": "2026-09-15T13:23:53+00:00",
+   "ingested": "2026-09-15T17:04:17.072268+00:00",
+   "headline": "Canada's PM Carney: Two-thirds of all assets will now qualify for machinery, citing manufacturing equipment, software, patents, R&D, fiber, rail, pipelines, and other infrastructure",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763784,
+   "ts": "2026-09-15T13:22:59+00:00",
+   "ingested": "2026-09-15T17:04:17.072282+00:00",
+   "headline": "Canada's PM Carney: Canada will allow immediate expensing for most new capital investment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763783,
+   "ts": "2026-09-15T13:22:15+00:00",
+   "ingested": "2026-09-15T17:04:17.072294+00:00",
+   "headline": "US Sentiment: Market Gearing Up For Fed Hike, Trump's TruthMania - FJELite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763762,
+   "ts": "2026-09-15T13:14:05+00:00",
+   "ingested": "2026-09-15T17:04:17.072307+00:00",
+   "headline": "China and US Discuss Cutting Tariffs on Agriculture and Energy - People familiar with the matter.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763761,
+   "ts": "2026-09-15T13:10:40+00:00",
+   "ingested": "2026-09-15T17:04:17.072320+00:00",
+   "headline": "Fitch Ratings: Weaker AI pricing power undermines capex sustainability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763760,
+   "ts": "2026-09-15T13:03:03+00:00",
+   "ingested": "2026-09-15T17:04:17.072333+00:00",
+   "headline": "Micron sees 512GB RDIMMs in volume production in 2H 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763759,
+   "ts": "2026-09-15T13:02:30+00:00",
+   "ingested": "2026-09-15T17:04:17.072345+00:00",
+   "headline": "Canada extends immediate tax write-offs to range of investments.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763744,
+   "ts": "2026-09-15T13:01:08+00:00",
+   "ingested": "2026-09-15T17:04:17.072358+00:00",
+   "headline": "ECB: Forex reserves fell \u20ac100 mln to \u20ac350.0 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763742,
+   "ts": "2026-09-15T13:00:50+00:00",
+   "ingested": "2026-09-15T17:04:17.072369+00:00",
+   "headline": "US destroyed two Iranian small boats Monday - Axios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763741,
+   "ts": "2026-09-15T13:00:40+00:00",
+   "ingested": "2026-09-15T17:04:17.072381+00:00",
+   "headline": "ECB settled \u20ac216.3 bln corporate bond purchases",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763740,
+   "ts": "2026-09-15T13:00:35+00:00",
+   "ingested": "2026-09-15T17:04:17.072393+00:00",
+   "headline": "ECB settled \u20ac1,667.2 bln public-sector bond purchases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763727,
+   "ts": "2026-09-15T12:59:51+00:00",
+   "ingested": "2026-09-15T17:04:17.072412+00:00",
+   "headline": "Effective Fed funds rate 3.63% September 14th vs 3.63% September 11th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763726,
+   "ts": "2026-09-15T12:53:52+00:00",
+   "ingested": "2026-09-15T17:04:17.072426+00:00",
+   "headline": "Oman Foreign Minister, US Secretary of State discuss regional developments in phone call - Oman News Agency.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763725,
+   "ts": "2026-09-15T12:53:11+00:00",
+   "ingested": "2026-09-15T17:04:17.072440+00:00",
+   "headline": "Diplomatic sources confirm: Israel is assisting Saudi Arabia with intelligence gathering against the Houthis - Israel's Hayom News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763710,
+   "ts": "2026-09-15T12:45:39+00:00",
+   "ingested": "2026-09-15T17:04:17.072453+00:00",
+   "headline": "German Finance Minister Klingbeil on gasoline prices: We must now reduce the burden and find alternative funding.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763681,
+   "ts": "2026-09-15T12:30:13+00:00",
+   "ingested": "2026-09-15T17:04:17.072467+00:00",
+   "headline": "Canadian Wholesale Sales MoM Actual 0.3% (Forecast -0.5%, Previous 2.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763680,
+   "ts": "2026-09-15T12:30:00+00:00",
+   "ingested": "2026-09-15T17:04:17.072479+00:00",
+   "headline": "NY Fed Manufacturing Actual 7.6 (Forecast 15, Previous 20.60)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763679,
+   "ts": "2026-09-15T12:28:32+00:00",
+   "ingested": "2026-09-15T17:04:17.072494+00:00",
+   "headline": "ADNOC has agreed to buy 72 million of barrels of discounted Iraqi crude in tenders for August through September - Iraq Energy Source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9763678,
+   "ts": "2026-09-15T12:28:32+00:00",
+   "ingested": "2026-09-15T17:04:17.072509+00:00",
+   "headline": "UAE's Adnoc buys millions of barrels of discounted Iraqi crude in tenders for August through September - Iraqi Energy Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9763653,
    "ts": "2026-09-15T12:11:52+00:00",
@@ -3223,782 +3999,6 @@
    "ts": "2026-09-13T18:00:55+00:00",
    "ingested": "2026-09-13T18:07:30.407954+00:00",
    "headline": "Sweden's Social Democrats forecasted to secure 28.4% of votes in election vs 30.3% in 2022 - public broadcaster SVT exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760921,
-   "ts": "2026-09-13T17:46:03+00:00",
-   "ingested": "2026-09-13T18:07:30.407964+00:00",
-   "headline": "Trump: lifting tariffs on Irish whiskey",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760898,
-   "ts": "2026-09-13T15:18:12+00:00",
-   "ingested": "2026-09-13T18:07:30.407979+00:00",
-   "headline": "Danger has passed in Saudi Arabia\u2019s Abha: Saudi Civil Defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760897,
-   "ts": "2026-09-13T15:17:25+00:00",
-   "ingested": "2026-09-13T18:07:30.407991+00:00",
-   "headline": "Danger has passed in Saudi Arabia's Khamis Mushait: Saudi civil defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760891,
-   "ts": "2026-09-13T15:10:47+00:00",
-   "ingested": "2026-09-13T18:07:30.408003+00:00",
-   "headline": "Emergency alert issued in Saudi Arabia's Khamis Mushait and Abha: Saudi civil defence warns of potential risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760872,
-   "ts": "2026-09-13T13:36:33+00:00",
-   "ingested": "2026-09-13T15:05:07.642970+00:00",
-   "headline": "Kosovo parliament reappoints Albin Kurti as prime minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760868,
-   "ts": "2026-09-13T13:15:28+00:00",
-   "ingested": "2026-09-13T15:05:07.643012+00:00",
-   "headline": "Trump on China: not concerned Xi will cancel summit, says China has treated US fairly over recent years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760865,
-   "ts": "2026-09-13T13:14:32+00:00",
-   "ingested": "2026-09-13T15:05:07.643043+00:00",
-   "headline": "Trump on Irish unity: Won't discuss Scotland for now, will address later",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760864,
-   "ts": "2026-09-13T13:14:17+00:00",
-   "ingested": "2026-09-13T15:05:07.643093+00:00",
-   "headline": "Trump on Irish unity: natural to unite north and south",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760863,
-   "ts": "2026-09-13T13:13:17+00:00",
-   "ingested": "2026-09-13T15:05:07.643119+00:00",
-   "headline": "Trump on Ukraine: we discussed that with Zelenskiy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760862,
-   "ts": "2026-09-13T13:13:06+00:00",
-   "ingested": "2026-09-13T15:05:07.643146+00:00",
-   "headline": "Trump on Ukraine: Zelenskiy must halt cutting diesel fuel supply in Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760861,
-   "ts": "2026-09-13T13:12:23+00:00",
-   "ingested": "2026-09-13T15:05:07.643171+00:00",
-   "headline": "Trump on Iran: indifferent if gulf states engage with Iran, decision is theirs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760860,
-   "ts": "2026-09-13T13:11:54+00:00",
-   "ingested": "2026-09-13T15:05:07.643193+00:00",
-   "headline": "Trump: Iran eager to reach a deal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760859,
-   "ts": "2026-09-13T13:11:42+00:00",
-   "ingested": "2026-09-13T15:05:07.643217+00:00",
-   "headline": "Trump on Iran: Iran war will wrap up perhaps before or shortly after midterms",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760858,
-   "ts": "2026-09-13T13:11:02+00:00",
-   "ingested": "2026-09-13T15:05:07.643239+00:00",
-   "headline": "Trump: I always honor my commitments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760857,
-   "ts": "2026-09-13T13:10:49+00:00",
-   "ingested": "2026-09-13T15:05:07.643265+00:00",
-   "headline": "Trump: $5,000 post-election promise should be easy for Congress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760856,
-   "ts": "2026-09-13T13:10:03+00:00",
-   "ingested": "2026-09-13T15:05:07.643291+00:00",
-   "headline": "Trump on Fed decision next week: says US should have lowest rates globally",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760846,
-   "ts": "2026-09-13T12:36:43+00:00",
-   "ingested": "2026-09-13T15:05:07.643319+00:00",
-   "headline": "Iranian president: talk with Abu Dhabi crown prince was positive, agreed to move beyond past - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760834,
-   "ts": "2026-09-13T12:00:22+00:00",
-   "ingested": "2026-09-13T15:05:07.643349+00:00",
-   "headline": "Saudi Arabia has storage at Yanbu for only 5-7 days of exports, plus smaller amount stored in Egypt, three sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760833,
-   "ts": "2026-09-13T12:00:19+00:00",
-   "ingested": "2026-09-13T15:05:07.643378+00:00",
-   "headline": "Saudi pipeline outage threatens 4% loss in global oil supply unless pumping resumes within days, say traders, sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760816,
-   "ts": "2026-09-13T10:54:23+00:00",
-   "ingested": "2026-09-13T11:42:38.895926+00:00",
-   "headline": "Lithuanian national crisis management centre: possible drone alert has ended",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760803,
-   "ts": "2026-09-13T10:29:27+00:00",
-   "ingested": "2026-09-13T11:42:38.895959+00:00",
-   "headline": "Lithuania closes Vilnius airport, NATO deploys fighter jets after potential drone sighting \u2013 national crisis management centre",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760802,
-   "ts": "2026-09-13T10:26:25+00:00",
-   "ingested": "2026-09-13T11:42:38.895979+00:00",
-   "headline": "z.al 2513.hk secures $5 billion through new share and convertible bond sales, filing reveals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760801,
-   "ts": "2026-09-13T10:26:25+00:00",
-   "ingested": "2026-09-13T11:42:38.895998+00:00",
-   "headline": "Goldenmax International denies reports of products certified into Nvidia, Huawei supply chains after unusual share price moves",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760798,
-   "ts": "2026-09-13T10:12:20+00:00",
-   "ingested": "2026-09-13T11:42:38.896018+00:00",
-   "headline": "South Korea industry minister: $200 billion total investment cap, $20 billion annual investment to be maintained as previously agreed with U.S.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760787,
-   "ts": "2026-09-13T08:47:52+00:00",
-   "ingested": "2026-09-13T11:42:38.896055+00:00",
-   "headline": "Ukraine\u2019s military: strike on Taneko oil refinery in Russia\u2019s Tatarstan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760785,
-   "ts": "2026-09-13T08:24:34+00:00",
-   "ingested": "2026-09-13T11:42:38.896071+00:00",
-   "headline": "Italy economy minister: crucial for Italy to maintain public finances as ECB hikes interest rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760780,
-   "ts": "2026-09-13T07:58:01+00:00",
-   "ingested": "2026-09-13T11:42:38.896087+00:00",
-   "headline": "Goldenmax International 002636.SZ refutes claims of product certification",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760779,
-   "ts": "2026-09-13T07:58:01+00:00",
-   "ingested": "2026-09-13T11:42:38.896100+00:00",
-   "headline": "into Nvidia, Huawei supply chains after unusual stock price shifts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760778,
-   "ts": "2026-09-13T07:54:49+00:00",
-   "ingested": "2026-09-13T11:42:38.896114+00:00",
-   "headline": "Guangdong Goworld denies market rumor about high-frequency boards passing Nvidia certification after unusual share price moves",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760771,
-   "ts": "2026-09-13T07:43:27+00:00",
-   "ingested": "2026-09-13T11:42:38.896128+00:00",
-   "headline": "Ukraine's military: oil refinery struck in Russia's Krasnodar region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760770,
-   "ts": "2026-09-13T07:41:27+00:00",
-   "ingested": "2026-09-13T11:42:38.896140+00:00",
-   "headline": "UKMTO: local officials evacuating crew of ship assaulted in Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760762,
-   "ts": "2026-09-13T06:51:25+00:00",
-   "ingested": "2026-09-13T11:42:38.896154+00:00",
-   "headline": "Kremlin: Modi and Xi actively proposed help for Ukraine settlement, Putin welcomed their willingness - TASS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760739,
-   "ts": "2026-09-13T05:07:47+00:00",
-   "ingested": "2026-09-13T06:02:59.959376+00:00",
-   "headline": "South Korea government wins final ruling in 260 billion won Chinese investor arbitration case - media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760737,
-   "ts": "2026-09-13T04:41:08+00:00",
-   "ingested": "2026-09-13T06:02:59.959391+00:00",
-   "headline": "Iranian commercial ship hit near Qeshm Island: one dead and three injured - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760654,
-   "ts": "2026-09-13T01:01:14+00:00",
-   "ingested": "2026-09-13T01:04:44.680663+00:00",
-   "headline": "Ukmto: status of crew, damage assessment and environmental impact currently unknown",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760652,
-   "ts": "2026-09-13T01:00:40+00:00",
-   "ingested": "2026-09-13T01:04:44.680692+00:00",
-   "headline": "Ukmto: Vessel hit by unidentified projectile while passing Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760629,
-   "ts": "2026-09-12T20:05:25+00:00",
-   "ingested": "2026-09-12T21:28:13.757830+00:00",
-   "headline": "ECB releases media interview with Quest-France",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760616,
-   "ts": "2026-09-12T18:58:06+00:00",
-   "ingested": "2026-09-12T19:14:43.929577+00:00",
-   "headline": "Projectile from Yemen's Houthis causes material damage to mosque, buildings, vehicles: Saudi civil defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760615,
-   "ts": "2026-09-12T18:57:04+00:00",
-   "ingested": "2026-09-12T19:14:43.929598+00:00",
-   "headline": "Projectile wounds two in Saudi Arabia's Jizan: Saudi civil defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760610,
-   "ts": "2026-09-12T18:13:29+00:00",
-   "ingested": "2026-09-12T19:14:43.929616+00:00",
-   "headline": "UK foreign secretary Ed Miliband: discussed Houthi aggression in Yemen and attacks on Saudi Arabia with Saudi foreign minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760609,
-   "ts": "2026-09-12T18:13:29+00:00",
-   "ingested": "2026-09-12T19:14:43.929633+00:00",
-   "headline": "UK foreign secretary Ed Miliband: UK stands firmly with Saudi Arabia and internationally recognized Yemen government against attacks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760608,
-   "ts": "2026-09-12T18:12:49+00:00",
-   "ingested": "2026-09-12T19:14:43.929647+00:00",
-   "headline": "Minister to discuss Houthi aggression in Yemen and attacks on Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760607,
-   "ts": "2026-09-12T18:12:49+00:00",
-   "ingested": "2026-09-12T19:14:43.929660+00:00",
-   "headline": "UK foreign secretary Ed Miliband: spoke with Saudi counterpart",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760606,
-   "ts": "2026-09-12T18:11:29+00:00",
-   "ingested": "2026-09-12T19:14:43.929672+00:00",
-   "headline": "Danger has passed in Abha: Saudi civil defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760605,
-   "ts": "2026-09-12T18:10:47+00:00",
-   "ingested": "2026-09-12T19:14:43.929684+00:00",
-   "headline": "Danger passed in Khamis Mushait: Saudi civil defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760604,
-   "ts": "2026-09-12T18:02:54+00:00",
-   "ingested": "2026-09-12T19:14:43.929698+00:00",
-   "headline": "Emergency alert issued in Saudi Arabia's Abha warning of potential threat: Saudi Civil Defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760603,
-   "ts": "2026-09-12T18:01:46+00:00",
-   "ingested": "2026-09-12T19:14:43.929712+00:00",
-   "headline": "Emergency alert in Saudi Arabia's Khamis Mushait warns of possible danger: Saudi Civil Defence",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760600,
-   "ts": "2026-09-12T17:57:41+00:00",
-   "ingested": "2026-09-12T19:14:43.929725+00:00",
-   "headline": "Iran state media: sound of two blasts heard near Qeshm from the sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760581,
-   "ts": "2026-09-12T17:00:04+00:00",
-   "ingested": "2026-09-12T17:03:28.877358+00:00",
-   "headline": "Economic costs from Ukraine's seaports blockade and destruction about 1.5 percentage points of GDP this year: minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760580,
-   "ts": "2026-09-12T17:00:04+00:00",
-   "ingested": "2026-09-12T17:03:28.877378+00:00",
-   "headline": "Destruction of Ukraine's infrastructure, fixed assets from Russian airstrikes estimated at $10 billion this year: economy minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760579,
-   "ts": "2026-09-12T17:00:04+00:00",
-   "ingested": "2026-09-12T17:03:28.877392+00:00",
-   "headline": "Economy minister: about $40 billion of Ukraine's export revenue threatened by blockade",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760576,
-   "ts": "2026-09-12T16:36:01+00:00",
-   "ingested": "2026-09-12T17:03:28.877409+00:00",
-   "headline": "Iranian source to Tasnim: Reopening of Strait of Hormuz hinges entirely on U.S. meeting Iran\u2019s conditions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760575,
-   "ts": "2026-09-12T16:35:26+00:00",
-   "ingested": "2026-09-12T17:03:28.877421+00:00",
-   "headline": "Iranian source to Tasnim: GCC countries to be updated on outcome of Iran-Oman talks, decisions at Oman meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760574,
-   "ts": "2026-09-12T16:34:39+00:00",
-   "ingested": "2026-09-12T17:03:28.877431+00:00",
-   "headline": "Iranian source to Tasnim: Iraq to participate in meeting in Oman on Monday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760573,
-   "ts": "2026-09-12T16:34:07+00:00",
-   "ingested": "2026-09-12T17:03:28.877442+00:00",
-   "headline": "Iranian source to Tasnim: southern route will close despite U.S. pressure to reopen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760572,
-   "ts": "2026-09-12T16:33:25+00:00",
-   "ingested": "2026-09-12T17:03:28.877458+00:00",
-   "headline": "Iranian source to Tasnim: entry path into Persian Gulf lies fully within Iranian territorial waters, while part of exit route from Persian Gulf also lies within Iranian territory",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760571,
-   "ts": "2026-09-12T16:32:42+00:00",
-   "ingested": "2026-09-12T17:03:28.877470+00:00",
-   "headline": "Iranian source to Tasnim: Iran and Oman finalize details of new routes for entry and exit from Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760570,
-   "ts": "2026-09-12T16:32:13+00:00",
-   "ingested": "2026-09-12T17:03:28.877481+00:00",
-   "headline": "Iranian source to Tasnim News Agency: Strait of Hormuz will remain closed despite the Iran-Oman agreement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760555,
-   "ts": "2026-09-12T15:19:13+00:00",
-   "ingested": "2026-09-12T17:03:28.877496+00:00",
-   "headline": "Iraq's Ajil oilfield contract targets boosting output to 40,000 bpd from 30,000 bpd: PM\u2019s office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760554,
-   "ts": "2026-09-12T15:18:39+00:00",
-   "ingested": "2026-09-12T17:03:28.877510+00:00",
-   "headline": "Iraq inks 25-year deal with private firm to develop Ajil oilfield, boost gas output to 300 million cubic feet/day from 135 million \u2014 PM's office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760532,
-   "ts": "2026-09-12T14:09:15+00:00",
-   "ingested": "2026-09-12T17:03:28.877521+00:00",
-   "headline": "Anthropic\u2019s Amodei: Proposes frontier AI firms in democratic nations coordinate to set joint safety standards",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760531,
-   "ts": "2026-09-12T14:08:49+00:00",
-   "ingested": "2026-09-12T17:03:28.877532+00:00",
-   "headline": "Anthropic's Amodei: US and other democratic governments should try to coordinate with others",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760530,
-   "ts": "2026-09-12T14:08:22+00:00",
-   "ingested": "2026-09-12T17:03:28.877543+00:00",
-   "headline": "Anthropic's Amodei proposes each leading AI company provide continuous, employee-level access to embedded third-party evaluators",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760529,
-   "ts": "2026-09-12T14:06:36+00:00",
-   "ingested": "2026-09-12T17:03:28.877556+00:00",
-   "headline": "Anthropic's Amodei: pacing means not halting model training or technical progress, ensuring companies take adequate time to align and safeguard models",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760528,
-   "ts": "2026-09-12T14:05:44+00:00",
-   "ingested": "2026-09-12T17:03:28.877567+00:00",
-   "headline": "Anthropic\u2019s Dario Amodei: proposing developing AI at a measured pace to ensure safety",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760527,
-   "ts": "2026-09-12T14:05:03+00:00",
-   "ingested": "2026-09-12T14:05:31.862050+00:00",
-   "headline": "Anthropic's Dario Amodei: proposing a three-step strategy to pace the frontier",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760526,
-   "ts": "2026-09-12T14:03:41+00:00",
-   "ingested": "2026-09-12T14:05:31.862078+00:00",
-   "headline": "Anthropic\u2019s Dario Amodei: We must slow the pace of improving AI model capabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760516,
-   "ts": "2026-09-12T13:48:26+00:00",
-   "ingested": "2026-09-12T14:05:31.862098+00:00",
-   "headline": "Iraq's Al-Tayyib border area with Iran closed after drone launch sites found: two Iraqi military sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760515,
-   "ts": "2026-09-12T13:46:27+00:00",
-   "ingested": "2026-09-12T14:05:31.862118+00:00",
-   "headline": "Modi, Xi highlight need to address concerns including trade imbalance, supply chain issues, and predictable market access: India foreign minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760513,
-   "ts": "2026-09-12T13:45:29+00:00",
-   "ingested": "2026-09-12T14:05:31.862135+00:00",
-   "headline": "India's Modi, China's Xi emphasize need to boost business ties and mobility between countries: India foreign ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760511,
-   "ts": "2026-09-12T13:45:13+00:00",
-   "ingested": "2026-09-12T14:05:31.862150+00:00",
-   "headline": "India foreign ministry: Modi, Xi agree differences must not turn into disputes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760510,
-   "ts": "2026-09-12T13:44:56+00:00",
-   "ingested": "2026-09-12T14:05:31.862165+00:00",
-   "headline": "India foreign ministry: Modi, Xi reaffirm both nations should adopt strategic, long-term view of ties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760509,
-   "ts": "2026-09-12T13:44:48+00:00",
-   "ingested": "2026-09-12T14:05:31.862185+00:00",
-   "headline": "India\u2019s Modi in meeting with China\u2019s Xi underlined need for both sides to observe existing agreements and understandings on border issues: India foreign ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760508,
-   "ts": "2026-09-12T13:44:26+00:00",
-   "ingested": "2026-09-12T14:05:31.862200+00:00",
-   "headline": "India foreign ministry: Modi, Xi express commitment to fair, reasonable, mutually acceptable boundary resolution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760507,
-   "ts": "2026-09-12T13:44:02+00:00",
-   "ingested": "2026-09-12T14:05:31.862215+00:00",
-   "headline": "India foreign ministry: Modi tells China's Xi peace, stability in border areas vital for ongoing growth in bilateral ties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760480,
-   "ts": "2026-09-12T12:55:38+00:00",
-   "ingested": "2026-09-12T14:05:31.862229+00:00",
-   "headline": "Iraq agrees to Iranian request to jointly probe drone launchers on border: Iraqi army",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760479,
-   "ts": "2026-09-12T12:49:55+00:00",
-   "ingested": "2026-09-12T14:05:31.862244+00:00",
-   "headline": "Bahrain: any deal must protect transit rights for all vessels without discrimination, fees or permits - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760478,
-   "ts": "2026-09-12T12:47:56+00:00",
-   "ingested": "2026-09-12T14:05:31.862257+00:00",
-   "headline": "Bahrain: will skip Iran meeting on Hormuz Strait - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760477,
-   "ts": "2026-09-12T12:47:31+00:00",
-   "ingested": "2026-09-12T14:05:31.862270+00:00",
-   "headline": "Bahrain: no meetings with Iran until diplomatic ties restored - state news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760474,
-   "ts": "2026-09-12T12:43:18+00:00",
-   "ingested": "2026-09-12T14:05:31.862284+00:00",
-   "headline": "Kremlin expresses concern about situation in Bab el-Mandeb Strait - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760464,
-   "ts": "2026-09-12T11:50:54+00:00",
-   "ingested": "2026-09-12T14:05:31.862298+00:00",
-   "headline": "Nigel Farage's Reform UK party secures second \u00a336 million contribution - Telegraph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760463,
-   "ts": "2026-09-12T11:35:23+00:00",
-   "ingested": "2026-09-12T14:05:31.862312+00:00",
-   "headline": "Zelenskiy: Three killed, dozens injured in Russian strikes on 10 Ukrainian regions Saturday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760460,
-   "ts": "2026-09-12T11:04:04+00:00",
-   "ingested": "2026-09-12T11:08:37.882542+00:00",
-   "headline": "UK government on Trump\u2019s Irish unification remarks: PM\u2019s position remains no majority public backing for another referendum, and until that shifts, none will occur",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760459,
-   "ts": "2026-09-12T11:02:45+00:00",
-   "ingested": "2026-09-12T11:08:37.882579+00:00",
-   "headline": "UK government on Trump\u2019s Irish unification remarks: PM Burnham\u2019s stance on Good Friday Agreement remains unchanged",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760453,
-   "ts": "2026-09-12T10:55:58+00:00",
-   "ingested": "2026-09-12T11:08:37.882607+00:00",
-   "headline": "Trump on Irish unification: no matter what you say or how you say it, there\u2019s no good solution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760452,
-   "ts": "2026-09-12T10:54:43+00:00",
-   "ingested": "2026-09-12T11:08:37.882633+00:00",
-   "headline": "Russia's Rosatom: plans to boost specialists at Bushehr nuclear power plant in Iran to 150 soon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760441,
-   "ts": "2026-09-12T09:57:08+00:00",
-   "ingested": "2026-09-12T11:08:37.882653+00:00",
-   "headline": "Trump on Canada: likely to reach agreement fairly soon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760440,
-   "ts": "2026-09-12T09:56:54+00:00",
-   "ingested": "2026-09-12T11:08:37.882672+00:00",
-   "headline": "Trump on Canada: Canada must improve treatment of U.S. farmers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760439,
-   "ts": "2026-09-12T09:56:42+00:00",
-   "ingested": "2026-09-12T11:08:37.882689+00:00",
-   "headline": "Trump on Canada: agreement might occur at right time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760438,
-   "ts": "2026-09-12T09:56:19+00:00",
-   "ingested": "2026-09-12T11:08:37.882707+00:00",
-   "headline": "Trump on MCA trade pact: Canada eager to strike deal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760437,
-   "ts": "2026-09-12T09:51:06+00:00",
-   "ingested": "2026-09-12T11:08:37.882725+00:00",
-   "headline": "Trump on Saudi pipeline attack: We control Hormuz Strait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760436,
-   "ts": "2026-09-12T09:50:33+00:00",
-   "ingested": "2026-09-12T11:08:37.882743+00:00",
-   "headline": "Trump on Saudi pipeline strike: Houthis avoid conflict with US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760435,
-   "ts": "2026-09-12T09:50:18+00:00",
-   "ingested": "2026-09-12T11:08:37.882761+00:00",
-   "headline": "Trump on Saudia pipeline attack: Iran likely behind assault",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760434,
-   "ts": "2026-09-12T09:49:25+00:00",
-   "ingested": "2026-09-12T11:08:37.882782+00:00",
-   "headline": "Trump on protests: \"I didn't know there was a protest\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760433,
-   "ts": "2026-09-12T09:45:51+00:00",
-   "ingested": "2026-09-12T11:08:37.882802+00:00",
-   "headline": "Trump on Saudi pipeline attack: Crown prince is a close ally, everything will work out fine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760432,
-   "ts": "2026-09-12T09:45:26+00:00",
-   "ingested": "2026-09-12T11:08:37.882831+00:00",
-   "headline": "Trump on Iran: oil prices to plunge when conflict ends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9760431,
-   "ts": "2026-09-12T09:44:44+00:00",
-   "ingested": "2026-09-12T11:08:37.882868+00:00",
-   "headline": "Trump on Iran: war will conclude very soon",
    "channel": "rss",
    "source": "financialjuice"
   }
