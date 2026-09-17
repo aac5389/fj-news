@@ -1,7 +1,359 @@
 {
- "updated": "2026-09-17T14:42:55.797994+00:00",
+ "updated": "2026-09-17T18:36:18.551295+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9767988,
+   "ts": "2026-09-17T18:32:07+00:00",
+   "ingested": "2026-09-17T18:36:18.550421+00:00",
+   "headline": "NYMEX Diesel October futures settle at $5.1139 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767987,
+   "ts": "2026-09-17T18:31:54+00:00",
+   "ingested": "2026-09-17T18:36:18.550440+00:00",
+   "headline": "NYMEX Gasoline October futures settle at $3.5073 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767986,
+   "ts": "2026-09-17T18:31:39+00:00",
+   "ingested": "2026-09-17T18:36:18.550453+00:00",
+   "headline": "NYMEX Natural Gas October futures settle at $2.9010/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767980,
+   "ts": "2026-09-17T18:31:06+00:00",
+   "ingested": "2026-09-17T18:36:18.550470+00:00",
+   "headline": "NYMEX WTI Crude October futures settle at $101.91 a barrel, down 52 cents, 0.51%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767959,
+   "ts": "2026-09-17T18:13:07+00:00",
+   "ingested": "2026-09-17T18:36:18.550482+00:00",
+   "headline": "Trump and Mexico's President Sheinbaum are close to a trade agreement - Politico.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767958,
+   "ts": "2026-09-17T18:03:46+00:00",
+   "ingested": "2026-09-17T18:36:18.550492+00:00",
+   "headline": "OpenAI and Microsoft knew of AI threats to news industry. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767919,
+   "ts": "2026-09-17T17:34:31+00:00",
+   "ingested": "2026-09-17T18:36:18.550506+00:00",
+   "headline": "OpenAI and Nvidia CEOs to attend Trump-Xi state dinner - ABC. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767908,
+   "ts": "2026-09-17T17:30:29+00:00",
+   "ingested": "2026-09-17T18:36:18.550517+00:00",
+   "headline": "US imposes sanctions on BitBank cryptocurrency exchange, accusing it of enabling Iranian government - Statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767905,
+   "ts": "2026-09-17T17:25:46+00:00",
+   "ingested": "2026-09-17T18:36:18.550528+00:00",
+   "headline": "Trump: Progress made toward US army base in Poland. Location will be announced very soon - Truth Social Post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767904,
+   "ts": "2026-09-17T17:20:29+00:00",
+   "ingested": "2026-09-17T18:36:18.550539+00:00",
+   "headline": "Iraqi Prime Minister and Trump to discuss bilateral relations and regional developments - Mehr News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767903,
+   "ts": "2026-09-17T17:19:43+00:00",
+   "ingested": "2026-09-17T18:36:18.550569+00:00",
+   "headline": "Iraqi Prime Minister to visit US and meet with Trump next week - Mehr News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767898,
+   "ts": "2026-09-17T17:13:26+00:00",
+   "ingested": "2026-09-17T18:36:18.550588+00:00",
+   "headline": "SpaceX: Targeting to launch Starship flight 14 as early as Sep 28. $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767896,
+   "ts": "2026-09-17T17:10:27+00:00",
+   "ingested": "2026-09-17T18:36:18.550598+00:00",
+   "headline": "FAA to launch AI-powered air-traffic tool - WSJ.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767894,
+   "ts": "2026-09-17T17:09:36+00:00",
+   "ingested": "2026-09-17T18:36:18.550609+00:00",
+   "headline": "Fitch Ratings: Low August US defaults reflect seasonal slowdown as market concern loans build",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767892,
+   "ts": "2026-09-17T17:07:12+00:00",
+   "ingested": "2026-09-17T18:36:18.550619+00:00",
+   "headline": "Iran downed at least 2 unmanned American aircraft recently - CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767891,
+   "ts": "2026-09-17T17:03:40+00:00",
+   "ingested": "2026-09-17T18:36:18.550627+00:00",
+   "headline": "US 10 Yr TIPS Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767890,
+   "ts": "2026-09-17T17:02:19+00:00",
+   "ingested": "2026-09-17T18:36:18.550637+00:00",
+   "headline": "US 10-Year TIPS Bid-to-Cover Actual 2.240 (Forecast -, Previous 2.300)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767889,
+   "ts": "2026-09-17T17:02:18+00:00",
+   "ingested": "2026-09-17T18:36:18.550647+00:00",
+   "headline": "US 10-Year TIPS High Yield Actual 2.653% (Forecast -, Previous 2.438%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767877,
+   "ts": "2026-09-17T17:00:20+00:00",
+   "ingested": "2026-09-17T18:36:18.550659+00:00",
+   "headline": "WI 10 Yr TIPS yield about 2.634% before $19 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767876,
+   "ts": "2026-09-17T16:59:38+00:00",
+   "ingested": "2026-09-17T18:36:18.550673+00:00",
+   "headline": "Senior US Official to Al Jazeera: Focused on ensuring navigation in the Red Sea and paving the way for our partners to manage security challenges.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767875,
+   "ts": "2026-09-17T16:58:45+00:00",
+   "ingested": "2026-09-17T18:36:18.550683+00:00",
+   "headline": "Trump on Iran: I have a big decision coming up - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767873,
+   "ts": "2026-09-17T16:57:01+00:00",
+   "ingested": "2026-09-17T18:36:18.550692+00:00",
+   "headline": "Trump tells Axios he's approaching major crossroads in Iran war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767872,
+   "ts": "2026-09-17T16:55:43+00:00",
+   "ingested": "2026-09-17T18:36:18.550701+00:00",
+   "headline": "Nvidia commits $2 billion to Brookfield AI fund. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767857,
+   "ts": "2026-09-17T16:45:33+00:00",
+   "ingested": "2026-09-17T18:36:18.550710+00:00",
+   "headline": "Fed bids for 10 Yr tips total $2.9 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767854,
+   "ts": "2026-09-17T16:41:39+00:00",
+   "ingested": "2026-09-17T18:36:18.550719+00:00",
+   "headline": "French PM Lecornu: We will not raise taxes - Le Figaro",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767836,
+   "ts": "2026-09-17T16:30:05+00:00",
+   "ingested": "2026-09-17T18:36:18.550733+00:00",
+   "headline": "French PM Lecornu: Aim to trim one-off tax on big firms to \u20ac5 billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767835,
+   "ts": "2026-09-17T16:29:38+00:00",
+   "ingested": "2026-09-17T18:36:18.550743+00:00",
+   "headline": "French PM Lecornu aims to keep 2026 deficit below 5.5% GDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767853,
+   "ts": "2026-09-17T16:29:21+00:00",
+   "ingested": "2026-09-17T18:36:18.550757+00:00",
+   "headline": "Oil refinery in Russia's Yaroslavl region halts crude processing after a drone attack - sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767834,
+   "ts": "2026-09-17T16:29:18+00:00",
+   "ingested": "2026-09-17T18:36:18.550767+00:00",
+   "headline": "French PM Lecornu: Targeting 2027 deficit at 5% of GDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767810,
+   "ts": "2026-09-17T16:00:22+00:00",
+   "ingested": "2026-09-17T18:36:18.550781+00:00",
+   "headline": "US 30-yr fixed rate mortgage averages 6.95% in Sept 17 week, highest since Jan 30, 2025 week, vs 6.76% prior week - Freddie Mac",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767809,
+   "ts": "2026-09-17T15:53:40+00:00",
+   "ingested": "2026-09-17T18:36:18.550790+00:00",
+   "headline": "US weighs antitrust guidance on AI safety - DoJ Official.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767808,
+   "ts": "2026-09-17T15:51:14+00:00",
+   "ingested": "2026-09-17T18:36:18.550803+00:00",
+   "headline": "ECB's Zigman: Market bets don't determine the ECB\u2019s next steps.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767807,
+   "ts": "2026-09-17T15:51:00+00:00",
+   "ingested": "2026-09-17T18:36:18.550812+00:00",
+   "headline": "ECB's Zigman: There\u2019s a lot of optimism for growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767806,
+   "ts": "2026-09-17T15:50:48+00:00",
+   "ingested": "2026-09-17T18:36:18.550822+00:00",
+   "headline": "ECB's Zigman: We don\u2019t see any major second-round effects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767805,
+   "ts": "2026-09-17T15:50:35+00:00",
+   "ingested": "2026-09-17T18:36:18.550832+00:00",
+   "headline": "ECB\u2019s Zigman: Growth is at risk if inflation isn\u2019t tackled.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767804,
+   "ts": "2026-09-17T15:50:19+00:00",
+   "ingested": "2026-09-17T18:36:18.550843+00:00",
+   "headline": "Three pumping stations along Saudi Arabia's east-west oil pipeline were damaged in an attack last week - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767788,
+   "ts": "2026-09-17T15:32:55+00:00",
+   "ingested": "2026-09-17T18:36:18.550854+00:00",
+   "headline": "US 4-Week Bill Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767787,
+   "ts": "2026-09-17T15:32:19+00:00",
+   "ingested": "2026-09-17T18:36:18.550864+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 3.020 (Forecast -, Previous 2.810)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767786,
+   "ts": "2026-09-17T15:32:18+00:00",
+   "ingested": "2026-09-17T18:36:18.550874+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 3.820% (Forecast -, Previous 3.775%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767775,
+   "ts": "2026-09-17T15:19:23+00:00",
+   "ingested": "2026-09-17T18:36:18.550888+00:00",
+   "headline": "JP Morgan expects BoE to hike interest rates by 25 bp in February 2027 vs prior forecast of two rate cuts in 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767738,
+   "ts": "2026-09-17T15:01:06+00:00",
+   "ingested": "2026-09-17T18:36:18.550896+00:00",
+   "headline": "US Treasury Bill and Note Auctions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767731,
+   "ts": "2026-09-17T14:52:15+00:00",
+   "ingested": "2026-09-17T18:36:18.550907+00:00",
+   "headline": "French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767730,
+   "ts": "2026-09-17T14:51:28+00:00",
+   "ingested": "2026-09-17T18:36:18.550920+00:00",
+   "headline": "French PM Lecornu to Le Figaro: Increase in interest rates will cost additional \u20ac10 bln to finance debt servicing cost",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9767728,
+   "ts": "2026-09-17T14:47:26+00:00",
+   "ingested": "2026-09-17T18:36:18.550929+00:00",
+   "headline": "French PM sees budgetary effort of around \u20ac54b for 2027 - Le Figaro",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9767691,
    "ts": "2026-09-17T14:30:01+00:00",
@@ -3647,358 +3999,6 @@
    "ts": "2026-09-15T23:50:03+00:00",
    "ingested": "2026-09-16T01:04:30.885331+00:00",
    "headline": "Japan Aug exports to Asia rise 21.4% year/year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764601,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885345+00:00",
-   "headline": "Japan August exports to U.S. rise 24.9% year on year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764600,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885357+00:00",
-   "headline": "Japan August exports to China rise 20.6% year on year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764599,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885371+00:00",
-   "headline": "Japan Aug trade deficit at 1.1056 trillion yen: MOF (poll: 1.0526 trillion yen)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764598,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885384+00:00",
-   "headline": "Japan Aug exports to EU rise 11% year/year: MOF",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764597,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885397+00:00",
-   "headline": "Japan July core machinery orders rise 11.2% yr/yr, below poll of 15.3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764596,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885410+00:00",
-   "headline": "Japan aug exports rise 19.3% year/year: MOF (poll: +18.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764595,
-   "ts": "2026-09-15T23:50:03+00:00",
-   "ingested": "2026-09-16T01:04:30.885424+00:00",
-   "headline": "Japan July core machinery orders decline 3.7% M/M, below poll of -2.8%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764593,
-   "ts": "2026-09-15T23:50:02+00:00",
-   "ingested": "2026-09-16T01:04:30.885438+00:00",
-   "headline": "Japanese Total Trade Balance Actual -1105.607B (Forecast -1058.4B, Previous -634.5B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764592,
-   "ts": "2026-09-15T23:50:02+00:00",
-   "ingested": "2026-09-16T01:04:30.885453+00:00",
-   "headline": "Japanese Imports YoY Actual 28% (Forecast 26.3%, Previous 27.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764591,
-   "ts": "2026-09-15T23:50:01+00:00",
-   "ingested": "2026-09-16T01:04:30.885466+00:00",
-   "headline": "Japanese Exports YoY Actual 19.3% (Forecast 18.4%, Previous 23.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764590,
-   "ts": "2026-09-15T23:50:00+00:00",
-   "ingested": "2026-09-16T01:04:30.885479+00:00",
-   "headline": "Japanese Core Machinery Orders YoY Actual 11.2% (Forecast 9.6%, Previous 16.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764589,
-   "ts": "2026-09-15T23:50:00+00:00",
-   "ingested": "2026-09-16T01:04:30.885493+00:00",
-   "headline": "Japanese Core Machinery Orders MoM Actual -3.7% (Forecast -1.2%, Previous 9.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764588,
-   "ts": "2026-09-15T23:47:02+00:00",
-   "ingested": "2026-09-16T01:04:30.885507+00:00",
-   "headline": "S. Korea foreign minister Cho to visit U.S. to meet Rubio on Friday: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764578,
-   "ts": "2026-09-15T23:30:57+00:00",
-   "ingested": "2026-09-16T01:04:30.885521+00:00",
-   "headline": "Saudi-led coalition in Yemen: security of two holy mosques a red line, will act against Houthis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764577,
-   "ts": "2026-09-15T23:27:55+00:00",
-   "ingested": "2026-09-16T01:04:30.885536+00:00",
-   "headline": "Saudi-led coalition in Yemen: drone launched by Houthis intercepted before entering restricted airspace around Mecca",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764576,
-   "ts": "2026-09-15T23:24:57+00:00",
-   "ingested": "2026-09-16T01:04:30.885551+00:00",
-   "headline": "Saudi-led coalition in Yemen: air defences intercepted and destroyed Houthi drone trying to enter Mecca airspace",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764562,
-   "ts": "2026-09-15T23:07:00+00:00",
-   "ingested": "2026-09-16T01:04:30.885567+00:00",
-   "headline": "Meta's Zuckerberg: every lab must have the duty and motivation to advance at the speed needed to train its models securely",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764547,
-   "ts": "2026-09-15T22:45:04+00:00",
-   "ingested": "2026-09-15T22:55:41.934495+00:00",
-   "headline": "New Zealand Q2 current account deficit NZ$1.67 billion vs Poll NZ$2.571 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764546,
-   "ts": "2026-09-15T22:45:04+00:00",
-   "ingested": "2026-09-15T22:55:41.934520+00:00",
-   "headline": "NZ year to June current account deficit estimated at -3.2% of GDP (poll: -3.9%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764545,
-   "ts": "2026-09-15T22:45:04+00:00",
-   "ingested": "2026-09-15T22:55:41.934539+00:00",
-   "headline": "NZ Q2 seasonally adjusted current account deficit NZ$3.77 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764544,
-   "ts": "2026-09-15T22:45:04+00:00",
-   "ingested": "2026-09-15T22:55:41.934557+00:00",
-   "headline": "NZ year to June current account deficit NZ$-14.583 billion vs Poll NZ$-17.523 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764543,
-   "ts": "2026-09-15T22:45:01+00:00",
-   "ingested": "2026-09-15T22:55:41.934573+00:00",
-   "headline": "New Zealand Current Account QoQ Actual -1.67B (Forecast -2.6B, Previous -1.008B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764527,
-   "ts": "2026-09-15T22:29:47+00:00",
-   "ingested": "2026-09-15T22:55:41.934587+00:00",
-   "headline": "RBNZ assistant governor Karen Silk to depart central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764526,
-   "ts": "2026-09-15T22:24:00+00:00",
-   "ingested": "2026-09-15T22:55:41.934625+00:00",
-   "headline": "Meta plans to unveil camera-free Luna smart glasses this fall: The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764525,
-   "ts": "2026-09-15T22:23:53+00:00",
-   "ingested": "2026-09-15T22:55:41.934641+00:00",
-   "headline": "Meta to roll out smart glasses without cameras amid rising privacy concerns: The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764524,
-   "ts": "2026-09-15T22:21:42+00:00",
-   "ingested": "2026-09-15T22:55:41.934655+00:00",
-   "headline": "Trump advisers Lutnick, Michael confer with leading Anthropic executive on AI safety",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764516,
-   "ts": "2026-09-15T22:06:09+00:00",
-   "ingested": "2026-09-15T22:55:41.934669+00:00",
-   "headline": "OpenAI considers funding round at $1.2 trillion valuation before IPO - FT (adds currency)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764515,
-   "ts": "2026-09-15T22:05:59+00:00",
-   "ingested": "2026-09-15T22:55:41.934682+00:00",
-   "headline": "Several blasts heard on Iran's Geshm island: IRNA citing local sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764514,
-   "ts": "2026-09-15T22:05:52+00:00",
-   "ingested": "2026-09-15T22:55:41.934697+00:00",
-   "headline": "Microsoft declares quarterly dividend of $0.98 per share, up 8% from prior quarter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764499,
-   "ts": "2026-09-15T22:00:06+00:00",
-   "ingested": "2026-09-15T22:55:41.934711+00:00",
-   "headline": "Kraken investigating issue with base network funding gateway, deposits and withdrawals may be delayed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764498,
-   "ts": "2026-09-15T21:57:00+00:00",
-   "ingested": "2026-09-15T22:55:41.934723+00:00",
-   "headline": "OpenAI weighs funding round at $1.2tn valuation before IPO: FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764497,
-   "ts": "2026-09-15T21:55:47+00:00",
-   "ingested": "2026-09-15T22:55:41.934736+00:00",
-   "headline": "OpenAI considers funding round at $0.2tn valuation ahead of IPO - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764472,
-   "ts": "2026-09-15T21:37:21+00:00",
-   "ingested": "2026-09-15T22:55:41.934749+00:00",
-   "headline": "Kraken investigating issue with Cardano funding gateway, withdrawals may be delayed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764471,
-   "ts": "2026-09-15T21:35:40+00:00",
-   "ingested": "2026-09-15T22:55:41.934764+00:00",
-   "headline": "Nvidia CEO Huang to attend U.S. state dinner for China's Xi, source familiar",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764454,
-   "ts": "2026-09-15T21:24:29+00:00",
-   "ingested": "2026-09-15T22:55:41.934778+00:00",
-   "headline": "Ecuador central bank lifts 2026 economic growth forecast to 2.7% from 2.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764453,
-   "ts": "2026-09-15T21:19:39+00:00",
-   "ingested": "2026-09-15T22:55:41.934791+00:00",
-   "headline": "Ukraine to allocate 43.8% of GDP for defense efforts in 2024 draft budget",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764452,
-   "ts": "2026-09-15T21:19:39+00:00",
-   "ingested": "2026-09-15T22:55:41.934805+00:00",
-   "headline": "Ukraine will need $52.6 billion in global financial support in 2027: draft budget",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764451,
-   "ts": "2026-09-15T21:19:39+00:00",
-   "ingested": "2026-09-15T22:55:41.934820+00:00",
-   "headline": "Ukraine sets budget revenue goal at 5.65 trillion hryvnias ($126.7 bln) next year: draft budget",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764450,
-   "ts": "2026-09-15T21:18:55+00:00",
-   "ingested": "2026-09-15T22:55:41.934834+00:00",
-   "headline": "Trump and Burnham expected to discuss Ukraine, Middle East and energy at United Nations General Assembly - The Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764449,
-   "ts": "2026-09-15T21:17:57+00:00",
-   "ingested": "2026-09-15T22:55:41.934848+00:00",
-   "headline": "Burnham to meet Trump for first time in New York next week: The Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764424,
-   "ts": "2026-09-15T20:57:52+00:00",
-   "ingested": "2026-09-15T22:55:41.934860+00:00",
-   "headline": "Reports of an explosion heard in Erbil, northern Iraq - Tasnim News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764422,
-   "ts": "2026-09-15T20:50:50+00:00",
-   "ingested": "2026-09-15T22:55:41.934873+00:00",
-   "headline": "US API Cushing Stock Change Actual -0.246M (Forecast -, Previous -0.3M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764420,
-   "ts": "2026-09-15T20:48:20+00:00",
-   "ingested": "2026-09-15T22:55:41.934887+00:00",
-   "headline": "US API Distillate Stock Change Actual 1.6M (Forecast -, Previous 2M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9764419,
-   "ts": "2026-09-15T20:48:12+00:00",
-   "ingested": "2026-09-15T22:55:41.934900+00:00",
-   "headline": "US API Gasoline Stock Change Actual 1.5M (Forecast -, Previous -1.9M)",
    "channel": "rss",
    "source": "financialjuice"
   }
