@@ -1,7 +1,303 @@
 {
- "updated": "2026-09-18T11:46:07.741056+00:00",
+ "updated": "2026-09-18T15:12:08.346583+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9769506,
+   "ts": "2026-09-18T15:05:46+00:00",
+   "ingested": "2026-09-18T15:12:08.345628+00:00",
+   "headline": "California Gov. Newsom issues an executive order on the creation of an AI 'kill switch\".",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769489,
+   "ts": "2026-09-18T15:00:30+00:00",
+   "ingested": "2026-09-18T15:12:08.345653+00:00",
+   "headline": "Amazon is in the EU's crosshairs over suspected price curbs on sellers. $AMZN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769477,
+   "ts": "2026-09-18T14:59:23+00:00",
+   "ingested": "2026-09-18T15:12:08.345672+00:00",
+   "headline": "IAEA: There is no fire in the Kursk plant, and the unit's operating mode is unchanged.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769476,
+   "ts": "2026-09-18T14:57:55+00:00",
+   "ingested": "2026-09-18T15:12:08.345689+00:00",
+   "headline": "IAEA: The cooling tower of the reactor unit in the Russia Kursk plant has been hit by a drone.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769475,
+   "ts": "2026-09-18T14:55:49+00:00",
+   "ingested": "2026-09-18T15:12:08.345707+00:00",
+   "headline": "AWS signs a 5-year strategic collaboration pact with SAP to expand SAP Business AI platform to 7 new AWS regions. $AMZN $SAP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769467,
+   "ts": "2026-09-18T14:40:31+00:00",
+   "ingested": "2026-09-18T15:12:08.345722+00:00",
+   "headline": "Al Arabiya Sources: Pakistan's Interior Minister is heading to Iran in the coming hours.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769443,
+   "ts": "2026-09-18T14:22:51+00:00",
+   "ingested": "2026-09-18T15:12:08.345736+00:00",
+   "headline": "Mexico's President Sheinbaum: Details to be given once a final US deal is reached.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769441,
+   "ts": "2026-09-18T14:18:36+00:00",
+   "ingested": "2026-09-18T15:12:08.345753+00:00",
+   "headline": "Fear and Greed Index: 29/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769437,
+   "ts": "2026-09-18T14:16:16+00:00",
+   "ingested": "2026-09-18T15:12:08.345768+00:00",
+   "headline": "Mexico's President Sheinbaum: I spoke with Trump on Wednesday. The call was very good, we reached some agreements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769430,
+   "ts": "2026-09-18T14:13:28+00:00",
+   "ingested": "2026-09-18T15:12:08.345780+00:00",
+   "headline": "German Government agrees on fuel price cap - Spiegel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769429,
+   "ts": "2026-09-18T14:04:37+00:00",
+   "ingested": "2026-09-18T15:12:08.345794+00:00",
+   "headline": "The Treasury allows some Lukoil International GMBH actions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769411,
+   "ts": "2026-09-18T14:01:12+00:00",
+   "ingested": "2026-09-18T15:12:08.345808+00:00",
+   "headline": "US Leading Index Change MoM Actual -0.1% (Forecast 0.1%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769402,
+   "ts": "2026-09-18T13:59:42+00:00",
+   "ingested": "2026-09-18T15:12:08.345823+00:00",
+   "headline": "Bild: The German Government plans to cut energy tax on gasoline by 14 cents per litre.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769388,
+   "ts": "2026-09-18T13:39:34+00:00",
+   "ingested": "2026-09-18T15:12:08.345836+00:00",
+   "headline": "China opposes the EU's comments on restricting hybrid car exports.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769383,
+   "ts": "2026-09-18T13:32:54+00:00",
+   "ingested": "2026-09-18T15:12:08.345856+00:00",
+   "headline": "Fed's Bowman: The Fed, going forward, will average the bank's last two stress tests when assigning the lender's 'stress capital buffer\u2019.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769382,
+   "ts": "2026-09-18T13:32:08+00:00",
+   "ingested": "2026-09-18T15:12:08.345872+00:00",
+   "headline": "Fed's Bowman: The Fed will finalize reforms to make bank stress tests more transparent and accountable in the coming weeks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769381,
+   "ts": "2026-09-18T13:31:51+00:00",
+   "ingested": "2026-09-18T15:12:08.345886+00:00",
+   "headline": "Fed's Bowman: Changes will make tests more reliable and reduce volatility in bank capital requirements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769380,
+   "ts": "2026-09-18T13:31:35+00:00",
+   "ingested": "2026-09-18T15:12:08.345900+00:00",
+   "headline": "Fed's Bowman: Supervisory delays were not due to deregulatory efforts pursued earlier by the Fed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769378,
+   "ts": "2026-09-18T13:31:15+00:00",
+   "ingested": "2026-09-18T15:12:08.345917+00:00",
+   "headline": "Fed Vice Chair for Supervision Bowman does not comment on economic or monetary policy outlook in prepared remarks to event in London.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769360,
+   "ts": "2026-09-18T13:26:38+00:00",
+   "ingested": "2026-09-18T15:12:08.345934+00:00",
+   "headline": "PBoC Vice Governor: AI brings new risks to finance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769359,
+   "ts": "2026-09-18T13:25:16+00:00",
+   "ingested": "2026-09-18T15:12:08.345948+00:00",
+   "headline": "US Industrial Production YoY Actual 1.42% (Forecast -, Previous 1.08%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769337,
+   "ts": "2026-09-18T13:15:11+00:00",
+   "ingested": "2026-09-18T15:12:08.345962+00:00",
+   "headline": "US Manufacturing Output MoM Actual -0.3% (Forecast 0.3%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769336,
+   "ts": "2026-09-18T13:15:10+00:00",
+   "ingested": "2026-09-18T15:12:08.345976+00:00",
+   "headline": "US Industrial Production MoM Actual 0% (Forecast 0.3%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769335,
+   "ts": "2026-09-18T13:15:10+00:00",
+   "ingested": "2026-09-18T15:12:08.345989+00:00",
+   "headline": "US Capacity Utilization Actual 76.3% (Forecast 76.4%, Previous 76.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769318,
+   "ts": "2026-09-18T13:00:04+00:00",
+   "ingested": "2026-09-18T15:12:08.346003+00:00",
+   "headline": "Effective Fed funds rate 3.88% September 17th vs 3.63% September 16th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769316,
+   "ts": "2026-09-18T12:46:36+00:00",
+   "ingested": "2026-09-18T15:12:08.346018+00:00",
+   "headline": "US Sentiment: Tech Leads as Oil Eases and BoJ Delivers a Split Hike - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769304,
+   "ts": "2026-09-18T12:40:04+00:00",
+   "ingested": "2026-09-18T15:12:08.346036+00:00",
+   "headline": "EU's Kallas spoke with the Saudi Foreign Minister about diplomatic efforts to end fighting in Yemen and restore freedom of navigation in the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769286,
+   "ts": "2026-09-18T12:30:48+00:00",
+   "ingested": "2026-09-18T15:12:08.346050+00:00",
+   "headline": "Anthropic plans to have 5GW worth of compute by year end - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769280,
+   "ts": "2026-09-18T12:26:15+00:00",
+   "ingested": "2026-09-18T15:12:08.346065+00:00",
+   "headline": "Putin envoy and far-right AfD prepare talks to get Russian gas back for Germany - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769279,
+   "ts": "2026-09-18T12:24:59+00:00",
+   "ingested": "2026-09-18T15:12:08.346078+00:00",
+   "headline": "Goldman Sachs: Gasoline Now Offers More Upside Than Diesel - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769278,
+   "ts": "2026-09-18T12:23:18+00:00",
+   "ingested": "2026-09-18T15:12:08.346089+00:00",
+   "headline": "Citigroup on BoE Meeting - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769277,
+   "ts": "2026-09-18T12:22:04+00:00",
+   "ingested": "2026-09-18T15:12:08.346105+00:00",
+   "headline": "Poll: UK home prices to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028 (1.8%, 3.0%, 3.0% in Q2 poll).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769276,
+   "ts": "2026-09-18T12:21:34+00:00",
+   "ingested": "2026-09-18T15:12:08.346118+00:00",
+   "headline": "Credit Agricole: Treasury Yields Expected to Stay High Into 2027 - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769275,
+   "ts": "2026-09-18T12:19:36+00:00",
+   "ingested": "2026-09-18T15:12:08.346131+00:00",
+   "headline": "France's Pres. Macron: We are mulling options to release strategic energy reserves.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769267,
+   "ts": "2026-09-18T12:15:50+00:00",
+   "ingested": "2026-09-18T15:12:08.346144+00:00",
+   "headline": "France's Pres. Macron: We will convene a G7 meeting on energy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769247,
+   "ts": "2026-09-18T12:01:10+00:00",
+   "ingested": "2026-09-18T15:12:08.346158+00:00",
+   "headline": "France's Pres. Macron: France was targeted by Russian hybrid attacks in the past few weeks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9769238,
+   "ts": "2026-09-18T11:59:40+00:00",
+   "ingested": "2026-09-18T15:12:08.346172+00:00",
+   "headline": "Secured Overnight Financing Rate 3.85% September 17 vs 3.62% September 16.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9769182,
    "ts": "2026-09-18T11:05:44+00:00",
@@ -3703,302 +3999,6 @@
    "ts": "2026-09-16T18:39:37+00:00",
    "ingested": "2026-09-16T18:59:39.032581+00:00",
    "headline": "Fed's Chair Warsh: I am not in the forward guidance business.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766150,
-   "ts": "2026-09-16T18:38:58+00:00",
-   "ingested": "2026-09-16T18:59:39.032591+00:00",
-   "headline": "Fed's Chair Warsh: We will ensure any changes in prices won't broaden out.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766149,
-   "ts": "2026-09-16T18:38:39+00:00",
-   "ingested": "2026-09-16T18:59:39.032601+00:00",
-   "headline": "Traders add to bets on two more Fed rate hikes by the year-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766148,
-   "ts": "2026-09-16T18:37:13+00:00",
-   "ingested": "2026-09-16T18:59:39.032611+00:00",
-   "headline": "Fed's Chair Warsh: Inflation risks are to the upside, labor risks are balanced.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766147,
-   "ts": "2026-09-16T18:36:29+00:00",
-   "ingested": "2026-09-16T18:59:39.032620+00:00",
-   "headline": "Fed's Chair Warsh: I did not submit a dot.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766146,
-   "ts": "2026-09-16T18:35:57+00:00",
-   "ingested": "2026-09-16T18:59:39.032633+00:00",
-   "headline": "Fed's Chair Warsh: We must be confident that underlying inflation must be moving to 2% on a timely basis, and the FOMC decided this has not been met.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766145,
-   "ts": "2026-09-16T18:35:21+00:00",
-   "ingested": "2026-09-16T18:59:39.032643+00:00",
-   "headline": "Fed's Chair Warsh: In July, we expressed a joint readiness to act.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766144,
-   "ts": "2026-09-16T18:35:01+00:00",
-   "ingested": "2026-09-16T18:59:39.032655+00:00",
-   "headline": "Fed's Chair Warsh: There are too many categories that are posting increases above 3% on both 6 and 12 month basis.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766143,
-   "ts": "2026-09-16T18:34:46+00:00",
-   "ingested": "2026-09-16T18:59:39.032665+00:00",
-   "headline": "Fed's Chair Warsh: The summer data does not tell me that the inflation situation has improved.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766142,
-   "ts": "2026-09-16T18:34:30+00:00",
-   "ingested": "2026-09-16T18:59:39.032675+00:00",
-   "headline": "Fed's Chair Warsh: Inflation is too high, and has been for too long.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766141,
-   "ts": "2026-09-16T18:34:17+00:00",
-   "ingested": "2026-09-16T18:59:39.032685+00:00",
-   "headline": "Fed's Chair Warsh: The predominant focus of the Fed is on price stability.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766140,
-   "ts": "2026-09-16T18:34:01+00:00",
-   "ingested": "2026-09-16T18:59:39.032695+00:00",
-   "headline": "Fed's Chair Warsh: The labor side of the Fed's remit is in good shape.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766139,
-   "ts": "2026-09-16T18:33:48+00:00",
-   "ingested": "2026-09-16T18:59:39.032704+00:00",
-   "headline": "Fed's Chair Warsh: The FOMC removed a dose of accomodation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766137,
-   "ts": "2026-09-16T18:33:34+00:00",
-   "ingested": "2026-09-16T18:59:39.032714+00:00",
-   "headline": "Fed's Warsh: The jobless rate remains low, openings and hours are increasing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766136,
-   "ts": "2026-09-16T18:33:24+00:00",
-   "ingested": "2026-09-16T18:59:39.032723+00:00",
-   "headline": "Fed's Warsh: The economy is resilient.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766135,
-   "ts": "2026-09-16T18:33:02+00:00",
-   "ingested": "2026-09-16T18:59:39.032736+00:00",
-   "headline": "Fed's Chair Warsh: I am hard-pressed to call financial conditions restrictive. The view that conditions are not restrictive was widely shared by the FOMC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766134,
-   "ts": "2026-09-16T18:32:43+00:00",
-   "ingested": "2026-09-16T18:59:39.032744+00:00",
-   "headline": "Fed's Chair Warsh: Credit flows have been robust.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766133,
-   "ts": "2026-09-16T18:32:27+00:00",
-   "ingested": "2026-09-16T18:59:39.032754+00:00",
-   "headline": "Fed's Warsh: Key markers have improved in the recent months.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766132,
-   "ts": "2026-09-16T18:32:10+00:00",
-   "ingested": "2026-09-16T18:59:39.032763+00:00",
-   "headline": "Fed's Warsh: This decision comes when the economy appears to be strengthening.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766131,
-   "ts": "2026-09-16T18:31:55+00:00",
-   "ingested": "2026-09-16T18:59:39.032773+00:00",
-   "headline": "NYMEX Diesel October futures settle at $5.2465 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766130,
-   "ts": "2026-09-16T18:31:45+00:00",
-   "ingested": "2026-09-16T18:59:39.032782+00:00",
-   "headline": "Fed's Warsh: Inflation remains elevated.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766129,
-   "ts": "2026-09-16T18:31:39+00:00",
-   "ingested": "2026-09-16T18:59:39.032792+00:00",
-   "headline": "NYMEX Gasoline October futures settle at $3.4850 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766128,
-   "ts": "2026-09-16T18:31:29+00:00",
-   "ingested": "2026-09-16T18:59:39.032802+00:00",
-   "headline": "NYMEX Natural Gas October futures settle at $2.8910/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766110,
-   "ts": "2026-09-16T18:30:59+00:00",
-   "ingested": "2026-09-16T18:59:39.032812+00:00",
-   "headline": "NYMEX WTI Crude October futures settle at $102.43 a barrel, down $3.40, 3.21%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766101,
-   "ts": "2026-09-16T18:28:32+00:00",
-   "ingested": "2026-09-16T18:59:39.032825+00:00",
-   "headline": "Goldman Sachs CEO Solomon: FICC has been a little softer on a relative basis, but the equities business continues to be very strong. $GS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766100,
-   "ts": "2026-09-16T18:27:20+00:00",
-   "ingested": "2026-09-16T18:59:39.032836+00:00",
-   "headline": "Deutsche Bank Chief US Economist Luzzetti: We see the Fed's patience has run out, and that it is time to act.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766099,
-   "ts": "2026-09-16T18:25:53+00:00",
-   "ingested": "2026-09-16T18:59:39.032848+00:00",
-   "headline": "Deutsche Bank Chief US Economist Luzzetti on the rate statement: I think the word 'timelier' is doing a lot of work.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766098,
-   "ts": "2026-09-16T18:23:55+00:00",
-   "ingested": "2026-09-16T18:59:39.032858+00:00",
-   "headline": "Deutsche Bank Chief US Economist Luzzetti: The US has a very strong growth backrop, supply shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766096,
-   "ts": "2026-09-16T18:23:00+00:00",
-   "ingested": "2026-09-16T18:59:39.032871+00:00",
-   "headline": "Deutsche Bank Chief US Economist Luzzetti: The dot plot was a bit more hawkish than anticipated. The view that the Fed has started a mild tightening cycle.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766094,
-   "ts": "2026-09-16T18:22:07+00:00",
-   "ingested": "2026-09-16T18:59:39.032880+00:00",
-   "headline": "FOMC Press Conference with Chair Warsh - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766093,
-   "ts": "2026-09-16T18:21:32+00:00",
-   "ingested": "2026-09-16T18:59:39.032892+00:00",
-   "headline": "US diplomats met over the weekend with Houthi representatives at the US embassy in Oman and discussed tensions in the Red Sea -Axios.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766092,
-   "ts": "2026-09-16T18:20:45+00:00",
-   "ingested": "2026-09-16T18:59:39.032902+00:00",
-   "headline": "Pimco's Clarida: I think we can get disinflation without a recession.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766062,
-   "ts": "2026-09-16T18:08:11+00:00",
-   "ingested": "2026-09-16T18:59:39.032912+00:00",
-   "headline": "Pimco's Clarida: I think it is important it was a unanimous decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766061,
-   "ts": "2026-09-16T18:05:47+00:00",
-   "ingested": "2026-09-16T18:59:39.032922+00:00",
-   "headline": "Traders maintain bets on another Fed rate hike this year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766056,
-   "ts": "2026-09-16T18:02:27+00:00",
-   "ingested": "2026-09-16T18:59:39.032932+00:00",
-   "headline": "Fed Officials' median view of the Fed funds rate at end-2029 3.6%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766055,
-   "ts": "2026-09-16T18:01:57+00:00",
-   "ingested": "2026-09-16T18:59:39.032941+00:00",
-   "headline": "Fed: 16 officials project at least one more rate hike in 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766054,
-   "ts": "2026-09-16T18:01:46+00:00",
-   "ingested": "2026-09-16T18:59:39.032951+00:00",
-   "headline": "Fed: Productivity growth is strong, capital investment is robust.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9766053,
-   "ts": "2026-09-16T18:01:38+00:00",
-   "ingested": "2026-09-16T18:59:39.032960+00:00",
-   "headline": "Fed: Domestic spending has been resilient despite elevated uncertainty.",
    "channel": "rss",
    "source": "financialjuice"
   }
