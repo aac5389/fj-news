@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-19T19:27:01.927197+00:00",
+ "updated": "2026-09-19T21:36:45.055810+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9770574,
+   "ts": "2026-09-19T19:39:08+00:00",
+   "ingested": "2026-09-19T21:36:45.055458+00:00",
+   "headline": "Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9770573,
+   "ts": "2026-09-19T19:37:09+00:00",
+   "ingested": "2026-09-19T21:36:45.055483+00:00",
+   "headline": "Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9770564,
    "ts": "2026-09-19T19:00:41+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-17T11:00:16+00:00",
    "ingested": "2026-09-17T14:42:55.797155+00:00",
    "headline": "BoE MPC Vote Hike Actual 3 (Forecast 3, Previous 3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767335,
-   "ts": "2026-09-17T11:00:01+00:00",
-   "ingested": "2026-09-17T14:42:55.797165+00:00",
-   "headline": "BoE Bank Rate Actual 3.75% (Forecast 3.75%, Previous 3.75%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767334,
-   "ts": "2026-09-17T10:47:09+00:00",
-   "ingested": "2026-09-17T14:42:55.797174+00:00",
-   "headline": "Canada's PM Carney: Nobody will dictate who we strike agreements with",
    "channel": "rss",
    "source": "financialjuice"
   }
