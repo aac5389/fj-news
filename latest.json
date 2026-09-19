@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-19T11:06:34.231051+00:00",
+ "updated": "2026-09-19T14:21:40.309077+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9770435,
+   "ts": "2026-09-19T11:22:38+00:00",
+   "ingested": "2026-09-19T14:21:40.308732+00:00",
+   "headline": "French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9770434,
+   "ts": "2026-09-19T11:20:56+00:00",
+   "ingested": "2026-09-19T14:21:40.308761+00:00",
+   "headline": "French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9770420,
    "ts": "2026-09-19T10:34:37+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-17T10:02:32+00:00",
    "ingested": "2026-09-17T14:42:55.797383+00:00",
    "headline": "Japan's PM Takaichi: Expect BoJ to conduct policy toward 2% target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767257,
-   "ts": "2026-09-17T10:02:19+00:00",
-   "ingested": "2026-09-17T14:42:55.797395+00:00",
-   "headline": "Canada's PM Carney: Canada and Europe should secure our strategic autonomy through deep cooperation in the full range of strategic capabilities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767256,
-   "ts": "2026-09-17T10:02:01+00:00",
-   "ingested": "2026-09-17T14:42:55.797406+00:00",
-   "headline": "Canada's PM Carney: We welcome Von der Leyen's ambition of becoming an associate member",
    "channel": "rss",
    "source": "financialjuice"
   }
