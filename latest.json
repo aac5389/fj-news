@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-19T01:22:21.618930+00:00",
+ "updated": "2026-09-19T06:14:33.144781+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9770354,
+   "ts": "2026-09-19T06:14:20+00:00",
+   "ingested": "2026-09-19T06:14:33.144376+00:00",
+   "headline": "Iran executes man convicted of sharing missile site details with Israel during war: judiciary site",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9770282,
+   "ts": "2026-09-19T02:02:53+00:00",
+   "ingested": "2026-09-19T06:14:33.144408+00:00",
+   "headline": "US considers delaying major arms sales announcement to Taiwan until after November\u2019s APEC summit in Shenzhen: SCMP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9770164,
    "ts": "2026-09-19T01:20:23+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-17T09:00:03+00:00",
    "ingested": "2026-09-17T09:56:41.209758+00:00",
    "headline": "Eurozone CPI YoY Final Actual 3.2% (Forecast 3.3%, Previous 3.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767142,
-   "ts": "2026-09-17T09:00:02+00:00",
-   "ingested": "2026-09-17T09:56:41.209768+00:00",
-   "headline": "Eurozone CPI MoM Final Actual 0.4% (Forecast 0.4%, Previous 0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767141,
-   "ts": "2026-09-17T09:00:02+00:00",
-   "ingested": "2026-09-17T09:56:41.209780+00:00",
-   "headline": "Eurozone Core CPI YoY Final Actual 2.4% (Forecast 2.4%, Previous 2.4%)",
    "channel": "rss",
    "source": "financialjuice"
   }
