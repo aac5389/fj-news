@@ -1,7 +1,31 @@
 {
- "updated": "2026-09-19T23:30:09.445774+00:00",
+ "updated": "2026-09-20T01:34:26.548056+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9770621,
+   "ts": "2026-09-20T01:20:57+00:00",
+   "ingested": "2026-09-20T01:34:26.547733+00:00",
+   "headline": "China central bank injects 32 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9770612,
+   "ts": "2026-09-20T01:00:19+00:00",
+   "ingested": "2026-09-20T01:34:26.547758+00:00",
+   "headline": "China sets five-year loan prime rate at 3.50%, unchanged from a month earlier",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9770609,
+   "ts": "2026-09-19T23:55:02+00:00",
+   "ingested": "2026-09-20T01:34:26.547778+00:00",
+   "headline": "U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9770574,
    "ts": "2026-09-19T19:39:08+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-09-17T11:00:24+00:00",
    "ingested": "2026-09-17T14:42:55.797129+00:00",
    "headline": "BoE Gov. Bailey: Likely policy may have to tighten if conflict in MidEast persists for extended period, as appears likely, and if risk of second-round effects increases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767338,
-   "ts": "2026-09-17T11:00:16+00:00",
-   "ingested": "2026-09-17T14:42:55.797138+00:00",
-   "headline": "BoE MPC Vote Cut Actual 0 (Forecast 0, Previous 0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767337,
-   "ts": "2026-09-17T11:00:16+00:00",
-   "ingested": "2026-09-17T14:42:55.797147+00:00",
-   "headline": "BoE MPC Vote Unchanged Actual 6 (Forecast 6, Previous 6)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9767336,
-   "ts": "2026-09-17T11:00:16+00:00",
-   "ingested": "2026-09-17T14:42:55.797155+00:00",
-   "headline": "BoE MPC Vote Hike Actual 3 (Forecast 3, Previous 3)",
    "channel": "rss",
    "source": "financialjuice"
   }
