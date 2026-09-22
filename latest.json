@@ -1,7 +1,791 @@
 {
- "updated": "2026-09-22T10:22:34.141129+00:00",
+ "updated": "2026-09-22T15:06:03.549027+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9773886,
+   "ts": "2026-09-22T15:05:42+00:00",
+   "ingested": "2026-09-22T15:06:03.546928+00:00",
+   "headline": "Trump on Greenland Deal: The deal also protects Europe in addition to America.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773885,
+   "ts": "2026-09-22T15:03:00+00:00",
+   "ingested": "2026-09-22T15:06:03.546953+00:00",
+   "headline": "Trump calls warnings about AI \"a hoax\" in his UN speech.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773884,
+   "ts": "2026-09-22T15:02:41+00:00",
+   "ingested": "2026-09-22T15:06:03.546972+00:00",
+   "headline": "Trump: We will not stifle AI growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773864,
+   "ts": "2026-09-22T15:01:18+00:00",
+   "ingested": "2026-09-22T15:06:03.546989+00:00",
+   "headline": "Trump: The US rejects attempts of a global scheme to control AI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773862,
+   "ts": "2026-09-22T15:00:26+00:00",
+   "ingested": "2026-09-22T15:06:03.547026+00:00",
+   "headline": "US to sell $90 bln 4-week bills on September 24th, to settle on September 29th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773857,
+   "ts": "2026-09-22T14:55:11+00:00",
+   "ingested": "2026-09-22T15:06:03.547042+00:00",
+   "headline": "Trump: Will sign Greenland agreement later today.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773856,
+   "ts": "2026-09-22T14:54:41+00:00",
+   "ingested": "2026-09-22T15:06:03.547057+00:00",
+   "headline": "Trump: We will build two major military bases in Greenland.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773855,
+   "ts": "2026-09-22T14:54:38+00:00",
+   "ingested": "2026-09-22T15:06:03.547071+00:00",
+   "headline": "Trump: US Secretary of State Rubio is deep into negotiations with Cuba.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773854,
+   "ts": "2026-09-22T14:54:07+00:00",
+   "ingested": "2026-09-22T15:06:03.547085+00:00",
+   "headline": "Trump: Cuba is a failed state, freedom will be coming to Cuba.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773853,
+   "ts": "2026-09-22T14:52:51+00:00",
+   "ingested": "2026-09-22T15:06:03.547102+00:00",
+   "headline": "Trump: Cuba will fall.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773852,
+   "ts": "2026-09-22T14:49:58+00:00",
+   "ingested": "2026-09-22T15:06:03.547120+00:00",
+   "headline": "Trump: United States and Venezuela together, we have more than 60% of the oil in the world. So it's perhaps the biggest deal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773851,
+   "ts": "2026-09-22T14:49:08+00:00",
+   "ingested": "2026-09-22T15:06:03.547134+00:00",
+   "headline": "Trump: US-Iran will get a deal done, one way or the other.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773850,
+   "ts": "2026-09-22T14:48:15+00:00",
+   "ingested": "2026-09-22T15:06:03.547151+00:00",
+   "headline": "Trump: We're working very closely with the leaders of Russia and Ukraine, and we will get that one done.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773835,
+   "ts": "2026-09-22T14:42:24+00:00",
+   "ingested": "2026-09-22T15:06:03.547165+00:00",
+   "headline": "Trump: The US will be able to supply allies at a much faster rate.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773834,
+   "ts": "2026-09-22T14:41:39+00:00",
+   "ingested": "2026-09-22T15:06:03.547178+00:00",
+   "headline": "Trump: calls on all nations to economically isolate Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773833,
+   "ts": "2026-09-22T14:41:38+00:00",
+   "ingested": "2026-09-22T15:06:03.547191+00:00",
+   "headline": "Trump: The US is adding weapons to our stockpiles fast.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773832,
+   "ts": "2026-09-22T14:41:19+00:00",
+   "ingested": "2026-09-22T15:06:03.547204+00:00",
+   "headline": "Trump: I won't give credence to the election when it comes to Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773831,
+   "ts": "2026-09-22T14:40:17+00:00",
+   "ingested": "2026-09-22T15:06:03.547220+00:00",
+   "headline": "Trump: The United States Navy has recently escorted more than 1 billion barrels of oil out of the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773830,
+   "ts": "2026-09-22T14:39:55+00:00",
+   "ingested": "2026-09-22T15:06:03.547234+00:00",
+   "headline": "Trump: I believe we'll make a deal with iran right after our US election.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773829,
+   "ts": "2026-09-22T14:39:50+00:00",
+   "ingested": "2026-09-22T15:06:03.547248+00:00",
+   "headline": "Trump at UN: We must be united in maintaining pressure on Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773828,
+   "ts": "2026-09-22T14:39:41+00:00",
+   "ingested": "2026-09-22T15:06:03.547261+00:00",
+   "headline": "Trump: More oil is flowing than at any point since the war started - UN.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773827,
+   "ts": "2026-09-22T14:36:01+00:00",
+   "ingested": "2026-09-22T15:06:03.547277+00:00",
+   "headline": "EU Envoys agree to lift sanctions on russian billionaires Usmanov and Fridman after push by france, luxembourg, - EU Diplomats",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773826,
+   "ts": "2026-09-22T14:35:45+00:00",
+   "ingested": "2026-09-22T15:06:03.547293+00:00",
+   "headline": "EU Envoys agree to renew Russia sanctions on nearly 3,000 companies and individuals for 3 years, not the usual 6 months - EU Diplomats.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773825,
+   "ts": "2026-09-22T14:35:21+00:00",
+   "ingested": "2026-09-22T15:06:03.547306+00:00",
+   "headline": "Trump: I urge iran to make a deal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773824,
+   "ts": "2026-09-22T14:33:12+00:00",
+   "ingested": "2026-09-22T15:06:03.547320+00:00",
+   "headline": "Trump: Invested $1.5 trillion in the US military in the past 12 months.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773804,
+   "ts": "2026-09-22T14:31:12+00:00",
+   "ingested": "2026-09-22T15:06:03.547340+00:00",
+   "headline": "Trump expected to meet Tuesday with representatives from nine Arab countries on potential conflict with Iran; many likely to urge him to de-escalate and seek an agreement - Barak Ravid, News 12",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773797,
+   "ts": "2026-09-22T14:29:37+00:00",
+   "ingested": "2026-09-22T15:06:03.547353+00:00",
+   "headline": "Trump touts US economy and military at the UN.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773795,
+   "ts": "2026-09-22T14:22:55+00:00",
+   "ingested": "2026-09-22T15:06:03.547371+00:00",
+   "headline": "Iran\u2019s Foreign Minister Araghchi meets with the Qatari Foreign Minister - Iranian Media.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773794,
+   "ts": "2026-09-22T14:19:24+00:00",
+   "ingested": "2026-09-22T15:06:03.547384+00:00",
+   "headline": "Crypto Fear and Greed Index: 78/100 = Extreme Greed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773793,
+   "ts": "2026-09-22T14:18:48+00:00",
+   "ingested": "2026-09-22T15:06:03.547396+00:00",
+   "headline": "Fear and Greed Index: 38/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773792,
+   "ts": "2026-09-22T14:17:26+00:00",
+   "ingested": "2026-09-22T15:06:03.547410+00:00",
+   "headline": "Fed's Jefferson: Still important work to do to modernize the discount window.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773791,
+   "ts": "2026-09-22T14:17:25+00:00",
+   "ingested": "2026-09-22T15:06:03.547426+00:00",
+   "headline": "Fed's Jefferson: The discount window is shock absorber during market stress, supports functioning of short-term funding markets, treasury liquidity.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773790,
+   "ts": "2026-09-22T14:17:14+00:00",
+   "ingested": "2026-09-22T15:06:03.547442+00:00",
+   "headline": "Fed's Jefferson: Banks using fed's discount window report it's faster, easier, more efficient since self-service portal started.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773789,
+   "ts": "2026-09-22T14:17:12+00:00",
+   "ingested": "2026-09-22T15:06:03.547456+00:00",
+   "headline": "Fed's Jefferson does not comment on monetary policy, economy in prepared remarks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773767,
+   "ts": "2026-09-22T14:14:20+00:00",
+   "ingested": "2026-09-22T15:06:03.547473+00:00",
+   "headline": "Several mediating countries in contact with US and Iran to arrange a high-level meeting - Regional source involved in negotiations, via Barak Ravid, News 12",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773764,
+   "ts": "2026-09-22T14:07:18+00:00",
+   "ingested": "2026-09-22T15:06:03.547488+00:00",
+   "headline": "Microsoft began a new round of layoffs affecting around 500 employees - Business Insider. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773762,
+   "ts": "2026-09-22T14:05:48+00:00",
+   "ingested": "2026-09-22T15:06:03.547502+00:00",
+   "headline": "Fed's Williams: The Fed will adjust monetary policy implementation strategy as needed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773761,
+   "ts": "2026-09-22T14:05:33+00:00",
+   "ingested": "2026-09-22T15:06:03.547515+00:00",
+   "headline": "Fed's Williams: Monitoring rise of centrally cleared repo trading.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773760,
+   "ts": "2026-09-22T14:05:32+00:00",
+   "ingested": "2026-09-22T15:06:03.547529+00:00",
+   "headline": "Fed's Williams: The Fed will adjust the supply of reserves depending on market conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773759,
+   "ts": "2026-09-22T14:05:26+00:00",
+   "ingested": "2026-09-22T15:06:03.547542+00:00",
+   "headline": "Fed's Williams: The Fed's rate control system has been very effective.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773758,
+   "ts": "2026-09-22T14:05:18+00:00",
+   "ingested": "2026-09-22T15:06:03.547555+00:00",
+   "headline": "Fed's Williams: There should be no opportunity cost to holding reserves.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773757,
+   "ts": "2026-09-22T14:05:14+00:00",
+   "ingested": "2026-09-22T15:06:03.547568+00:00",
+   "headline": "Fed's Williams does not comment on monetary policy or the economic outlook.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773756,
+   "ts": "2026-09-22T14:02:53+00:00",
+   "ingested": "2026-09-22T15:06:03.547585+00:00",
+   "headline": "Trump: And if necessary, we will use our unmatched military might to secure the vital national interests of the United States - White House Press Pool",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773755,
+   "ts": "2026-09-22T14:01:49+00:00",
+   "ingested": "2026-09-22T15:06:03.547601+00:00",
+   "headline": "Trump: There is no global government, and while I am President, there will be no global taxes - White House Press Pool.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773737,
+   "ts": "2026-09-22T14:01:07+00:00",
+   "ingested": "2026-09-22T15:06:03.547618+00:00",
+   "headline": "Trump: United States will no longer permit threats to America to gain a foothold anywhere in the Western Hemisphere - White House Press Pool.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773726,
+   "ts": "2026-09-22T14:00:31+00:00",
+   "ingested": "2026-09-22T15:06:03.547632+00:00",
+   "headline": "Eurozone Consumer Confidence Flash Actual -16.5 (Forecast -16, Previous -15.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773735,
+   "ts": "2026-09-22T14:00:27+00:00",
+   "ingested": "2026-09-22T15:06:03.547645+00:00",
+   "headline": "Richmond Fed Comp. Index Actual -2 (Forecast 2, Previous 4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773725,
+   "ts": "2026-09-22T13:58:17+00:00",
+   "ingested": "2026-09-22T15:06:03.547663+00:00",
+   "headline": "RBC BlueBay's Fixed Income CIO Dowding: Favourable view on short-dated bonds for the first time this year; cautious on long-dated UK bonds, shorter-dated gilts look better value",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773724,
+   "ts": "2026-09-22T13:48:56+00:00",
+   "ingested": "2026-09-22T15:06:03.547676+00:00",
+   "headline": "Iran's President Pezeshkian departs Algeria for New York - Iranian Media.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773714,
+   "ts": "2026-09-22T13:42:25+00:00",
+   "ingested": "2026-09-22T15:06:03.547689+00:00",
+   "headline": "Trump speaks at the UN - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773713,
+   "ts": "2026-09-22T13:41:59+00:00",
+   "ingested": "2026-09-22T15:06:03.547701+00:00",
+   "headline": "United Nations: Trump message to Putin: Settle the war.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773712,
+   "ts": "2026-09-22T13:41:06+00:00",
+   "ingested": "2026-09-22T15:06:03.547716+00:00",
+   "headline": "IRGC Deputy: The conflict in the Strait of Hormuz continues. The Strait is not open - Tasnim News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773711,
+   "ts": "2026-09-22T13:39:11+00:00",
+   "ingested": "2026-09-22T15:06:03.547730+00:00",
+   "headline": "Saudi Arabia once again attempts mediation with Sana'a - IRNA cites Lebanese outlet Al-Akhbar.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773710,
+   "ts": "2026-09-22T13:35:30+00:00",
+   "ingested": "2026-09-22T15:06:03.547745+00:00",
+   "headline": "Fed's Collins: A somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773709,
+   "ts": "2026-09-22T13:35:10+00:00",
+   "ingested": "2026-09-22T15:06:03.547763+00:00",
+   "headline": "Fed's Collins: With the labor market on a better footing, monetary policy can focus on a timely return to price stability, especially after five and a half years of too high inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773708,
+   "ts": "2026-09-22T13:34:46+00:00",
+   "ingested": "2026-09-22T15:06:03.547778+00:00",
+   "headline": "Fed's Collins: While the upside risks to inflation have increased, labor market conditions seem a bit stronger overall.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773707,
+   "ts": "2026-09-22T13:34:23+00:00",
+   "ingested": "2026-09-22T15:06:03.547794+00:00",
+   "headline": "Fed's Collins: I now see an increased likelihood of future scenarios in which inflation remains notably above 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773706,
+   "ts": "2026-09-22T13:33:08+00:00",
+   "ingested": "2026-09-22T15:06:03.547807+00:00",
+   "headline": "Fed's Collins: I supported last week's rate hike.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773688,
+   "ts": "2026-09-22T13:29:55+00:00",
+   "ingested": "2026-09-22T15:06:03.547824+00:00",
+   "headline": "Libya's NOC: Expect losses to rise if the shutdown persists.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773687,
+   "ts": "2026-09-22T13:29:35+00:00",
+   "ingested": "2026-09-22T15:06:03.547840+00:00",
+   "headline": "Libya's NOC: The Sharara-Zawiya Crude loading pipeline closure leads to daily losses of around 130,000 bpd - Statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773675,
+   "ts": "2026-09-22T13:12:32+00:00",
+   "ingested": "2026-09-22T15:06:03.547854+00:00",
+   "headline": "Bank of America raises it's 2H26 Brent price estimate to $95 a barrel from $83 a barrel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773673,
+   "ts": "2026-09-22T13:07:02+00:00",
+   "ingested": "2026-09-22T15:06:03.547868+00:00",
+   "headline": "Trump is open to meeting Iranian officials under the right conditions - CNN.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773672,
+   "ts": "2026-09-22T13:03:26+00:00",
+   "ingested": "2026-09-22T15:06:03.547881+00:00",
+   "headline": "Apple Launches New Mac Mini and Mac Studio With Latest Apple Silicon $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773652,
+   "ts": "2026-09-22T13:00:35+00:00",
+   "ingested": "2026-09-22T15:06:03.547900+00:00",
+   "headline": "ECB settled \u20ac214.7 bln corporate bond purchases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773649,
+   "ts": "2026-09-22T13:00:22+00:00",
+   "ingested": "2026-09-22T15:06:03.547914+00:00",
+   "headline": "ECB settled \u20ac1,660.5 bln public-sector bond purchases.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773645,
+   "ts": "2026-09-22T13:00:03+00:00",
+   "ingested": "2026-09-22T15:06:03.547928+00:00",
+   "headline": "Effective Fed funds rate: 3.88% September 21st vs. 3.88% September 18th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773644,
+   "ts": "2026-09-22T12:55:42+00:00",
+   "ingested": "2026-09-22T15:06:03.547941+00:00",
+   "headline": "US Redbook YoY Actual 7.6% (Forecast -, Previous 8.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773643,
+   "ts": "2026-09-22T12:54:57+00:00",
+   "ingested": "2026-09-22T15:06:03.547955+00:00",
+   "headline": "CDU'S Frei: Lawmakers are going to focus on stabilizing the German coalition.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773642,
+   "ts": "2026-09-22T12:54:15+00:00",
+   "ingested": "2026-09-22T15:06:03.547969+00:00",
+   "headline": "IMF's Managing Director Georgieva Speaks at \"The Next 3 Billion\" Semafor Event - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773641,
+   "ts": "2026-09-22T12:53:59+00:00",
+   "ingested": "2026-09-22T15:06:03.547982+00:00",
+   "headline": "Trump at the UN to highlight strategy to end foreign interference.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773639,
+   "ts": "2026-09-22T12:51:47+00:00",
+   "ingested": "2026-09-22T15:06:03.547995+00:00",
+   "headline": "German fuel rebate to be approved in parliament this week - CDU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773638,
+   "ts": "2026-09-22T12:50:49+00:00",
+   "ingested": "2026-09-22T15:06:03.548032+00:00",
+   "headline": "Deputy Speaker of Iran Parliament Nikzad: We will not back down on the Strait of Hormuz. - ISMN",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773637,
+   "ts": "2026-09-22T12:48:20+00:00",
+   "ingested": "2026-09-22T15:06:03.548049+00:00",
+   "headline": "The government will soon approve the mobilization of up to 200,000 reservists for another round - Israel's Hayom News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773636,
+   "ts": "2026-09-22T12:48:10+00:00",
+   "ingested": "2026-09-22T15:06:03.548062+00:00",
+   "headline": "Deutsche Bank: Oil Pullback Fueled Broad Risk-On Move - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773616,
+   "ts": "2026-09-22T12:45:17+00:00",
+   "ingested": "2026-09-22T15:06:03.548074+00:00",
+   "headline": "Goldman Sachs on US-China Summit - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773615,
+   "ts": "2026-09-22T12:42:16+00:00",
+   "ingested": "2026-09-22T15:06:03.548087+00:00",
+   "headline": "JPMorgan: Tech Rally Broadened as Geopolitical Optimism Supports Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773614,
+   "ts": "2026-09-22T12:35:41+00:00",
+   "ingested": "2026-09-22T15:06:03.548107+00:00",
+   "headline": "Trump's UN speech to make the case for how he uses America's power to confront Iran, cartel violence and other threats, reshaping the world to help the US - White House official tells Fox News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773612,
+   "ts": "2026-09-22T12:32:19+00:00",
+   "ingested": "2026-09-22T15:06:03.548123+00:00",
+   "headline": "US Sentiment: Markets Treading Water, with Geopolitics & China in Focus - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773575,
+   "ts": "2026-09-22T12:15:00+00:00",
+   "ingested": "2026-09-22T15:06:03.548136+00:00",
+   "headline": "US ADP Wkly Employment Change Actual 20k (Forecast -, Previous 16.25k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773574,
+   "ts": "2026-09-22T12:12:10+00:00",
+   "ingested": "2026-09-22T15:06:03.548152+00:00",
+   "headline": "Kremlin: Putin and Saudi Crown Prince discussed Yemen and the Middle East and call for safe passage through Hormuz",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773572,
+   "ts": "2026-09-22T12:10:22+00:00",
+   "ingested": "2026-09-22T15:06:03.548166+00:00",
+   "headline": "China's Xi unlikely to bring business delegation to meeting with trump - WSJ citing Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773571,
+   "ts": "2026-09-22T12:09:06+00:00",
+   "ingested": "2026-09-22T15:06:03.548179+00:00",
+   "headline": "Kremlin: Putin spoke with Saudi Crown Prince - TASS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773570,
+   "ts": "2026-09-22T12:04:18+00:00",
+   "ingested": "2026-09-22T15:06:03.548192+00:00",
+   "headline": "SoFi Bank to migrate $25bln card program to stablecoin settlement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773569,
+   "ts": "2026-09-22T12:04:13+00:00",
+   "ingested": "2026-09-22T15:06:03.548205+00:00",
+   "headline": "Sofi goes live with stablecoin settlement on the Mastercard network",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773567,
+   "ts": "2026-09-22T12:03:16+00:00",
+   "ingested": "2026-09-22T15:06:03.548218+00:00",
+   "headline": "Anthropic CEO Dario Amodei to brief the UN Security Council on AI.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773564,
+   "ts": "2026-09-22T12:01:32+00:00",
+   "ingested": "2026-09-22T15:06:03.548232+00:00",
+   "headline": "ASML Executives: Europe\u2019s biggest firm has no sales in Europe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773543,
+   "ts": "2026-09-22T11:59:45+00:00",
+   "ingested": "2026-09-22T15:06:03.548246+00:00",
+   "headline": "Secured Overnight Financing Rate 3.85% Sept. 21 vs 3.85% Sept. 18",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773542,
+   "ts": "2026-09-22T11:52:58+00:00",
+   "ingested": "2026-09-22T15:06:03.548259+00:00",
+   "headline": "Rubio: Seen more cooperation from NATO countries recently",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773541,
+   "ts": "2026-09-22T11:51:39+00:00",
+   "ingested": "2026-09-22T15:06:03.548274+00:00",
+   "headline": "US Secretary of State Rubio, on Greenland: The US can build as many military bases as wanted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773540,
+   "ts": "2026-09-22T11:49:07+00:00",
+   "ingested": "2026-09-22T15:06:03.548290+00:00",
+   "headline": "US Secretary of State Rubio, on AI: Not sure if plan will be ready by Thursday - Fox News interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773538,
+   "ts": "2026-09-22T11:46:54+00:00",
+   "ingested": "2026-09-22T15:06:03.548303+00:00",
+   "headline": "Six-member Gulf bloc expected to meet Trump in New York Tuesday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773535,
+   "ts": "2026-09-22T11:46:04+00:00",
+   "ingested": "2026-09-22T15:06:03.548316+00:00",
+   "headline": "Gulf states set to urge Trump to avoid any escalation with Iran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773532,
+   "ts": "2026-09-22T11:45:27+00:00",
+   "ingested": "2026-09-22T15:06:03.548331+00:00",
+   "headline": "US Secretary of State Rubio: Ideal outcome is Russia and Ukraine not targeting energy sites",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773529,
+   "ts": "2026-09-22T11:45:04+00:00",
+   "ingested": "2026-09-22T15:06:03.548345+00:00",
+   "headline": "US Secretary of State Rubio, energy infrastructure ceasefire would be a great idea - Fox News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773528,
+   "ts": "2026-09-22T11:44:31+00:00",
+   "ingested": "2026-09-22T15:06:03.548359+00:00",
+   "headline": "US Secretary of State Rubio: Need to address that US-linked ships targeted by Ukraine",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773527,
+   "ts": "2026-09-22T11:44:17+00:00",
+   "ingested": "2026-09-22T15:06:03.548374+00:00",
+   "headline": "US Secretary of State Rubio, on Ukraine war: Want to bring it to an end - Fox News interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773526,
+   "ts": "2026-09-22T11:43:57+00:00",
+   "ingested": "2026-09-22T15:06:03.548389+00:00",
+   "headline": "US Secretary of State Rubio, on Ukraine war: concerned about US-linked ships being targeted - Fox News interview",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9773525,
+   "ts": "2026-09-22T11:43:31+00:00",
+   "ingested": "2026-09-22T15:06:03.548403+00:00",
+   "headline": "US Secretary of State Rubio: Majority of oil price increases due to Yemen and Ukraine",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9773401,
    "ts": "2026-09-22T10:17:56+00:00",
@@ -3215,790 +3999,6 @@
    "ts": "2026-09-19T23:55:02+00:00",
    "ingested": "2026-09-20T01:34:26.547778+00:00",
    "headline": "U.S. military: strike on Caribbean vessel over alleged drug trafficking kills four on Saturday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770574,
-   "ts": "2026-09-19T19:39:08+00:00",
-   "ingested": "2026-09-19T21:36:45.055458+00:00",
-   "headline": "Saudi-led coalition: foils Houthi attacks on civilians in Saudi cities Bish, Taif, Farasan, Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770573,
-   "ts": "2026-09-19T19:37:09+00:00",
-   "ingested": "2026-09-19T21:36:45.055483+00:00",
-   "headline": "Saudi-led coalition: ballistic missile launched by Yemen's Houthis toward Riyadh intercepted and destroyed on Saturday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770564,
-   "ts": "2026-09-19T19:00:41+00:00",
-   "ingested": "2026-09-19T19:27:01.926741+00:00",
-   "headline": "Creative ideas emerge on resolving S-400 issue with US, collaboration aims for positive progress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770563,
-   "ts": "2026-09-19T18:58:16+00:00",
-   "ingested": "2026-09-19T19:27:01.926769+00:00",
-   "headline": "Turkish foreign minister: Creative ideas exist on resolving S-400 issue with US, collaborating to achieve solutions and anticipating positive progress",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770558,
-   "ts": "2026-09-19T18:38:19+00:00",
-   "ingested": "2026-09-19T19:27:01.926789+00:00",
-   "headline": "Turkish foreign minister: sent proposal to Ukraine, Russia to halt fighting in Black Sea, awaiting replies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770557,
-   "ts": "2026-09-19T18:32:13+00:00",
-   "ingested": "2026-09-19T19:27:01.926806+00:00",
-   "headline": "Turkish foreign minister: initiatives exist to end Ukraine-Russia war, but hard for lasting solution",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770553,
-   "ts": "2026-09-19T18:25:18+00:00",
-   "ingested": "2026-09-19T19:27:01.926824+00:00",
-   "headline": "Turkish foreign minister: Saudi Arabia could have military requirements, to be reviewed in trilateral defense pact with Pakistan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770552,
-   "ts": "2026-09-19T18:24:10+00:00",
-   "ingested": "2026-09-19T19:27:01.926849+00:00",
-   "headline": "Turkish foreign minister: unacceptable for Saudi Arabia to become involved in US-Iran war, no wish to join conflict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770551,
-   "ts": "2026-09-19T18:23:09+00:00",
-   "ingested": "2026-09-19T19:27:01.926864+00:00",
-   "headline": "Turkish foreign minister: proposals conveyed to all sides to end Saudi-Houthi fighting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770550,
-   "ts": "2026-09-19T18:21:34+00:00",
-   "ingested": "2026-09-19T19:27:01.926878+00:00",
-   "headline": "Turkish foreign minister: current middle east crisis no longer economically bearable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770544,
-   "ts": "2026-09-19T18:13:00+00:00",
-   "ingested": "2026-09-19T19:27:01.926894+00:00",
-   "headline": "US Treasury's Bessent, USTR Greer to meet Chinese Vice Premier He Lifeng on Sunday at JPMorgan headquarters in New York - source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770538,
-   "ts": "2026-09-19T17:14:30+00:00",
-   "ingested": "2026-09-19T17:21:03.793001+00:00",
-   "headline": "Trump on Al: will announce new \"czar\" soon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770537,
-   "ts": "2026-09-19T17:14:14+00:00",
-   "ingested": "2026-09-19T17:21:03.793023+00:00",
-   "headline": "Trump on AI: I am creating AI force, similar to space force",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770536,
-   "ts": "2026-09-19T17:13:46+00:00",
-   "ingested": "2026-09-19T17:21:03.793042+00:00",
-   "headline": "Pakistani interior minister visits Iran on bilateral ties: Iran foreign ministry spokesperson to Iranian state TV, unaware of any US message",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770535,
-   "ts": "2026-09-19T17:04:58+00:00",
-   "ingested": "2026-09-19T17:21:03.793057+00:00",
-   "headline": "Yemen's Houthis say they will keep targeting Saudi military build-ups until blockade ends",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770534,
-   "ts": "2026-09-19T17:04:03+00:00",
-   "ingested": "2026-09-19T17:21:03.793068+00:00",
-   "headline": "No immediate Saudi confirmation of Houthi statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770532,
-   "ts": "2026-09-19T17:01:51+00:00",
-   "ingested": "2026-09-19T17:21:03.793081+00:00",
-   "headline": "Yemen's Houthis: 'sensitive' sites in Riyadh targeted with ballistic missiles, drones",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770529,
-   "ts": "2026-09-19T17:01:05+00:00",
-   "ingested": "2026-09-19T17:21:03.793092+00:00",
-   "headline": "Yemen's Houthis: Attack on Aramco facility in Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770508,
-   "ts": "2026-09-19T15:32:34+00:00",
-   "ingested": "2026-09-19T17:21:03.793109+00:00",
-   "headline": "Iran\u2019s top security official: Tehran wants war between Saudi Arabia and Yemen to end - Al Jazeera interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770507,
-   "ts": "2026-09-19T15:31:08+00:00",
-   "ingested": "2026-09-19T17:21:03.793123+00:00",
-   "headline": "Iran's top security official outlines conditions: end war on all fronts, unfreeze Iranian funds, lift naval blockade - Al Jazeera interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770504,
-   "ts": "2026-09-19T15:28:22+00:00",
-   "ingested": "2026-09-19T17:21:03.793136+00:00",
-   "headline": "Iran's top security official: talks continue with mediators Qatar and Pakistan, conditions for negotiations conveyed - Al Jazeera interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770503,
-   "ts": "2026-09-19T15:27:08+00:00",
-   "ingested": "2026-09-19T17:21:03.793151+00:00",
-   "headline": "Iran\u2019s top security official: Qatar has relayed Tehran\u2019s terms to Washington to end war, awaiting Trump\u2019s response \u2013 Al Jazeera interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770500,
-   "ts": "2026-09-19T15:13:27+00:00",
-   "ingested": "2026-09-19T17:21:03.793164+00:00",
-   "headline": "German General Breuer chosen to lead NATO's top military committee: current chair says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770435,
-   "ts": "2026-09-19T11:22:38+00:00",
-   "ingested": "2026-09-19T14:21:40.308732+00:00",
-   "headline": "French finance ministry targets budget deficit of 5.0% of GDP in 2027, 5.4% in 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770434,
-   "ts": "2026-09-19T11:20:56+00:00",
-   "ingested": "2026-09-19T14:21:40.308761+00:00",
-   "headline": "French finance ministry: public-debt-to-GDP ratio projected to hit 119.3% in 2026, 121.7% in 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770420,
-   "ts": "2026-09-19T10:34:37+00:00",
-   "ingested": "2026-09-19T11:06:34.230257+00:00",
-   "headline": "Flames and thick black smoke rise near Riyadh airport: witness",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770415,
-   "ts": "2026-09-19T10:22:52+00:00",
-   "ingested": "2026-09-19T11:06:34.230288+00:00",
-   "headline": "Pakistan foreign affairs ministry: the two agreed to meet in New York alongside 81st UN General Assembly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770414,
-   "ts": "2026-09-19T10:22:25+00:00",
-   "ingested": "2026-09-19T11:06:34.230311+00:00",
-   "headline": "Pakistan foreign affairs ministry: the two discussed recent regional developments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770413,
-   "ts": "2026-09-19T10:21:58+00:00",
-   "ingested": "2026-09-19T11:06:34.230333+00:00",
-   "headline": "Pakistan foreign affairs ministry: Foreign Minister Ishaq Dar discusses with Iranian counterpart Abbas Araghchi today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770401,
-   "ts": "2026-09-19T09:39:47+00:00",
-   "ingested": "2026-09-19T11:06:34.230358+00:00",
-   "headline": "Russia\u2019s digital ministry reports attempt to sabotage communication lines in far east to disrupt election",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770398,
-   "ts": "2026-09-19T09:27:32+00:00",
-   "ingested": "2026-09-19T11:06:34.230377+00:00",
-   "headline": "Nato Spokesperson: Alliance will keep strengthening security in the Arctic",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770397,
-   "ts": "2026-09-19T09:27:32+00:00",
-   "ingested": "2026-09-19T11:06:34.230398+00:00",
-   "headline": "NATO spokesperson: we welcome announcement of imminent agreement between the US, Denmark, and Greenland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770396,
-   "ts": "2026-09-19T09:27:32+00:00",
-   "ingested": "2026-09-19T11:06:34.230416+00:00",
-   "headline": "Nato spokesperson: Arctic and North Atlantic vital to collective security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770395,
-   "ts": "2026-09-19T09:27:32+00:00",
-   "ingested": "2026-09-19T11:06:34.230434+00:00",
-   "headline": "NATO spokesperson: agreement to boost security, stability, and cooperation in vital region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770394,
-   "ts": "2026-09-19T09:27:30+00:00",
-   "ingested": "2026-09-19T11:06:34.230453+00:00",
-   "headline": "Anthropic, OpenAI, Spacexai, Google sued over call to \u2018pace\u2019 AI development - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770389,
-   "ts": "2026-09-19T08:42:02+00:00",
-   "ingested": "2026-09-19T11:06:34.230474+00:00",
-   "headline": "Russia unaware of hints from US on possible deal signing before Ukraine conflict ends: RIA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770388,
-   "ts": "2026-09-19T08:39:10+00:00",
-   "ingested": "2026-09-19T11:06:34.230490+00:00",
-   "headline": "EU urges US to reconsider decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770387,
-   "ts": "2026-09-19T08:37:45+00:00",
-   "ingested": "2026-09-19T11:06:34.230511+00:00",
-   "headline": "EU: regrets extension of entry visa denial for Palestinian delegation members at UN General Assembly in NY",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770383,
-   "ts": "2026-09-19T08:30:02+00:00",
-   "ingested": "2026-09-19T11:06:34.230533+00:00",
-   "headline": "Moscow electoral system hit by severe attack overnight during voting period: situation under control, IFX cites central election commission head",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770367,
-   "ts": "2026-09-19T07:49:36+00:00",
-   "ingested": "2026-09-19T11:06:34.230551+00:00",
-   "headline": "China's central bank advisor: stimulating demand is key to rebalancing economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770366,
-   "ts": "2026-09-19T07:47:40+00:00",
-   "ingested": "2026-09-19T11:06:34.230569+00:00",
-   "headline": "China's central bank advisor: China has rebalanced its economy, but progress is insufficient",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770365,
-   "ts": "2026-09-19T07:46:20+00:00",
-   "ingested": "2026-09-19T11:06:34.230588+00:00",
-   "headline": "China's central bank advisor: AI may exacerbate strong supply, weak demand in economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770364,
-   "ts": "2026-09-19T07:46:06+00:00",
-   "ingested": "2026-09-19T11:06:34.230607+00:00",
-   "headline": "Russian forces strike Ukrainian cargo ship and tanker in Black Sea and Ukraine port: IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770354,
-   "ts": "2026-09-19T06:14:20+00:00",
-   "ingested": "2026-09-19T06:14:33.144376+00:00",
-   "headline": "Iran executes man convicted of sharing missile site details with Israel during war: judiciary site",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770282,
-   "ts": "2026-09-19T02:02:53+00:00",
-   "ingested": "2026-09-19T06:14:33.144408+00:00",
-   "headline": "US considers delaying major arms sales announcement to Taiwan until after November\u2019s APEC summit in Shenzhen: SCMP",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770164,
-   "ts": "2026-09-19T01:20:23+00:00",
-   "ingested": "2026-09-19T01:22:21.618424+00:00",
-   "headline": "China vice premier He Lifeng to lead trade delegation to US Sept. 19-23: MOFCOM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770161,
-   "ts": "2026-09-19T01:14:20+00:00",
-   "ingested": "2026-09-19T01:22:21.618447+00:00",
-   "headline": "Over call for accelerated AI development: Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770160,
-   "ts": "2026-09-19T01:02:35+00:00",
-   "ingested": "2026-09-19T01:22:21.618467+00:00",
-   "headline": "State Dept: approves possible $2.68 billion foreign military sale to Ukraine for air defense upgrade development",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770126,
-   "ts": "2026-09-19T00:12:59+00:00",
-   "ingested": "2026-09-19T01:22:21.618487+00:00",
-   "headline": "Saudi civil defense: danger over in al Kharj",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770125,
-   "ts": "2026-09-19T00:11:30+00:00",
-   "ingested": "2026-09-19T01:22:21.618502+00:00",
-   "headline": "Saudi civil defense: danger has passed in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770124,
-   "ts": "2026-09-19T00:03:25+00:00",
-   "ingested": "2026-09-19T01:22:21.618517+00:00",
-   "headline": "Anthropic IPO may be delayed until after US midterm elections, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770123,
-   "ts": "2026-09-19T00:03:23+00:00",
-   "ingested": "2026-09-19T01:22:21.618531+00:00",
-   "headline": "Anthropic mulls debut of new AI model before IPO, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770113,
-   "ts": "2026-09-19T00:00:16+00:00",
-   "ingested": "2026-09-19T01:22:21.618545+00:00",
-   "headline": "Saudi civil defense issues warning about potential risk in Al Kharj",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770112,
-   "ts": "2026-09-18T23:59:39+00:00",
-   "ingested": "2026-09-19T01:22:21.618558+00:00",
-   "headline": "Saudi civil defense issues warning over potential hazard in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770111,
-   "ts": "2026-09-18T23:55:18+00:00",
-   "ingested": "2026-09-19T01:22:21.618574+00:00",
-   "headline": "Ustr Jamieson Greer to join Treasury Secretary Bessent in meeting with Chinese Vice Premier He Lifeng: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770096,
-   "ts": "2026-09-18T23:43:24+00:00",
-   "ingested": "2026-09-19T01:22:21.618593+00:00",
-   "headline": "Nvidia CEO Jensen Huang: agrees with Trump on AI, doesn\u2019t think it will end world by 2030 - CBS News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770067,
-   "ts": "2026-09-18T22:37:35+00:00",
-   "ingested": "2026-09-18T23:20:19.201498+00:00",
-   "headline": "OpenAI projects $840 billion in revenue through 2030 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770066,
-   "ts": "2026-09-18T22:37:09+00:00",
-   "ingested": "2026-09-18T23:20:19.201529+00:00",
-   "headline": "OpenAI expects costs to greatly exceed revenues: sales projected to rise from $36bn this year to $350bn in 2030 - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770065,
-   "ts": "2026-09-18T22:35:09+00:00",
-   "ingested": "2026-09-18T23:20:19.201548+00:00",
-   "headline": "OpenAI forecasts $280 billion spend by 2030: FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770064,
-   "ts": "2026-09-18T22:33:52+00:00",
-   "ingested": "2026-09-18T23:20:19.201568+00:00",
-   "headline": "Senior US administration official: Security council to hold meeting on AI and governance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770063,
-   "ts": "2026-09-18T22:31:34+00:00",
-   "ingested": "2026-09-18T23:20:19.201602+00:00",
-   "headline": "Skyworks extends expiration date of exchange offers for Gorvo\u2019s senior notes due 2029 and 2031",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770053,
-   "ts": "2026-09-18T22:28:25+00:00",
-   "ingested": "2026-09-18T23:20:19.201621+00:00",
-   "headline": "Senior US administration official: crucial to keep diplomacy with Gulf partners at UN General Assembly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770052,
-   "ts": "2026-09-18T22:25:36+00:00",
-   "ingested": "2026-09-18T23:20:19.201640+00:00",
-   "headline": "Senior US administration official: Trump prepared to talk with Kim Jong Un, ball in North Korea's court",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770051,
-   "ts": "2026-09-18T22:24:38+00:00",
-   "ingested": "2026-09-18T23:20:19.201657+00:00",
-   "headline": "Senior US administration official: on autos, Trump unwilling to compromise national security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770050,
-   "ts": "2026-09-18T22:24:08+00:00",
-   "ingested": "2026-09-18T23:20:19.201676+00:00",
-   "headline": "Senior US administration official on Xi meeting: no swap of export controls for already negotiated rare earths flow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770049,
-   "ts": "2026-09-18T22:23:35+00:00",
-   "ingested": "2026-09-18T23:20:19.201700+00:00",
-   "headline": "White House spokeswoman Kelly on Xi visit: Trump and Xi to give remarks at state dinner (corrects source to White House spokeswoman, not US deputy national security adviser)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770048,
-   "ts": "2026-09-18T22:23:34+00:00",
-   "ingested": "2026-09-18T23:20:19.201719+00:00",
-   "headline": "North Korea\u2019s Kim Yo Jong: N.Korea rejects International Atomic Energy Agency resolution -KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770047,
-   "ts": "2026-09-18T22:22:22+00:00",
-   "ingested": "2026-09-18T23:20:19.201738+00:00",
-   "headline": "Senior US administration official: We need China to step up on fentanyl efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770046,
-   "ts": "2026-09-18T22:21:57+00:00",
-   "ingested": "2026-09-18T23:20:19.201756+00:00",
-   "headline": "Senior US administration official: Bezos, Musk, Dell, Altman among attendees at state dinner",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770045,
-   "ts": "2026-09-18T22:21:24+00:00",
-   "ingested": "2026-09-18T23:20:19.201774+00:00",
-   "headline": "Senior US administration official: Busan ceasefire also on agenda for Trump-Xi meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770044,
-   "ts": "2026-09-18T22:20:56+00:00",
-   "ingested": "2026-09-18T23:20:19.201790+00:00",
-   "headline": "Senior US administration official on Xi meeting: AI is on the agenda",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770043,
-   "ts": "2026-09-18T22:20:41+00:00",
-   "ingested": "2026-09-18T23:20:19.201805+00:00",
-   "headline": "Trump administration to host UN event on AI next week: CNN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770041,
-   "ts": "2026-09-18T22:16:15+00:00",
-   "ingested": "2026-09-18T23:20:19.201822+00:00",
-   "headline": "White House spokeswoman Kelly: Trump to welcome Xi at Joint Base Andrews on arrival",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770037,
-   "ts": "2026-09-18T22:15:33+00:00",
-   "ingested": "2026-09-18T23:20:19.201840+00:00",
-   "headline": "US deputy national security adviser on Xi visit: Trump and Xi to give remarks at state dinner",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770035,
-   "ts": "2026-09-18T22:13:26+00:00",
-   "ingested": "2026-09-18T23:20:19.201856+00:00",
-   "headline": "US ambassador to UN: Trump will meet Venezuela's Rodriguez",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770034,
-   "ts": "2026-09-18T22:13:09+00:00",
-   "ingested": "2026-09-18T23:20:19.201871+00:00",
-   "headline": "US ambassador to UN: Trump to meet Japanese premier",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770033,
-   "ts": "2026-09-18T22:12:52+00:00",
-   "ingested": "2026-09-18T23:20:19.201886+00:00",
-   "headline": "US ambassador to UN: Trump will meet Burnham from UK",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770032,
-   "ts": "2026-09-18T22:12:25+00:00",
-   "ingested": "2026-09-18T23:20:19.201903+00:00",
-   "headline": "Gemini breached protected systems by guessing passwords and locating credentials in public repository during irregular test run - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770031,
-   "ts": "2026-09-18T22:07:54+00:00",
-   "ingested": "2026-09-18T23:20:19.201919+00:00",
-   "headline": "Zelenskiy: Best way to honor Senator Lindsey Graham's memory is to enact provisions of bill he backed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770030,
-   "ts": "2026-09-18T22:07:53+00:00",
-   "ingested": "2026-09-18T23:20:19.201935+00:00",
-   "headline": "Ukraine's Zelenskiy thanks Trump for signing Russia sanctions bill and Congress members for backing it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770029,
-   "ts": "2026-09-18T22:01:52+00:00",
-   "ingested": "2026-09-18T23:20:19.201951+00:00",
-   "headline": "Saudi civil defense: danger has subsided in Farasan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770015,
-   "ts": "2026-09-18T21:53:34+00:00",
-   "ingested": "2026-09-18T23:20:19.201966+00:00",
-   "headline": "Saudi civil defense issues warning over potential threat in Farasan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770012,
-   "ts": "2026-09-18T21:46:44+00:00",
-   "ingested": "2026-09-18T23:20:19.201981+00:00",
-   "headline": "White House: 2025 proclamation on H-1B visas extended by 12 months",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770011,
-   "ts": "2026-09-18T21:46:31+00:00",
-   "ingested": "2026-09-18T23:20:19.201995+00:00",
-   "headline": "Flights at Luxembourg paused amid unauthorized drone activity, says Flightradar24",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9770000,
-   "ts": "2026-09-18T21:46:10+00:00",
-   "ingested": "2026-09-18T23:20:19.202012+00:00",
-   "headline": "Danish PM office: Greenland, Denmark, US to sign deal next week boosting security in Arctic and North Atlantic region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769999,
-   "ts": "2026-09-18T21:45:29+00:00",
-   "ingested": "2026-09-18T23:20:19.202026+00:00",
-   "headline": "White House proclamation: limits on entry of specific nonimmigrant workers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769996,
-   "ts": "2026-09-18T21:44:58+00:00",
-   "ingested": "2026-09-18T23:20:19.202039+00:00",
-   "headline": "Trump signs Russia sanctions bill into law: White House",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769969,
-   "ts": "2026-09-18T21:24:31+00:00",
-   "ingested": "2026-09-18T23:20:19.202056+00:00",
-   "headline": "US Secretary of State Rubio: strengthened vital role of U.S.-Japan-ROK trilateral cooperation in protecting regional security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769968,
-   "ts": "2026-09-18T21:20:15+00:00",
-   "ingested": "2026-09-18T23:20:19.202071+00:00",
-   "headline": "Trump: US will always have full authority to act in Greenland to protect and defend its security",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769967,
-   "ts": "2026-09-18T21:19:35+00:00",
-   "ingested": "2026-09-18T23:20:19.202084+00:00",
-   "headline": "Trump: no expense to United States",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769966,
-   "ts": "2026-09-18T21:19:30+00:00",
-   "ingested": "2026-09-18T23:20:19.202099+00:00",
-   "headline": "Trump: United States to maintain permanent oversight of security and other requirements in Greenland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769965,
-   "ts": "2026-09-18T21:19:15+00:00",
-   "ingested": "2026-09-18T23:20:19.202113+00:00",
-   "headline": "Trump: united States has reached agreement with Kingdom of Denmark and Greenland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769964,
-   "ts": "2026-09-18T21:17:50+00:00",
-   "ingested": "2026-09-18T23:20:19.202129+00:00",
-   "headline": "North Korea: IAEA resolution does not affect country\u2019s status as nuclear state -KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769961,
-   "ts": "2026-09-18T21:16:35+00:00",
-   "ingested": "2026-09-18T23:20:19.202149+00:00",
-   "headline": "North Korea's Kim Jong Un: Modernisation across military signals major shift in war response \uacc4\ud68d - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769957,
-   "ts": "2026-09-18T21:10:45+00:00",
-   "ingested": "2026-09-18T21:12:27.630557+00:00",
-   "headline": "Deal will boost military presence in Greenland without impacting sovereignty, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769956,
-   "ts": "2026-09-18T21:10:45+00:00",
-   "ingested": "2026-09-18T21:12:27.630594+00:00",
-   "headline": "US, Denmark nearing agreement on Greenland, sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769955,
-   "ts": "2026-09-18T21:03:52+00:00",
-   "ingested": "2026-09-18T21:12:27.630636+00:00",
-   "headline": "South Korean foreign minister reaffirms to Rubio Sequil intent to contribute significantly to restoring free passage through Hormuz Strait - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9769916,
-   "ts": "2026-09-18T20:41:42+00:00",
-   "ingested": "2026-09-18T21:12:27.630654+00:00",
-   "headline": "Russia seeks to undermine the US elections - NYT, citing intelligence.",
    "channel": "rss",
    "source": "financialjuice"
   }
