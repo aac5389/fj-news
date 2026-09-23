@@ -1,7 +1,791 @@
 {
- "updated": "2026-09-23T13:48:37.377491+00:00",
+ "updated": "2026-09-23T17:59:25.630905+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9775892,
+   "ts": "2026-09-23T17:41:49+00:00",
+   "ingested": "2026-09-23T17:59:25.629018+00:00",
+   "headline": "White House Official: Report that US is considering a diesel export ban is 'fake news'.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775891,
+   "ts": "2026-09-23T17:38:35+00:00",
+   "ingested": "2026-09-23T17:59:25.629041+00:00",
+   "headline": "ECB'S Lane: We're not seeing any big wage response to the energy shock.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775890,
+   "ts": "2026-09-23T17:34:33+00:00",
+   "ingested": "2026-09-23T17:59:25.629066+00:00",
+   "headline": "Microsoft's Smith: AI safety won't advance if we rely on two companies, AI should have independent evaluators $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775877,
+   "ts": "2026-09-23T17:27:53+00:00",
+   "ingested": "2026-09-23T17:59:25.629082+00:00",
+   "headline": "Microsoft President: It is the right time to invest in Gulf nations. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775859,
+   "ts": "2026-09-23T17:03:24+00:00",
+   "ingested": "2026-09-23T17:59:25.629099+00:00",
+   "headline": "US 5-Year Note Auction: High Yield 5.033% (Tailed by 3.1 basis points)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775858,
+   "ts": "2026-09-23T17:02:58+00:00",
+   "ingested": "2026-09-23T17:59:25.629114+00:00",
+   "headline": "US 5-Year Note Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775857,
+   "ts": "2026-09-23T17:02:32+00:00",
+   "ingested": "2026-09-23T17:59:25.629130+00:00",
+   "headline": "US 5-Year Note Bid-to-Cover Actual 2.210 (Forecast -, Previous 2.370)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775856,
+   "ts": "2026-09-23T17:02:06+00:00",
+   "ingested": "2026-09-23T17:59:25.629146+00:00",
+   "headline": "US 5-Year Note High Yield Actual 5.033% (Forecast -, Previous 4.393%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775851,
+   "ts": "2026-09-23T17:00:24+00:00",
+   "ingested": "2026-09-23T17:59:25.629161+00:00",
+   "headline": "Treasury WI 5-year yield 5.002% before $70 billion auction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775847,
+   "ts": "2026-09-23T16:59:02+00:00",
+   "ingested": "2026-09-23T17:59:25.629176+00:00",
+   "headline": "US Treasury Secretary Bessent: Held substantive talks with China's He",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775844,
+   "ts": "2026-09-23T16:51:04+00:00",
+   "ingested": "2026-09-23T17:59:25.629195+00:00",
+   "headline": "Israel's Defense Minister Gantz: Israel will not withdraw from Mount Hermon or security zone in Syria - Israel's Channel 2 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775828,
+   "ts": "2026-09-23T16:46:17+00:00",
+   "ingested": "2026-09-23T17:59:25.629211+00:00",
+   "headline": "IMF's Managing Director Georgieva: Fiscal challenges are growing more acute.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775826,
+   "ts": "2026-09-23T16:46:02+00:00",
+   "ingested": "2026-09-23T17:59:25.629227+00:00",
+   "headline": "IMF's Managing Director Georgieva: The medium-term outlook for the global economy is tepid.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775843,
+   "ts": "2026-09-23T16:45:57+00:00",
+   "ingested": "2026-09-23T17:59:25.629241+00:00",
+   "headline": "US prepares 90-day diesel export ban - Politico.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775823,
+   "ts": "2026-09-23T16:45:18+00:00",
+   "ingested": "2026-09-23T17:59:25.629260+00:00",
+   "headline": "Fed bids for 5-year notes total $10.5 bln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775822,
+   "ts": "2026-09-23T16:35:58+00:00",
+   "ingested": "2026-09-23T17:59:25.629276+00:00",
+   "headline": "US Energy Secretary Wright: China is a 'swing importer' of oil in the world market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775821,
+   "ts": "2026-09-23T16:32:31+00:00",
+   "ingested": "2026-09-23T17:59:25.629292+00:00",
+   "headline": "Microsoft is expanding investments in the Middle East, investing more than $10b by 2030. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775812,
+   "ts": "2026-09-23T16:30:35+00:00",
+   "ingested": "2026-09-23T17:59:25.629308+00:00",
+   "headline": "US Energy Secretary Wright: I see Natural Gas as 'America's Energy Super Power'.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775808,
+   "ts": "2026-09-23T16:30:03+00:00",
+   "ingested": "2026-09-23T17:59:25.629326+00:00",
+   "headline": "IMF: Supportive fiscal policies, private investment and potential AI productivity gains could support medium-term global growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775807,
+   "ts": "2026-09-23T16:29:55+00:00",
+   "ingested": "2026-09-23T17:59:25.629342+00:00",
+   "headline": "IMF: Global public debt was already near record highs when Middle East war began.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775806,
+   "ts": "2026-09-23T16:29:46+00:00",
+   "ingested": "2026-09-23T17:59:25.629376+00:00",
+   "headline": "IMF: The Middle East war since late February has significantly altered global growth trajectory through energy, commodity and supply-chain disruptions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775782,
+   "ts": "2026-09-23T16:11:46+00:00",
+   "ingested": "2026-09-23T17:59:25.629392+00:00",
+   "headline": "Russian Foreign Minister Lavrov: An agreement has been reached to continue discussions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775780,
+   "ts": "2026-09-23T16:11:17+00:00",
+   "ingested": "2026-09-23T17:59:25.629409+00:00",
+   "headline": "Russian Foreign Minister Lavrov emphasised the need to restore bilateral relations as soon as possible.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775779,
+   "ts": "2026-09-23T16:10:50+00:00",
+   "ingested": "2026-09-23T17:59:25.629429+00:00",
+   "headline": "Russian Foreign Minister Lavrov and US Secretary of State Rubio discussed the situation in the Middle East, the Transcaucasus, Latin America, and the Caribbean.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775778,
+   "ts": "2026-09-23T16:05:34+00:00",
+   "ingested": "2026-09-23T17:59:25.629448+00:00",
+   "headline": "Oman's Maritime Security Center evacuated the crew of a commercial ship, the \"Cape Dao\" after an attack on the ship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775777,
+   "ts": "2026-09-23T16:03:50+00:00",
+   "ingested": "2026-09-23T17:59:25.629466+00:00",
+   "headline": "Senators aim to fast-track Chinese vehicle ban legislation this week as China's Xi visits Washington - Document.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775767,
+   "ts": "2026-09-23T16:02:27+00:00",
+   "ingested": "2026-09-23T17:59:25.629490+00:00",
+   "headline": "Israel's Channel 12 News: The \"Together\" party leader Bennett calls on Israeli PM Netanyahu to declare Qatar an enemy state during UN General Assembly speech, coalition and opposition would support move.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775759,
+   "ts": "2026-09-23T15:50:26+00:00",
+   "ingested": "2026-09-23T17:59:25.629507+00:00",
+   "headline": "Lithuanian Defence Minister: Lithuania, Latvia, and Estonia have asked for the European Union's support for drone defenses.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775758,
+   "ts": "2026-09-23T15:48:38+00:00",
+   "ingested": "2026-09-23T17:59:25.629526+00:00",
+   "headline": "US Treasury Secretary Bessent, after meeting with China's He: We're fine with either continuing the Busan arrangement or examining a bigger deal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775737,
+   "ts": "2026-09-23T15:42:33+00:00",
+   "ingested": "2026-09-23T17:59:25.629549+00:00",
+   "headline": "Head of the Iranian Atomic Energy Organization: Despite numerous IAEA inspections, not a single report of non-compliance exists. The Agency has had access to all facilities - IRIB News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775735,
+   "ts": "2026-09-23T15:37:22+00:00",
+   "ingested": "2026-09-23T17:59:25.629571+00:00",
+   "headline": "Fitch Ratings believes that lingering tensions between the US and Europe continue to raise questions over the reliability of the US' security commitments to Europe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775734,
+   "ts": "2026-09-23T15:36:46+00:00",
+   "ingested": "2026-09-23T17:59:25.629594+00:00",
+   "headline": "Iran's Foreign Ministry Spokesperson: Conditions include accepting the safe route in Hormuz, in which an understanding between the two coastal countries has been reached.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775733,
+   "ts": "2026-09-23T15:34:23+00:00",
+   "ingested": "2026-09-23T17:59:25.629612+00:00",
+   "headline": "Fed's Goolsbee: That's what happened with tariffs, COVID; that's maybe what's happening with oil, we better be careful.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775732,
+   "ts": "2026-09-23T15:34:01+00:00",
+   "ingested": "2026-09-23T17:59:25.629631+00:00",
+   "headline": "Fed's Goolsbee: We're better off assuming that bigger negative supply shocks to have a pretty persistent effect on inflation - Economics Applied Podcast.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775731,
+   "ts": "2026-09-23T15:33:29+00:00",
+   "ingested": "2026-09-23T17:59:25.629651+00:00",
+   "headline": "Iran's Foreign Ministry Spokesperson: Another round of message exchanges and clarifications took place between Iran and the US via the Qatari mediator on Tuesday.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775710,
+   "ts": "2026-09-23T15:29:36+00:00",
+   "ingested": "2026-09-23T17:59:25.629670+00:00",
+   "headline": "Iranian Tasnim News Agency, citing sources: Araqchi's move in dealing with Witkov was done without coordination with the relevant authorities - Al Hadath.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775709,
+   "ts": "2026-09-23T15:27:17+00:00",
+   "ingested": "2026-09-23T17:59:25.629687+00:00",
+   "headline": "US-EU Ambassador Puzder: We discussed Chinese overcapacity with EU's Sefcovic.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775708,
+   "ts": "2026-09-23T15:18:41+00:00",
+   "ingested": "2026-09-23T17:59:25.629701+00:00",
+   "headline": "US Secretary of State Rubio ends remarks to reporters.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775707,
+   "ts": "2026-09-23T15:17:38+00:00",
+   "ingested": "2026-09-23T17:59:25.629718+00:00",
+   "headline": "IIF: Global debt tops record $365 trillion in first half of 2026, emerging markets drive bulk of rise.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775706,
+   "ts": "2026-09-23T15:17:27+00:00",
+   "ingested": "2026-09-23T17:59:25.629735+00:00",
+   "headline": "IIF: Emerging market debt jumps $6.5 trillion to more than $110 trillion in H1, led by China.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775684,
+   "ts": "2026-09-23T15:03:43+00:00",
+   "ingested": "2026-09-23T17:59:25.629751+00:00",
+   "headline": "US Secretary of State Rubio: Iran talks are being impeded by the IRGC Leaders.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775683,
+   "ts": "2026-09-23T15:01:54+00:00",
+   "ingested": "2026-09-23T17:59:25.629768+00:00",
+   "headline": "US Treasury will buy up to $6 bln of 20-30 year debt in September 24th liquidity buyback.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775675,
+   "ts": "2026-09-23T15:01:16+00:00",
+   "ingested": "2026-09-23T17:59:25.629787+00:00",
+   "headline": "US Treasury to buy back up to $6B in longer-dated debt on Thursday; previously said buyback would be at least $4B.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775674,
+   "ts": "2026-09-23T15:00:47+00:00",
+   "ingested": "2026-09-23T17:59:25.629807+00:00",
+   "headline": "US Secretary of State Rubio: There will be an opportunity for Trump to interact with China again later this year at APEC and the G20.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775667,
+   "ts": "2026-09-23T14:57:07+00:00",
+   "ingested": "2026-09-23T17:59:25.629819+00:00",
+   "headline": "US Secretary of State Rubio: The Iran meeting was positive, but it was not a breakthrough.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775666,
+   "ts": "2026-09-23T14:56:12+00:00",
+   "ingested": "2026-09-23T17:59:25.629831+00:00",
+   "headline": "US Secretary of State Rubio: The Iran talks were a continuation of previous discussions, and were largely an exchange of ideas and messages.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775665,
+   "ts": "2026-09-23T14:55:49+00:00",
+   "ingested": "2026-09-23T17:59:25.629843+00:00",
+   "headline": "Senior Iranian Official: There are still many differences remain between Iran and the US positions, but diplomacy continues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775664,
+   "ts": "2026-09-23T14:54:16+00:00",
+   "ingested": "2026-09-23T17:59:25.629854+00:00",
+   "headline": "Senior Iranian Official: During indirect talks with the US on Tuesday, reopening the Hormuz Strait and lifting the US blockade were discussed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775663,
+   "ts": "2026-09-23T14:52:32+00:00",
+   "ingested": "2026-09-23T17:59:25.629865+00:00",
+   "headline": "US Secretary of State Rubio: Trump has many options over the Houthi attacks on Saudi Arabia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775662,
+   "ts": "2026-09-23T14:52:11+00:00",
+   "ingested": "2026-09-23T17:59:25.629877+00:00",
+   "headline": "Senior Iranian official: Tehran is reviewing US response to its proposal to end hostilities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775661,
+   "ts": "2026-09-23T14:49:52+00:00",
+   "ingested": "2026-09-23T17:59:25.629888+00:00",
+   "headline": "US Secretary of State Rubio: We will live up to commitments in the defense agreement with Saudi Arabia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775660,
+   "ts": "2026-09-23T14:47:58+00:00",
+   "ingested": "2026-09-23T17:59:25.629899+00:00",
+   "headline": "US Secretary of State Rubio: Much of the interaction with China over the last year has been focused on trade.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775659,
+   "ts": "2026-09-23T14:47:38+00:00",
+   "ingested": "2026-09-23T17:59:25.629911+00:00",
+   "headline": "US Treasury Secretary Bessent: I met with China's He to finish up Sunday talks - Fox Business.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775658,
+   "ts": "2026-09-23T14:47:12+00:00",
+   "ingested": "2026-09-23T17:59:25.629922+00:00",
+   "headline": "US Energy Secretary Wright: The US might consider leaving the IEA if there is no alignment on climate issues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775634,
+   "ts": "2026-09-23T14:38:44+00:00",
+   "ingested": "2026-09-23T17:59:25.629933+00:00",
+   "headline": "US Secretary of State Rubio: Both Russia and Ukraine want a grain and energy ceasefire.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775632,
+   "ts": "2026-09-23T14:37:31+00:00",
+   "ingested": "2026-09-23T17:59:25.629944+00:00",
+   "headline": "US State Dept: US Secretary of State Rubio and Lavrov discussed Russia-Ukraine war and US-Russia bilateral relationship",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775631,
+   "ts": "2026-09-23T14:36:47+00:00",
+   "ingested": "2026-09-23T17:59:25.629955+00:00",
+   "headline": "US State dept: Rubio met today with Russian Foreign Minister Lavrov on sidelines of UNGA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775605,
+   "ts": "2026-09-23T14:30:58+00:00",
+   "ingested": "2026-09-23T17:59:25.629971+00:00",
+   "headline": "IIF cites an \u201cillusion of stability\u2019 on government debt ratios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775604,
+   "ts": "2026-09-23T14:30:44+00:00",
+   "ingested": "2026-09-23T17:59:25.629982+00:00",
+   "headline": "IIF: Buybacks can\u2019t resolve structural drivers of debt.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775603,
+   "ts": "2026-09-23T14:30:31+00:00",
+   "ingested": "2026-09-23T17:59:25.629992+00:00",
+   "headline": "IIF's Tiftik: US safe haven status will be questioned more.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775599,
+   "ts": "2026-09-23T14:30:26+00:00",
+   "ingested": "2026-09-23T17:59:25.630003+00:00",
+   "headline": "EIA Crude Cushing Inventories  Actual 2.266M (Forecast -, Previous -0.342M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775600,
+   "ts": "2026-09-23T14:30:09+00:00",
+   "ingested": "2026-09-23T17:59:25.630012+00:00",
+   "headline": "Traders fully price four more ECB rate hikes by October 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775598,
+   "ts": "2026-09-23T14:30:02+00:00",
+   "ingested": "2026-09-23T17:59:25.630022+00:00",
+   "headline": "EIA Distillate Inventories Actual -0.428M (Forecast -0.68M, Previous 1.585M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775597,
+   "ts": "2026-09-23T14:30:02+00:00",
+   "ingested": "2026-09-23T17:59:25.630032+00:00",
+   "headline": "EIA Gasoline Inventories Actual -1.686M (Forecast 0.5M, Previous 0.794M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775596,
+   "ts": "2026-09-23T14:30:02+00:00",
+   "ingested": "2026-09-23T17:59:25.630042+00:00",
+   "headline": "EIA Crude Oil Inventories Actual 2.969M (Forecast -0.69M, Previous -0.640M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775595,
+   "ts": "2026-09-23T14:29:24+00:00",
+   "ingested": "2026-09-23T17:59:25.630052+00:00",
+   "headline": "Iran's President Pezeshkian ends remarks at the UN.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775594,
+   "ts": "2026-09-23T14:29:12+00:00",
+   "ingested": "2026-09-23T17:59:25.630062+00:00",
+   "headline": "Iran's Pezeshkian: Trump should know that threats unite the Iranian nation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775593,
+   "ts": "2026-09-23T14:28:11+00:00",
+   "ingested": "2026-09-23T17:59:25.630080+00:00",
+   "headline": "WATCH LIVE: Witkoff & Kushner speak about Board of Peace at UNGA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775591,
+   "ts": "2026-09-23T14:27:32+00:00",
+   "ingested": "2026-09-23T17:59:25.630095+00:00",
+   "headline": "US Secretary of State Rubio: Trump is imposing a costs on Iran, but has military options.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775590,
+   "ts": "2026-09-23T14:27:13+00:00",
+   "ingested": "2026-09-23T17:59:25.630105+00:00",
+   "headline": "US Secretary of State Rubio delivers remarks to the press in New York City - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775589,
+   "ts": "2026-09-23T14:26:31+00:00",
+   "ingested": "2026-09-23T17:59:25.630116+00:00",
+   "headline": "US Secretary of State Rubio: Trump has a number of options available, including military options.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775588,
+   "ts": "2026-09-23T14:26:19+00:00",
+   "ingested": "2026-09-23T17:59:25.630126+00:00",
+   "headline": "US Secretary of State Rubio: If there's an Iran deal, it will involve hard work and time.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775587,
+   "ts": "2026-09-23T14:25:49+00:00",
+   "ingested": "2026-09-23T17:59:25.630137+00:00",
+   "headline": "US Secretary of State Rubio on Iran: We will continue to defend and hold the Straits open.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775586,
+   "ts": "2026-09-23T14:25:33+00:00",
+   "ingested": "2026-09-23T17:59:25.630147+00:00",
+   "headline": "US Secretary of State Rubio: Iran fired at commercial ships this morning.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775585,
+   "ts": "2026-09-23T14:24:01+00:00",
+   "ingested": "2026-09-23T17:59:25.630157+00:00",
+   "headline": "Iran's President Pezeshkian: We can't allow free Hormuz use while we're sanctioned.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775584,
+   "ts": "2026-09-23T14:23:47+00:00",
+   "ingested": "2026-09-23T17:59:25.630168+00:00",
+   "headline": "Iran's Pezeshkian: Iran will not surrender with military power, believes in diplomacy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775583,
+   "ts": "2026-09-23T14:20:48+00:00",
+   "ingested": "2026-09-23T17:59:25.630179+00:00",
+   "headline": "Iran's Pezeshkian: The Hormuz Strait cannot be used for the passage of weapons that will be used against Iran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775582,
+   "ts": "2026-09-23T14:20:35+00:00",
+   "ingested": "2026-09-23T17:59:25.630189+00:00",
+   "headline": "Iran's President: The nuclear issue won't be solved on the battlefield.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775581,
+   "ts": "2026-09-23T14:18:35+00:00",
+   "ingested": "2026-09-23T17:59:25.630198+00:00",
+   "headline": "Crypto Fear and Greed Index: 71/100 = Greed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775580,
+   "ts": "2026-09-23T14:18:02+00:00",
+   "ingested": "2026-09-23T17:59:25.630208+00:00",
+   "headline": "Fear and Greed Index: 37/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775579,
+   "ts": "2026-09-23T14:16:46+00:00",
+   "ingested": "2026-09-23T17:59:25.630218+00:00",
+   "headline": "Iran's President Pezeshkian: Iran needs nuclear energy, not a nuclear bomb.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775576,
+   "ts": "2026-09-23T14:16:34+00:00",
+   "ingested": "2026-09-23T17:59:25.630229+00:00",
+   "headline": "Iran's President Pezeshkian: Iran needs to be strong and powerful to resist the US, and our enemies.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775569,
+   "ts": "2026-09-23T14:14:32+00:00",
+   "ingested": "2026-09-23T17:59:25.630239+00:00",
+   "headline": "United Nations: United States Delegation walks out during Iran President's UN Speech.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775567,
+   "ts": "2026-09-23T14:11:59+00:00",
+   "ingested": "2026-09-23T17:59:25.630248+00:00",
+   "headline": "Explosion heard in Jazan, Saudi Arabia - Tasnim News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775566,
+   "ts": "2026-09-23T14:11:40+00:00",
+   "ingested": "2026-09-23T17:59:25.630258+00:00",
+   "headline": "Iraqi Prime Minister and Trump discuss cooperation and the region - INA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775565,
+   "ts": "2026-09-23T14:11:18+00:00",
+   "ingested": "2026-09-23T17:59:25.630268+00:00",
+   "headline": "Iran's President Pezeshkian Speaks at the UN - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775564,
+   "ts": "2026-09-23T14:10:50+00:00",
+   "ingested": "2026-09-23T17:59:25.630278+00:00",
+   "headline": "US Treasury Secretary Bessent arrives for a meeting with Chinese Vice Premier He in Washington.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775562,
+   "ts": "2026-09-23T14:08:56+00:00",
+   "ingested": "2026-09-23T17:59:25.630288+00:00",
+   "headline": "Libya's Sharara is now pumping at less than 100k b/d - NOC Chairman.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775560,
+   "ts": "2026-09-23T14:06:23+00:00",
+   "ingested": "2026-09-23T17:59:25.630301+00:00",
+   "headline": "Fed's Barr: Inflation is not clearly trending toward our target in a timely way; economic growth is strong, the labor market is solid.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775559,
+   "ts": "2026-09-23T14:06:15+00:00",
+   "ingested": "2026-09-23T17:59:25.630311+00:00",
+   "headline": "Democrats urge Trump in letter to seek AI deal with China - Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775558,
+   "ts": "2026-09-23T14:05:59+00:00",
+   "ingested": "2026-09-23T17:59:25.630321+00:00",
+   "headline": "Fed's Barr: The Fed was out of position, we made an adjustment in the right direction.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775557,
+   "ts": "2026-09-23T14:05:46+00:00",
+   "ingested": "2026-09-23T17:59:25.630333+00:00",
+   "headline": "Fed's Barr: Going into the recent policy meeting, the Fed needed to recalibrate monetary policy to reflect risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775556,
+   "ts": "2026-09-23T14:05:29+00:00",
+   "ingested": "2026-09-23T17:59:25.630343+00:00",
+   "headline": "Fed's Barr: Risks to achieving 2% inflation have increased, risks to the labor market have receded.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775555,
+   "ts": "2026-09-23T14:05:14+00:00",
+   "ingested": "2026-09-23T17:59:25.630354+00:00",
+   "headline": "Fed's Barr: Further rate hikes are likely needed to ensure timely return to 2% inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775536,
+   "ts": "2026-09-23T14:02:17+00:00",
+   "ingested": "2026-09-23T17:59:25.630385+00:00",
+   "headline": "Investors price in 70% chance of a Bank of England rate hike in November (Tuesday: 60%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775534,
+   "ts": "2026-09-23T14:01:03+00:00",
+   "ingested": "2026-09-23T17:59:25.630399+00:00",
+   "headline": "Iran's General Razai: We cannot continue with the same diplomacy now, which offers no guarantees. In all previous negotiations, the United States was the first to violate the conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775520,
+   "ts": "2026-09-23T13:52:38+00:00",
+   "ingested": "2026-09-23T17:59:25.630413+00:00",
+   "headline": "Iran's General Razai: Trump may want to do something in the mountains of Iran or attack our nuclear sites, but we will tolerate even that; our armed forces have a plan ready to respond.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775519,
+   "ts": "2026-09-23T13:50:56+00:00",
+   "ingested": "2026-09-23T17:59:25.630425+00:00",
+   "headline": "Iran's General Razai: In our new diplomacy, we have a leverage called the Strait of Hormuz, which guarantees negotiations - Fars News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9775511,
    "ts": "2026-09-23T13:45:00+00:00",
@@ -3215,790 +3999,6 @@
    "ts": "2026-09-22T03:23:24+00:00",
    "ingested": "2026-09-22T05:48:08.430810+00:00",
    "headline": "South Korea Industry Ministry: Trump to make final call on US investment plan, funds to be transferred within 45 days if requested by US - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772912,
-   "ts": "2026-09-22T03:23:09+00:00",
-   "ingested": "2026-09-22T05:48:08.430830+00:00",
-   "headline": "South Korea government: even with 5-10% Westinghouse stake, South Korea retains voting rights - Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772911,
-   "ts": "2026-09-22T03:23:03+00:00",
-   "ingested": "2026-09-22T05:48:08.430847+00:00",
-   "headline": "RBA Governor Bullock: policy must address second-round inflation effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772910,
-   "ts": "2026-09-22T03:23:01+00:00",
-   "ingested": "2026-09-22T05:48:08.430864+00:00",
-   "headline": "RBA governor Bullock: supply shocks pose a challenge for monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772909,
-   "ts": "2026-09-22T03:22:36+00:00",
-   "ingested": "2026-09-22T05:48:08.430883+00:00",
-   "headline": "Alibaba CEO: aims for Alibaba Cloud global data center capacity to exceed 20 GW by 2032",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772908,
-   "ts": "2026-09-22T03:22:30+00:00",
-   "ingested": "2026-09-22T05:48:08.430902+00:00",
-   "headline": "Alibaba CEO unveils Zhenwu V300 AI chip: most powerful in China with 3 times performance of predecessor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772907,
-   "ts": "2026-09-22T03:22:28+00:00",
-   "ingested": "2026-09-22T05:48:08.430921+00:00",
-   "headline": "Alibaba CEO: Qwen team aims to train new model with 5 to 10 trillion parameters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772906,
-   "ts": "2026-09-22T03:22:26+00:00",
-   "ingested": "2026-09-22T05:48:08.430939+00:00",
-   "headline": "RBNZ Governor Breman: data indicate economic recovery continues this quarter but remains uneven",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772905,
-   "ts": "2026-09-22T03:22:24+00:00",
-   "ingested": "2026-09-22T05:48:08.430972+00:00",
-   "headline": "RBNZ Governor Breman: economic recovery likely to strengthen and widen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772904,
-   "ts": "2026-09-22T03:22:22+00:00",
-   "ingested": "2026-09-22T05:48:08.430990+00:00",
-   "headline": "RBNZ Governor Breman: substantial risks persist for economic outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772903,
-   "ts": "2026-09-22T03:22:21+00:00",
-   "ingested": "2026-09-22T05:48:08.431010+00:00",
-   "headline": "RBNZ Governor Breman: we will evaluate incoming data and global trends before next october decision, staying focused on inflation outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772902,
-   "ts": "2026-09-22T03:22:18+00:00",
-   "ingested": "2026-09-22T05:48:08.431031+00:00",
-   "headline": "Reserve Bank of NZ Gov Breman: persistent higher oil prices likely to push near-term inflation above September outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772901,
-   "ts": "2026-09-22T03:22:16+00:00",
-   "ingested": "2026-09-22T05:48:08.431048+00:00",
-   "headline": "South Korea has no plan to suggest chip investment to US: lawmaker",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772900,
-   "ts": "2026-09-22T03:22:14+00:00",
-   "ingested": "2026-09-22T05:48:08.431067+00:00",
-   "headline": "South Korea in talks with US on two nuclear reactors featuring South Korean design: lawmaker",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772899,
-   "ts": "2026-09-22T03:22:11+00:00",
-   "ingested": "2026-09-22T05:48:08.431084+00:00",
-   "headline": "South Korea aims to acquire 5-10% stake in Westinghouse: lawmaker",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772898,
-   "ts": "2026-09-22T03:21:22+00:00",
-   "ingested": "2026-09-22T05:48:08.431102+00:00",
-   "headline": "South Korea lawmaker: Alaska LNG project not confirmed yet in US investment plan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772897,
-   "ts": "2026-09-22T03:21:19+00:00",
-   "ingested": "2026-09-22T05:48:08.431120+00:00",
-   "headline": "RBA Governor Bullock: AI boom is increasing excess demand in Australian economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772896,
-   "ts": "2026-09-22T03:21:18+00:00",
-   "ingested": "2026-09-22T05:48:08.431137+00:00",
-   "headline": "South Korea Pursues nuclear power plant, Alaska LNG project for US investment: media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772895,
-   "ts": "2026-09-22T03:21:12+00:00",
-   "ingested": "2026-09-22T05:48:08.431155+00:00",
-   "headline": "South Korea negotiating with US on 5-10% stake investment in Westinghouse: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772650,
-   "ts": "2026-09-21T23:08:06+00:00",
-   "ingested": "2026-09-22T00:52:48.432307+00:00",
-   "headline": "IMF\u2019s Georgieva: lender to open office in Caracas next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772625,
-   "ts": "2026-09-21T22:30:29+00:00",
-   "ingested": "2026-09-22T00:52:48.432335+00:00",
-   "headline": "US to reopen military base in southern Greenland, establish presence at second site in eastern Greenland: three people familiar with the matter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772622,
-   "ts": "2026-09-21T22:25:03+00:00",
-   "ingested": "2026-09-22T00:52:48.432358+00:00",
-   "headline": "ECB's Lane: second surge in energy costs will boost inflation before easing toward goal from mid-2027 onward - Le Temps",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772621,
-   "ts": "2026-09-21T22:24:23+00:00",
-   "ingested": "2026-09-22T00:52:48.432375+00:00",
-   "headline": "ECB's Lane: European economy to expand at steady, moderate pace if energy shock eases - Le Temps",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772610,
-   "ts": "2026-09-21T22:08:14+00:00",
-   "ingested": "2026-09-21T22:13:32.994298+00:00",
-   "headline": "Shenzhen Camsense Technologies plans 10.4 million H-shares in global international offer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772609,
-   "ts": "2026-09-21T22:08:12+00:00",
-   "ingested": "2026-09-21T22:13:32.994324+00:00",
-   "headline": "Shenzhen Camsense Technologies sets offer price at HK$58.85 per H share under global offering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772608,
-   "ts": "2026-09-21T22:06:48+00:00",
-   "ingested": "2026-09-21T22:13:32.994342+00:00",
-   "headline": "Transportation Secretary Duffy: telecom lines fixed, all northeast airport operations restarting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772576,
-   "ts": "2026-09-21T21:35:59+00:00",
-   "ingested": "2026-09-21T22:13:32.994359+00:00",
-   "headline": "EU's Kallas: more than 10 vessels needed in Red Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772575,
-   "ts": "2026-09-21T21:35:44+00:00",
-   "ingested": "2026-09-21T22:13:32.994375+00:00",
-   "headline": "EU's Kallas: EU naval mission in Red Sea requires additional naval, air resources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772574,
-   "ts": "2026-09-21T21:34:57+00:00",
-   "ingested": "2026-09-21T22:13:32.994389+00:00",
-   "headline": "EU's Kallas: We aim for swift rollover of EU sanctions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772573,
-   "ts": "2026-09-21T21:34:29+00:00",
-   "ingested": "2026-09-21T22:13:32.994406+00:00",
-   "headline": "United Nations-EU\u2019s Kallas: as Russia escalates risks, we must enforce higher costs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772547,
-   "ts": "2026-09-21T21:29:38+00:00",
-   "ingested": "2026-09-21T22:13:32.994418+00:00",
-   "headline": "North Korea's culture minister visits Russia: KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772546,
-   "ts": "2026-09-21T21:22:18+00:00",
-   "ingested": "2026-09-21T22:13:32.994435+00:00",
-   "headline": "USTR to hold public hearing on Sept. 22, 2026, on Section 301 probe into Germany's pharmaceutical policies: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772524,
-   "ts": "2026-09-21T21:00:23+00:00",
-   "ingested": "2026-09-21T22:13:32.994451+00:00",
-   "headline": "UK PM Burnham: agreed to Saudi Arabia request for time-limited defensive air-to-air refuelling to stabilize region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772475,
-   "ts": "2026-09-21T20:18:12+00:00",
-   "ingested": "2026-09-21T22:13:32.994464+00:00",
-   "headline": "WATCH LIVE: Trump Meets With Mayor Zohran Mamdani In New York City",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772468,
-   "ts": "2026-09-21T20:14:48+00:00",
-   "ingested": "2026-09-21T22:13:32.994481+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi arrives in New York to attend UN General Assembly - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772447,
-   "ts": "2026-09-21T19:56:38+00:00",
-   "ingested": "2026-09-21T22:13:32.994496+00:00",
-   "headline": "Downing Street: UK PM underlined commitment to working with Mauritius and US on future of military base on Diego Garcia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772444,
-   "ts": "2026-09-21T19:46:34+00:00",
-   "ingested": "2026-09-21T22:13:32.994518+00:00",
-   "headline": "Canada unveils draft legislation to speed up approvals of major projects. Introduces bill to speed project reviews to one year. To formally designate \u2018strategic trade corridors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772427,
-   "ts": "2026-09-21T19:30:56+00:00",
-   "ingested": "2026-09-21T22:13:32.994537+00:00",
-   "headline": "Libya's NOC: Armed group closed valve 7 on the Sharara crude pipeline to Zawiya port on Monday, causing a sharp drop in output at the Sharara oilfield",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772422,
-   "ts": "2026-09-21T19:21:34+00:00",
-   "ingested": "2026-09-21T22:13:32.994549+00:00",
-   "headline": "Tuesday FX Options Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772414,
-   "ts": "2026-09-21T19:11:05+00:00",
-   "ingested": "2026-09-21T22:13:32.994565+00:00",
-   "headline": "Trump administration proposes $5 bln to kickstart investment fund to rebuild Gulf energy sites, according to sources and documents - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772413,
-   "ts": "2026-09-21T19:02:53+00:00",
-   "ingested": "2026-09-21T22:13:32.994581+00:00",
-   "headline": "Qatar: We are working to facilitate an agreement between Iran and US, even a short term one - Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772396,
-   "ts": "2026-09-21T18:50:58+00:00",
-   "ingested": "2026-09-21T22:13:32.994596+00:00",
-   "headline": "Brent Crude futures settle at $100.34/bbl, down $3.53, 3.4%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772383,
-   "ts": "2026-09-21T18:39:58+00:00",
-   "ingested": "2026-09-21T22:13:32.994611+00:00",
-   "headline": "Fed's Musalem: Core inflation may be running 1 percentage point above Fed's target.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772381,
-   "ts": "2026-09-21T18:36:05+00:00",
-   "ingested": "2026-09-21T18:39:48.296321+00:00",
-   "headline": "AWS: xAI's Grok 4.6 now available in Amazon Bedrock - Blog. $AMZN $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772380,
-   "ts": "2026-09-21T18:32:31+00:00",
-   "ingested": "2026-09-21T18:39:48.296342+00:00",
-   "headline": "SoftBank-backed SB Energy delays its IPO - NYT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772364,
-   "ts": "2026-09-21T18:31:53+00:00",
-   "ingested": "2026-09-21T18:39:48.296358+00:00",
-   "headline": "NYMEX Nat Gas Oct. futures settle at $2.8360/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772363,
-   "ts": "2026-09-21T18:31:14+00:00",
-   "ingested": "2026-09-21T18:39:48.296372+00:00",
-   "headline": "NYMEX Gasoline Oct. futures settle at $3.4699 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772362,
-   "ts": "2026-09-21T18:31:06+00:00",
-   "ingested": "2026-09-21T18:39:48.296385+00:00",
-   "headline": "NYMEX Diesel Oct. futures settle at $4.8895 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772358,
-   "ts": "2026-09-21T18:30:57+00:00",
-   "ingested": "2026-09-21T18:39:48.296399+00:00",
-   "headline": "NYMEX WTI Crude Oct. futures settle at $95.78 a barrel down $4.52, 4.51%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772357,
-   "ts": "2026-09-21T18:20:53+00:00",
-   "ingested": "2026-09-21T18:39:48.296412+00:00",
-   "headline": "Fed's Musalem: Business contacts say they are planning on price increases closer to 3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772356,
-   "ts": "2026-09-21T18:20:40+00:00",
-   "ingested": "2026-09-21T18:39:48.296426+00:00",
-   "headline": "Fed's Musalem: Even when stripping out supply-related factors, inflation is still 'too high' at up to 3%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772355,
-   "ts": "2026-09-21T18:20:24+00:00",
-   "ingested": "2026-09-21T18:39:48.296458+00:00",
-   "headline": "Fed's Musalem: Better for rate hikes to be 'earlier and incremental rather than later and larger.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772354,
-   "ts": "2026-09-21T18:20:01+00:00",
-   "ingested": "2026-09-21T18:39:48.296471+00:00",
-   "headline": "Fed's Musalem: Commodity shock is more than just oil, includes base metals like copper.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772353,
-   "ts": "2026-09-21T18:19:50+00:00",
-   "ingested": "2026-09-21T18:39:48.296484+00:00",
-   "headline": "Fed's Musalem: Labor market stable around full employment and not a source of inflation pressure.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772352,
-   "ts": "2026-09-21T18:19:41+00:00",
-   "ingested": "2026-09-21T18:39:48.296498+00:00",
-   "headline": "Fed's Musalem: Interest rates likely need to rise further to tame inflation that is both demand and supply-driven.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772351,
-   "ts": "2026-09-21T18:19:28+00:00",
-   "ingested": "2026-09-21T18:39:48.296514+00:00",
-   "headline": "Fed's Musalem: Without further policy restraint it is more likely inflation will remain substantially above 2% target 18 months from now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772341,
-   "ts": "2026-09-21T18:09:29+00:00",
-   "ingested": "2026-09-21T18:39:48.296526+00:00",
-   "headline": "Trump praises Lockheed Martin - Truth Social. $LMT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772339,
-   "ts": "2026-09-21T18:02:22+00:00",
-   "ingested": "2026-09-21T18:39:48.296539+00:00",
-   "headline": "China's Vice Finance Minister Liao: Talked about trade, investment, AI with US today.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772307,
-   "ts": "2026-09-21T17:35:54+00:00",
-   "ingested": "2026-09-21T18:39:48.296550+00:00",
-   "headline": "Trump Participates in a Ribbon Cutting Ceremony - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772305,
-   "ts": "2026-09-21T17:35:18+00:00",
-   "ingested": "2026-09-21T18:39:48.296562+00:00",
-   "headline": "The US, Denmark, and Greenland are going to hold a signing ceremony on Tuesday - Fox.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772304,
-   "ts": "2026-09-21T17:32:02+00:00",
-   "ingested": "2026-09-21T18:39:48.296575+00:00",
-   "headline": "The UK is close to agreeing to help the Saudi military counter the Houthis.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772254,
-   "ts": "2026-09-21T16:57:40+00:00",
-   "ingested": "2026-09-21T18:39:48.296586+00:00",
-   "headline": "Press conference by BoC's Gov. Macklem ends.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772253,
-   "ts": "2026-09-21T16:52:54+00:00",
-   "ingested": "2026-09-21T18:39:48.296602+00:00",
-   "headline": "BoC's Gov. Macklem: If we were too slow to raise rates, we'd have to raise them very quickly, and raise them more than had we moved earlier.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772252,
-   "ts": "2026-09-21T16:52:05+00:00",
-   "ingested": "2026-09-21T18:39:48.296614+00:00",
-   "headline": "More than two dozen US lawmakers urge Trump to maintain ban on Chinese automakers - Letter.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772251,
-   "ts": "2026-09-21T16:47:12+00:00",
-   "ingested": "2026-09-21T18:39:48.296627+00:00",
-   "headline": "BoC's Gov. Macklem: The question is, is the current rate the right one, or do we need to raise it?",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772249,
-   "ts": "2026-09-21T16:46:50+00:00",
-   "ingested": "2026-09-21T18:39:48.296640+00:00",
-   "headline": "BoC's Gov. Macklem: The key thing we're going to be looking at is our inflation forecast.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772247,
-   "ts": "2026-09-21T16:46:01+00:00",
-   "ingested": "2026-09-21T18:39:48.296652+00:00",
-   "headline": "BoC's Gov. Macklem: I expect inflation to drift up a little higher in the coming months.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772241,
-   "ts": "2026-09-21T16:45:04+00:00",
-   "ingested": "2026-09-21T18:39:48.296664+00:00",
-   "headline": "BoC's Gov. Macklem: We have cut Q4 annualized growth forecast to 0.75%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772240,
-   "ts": "2026-09-21T16:43:42+00:00",
-   "ingested": "2026-09-21T18:39:48.296677+00:00",
-   "headline": "BoC's Gov. Macklem: That is a worry because that will add persistence to headline inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772239,
-   "ts": "2026-09-21T16:43:05+00:00",
-   "ingested": "2026-09-21T18:39:48.296690+00:00",
-   "headline": "BoC's Gov. Macklem: It could take some time for higher fuel margins to normalise, that is a worry.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772238,
-   "ts": "2026-09-21T16:38:13+00:00",
-   "ingested": "2026-09-21T18:39:48.296701+00:00",
-   "headline": "BoC's Gov. Macklem Speaks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772237,
-   "ts": "2026-09-21T16:35:18+00:00",
-   "ingested": "2026-09-21T18:39:48.296713+00:00",
-   "headline": "BoC's Gov. Macklem: A new era of uncertainty is not going away any time soon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772195,
-   "ts": "2026-09-21T16:16:33+00:00",
-   "ingested": "2026-09-21T18:39:48.296733+00:00",
-   "headline": "Trump found himself torn between his desire to help his friend and ally, Saudi Crown Prince Mohammed bin Salman, and his desire to avoid getting involved in a war in a new front in the Middle East - Barak Ravid, News 12.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772194,
-   "ts": "2026-09-21T16:16:08+00:00",
-   "ingested": "2026-09-21T18:39:48.296748+00:00",
-   "headline": "Trump considered ordering an attack against Houthi rebels in Yemen over the weekend, but decided to refrain for now - two senior US officials to Barak Ravid, News 12.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772188,
-   "ts": "2026-09-21T16:12:48+00:00",
-   "ingested": "2026-09-21T18:39:48.296762+00:00",
-   "headline": "Germany's Leading Economic Institutes forecast German growth of 1.3% in 2026 vs 0.6% previously forecast - Handelsblatt.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772187,
-   "ts": "2026-09-21T16:12:09+00:00",
-   "ingested": "2026-09-21T18:39:48.296776+00:00",
-   "headline": "Germany's economic institutes forecast 1.1% growth in 2027 vs 0.9% previously - Handelsblatt.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772186,
-   "ts": "2026-09-21T16:11:04+00:00",
-   "ingested": "2026-09-21T18:39:48.296789+00:00",
-   "headline": "The US, Japan, and South Korea are committed to denuclearization of North Korea.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772185,
-   "ts": "2026-09-21T16:09:56+00:00",
-   "ingested": "2026-09-21T18:39:48.296802+00:00",
-   "headline": "The US releases a joint statement with Japan and South Korea, affirming 'free and open Indo-Pacific\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772184,
-   "ts": "2026-09-21T16:09:12+00:00",
-   "ingested": "2026-09-21T18:39:48.296815+00:00",
-   "headline": "Pakistani Interior Minister consults with their Iranian counterpart on efforts to advance the peace process - ISNA.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772165,
-   "ts": "2026-09-21T15:57:07+00:00",
-   "ingested": "2026-09-21T18:39:48.296826+00:00",
-   "headline": "Trump to decide on US-China AI deal this week - Fox Business",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772164,
-   "ts": "2026-09-21T15:53:44+00:00",
-   "ingested": "2026-09-21T18:39:48.296839+00:00",
-   "headline": "US Treasury Secretary Bessent is going to present Trump with US-China AI pact - Fox Business.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772163,
-   "ts": "2026-09-21T15:52:35+00:00",
-   "ingested": "2026-09-21T18:39:48.296852+00:00",
-   "headline": "Seven tankers in the vicinity of ras tanura port on sunday - Satellite images seen by Sources Show",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772162,
-   "ts": "2026-09-21T15:51:50+00:00",
-   "ingested": "2026-09-21T18:39:48.296866+00:00",
-   "headline": "Saudi Aramco Loads 14 Million Barrels of Crude on Seven VLCCs from Gulf Terminals, Ramping Up Exports Through Strait of Hormuz - Shipping Data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772161,
-   "ts": "2026-09-21T15:51:14+00:00",
-   "ingested": "2026-09-21T18:39:48.296879+00:00",
-   "headline": "Trump on AI: I will only encourage AI; we will be careful and rein in if we have to - Truth Social.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772160,
-   "ts": "2026-09-21T15:50:50+00:00",
-   "ingested": "2026-09-21T18:39:48.296893+00:00",
-   "headline": "SpaceXAI - Grok 4.7 priced at $2 per million input tokens and $6 per million output tokens.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772159,
-   "ts": "2026-09-21T15:50:22+00:00",
-   "ingested": "2026-09-21T18:39:48.296905+00:00",
-   "headline": "SpaceXAI - SpaceX AI launches grok 4.7, twice as fast at half the price of comparable models.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772158,
-   "ts": "2026-09-21T15:50:15+00:00",
-   "ingested": "2026-09-21T18:39:48.296924+00:00",
-   "headline": "Russian Railways accepts first grain shipment from southern Russia to Murmansk port, aiming for October export; grain-by-rail applications to Ultramar Baltic terminal reach ~260,000 tons in September - industry sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772151,
-   "ts": "2026-09-21T15:45:09+00:00",
-   "ingested": "2026-09-21T18:39:48.296937+00:00",
-   "headline": "China's Foreign Minister Wang Yi: China and the EU shouldn't be in a trade war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772150,
-   "ts": "2026-09-21T15:44:38+00:00",
-   "ingested": "2026-09-21T18:39:48.296949+00:00",
-   "headline": "China's Foreign Minister Wang Yi calls for enhancing strategic communications with Germany.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772149,
-   "ts": "2026-09-21T15:43:45+00:00",
-   "ingested": "2026-09-21T18:39:48.296961+00:00",
-   "headline": "China's Foreign Minister Wang Yi speaks to Germany's Foreign Minister Wadephul - Xinhua",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772148,
-   "ts": "2026-09-21T15:39:53+00:00",
-   "ingested": "2026-09-21T18:39:48.296977+00:00",
-   "headline": "Advisor to Iraq's Najaf Governor: Initial oil production from the Al-Qarnayn field, in partnership with China's Xinhua, to begin at the start of 2027 - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772144,
-   "ts": "2026-09-21T15:32:27+00:00",
-   "ingested": "2026-09-21T18:39:48.296995+00:00",
-   "headline": "US 3-Month Awarded High Actual 36.660% (Forecast -, Previous 13.860%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772143,
-   "ts": "2026-09-21T15:32:27+00:00",
-   "ingested": "2026-09-21T18:39:48.297006+00:00",
-   "headline": "US 6-Month Awarded High Actual 48.010% (Forecast -, Previous 82.500%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772142,
-   "ts": "2026-09-21T15:32:06+00:00",
-   "ingested": "2026-09-21T18:39:48.297018+00:00",
-   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.62 (Forecast -, Previous 2.740)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772141,
-   "ts": "2026-09-21T15:32:06+00:00",
-   "ingested": "2026-09-21T18:39:48.297030+00:00",
-   "headline": "US 6-Month Bill High Yield Actual 4.155% (Forecast -, Previous 4.060%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772140,
-   "ts": "2026-09-21T15:32:03+00:00",
-   "ingested": "2026-09-21T18:39:48.297042+00:00",
-   "headline": "US 3-Month Bill High Yield Actual 4.015% (Forecast -, Previous 3.970%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772139,
-   "ts": "2026-09-21T15:32:03+00:00",
-   "ingested": "2026-09-21T18:39:48.297053+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 2.77 (Forecast -, Previous 2.640)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772126,
-   "ts": "2026-09-21T15:18:41+00:00",
-   "ingested": "2026-09-21T18:39:48.297066+00:00",
-   "headline": "Moscow Oil Refinery has halted operations after a Ukrainian drone attack on September 20th - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9772110,
-   "ts": "2026-09-21T15:15:30+00:00",
-   "ingested": "2026-09-21T18:39:48.297078+00:00",
-   "headline": "Fed bids for 6-month bills total $5.3 bln.",
    "channel": "rss",
    "source": "financialjuice"
   }
