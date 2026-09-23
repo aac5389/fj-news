@@ -1,7 +1,271 @@
 {
- "updated": "2026-09-23T03:05:05.141741+00:00",
+ "updated": "2026-09-23T08:29:35.657819+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9775090,
+   "ts": "2026-09-23T08:17:53+00:00",
+   "ingested": "2026-09-23T08:29:35.657249+00:00",
+   "headline": "Europe Sentiment: Improved Oil Outlook - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775077,
+   "ts": "2026-09-23T08:02:59+00:00",
+   "ingested": "2026-09-23T08:29:35.657266+00:00",
+   "headline": "OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775076,
+   "ts": "2026-09-23T08:02:49+00:00",
+   "ingested": "2026-09-23T08:29:35.657278+00:00",
+   "headline": "OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775075,
+   "ts": "2026-09-23T08:02:39+00:00",
+   "ingested": "2026-09-23T08:29:35.657288+00:00",
+   "headline": "OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775074,
+   "ts": "2026-09-23T08:02:29+00:00",
+   "ingested": "2026-09-23T08:29:35.657297+00:00",
+   "headline": "OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775073,
+   "ts": "2026-09-23T08:02:21+00:00",
+   "ingested": "2026-09-23T08:29:35.657305+00:00",
+   "headline": "OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775072,
+   "ts": "2026-09-23T08:02:14+00:00",
+   "ingested": "2026-09-23T08:29:35.657313+00:00",
+   "headline": "OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775042,
+   "ts": "2026-09-23T08:00:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657321+00:00",
+   "headline": "Eurozone Manufacturing PMI Flash Actual 52.7 (Forecast 52.6, Previous 52.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775041,
+   "ts": "2026-09-23T08:00:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657328+00:00",
+   "headline": "Eurozone Composite PMI Flash Actual 53.1 (Forecast 51.7, Previous 52.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775040,
+   "ts": "2026-09-23T08:00:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657335+00:00",
+   "headline": "Eurozone Services PMI Flash Actual 53 (Forecast 51.4, Previous 51.6)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775034,
+   "ts": "2026-09-23T07:45:58+00:00",
+   "ingested": "2026-09-23T08:29:35.657343+00:00",
+   "headline": "NVIDIA-backed Firmus seeks $10 billion financing for AI chips.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775008,
+   "ts": "2026-09-23T07:30:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657350+00:00",
+   "headline": "German Composite PMI Flash Actual 53.8 (Forecast 51.8, Previous 51.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775007,
+   "ts": "2026-09-23T07:30:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657357+00:00",
+   "headline": "German Manufacturing PMI Flash Actual 53.8 (Forecast 54, Previous 54.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9775006,
+   "ts": "2026-09-23T07:30:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657365+00:00",
+   "headline": "German Service PMI Flash Actual 52.9 (Forecast 49.9, Previous 49.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774985,
+   "ts": "2026-09-23T07:15:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657372+00:00",
+   "headline": "French Manufacturing PMI Flash Actual 50.3 (Forecast 51, Previous 51.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774984,
+   "ts": "2026-09-23T07:15:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657379+00:00",
+   "headline": "French Services PMI Flash Actual 51.4 (Forecast 48.3, Previous 48.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774983,
+   "ts": "2026-09-23T07:15:00+00:00",
+   "ingested": "2026-09-23T08:29:35.657386+00:00",
+   "headline": "French Comp Flash PMI Actual 51.2 (Forecast 48.7, Previous 48.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774982,
+   "ts": "2026-09-23T07:05:04+00:00",
+   "ingested": "2026-09-23T08:29:35.657396+00:00",
+   "headline": "Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774981,
+   "ts": "2026-09-23T07:01:30+00:00",
+   "ingested": "2026-09-23T08:29:35.657404+00:00",
+   "headline": "Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774933,
+   "ts": "2026-09-23T06:22:19+00:00",
+   "ingested": "2026-09-23T08:29:35.657413+00:00",
+   "headline": "Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774895,
+   "ts": "2026-09-23T05:52:03+00:00",
+   "ingested": "2026-09-23T08:29:35.657452+00:00",
+   "headline": "UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774825,
+   "ts": "2026-09-23T04:38:46+00:00",
+   "ingested": "2026-09-23T08:29:35.657460+00:00",
+   "headline": "Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774824,
+   "ts": "2026-09-23T04:35:44+00:00",
+   "ingested": "2026-09-23T08:29:35.657469+00:00",
+   "headline": "China central bank offers 6-month yuan bills in Hong Kong at 1.37%, HKMA says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774823,
+   "ts": "2026-09-23T04:31:20+00:00",
+   "ingested": "2026-09-23T08:29:35.657477+00:00",
+   "headline": "Dutch final Q2 GDP rises 0.6% quarter on quarter, seasonally adjusted: CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774822,
+   "ts": "2026-09-23T04:31:20+00:00",
+   "ingested": "2026-09-23T08:29:35.657485+00:00",
+   "headline": "Seoul to finance $22 billion gas-fired power plant in Texas, aiming to fulfill $350 billion pledge: ft",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774805,
+   "ts": "2026-09-23T04:30:23+00:00",
+   "ingested": "2026-09-23T08:29:35.657493+00:00",
+   "headline": "South Korea picks Texas gas plant as initial project under US investment agreement - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774800,
+   "ts": "2026-09-23T04:30:04+00:00",
+   "ingested": "2026-09-23T08:29:35.657500+00:00",
+   "headline": "Dutch final Q2 GDP rises 0.6% quarter-on-quarter, CBS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774799,
+   "ts": "2026-09-23T04:30:03+00:00",
+   "ingested": "2026-09-23T08:29:35.657507+00:00",
+   "headline": "Dutch GDP QoQ Final SA Actual 0.6% (Forecast 0.4%, Previous 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774798,
+   "ts": "2026-09-23T04:30:02+00:00",
+   "ingested": "2026-09-23T08:29:35.657515+00:00",
+   "headline": "Dutch GDP YoY Final NSA Actual 1.6% (Forecast -, Previous 1.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774797,
+   "ts": "2026-09-23T04:18:03+00:00",
+   "ingested": "2026-09-23T08:29:35.657522+00:00",
+   "headline": "Japan PM Takaichi: had frank discussion with Trump on international criminal court",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774789,
+   "ts": "2026-09-23T04:10:24+00:00",
+   "ingested": "2026-09-23T08:29:35.657530+00:00",
+   "headline": "Japan PM Takaichi: agreed with President Trump at meeting to enhance economic security partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774788,
+   "ts": "2026-09-23T04:03:48+00:00",
+   "ingested": "2026-09-23T08:29:35.657538+00:00",
+   "headline": "Chinese authorities examine use of Broadcom hardware in state-backed data centers amid push to support local manufacturers - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9774758,
+   "ts": "2026-09-23T03:39:17+00:00",
+   "ingested": "2026-09-23T08:29:35.657546+00:00",
+   "headline": "China finance ministry offers 3-month bills at 1.1101% yield: traders",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9774707,
    "ts": "2026-09-23T02:44:22+00:00",
@@ -3735,270 +3999,6 @@
    "ts": "2026-09-21T13:02:37+00:00",
    "ingested": "2026-09-21T13:09:03.990677+00:00",
    "headline": "Google unveils $899-plus Googlebook AI laptops. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771921,
-   "ts": "2026-09-21T13:02:17+00:00",
-   "ingested": "2026-09-21T13:09:03.990693+00:00",
-   "headline": "Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771920,
-   "ts": "2026-09-21T13:02:06+00:00",
-   "ingested": "2026-09-21T13:09:03.990708+00:00",
-   "headline": "Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771919,
-   "ts": "2026-09-21T13:01:56+00:00",
-   "ingested": "2026-09-21T13:09:03.990722+00:00",
-   "headline": "Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771916,
-   "ts": "2026-09-21T13:01:43+00:00",
-   "ingested": "2026-09-21T13:09:03.990733+00:00",
-   "headline": "Fed's Goolsbee: We should be open to making the SEP more informative.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771912,
-   "ts": "2026-09-21T13:01:40+00:00",
-   "ingested": "2026-09-21T13:09:03.990747+00:00",
-   "headline": "Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771900,
-   "ts": "2026-09-21T13:01:26+00:00",
-   "ingested": "2026-09-21T13:09:03.990758+00:00",
-   "headline": "Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771898,
-   "ts": "2026-09-21T13:01:22+00:00",
-   "ingested": "2026-09-21T13:09:03.990769+00:00",
-   "headline": "Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771897,
-   "ts": "2026-09-21T13:01:11+00:00",
-   "ingested": "2026-09-21T13:09:03.990782+00:00",
-   "headline": "Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771896,
-   "ts": "2026-09-21T13:01:09+00:00",
-   "ingested": "2026-09-21T13:09:03.990792+00:00",
-   "headline": "Fed's Goolsbee: Current unemployment rate is pretty close to full employment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771895,
-   "ts": "2026-09-21T13:00:51+00:00",
-   "ingested": "2026-09-21T13:09:03.990804+00:00",
-   "headline": "Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771894,
-   "ts": "2026-09-21T13:00:50+00:00",
-   "ingested": "2026-09-21T13:09:03.990815+00:00",
-   "headline": "Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771893,
-   "ts": "2026-09-21T13:00:39+00:00",
-   "ingested": "2026-09-21T13:09:03.990825+00:00",
-   "headline": "Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771892,
-   "ts": "2026-09-21T13:00:35+00:00",
-   "ingested": "2026-09-21T13:09:03.990836+00:00",
-   "headline": "Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771888,
-   "ts": "2026-09-21T13:00:23+00:00",
-   "ingested": "2026-09-21T13:09:03.990862+00:00",
-   "headline": "Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771886,
-   "ts": "2026-09-21T13:00:15+00:00",
-   "ingested": "2026-09-21T13:09:03.990873+00:00",
-   "headline": "Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771885,
-   "ts": "2026-09-21T12:51:11+00:00",
-   "ingested": "2026-09-21T13:09:03.990883+00:00",
-   "headline": "USTR Greer interview with Bloomberg TV concludes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771884,
-   "ts": "2026-09-21T12:49:59+00:00",
-   "ingested": "2026-09-21T13:09:03.990893+00:00",
-   "headline": "USTR Greer: Canada has slow growth, and I like our model better.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771883,
-   "ts": "2026-09-21T12:49:30+00:00",
-   "ingested": "2026-09-21T13:09:03.990902+00:00",
-   "headline": "USTR Greer: Canada wants to double down on globalization, and we don't.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771882,
-   "ts": "2026-09-21T12:48:38+00:00",
-   "ingested": "2026-09-21T13:09:03.990911+00:00",
-   "headline": "USTR Greer contrasts positive Mexico talks with Canada differences.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771867,
-   "ts": "2026-09-21T12:46:15+00:00",
-   "ingested": "2026-09-21T13:09:03.990921+00:00",
-   "headline": "The Gulf states urge a reset with Iran as conflict drags on - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771864,
-   "ts": "2026-09-21T12:42:06+00:00",
-   "ingested": "2026-09-21T13:09:03.990932+00:00",
-   "headline": "USTR Greer: Nothing off the table regarding Iran-related sanctions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771863,
-   "ts": "2026-09-21T12:40:08+00:00",
-   "ingested": "2026-09-21T13:09:03.990941+00:00",
-   "headline": "USTR Greer: indicates a 3-6 month truce extension could be possible.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771862,
-   "ts": "2026-09-21T12:39:06+00:00",
-   "ingested": "2026-09-21T13:09:03.990952+00:00",
-   "headline": "USTR Greer: Talks continue on details of extending the China trade truce.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771861,
-   "ts": "2026-09-21T12:38:07+00:00",
-   "ingested": "2026-09-21T13:09:03.990962+00:00",
-   "headline": "USTR Greer: The US is developing rules of origin with Mexico.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771860,
-   "ts": "2026-09-21T12:37:15+00:00",
-   "ingested": "2026-09-21T13:09:03.990971+00:00",
-   "headline": "USTR Greer repeats excess capacity probe is ongoing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771859,
-   "ts": "2026-09-21T12:36:35+00:00",
-   "ingested": "2026-09-21T13:09:03.990981+00:00",
-   "headline": "USTR Greer: The US is focused on outcomes rather than changing China.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771858,
-   "ts": "2026-09-21T12:36:13+00:00",
-   "ingested": "2026-09-21T13:09:03.990990+00:00",
-   "headline": "USTR Greer: We're just going to have managed trade with China.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771857,
-   "ts": "2026-09-21T12:35:50+00:00",
-   "ingested": "2026-09-21T13:09:03.991000+00:00",
-   "headline": "USTR Greer: Focus with China is on stability in trade ties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771856,
-   "ts": "2026-09-21T12:35:29+00:00",
-   "ingested": "2026-09-21T13:09:03.991009+00:00",
-   "headline": "USTR Greer: US-China talks were positive and constructive.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771855,
-   "ts": "2026-09-21T12:34:57+00:00",
-   "ingested": "2026-09-21T13:09:03.991018+00:00",
-   "headline": "Bloomberg Business tv",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771850,
-   "ts": "2026-09-21T12:32:31+00:00",
-   "ingested": "2026-09-21T13:09:03.991028+00:00",
-   "headline": "Credit Agricole: Review of Last Week & Updated Forecasts - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771837,
-   "ts": "2026-09-21T12:30:00+00:00",
-   "ingested": "2026-09-21T13:09:03.991038+00:00",
-   "headline": "Chicago National Activity Index Actual -0.04 (Forecast -0.035, Previous -0.08)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9771836,
-   "ts": "2026-09-21T12:28:59+00:00",
-   "ingested": "2026-09-21T13:09:03.991048+00:00",
-   "headline": "Bank of America: Fixed Income Funds See First Outflow in 24 Weeks - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
