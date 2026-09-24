@@ -1,12 +1,12 @@
 {
- "updated_et": "2026-09-23 20:44 ET",
+ "updated_et": "2026-09-24 11:26 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
    "name": "API Crude Inventories",
    "when_et": "2026-09-29 16:30 ET",
-   "minutes_until": 8385,
+   "minutes_until": 7503,
    "moves": [
     "CL"
    ],
@@ -16,7 +16,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-09-30 08:30 ET",
-   "minutes_until": 9345,
+   "minutes_until": 8463,
    "moves": [
     "ES",
     "GC"
@@ -26,7 +26,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-09-30 08:30 ET",
-   "minutes_until": 9345,
+   "minutes_until": 8463,
    "moves": [
     "ES",
     "GC"
@@ -36,7 +36,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-09-30 10:30 ET",
-   "minutes_until": 9465,
+   "minutes_until": 8583,
    "moves": [
     "CL"
    ],
@@ -45,7 +45,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-10-02 08:30 ET",
-   "minutes_until": 12225,
+   "minutes_until": 11343,
    "moves": [
     "ES",
     "GC"
@@ -55,7 +55,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-06 16:30 ET",
-   "minutes_until": 18465,
+   "minutes_until": 17583,
    "moves": [
     "CL"
    ],
@@ -65,7 +65,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-07 10:30 ET",
-   "minutes_until": 19545,
+   "minutes_until": 18663,
    "moves": [
     "CL"
    ],
@@ -74,7 +74,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-13 16:30 ET",
-   "minutes_until": 28545,
+   "minutes_until": 27663,
    "moves": [
     "CL"
    ],
@@ -84,7 +84,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-10-14 08:30 ET",
-   "minutes_until": 29505,
+   "minutes_until": 28623,
    "moves": [
     "ES",
     "GC"
@@ -94,7 +94,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-10-15 08:30 ET",
-   "minutes_until": 30945,
+   "minutes_until": 30063,
    "moves": [
     "ES",
     "GC"
@@ -104,7 +104,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-15 12:00 ET",
-   "minutes_until": 31155,
+   "minutes_until": 30273,
    "moves": [
     "CL"
    ],
@@ -114,7 +114,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-20 16:30 ET",
-   "minutes_until": 38625,
+   "minutes_until": 37743,
    "moves": [
     "CL"
    ],
@@ -124,7 +124,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-21 10:30 ET",
-   "minutes_until": 39705,
+   "minutes_until": 38823,
    "moves": [
     "CL"
    ],
@@ -133,7 +133,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-27 16:30 ET",
-   "minutes_until": 48705,
+   "minutes_until": 47823,
    "moves": [
     "CL"
    ],
@@ -143,7 +143,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-28 10:30 ET",
-   "minutes_until": 49785,
+   "minutes_until": 48903,
    "moves": [
     "CL"
    ],
@@ -152,7 +152,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-10-29 08:30 ET",
-   "minutes_until": 51105,
+   "minutes_until": 50223,
    "moves": [
     "ES",
     "GC"
@@ -162,7 +162,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-10-29 08:30 ET",
-   "minutes_until": 51105,
+   "minutes_until": 50223,
    "moves": [
     "ES",
     "GC"
@@ -172,7 +172,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-03 16:30 ET",
-   "minutes_until": 58785,
+   "minutes_until": 57903,
    "moves": [
     "CL"
    ],
@@ -182,7 +182,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-04 10:30 ET",
-   "minutes_until": 59865,
+   "minutes_until": 58983,
    "moves": [
     "CL"
    ],
@@ -191,7 +191,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-11-06 08:30 ET",
-   "minutes_until": 62625,
+   "minutes_until": 61743,
    "moves": [
     "ES",
     "GC"
