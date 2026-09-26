@@ -1,7 +1,23 @@
 {
- "updated": "2026-09-26T01:53:02.874900+00:00",
+ "updated": "2026-09-26T07:00:40.593625+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9780054,
+   "ts": "2026-09-26T03:59:40+00:00",
+   "ingested": "2026-09-26T07:00:40.593218+00:00",
+   "headline": "Saudi civil defense: danger has passed in Abha",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9780053,
+   "ts": "2026-09-26T03:59:40+00:00",
+   "ingested": "2026-09-26T07:00:40.593277+00:00",
+   "headline": "Saudi civil defense issues warning about potential hazard in Abha",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9779947,
    "ts": "2026-09-26T01:26:26+00:00",
@@ -3983,22 +3999,6 @@
    "ts": "2026-09-24T01:20:27+00:00",
    "ingested": "2026-09-24T01:40:58.903918+00:00",
    "headline": "China c.bank injects 51.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9776408,
-   "ts": "2026-09-24T01:03:03+00:00",
-   "ingested": "2026-09-24T01:40:58.903950+00:00",
-   "headline": "Pakistan information minister: conducted aerial and drone attacks on 10 Afghan sites used for launching and storing drones on Sept. 23",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9776399,
-   "ts": "2026-09-24T01:00:30+00:00",
-   "ingested": "2026-09-24T01:40:58.903977+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.804% (unchanged from prior session)",
    "channel": "rss",
    "source": "financialjuice"
   }
