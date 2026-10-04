@@ -1,7 +1,15 @@
 {
- "updated": "2026-10-04T14:25:06.864494+00:00",
+ "updated": "2026-10-04T18:16:08.385117+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9790919,
+   "ts": "2026-10-04T17:05:34+00:00",
+   "ingested": "2026-10-04T18:16:08.384744+00:00",
+   "headline": "Iran oil minister steps down: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9790861,
    "ts": "2026-10-04T13:46:27+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-01T16:14:48+00:00",
    "ingested": "2026-10-01T19:13:56.435797+00:00",
    "headline": "Putin: We are not going to attack anyone, but will respond if we face aggression.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9787883,
-   "ts": "2026-10-01T16:14:31+00:00",
-   "ingested": "2026-10-01T19:13:56.435809+00:00",
-   "headline": "Microsoft MAI-Transcribe-2-Streaming priced at $0.54/hr. $MSFT",
    "channel": "rss",
    "source": "financialjuice"
   }
