@@ -1,22 +1,12 @@
 {
- "updated_et": "2026-10-06 12:47 ET",
+ "updated_et": "2026-10-07 02:35 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
-   "name": "API Crude Inventories",
-   "when_et": "2026-10-06 16:30 ET",
-   "minutes_until": 222,
-   "moves": [
-    "CL"
-   ],
-   "source": "rule",
-   "note": "approximate; not holiday-adjusted"
-  },
-  {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-07 10:30 ET",
-   "minutes_until": 1302,
+   "minutes_until": 474,
    "moves": [
     "CL"
    ],
@@ -25,7 +15,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-13 16:30 ET",
-   "minutes_until": 10302,
+   "minutes_until": 9474,
    "moves": [
     "CL"
    ],
@@ -35,7 +25,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-10-14 08:30 ET",
-   "minutes_until": 11262,
+   "minutes_until": 10434,
    "moves": [
     "ES",
     "GC"
@@ -45,7 +35,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-10-15 08:30 ET",
-   "minutes_until": 12702,
+   "minutes_until": 11874,
    "moves": [
     "ES",
     "GC"
@@ -55,7 +45,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-15 12:00 ET",
-   "minutes_until": 12912,
+   "minutes_until": 12084,
    "moves": [
     "CL"
    ],
@@ -65,7 +55,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-20 16:30 ET",
-   "minutes_until": 20382,
+   "minutes_until": 19554,
    "moves": [
     "CL"
    ],
@@ -75,7 +65,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-21 10:30 ET",
-   "minutes_until": 21462,
+   "minutes_until": 20634,
    "moves": [
     "CL"
    ],
@@ -84,7 +74,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-10-27 16:30 ET",
-   "minutes_until": 30462,
+   "minutes_until": 29634,
    "moves": [
     "CL"
    ],
@@ -94,16 +84,16 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-10-28 10:30 ET",
-   "minutes_until": 31542,
+   "minutes_until": 30714,
    "moves": [
     "CL"
    ],
    "source": "EIA"
   },
   {
-   "name": "Personal Income and Outlays",
+   "name": "Gross Domestic Product",
    "when_et": "2026-10-29 08:30 ET",
-   "minutes_until": 32862,
+   "minutes_until": 32034,
    "moves": [
     "ES",
     "GC"
@@ -111,9 +101,9 @@
    "source": "BEA"
   },
   {
-   "name": "Gross Domestic Product",
+   "name": "Personal Income and Outlays",
    "when_et": "2026-10-29 08:30 ET",
-   "minutes_until": 32862,
+   "minutes_until": 32034,
    "moves": [
     "ES",
     "GC"
@@ -123,7 +113,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-03 16:30 ET",
-   "minutes_until": 40542,
+   "minutes_until": 39714,
    "moves": [
     "CL"
    ],
@@ -133,7 +123,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-04 10:30 ET",
-   "minutes_until": 41622,
+   "minutes_until": 40794,
    "moves": [
     "CL"
    ],
@@ -142,7 +132,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-11-06 08:30 ET",
-   "minutes_until": 44382,
+   "minutes_until": 43554,
    "moves": [
     "ES",
     "GC"
@@ -152,7 +142,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-11-10 08:30 ET",
-   "minutes_until": 50142,
+   "minutes_until": 49314,
    "moves": [
     "ES",
     "GC"
@@ -162,7 +152,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-10 16:30 ET",
-   "minutes_until": 50622,
+   "minutes_until": 49794,
    "moves": [
     "CL"
    ],
@@ -172,7 +162,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-12 12:00 ET",
-   "minutes_until": 53232,
+   "minutes_until": 52404,
    "moves": [
     "CL"
    ],
@@ -182,7 +172,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-11-13 08:30 ET",
-   "minutes_until": 54462,
+   "minutes_until": 53634,
    "moves": [
     "ES",
     "GC"
@@ -192,7 +182,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-17 16:30 ET",
-   "minutes_until": 60702,
+   "minutes_until": 59874,
    "moves": [
     "CL"
    ],
@@ -202,7 +192,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-18 10:30 ET",
-   "minutes_until": 61782,
+   "minutes_until": 60954,
    "moves": [
     "CL"
    ],
