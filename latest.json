@@ -1,7 +1,783 @@
 {
- "updated": "2026-10-08T08:52:02.374327+00:00",
+ "updated": "2026-10-08T16:05:22.253728+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9797518,
+   "ts": "2026-10-08T16:02:25+00:00",
+   "ingested": "2026-10-08T16:05:22.251670+00:00",
+   "headline": "Apple announces October 13th 'Welcome Home\u2019 product launch in NYC. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797502,
+   "ts": "2026-10-08T16:00:35+00:00",
+   "ingested": "2026-10-08T16:05:22.251703+00:00",
+   "headline": "US 30-year fixed rate mortgage averages 7.40 pct in the October 8th week, highest since the November 16th, 2023 week, vs 7.28 pct prior week - Freddie Mac.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797496,
+   "ts": "2026-10-08T16:00:04+00:00",
+   "ingested": "2026-10-08T16:05:22.251726+00:00",
+   "headline": "US CENTCOM: Iran has not shipped any barrels because of America's ironclad blockade on Iranian ports - Post on X.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797495,
+   "ts": "2026-10-08T15:59:43+00:00",
+   "ingested": "2026-10-08T16:05:22.251749+00:00",
+   "headline": "US CENTCOM: In recent months, US forces have supported the shipment of over 1.25 billion barrels of crude oil from Gulf partners and through the Strait of Hormuz - Post on X.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797494,
+   "ts": "2026-10-08T15:50:26+00:00",
+   "ingested": "2026-10-08T16:05:22.251766+00:00",
+   "headline": "EU: The gas system is prepared for winter despite lower storage levels.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797493,
+   "ts": "2026-10-08T15:49:24+00:00",
+   "ingested": "2026-10-08T16:05:22.251784+00:00",
+   "headline": "Head Of Iran's Atomic Energy Organization: Iran will not abandon uranium enrichment or hand over its uranium - State Media.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797492,
+   "ts": "2026-10-08T15:48:13+00:00",
+   "ingested": "2026-10-08T16:05:22.251802+00:00",
+   "headline": "Yemen's Houthis attacked the airport in Najran and the airbase in Khamis Mushait with ballistic missiles - Houthi Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797491,
+   "ts": "2026-10-08T15:47:02+00:00",
+   "ingested": "2026-10-08T16:05:22.251821+00:00",
+   "headline": "Iran's Major General Vahidi: No extra-regional power has the right to threaten or interfere in the Strait of Hormuz or the Persian Gulf.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797488,
+   "ts": "2026-10-08T15:46:08+00:00",
+   "ingested": "2026-10-08T16:05:22.251836+00:00",
+   "headline": "Yemen's Houthis attacked Riyadh's King Khalid Airport with two missiles - Houthi Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797484,
+   "ts": "2026-10-08T15:44:58+00:00",
+   "ingested": "2026-10-08T16:05:22.251853+00:00",
+   "headline": "Iran's Major General Vahidi: IRGC Navy ready to respond decisively to unauthorized vessels entering waters under its control.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797482,
+   "ts": "2026-10-08T15:32:56+00:00",
+   "ingested": "2026-10-08T16:05:22.251867+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 3.980% (Forecast -, Previous 3.890%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797481,
+   "ts": "2026-10-08T15:32:56+00:00",
+   "ingested": "2026-10-08T16:05:22.251882+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.400 (Forecast -, Previous 2.830)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797455,
+   "ts": "2026-10-08T15:18:45+00:00",
+   "ingested": "2026-10-08T16:05:22.251900+00:00",
+   "headline": "US publishes diesel executive order in Federal register",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797452,
+   "ts": "2026-10-08T15:16:13+00:00",
+   "ingested": "2026-10-08T16:05:22.251914+00:00",
+   "headline": "Most ownership in US-Russia oil deal to go to Middle East funds - NYT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797449,
+   "ts": "2026-10-08T15:15:22+00:00",
+   "ingested": "2026-10-08T16:05:22.251927+00:00",
+   "headline": "Fed bids for 4-Week bills total $9.3 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797448,
+   "ts": "2026-10-08T15:13:20+00:00",
+   "ingested": "2026-10-08T16:05:22.251941+00:00",
+   "headline": "CBO's Swagel: I do think fiscal trajectory will put pressure on rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797447,
+   "ts": "2026-10-08T15:12:14+00:00",
+   "ingested": "2026-10-08T16:05:22.251955+00:00",
+   "headline": "CBO Director Swagel: I think the debt concern's impact on yields is small.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797446,
+   "ts": "2026-10-08T15:07:28+00:00",
+   "ingested": "2026-10-08T16:05:22.251970+00:00",
+   "headline": "CBO Director Swagel: Growth estimates for debt stabilization assume 4%-5% rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797445,
+   "ts": "2026-10-08T15:06:19+00:00",
+   "ingested": "2026-10-08T16:05:22.251985+00:00",
+   "headline": "CBO Director Swagel: We need 5%-6% GDP gains to stabilize debt via growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797442,
+   "ts": "2026-10-08T15:01:44+00:00",
+   "ingested": "2026-10-08T16:05:22.251998+00:00",
+   "headline": "CBO Director Swagel: There's a structural fiscal deficit of 6%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797441,
+   "ts": "2026-10-08T15:01:26+00:00",
+   "ingested": "2026-10-08T16:05:22.252013+00:00",
+   "headline": "CBO Director Swagel: It could be markets bring forward the need to act on debt.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797438,
+   "ts": "2026-10-08T15:00:55+00:00",
+   "ingested": "2026-10-08T16:05:22.252025+00:00",
+   "headline": "US Treasury Announces Bill Auctions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797436,
+   "ts": "2026-10-08T14:59:57+00:00",
+   "ingested": "2026-10-08T16:05:22.252040+00:00",
+   "headline": "CBO Director Swagel: It is unlikely that growth alone can stabilize the debt trajectory.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797435,
+   "ts": "2026-10-08T14:54:57+00:00",
+   "ingested": "2026-10-08T16:05:22.252060+00:00",
+   "headline": "CENTCOM: Leaders highlighted building momentum for freedom of navigation as commercial traffic flow increases - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797434,
+   "ts": "2026-10-08T14:54:50+00:00",
+   "ingested": "2026-10-08T16:05:22.252075+00:00",
+   "headline": "The UKMTO gets a time-late report of an incident in Hormuz on October 6th.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797433,
+   "ts": "2026-10-08T14:54:03+00:00",
+   "ingested": "2026-10-08T16:05:22.252090+00:00",
+   "headline": "US CENTCOM briefed international shipping partners on Hormuz today - Post on X.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797432,
+   "ts": "2026-10-08T14:53:32+00:00",
+   "ingested": "2026-10-08T16:05:22.252103+00:00",
+   "headline": "US VP Vance Holds Press Conference on Fighting Visa Fraud -  WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797431,
+   "ts": "2026-10-08T14:53:01+00:00",
+   "ingested": "2026-10-08T16:05:22.252118+00:00",
+   "headline": "US VP Vance to Adobe and other tech companies: Stop defrauding US workers. $ADBE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797430,
+   "ts": "2026-10-08T14:52:07+00:00",
+   "ingested": "2026-10-08T16:05:22.252132+00:00",
+   "headline": "US VP Vance on Microsoft PERM suspension: It will last as long as needed. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797429,
+   "ts": "2026-10-08T14:51:15+00:00",
+   "ingested": "2026-10-08T16:05:22.252145+00:00",
+   "headline": "The Pentagon to commit $200m to cloud labs in fiscal year 2028.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797428,
+   "ts": "2026-10-08T14:50:47+00:00",
+   "ingested": "2026-10-08T16:05:22.252158+00:00",
+   "headline": "The Pentagon announces $350m in quantum computing initiatives.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797427,
+   "ts": "2026-10-08T14:49:09+00:00",
+   "ingested": "2026-10-08T16:05:22.252173+00:00",
+   "headline": "US VP Vance: We don't want to harm Microsoft, but they must employ US workers. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797422,
+   "ts": "2026-10-08T14:46:12+00:00",
+   "ingested": "2026-10-08T16:05:22.252187+00:00",
+   "headline": "UK Police: Two men arrested for trespass offences at Cambridgeshire RAF base.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797403,
+   "ts": "2026-10-08T14:40:56+00:00",
+   "ingested": "2026-10-08T16:05:22.252199+00:00",
+   "headline": "Fed's Musalem Speaks - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797402,
+   "ts": "2026-10-08T14:39:30+00:00",
+   "ingested": "2026-10-08T16:05:22.252213+00:00",
+   "headline": "OpenAI Bans Russia-Origin ChatGPT Accounts Linked to Influence Operations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797401,
+   "ts": "2026-10-08T14:35:03+00:00",
+   "ingested": "2026-10-08T16:05:22.252227+00:00",
+   "headline": "US VP Vance: Microsoft abused a visa system while reducing US workers. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797400,
+   "ts": "2026-10-08T14:33:51+00:00",
+   "ingested": "2026-10-08T16:05:22.252240+00:00",
+   "headline": "NYSE's Martin: $500 bln market cap added this year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797399,
+   "ts": "2026-10-08T14:32:28+00:00",
+   "ingested": "2026-10-08T16:05:22.252254+00:00",
+   "headline": "NVIDIA commits $1b to advance US science over the next five years. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797382,
+   "ts": "2026-10-08T14:31:07+00:00",
+   "ingested": "2026-10-08T16:05:22.252267+00:00",
+   "headline": "Ukraine has hit Russia's Omsk oil refinery - Statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797377,
+   "ts": "2026-10-08T14:30:56+00:00",
+   "ingested": "2026-10-08T16:05:22.252280+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 85B (Forecast 82B, Previous 64B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797375,
+   "ts": "2026-10-08T14:23:31+00:00",
+   "ingested": "2026-10-08T16:05:22.252294+00:00",
+   "headline": "US VP Vance: The US is reforming H-1B and J-1 Visa programs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797374,
+   "ts": "2026-10-08T14:22:25+00:00",
+   "ingested": "2026-10-08T16:05:22.252313+00:00",
+   "headline": "US VP Vance: The US is suspending the PERM program for Microsoft. The message to Microsoft is you've got to hire American workers. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797373,
+   "ts": "2026-10-08T14:19:40+00:00",
+   "ingested": "2026-10-08T16:05:22.252336+00:00",
+   "headline": "Iran's Head of the Atomic Energy: The US and Israel have put pressure on the IAEA to inspect sites that have been targeted by attacks and to provide them with reports and observations from the ground - IRIB News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797366,
+   "ts": "2026-10-08T14:18:08+00:00",
+   "ingested": "2026-10-08T16:05:22.252350+00:00",
+   "headline": "Crypto Fear and Greed Index: 64/100 = Greed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797364,
+   "ts": "2026-10-08T14:17:35+00:00",
+   "ingested": "2026-10-08T16:05:22.252363+00:00",
+   "headline": "Fear and Greed Index: 41/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797363,
+   "ts": "2026-10-08T14:16:40+00:00",
+   "ingested": "2026-10-08T16:05:22.252379+00:00",
+   "headline": "Iran's President Pezeshkian arrives in Turkmenistan, and will hold bilateral meetings and discussions with Putin - Tasnim News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797360,
+   "ts": "2026-10-08T14:02:31+00:00",
+   "ingested": "2026-10-08T16:05:22.252395+00:00",
+   "headline": "AT&T launches flagship pact with OpenAI, forming an in-house legal design partnership. $T",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797339,
+   "ts": "2026-10-08T14:00:56+00:00",
+   "ingested": "2026-10-08T16:05:22.252409+00:00",
+   "headline": "US Wholesale Inventories MoM Revised Actual 0.5% (Forecast 0.7%, Previous 0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797338,
+   "ts": "2026-10-08T14:00:56+00:00",
+   "ingested": "2026-10-08T16:05:22.252422+00:00",
+   "headline": "US Wholesale Sales MoM Actual 1.8% (Forecast -, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797337,
+   "ts": "2026-10-08T13:57:41+00:00",
+   "ingested": "2026-10-08T16:05:22.252465+00:00",
+   "headline": "Pakistan: News reports of Pakistani fighter jets participating in the attack on Yemen are false and fabricated - Fars News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797318,
+   "ts": "2026-10-08T13:35:15+00:00",
+   "ingested": "2026-10-08T16:05:22.252481+00:00",
+   "headline": "Saudi Arabia: Debris from the Houthi rocket fell on a medical complex.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797317,
+   "ts": "2026-10-08T13:34:17+00:00",
+   "ingested": "2026-10-08T16:05:22.252494+00:00",
+   "headline": "Saudi Arabia: Shrapnel fell after interception over Riyadh.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797298,
+   "ts": "2026-10-08T13:28:07+00:00",
+   "ingested": "2026-10-08T16:05:22.252512+00:00",
+   "headline": "Trump sold between $500,001 and $1 mln of Boeing in August - CNBC. $BA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797297,
+   "ts": "2026-10-08T13:27:15+00:00",
+   "ingested": "2026-10-08T16:05:22.252526+00:00",
+   "headline": "Trump sold between $500,000 and $1m of NVIDIA in August - CNBC. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797296,
+   "ts": "2026-10-08T13:23:58+00:00",
+   "ingested": "2026-10-08T16:05:22.252540+00:00",
+   "headline": "Trump sold between $1 mln to $5 mln of AMD in August - CNBC. $AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797294,
+   "ts": "2026-10-08T13:22:57+00:00",
+   "ingested": "2026-10-08T16:05:22.252554+00:00",
+   "headline": "German Fin. Min. Klingbeil: I am in touch with French colleagues on bonds.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797293,
+   "ts": "2026-10-08T13:22:04+00:00",
+   "ingested": "2026-10-08T16:05:22.252569+00:00",
+   "headline": "Trump bought up to $25 mln in meta stock - CNBC citing Aug. report. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797292,
+   "ts": "2026-10-08T13:21:06+00:00",
+   "ingested": "2026-10-08T16:05:22.252584+00:00",
+   "headline": "German Fin. Min. Klingbeil: Germany needs to play an important role within the ECB.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797291,
+   "ts": "2026-10-08T13:18:53+00:00",
+   "ingested": "2026-10-08T16:05:22.252598+00:00",
+   "headline": "German Fin. Min. Klingbeil: Oil companies are making profits from high energy prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797290,
+   "ts": "2026-10-08T13:18:33+00:00",
+   "ingested": "2026-10-08T16:05:22.252612+00:00",
+   "headline": "German Fin. Min. Klingbeil: I expect proposals from the commission on the windfall tax.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797289,
+   "ts": "2026-10-08T13:18:01+00:00",
+   "ingested": "2026-10-08T16:05:22.252626+00:00",
+   "headline": "German Fin. Min. Klingbeil: We have to move forward with capital market union.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797267,
+   "ts": "2026-10-08T13:14:16+00:00",
+   "ingested": "2026-10-08T16:05:22.252639+00:00",
+   "headline": "French Unions call for further strike on Oct. 13th - AFP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797243,
+   "ts": "2026-10-08T13:00:21+00:00",
+   "ingested": "2026-10-08T16:05:22.252653+00:00",
+   "headline": "WTO forecasts 2026 global goods trade expanding 3.9% versus 1.9% March estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797242,
+   "ts": "2026-10-08T13:00:21+00:00",
+   "ingested": "2026-10-08T16:05:22.252669+00:00",
+   "headline": "WTO lowers services trade forecast for 2026 as Middle East conflict disrupts transport and travel",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797241,
+   "ts": "2026-10-08T13:00:17+00:00",
+   "ingested": "2026-10-08T16:05:22.252682+00:00",
+   "headline": "WTO forecasts global economic growth of 2.6% in 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797240,
+   "ts": "2026-10-08T13:00:16+00:00",
+   "ingested": "2026-10-08T16:05:22.252698+00:00",
+   "headline": "World Trade Organization upgrades forecast for global goods trade to 3.9% in 2026, 4.1% in 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797238,
+   "ts": "2026-10-08T13:00:07+00:00",
+   "ingested": "2026-10-08T16:05:22.252719+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% October 7 vs 3.88% October 6.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797237,
+   "ts": "2026-10-08T12:55:48+00:00",
+   "ingested": "2026-10-08T16:05:22.252736+00:00",
+   "headline": "JPMorgan: G7 Emergency Release Targets Diesel, but Much of the Headline Volume Appears Previously Committed - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797236,
+   "ts": "2026-10-08T12:53:29+00:00",
+   "ingested": "2026-10-08T16:05:22.252751+00:00",
+   "headline": "Goldman Sachs: September FOMC Minutes Reinforce Hawkish Bias, but December Hike Still Data-Dependent - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797235,
+   "ts": "2026-10-08T12:50:05+00:00",
+   "ingested": "2026-10-08T16:05:22.252766+00:00",
+   "headline": "Goldman Sachs on France: Le Pen Remains Favourite as National Rally Sets Out Fiscal Plans - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797234,
+   "ts": "2026-10-08T12:46:57+00:00",
+   "ingested": "2026-10-08T16:05:22.252780+00:00",
+   "headline": "BoE Gov. Bailey: There is risk of wider disruption, can't be relaxed on that.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797232,
+   "ts": "2026-10-08T12:46:34+00:00",
+   "ingested": "2026-10-08T16:05:22.252794+00:00",
+   "headline": "WATCH LIVE: US Secretary of State Rubio Meets Portugal's Leaders in Lisbon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797229,
+   "ts": "2026-10-08T12:46:17+00:00",
+   "ingested": "2026-10-08T16:05:22.252809+00:00",
+   "headline": "BoE Gov. Bailey: We cannot be relaxed at all about large and concentrated positions in markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797215,
+   "ts": "2026-10-08T12:46:05+00:00",
+   "ingested": "2026-10-08T16:05:22.252824+00:00",
+   "headline": "US Secretary of State Rubio on war in Ukraine: Settlement should be permanent, enduring and fair.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797214,
+   "ts": "2026-10-08T12:45:51+00:00",
+   "ingested": "2026-10-08T16:05:22.252839+00:00",
+   "headline": "US Secretary of State Rubio on war in Ukraine: We think there needs to be a negotiated settlement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797213,
+   "ts": "2026-10-08T12:45:37+00:00",
+   "ingested": "2026-10-08T16:05:22.252854+00:00",
+   "headline": "US Secretary of State Rubio on war in Ukraine: Hope risk of escalation will bring both sides to the table.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797207,
+   "ts": "2026-10-08T12:45:17+00:00",
+   "ingested": "2026-10-08T16:05:22.252869+00:00",
+   "headline": "US Secretary of State Rubio on war in Ukraine: US will continue to try to facilitate a settlement to end war.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797206,
+   "ts": "2026-10-08T12:44:56+00:00",
+   "ingested": "2026-10-08T16:05:22.252883+00:00",
+   "headline": "BoE Gov. Bailey: Commitments on fiscal policy are needed more than ever when negative shocks occur",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797205,
+   "ts": "2026-10-08T12:44:53+00:00",
+   "ingested": "2026-10-08T16:05:22.252896+00:00",
+   "headline": "BoE Gov. Bailey: Fiscal policy must be credible, directed at stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797204,
+   "ts": "2026-10-08T12:43:58+00:00",
+   "ingested": "2026-10-08T16:05:22.252911+00:00",
+   "headline": "US Sentiment: Risk-Off Bias Remains, with Geopolitics & Energy Supply in Focus - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797203,
+   "ts": "2026-10-08T12:43:09+00:00",
+   "ingested": "2026-10-08T16:05:22.252923+00:00",
+   "headline": "BoE Gov. Bailey: Fully committed to returning inflation to target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797202,
+   "ts": "2026-10-08T12:42:23+00:00",
+   "ingested": "2026-10-08T16:05:22.252935+00:00",
+   "headline": "BoE Gov. Bailey: Markets displaying elevated risk premium",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797201,
+   "ts": "2026-10-08T12:41:35+00:00",
+   "ingested": "2026-10-08T16:05:22.252948+00:00",
+   "headline": "BoE Gov. Bailey: We must test for significant shock to expectations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797200,
+   "ts": "2026-10-08T12:40:47+00:00",
+   "ingested": "2026-10-08T16:05:22.252960+00:00",
+   "headline": "BoE Gov. Bailey: I am still seeing resilient markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797199,
+   "ts": "2026-10-08T12:38:22+00:00",
+   "ingested": "2026-10-08T16:05:22.252973+00:00",
+   "headline": "BoE Gov. Bailey: Risk that heavily leveraged positions shift fast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797198,
+   "ts": "2026-10-08T12:35:17+00:00",
+   "ingested": "2026-10-08T16:05:22.252988+00:00",
+   "headline": "Yemen's Houthis: Attacked King Khalid Airport in Riyadh with a ballistic missile on Thursday - post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797197,
+   "ts": "2026-10-08T12:34:46+00:00",
+   "ingested": "2026-10-08T16:05:22.253001+00:00",
+   "headline": "BoE Gov. Bailey: Inflation risks rise longer high energy prices persist.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797196,
+   "ts": "2026-10-08T12:33:05+00:00",
+   "ingested": "2026-10-08T16:05:22.253014+00:00",
+   "headline": "US Secretary of State Rubio: Every country in NATO needs to be as strong as possible",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797195,
+   "ts": "2026-10-08T12:32:04+00:00",
+   "ingested": "2026-10-08T16:05:22.253027+00:00",
+   "headline": "Fitch Ratings: Italy's higher defence, energy spending does not signal fiscal shift.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797184,
+   "ts": "2026-10-08T12:30:28+00:00",
+   "ingested": "2026-10-08T16:05:22.253043+00:00",
+   "headline": "BoE Gov. Bailey: Evidence of pass-through of energy costs into broader inflation is currently quite subdued but there are risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797177,
+   "ts": "2026-10-08T12:30:01+00:00",
+   "ingested": "2026-10-08T16:05:22.253056+00:00",
+   "headline": "US Initial Jobless Claims Actual 197k (Forecast 200k, Previous 197k, Revised 199k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797176,
+   "ts": "2026-10-08T12:30:01+00:00",
+   "ingested": "2026-10-08T16:05:22.253070+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.716M (Forecast 1.7M, Previous 1.701M, 1.699M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797175,
+   "ts": "2026-10-08T12:29:49+00:00",
+   "ingested": "2026-10-08T16:05:22.253085+00:00",
+   "headline": "BoE Gov. Bailey: Market movements are some way from normal, but we are not seeing illiquidity or stressed conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797174,
+   "ts": "2026-10-08T12:28:22+00:00",
+   "ingested": "2026-10-08T16:05:22.253099+00:00",
+   "headline": "Saudi-led coalition in Yemen: We destroyed two ballistic missile launched towards Riyadh - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797173,
+   "ts": "2026-10-08T12:24:56+00:00",
+   "ingested": "2026-10-08T16:05:22.253111+00:00",
+   "headline": "BoE Gov. Bailey: We are seeing volatile markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797172,
+   "ts": "2026-10-08T12:22:48+00:00",
+   "ingested": "2026-10-08T16:05:22.253124+00:00",
+   "headline": "Google Cloud: Agent can run on Gemini models or Claude models.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9797171,
+   "ts": "2026-10-08T12:22:38+00:00",
+   "ingested": "2026-10-08T16:05:22.253137+00:00",
+   "headline": "Aircraft in Riyadh airport thought to be empty - Three people briefed on the matter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9796843,
    "ts": "2026-10-08T08:50:01+00:00",
@@ -3223,782 +3999,6 @@
    "ts": "2026-10-06T20:02:01+00:00",
    "ingested": "2026-10-06T20:12:21.095277+00:00",
    "headline": "Australia's housing downturn has wiped over $5 bln off the market - BE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794221,
-   "ts": "2026-10-06T20:00:56+00:00",
-   "ingested": "2026-10-06T20:12:21.095291+00:00",
-   "headline": "RBA warns AI stock correction could hit household spending",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794220,
-   "ts": "2026-10-06T20:00:43+00:00",
-   "ingested": "2026-10-06T20:12:21.095306+00:00",
-   "headline": "RBA warns AI, other shares correcting could cut spending 2.4%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794218,
-   "ts": "2026-10-06T20:00:31+00:00",
-   "ingested": "2026-10-06T20:12:21.095321+00:00",
-   "headline": "RBA documents show NAIRU at 4.6%, matching the current jobless rate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794216,
-   "ts": "2026-10-06T19:58:03+00:00",
-   "ingested": "2026-10-06T20:12:21.095336+00:00",
-   "headline": "Flames and smoke seen at Venezuela's Cardon refinery - Four Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794215,
-   "ts": "2026-10-06T19:53:34+00:00",
-   "ingested": "2026-10-06T20:12:21.095350+00:00",
-   "headline": "Trump Delivers Remarks, October 6th 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794214,
-   "ts": "2026-10-06T19:50:30+00:00",
-   "ingested": "2026-10-06T20:12:21.095362+00:00",
-   "headline": "MOC Imbalance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794186,
-   "ts": "2026-10-06T19:23:44+00:00",
-   "ingested": "2026-10-06T20:12:21.095378+00:00",
-   "headline": "Local sources reported hearing the sound of an explosion in the province of Sulaymaniyah in northern Iraq - ISNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794185,
-   "ts": "2026-10-06T19:18:01+00:00",
-   "ingested": "2026-10-06T20:12:21.095392+00:00",
-   "headline": "Trump: told the federal gas tax needs suspending. Thinking about it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794176,
-   "ts": "2026-10-06T19:13:29+00:00",
-   "ingested": "2026-10-06T20:12:21.095406+00:00",
-   "headline": "Trump: You can make case that strong dollar slows things down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794174,
-   "ts": "2026-10-06T19:12:34+00:00",
-   "ingested": "2026-10-06T20:12:21.095419+00:00",
-   "headline": "Trump: Strong dollar gives you no inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794172,
-   "ts": "2026-10-06T19:12:24+00:00",
-   "ingested": "2026-10-06T20:12:21.095437+00:00",
-   "headline": "Trump: We have a very strong dollar, a strong dollar is good",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794171,
-   "ts": "2026-10-06T19:11:17+00:00",
-   "ingested": "2026-10-06T20:12:21.095451+00:00",
-   "headline": "Trump reiterates that oil keeps flowing through Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794170,
-   "ts": "2026-10-06T19:10:57+00:00",
-   "ingested": "2026-10-06T20:12:21.095465+00:00",
-   "headline": "Trump reiterates that Iran is doing very poorly.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794156,
-   "ts": "2026-10-06T18:58:39+00:00",
-   "ingested": "2026-10-06T20:12:21.095478+00:00",
-   "headline": "The US issues a health alert on Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794155,
-   "ts": "2026-10-06T18:50:48+00:00",
-   "ingested": "2026-10-06T20:12:21.095493+00:00",
-   "headline": "Brent crude futures settle at $100.58/bbl, up 26 cents, 0.26%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794138,
-   "ts": "2026-10-06T18:32:23+00:00",
-   "ingested": "2026-10-06T20:12:21.095508+00:00",
-   "headline": "NYMEX Natural Gas November futures settle at $3.1140/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794137,
-   "ts": "2026-10-06T18:31:47+00:00",
-   "ingested": "2026-10-06T20:12:21.095522+00:00",
-   "headline": "NYMEX gasoline November futures settle at $3.2732 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794136,
-   "ts": "2026-10-06T18:31:33+00:00",
-   "ingested": "2026-10-06T20:12:21.095536+00:00",
-   "headline": "NYMEX Diesel November futures settle at $4.5694 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794124,
-   "ts": "2026-10-06T18:31:18+00:00",
-   "ingested": "2026-10-06T20:12:21.095552+00:00",
-   "headline": "NYMEX WTI crude futures settle at $89.44 a barrel, up 1 cent, 0.01%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794116,
-   "ts": "2026-10-06T18:21:59+00:00",
-   "ingested": "2026-10-06T20:12:21.095567+00:00",
-   "headline": "Sierra and Meta agent protocol developed with Walmart and others $META $WMT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794115,
-   "ts": "2026-10-06T18:20:06+00:00",
-   "ingested": "2026-10-06T20:12:21.095585+00:00",
-   "headline": "Sierra CEO Taylor: Sierra and Meta announce personal agent protocol, with the protocol to help define how agents interact with businesses $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794099,
-   "ts": "2026-10-06T18:03:55+00:00",
-   "ingested": "2026-10-06T20:12:21.095603+00:00",
-   "headline": "Treasury receives $14.763B of offers for buyback, accepts $1.33B; accepts 12 of 33 eligible issues, targets coupons maturing in 2028 - 2029",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794083,
-   "ts": "2026-10-06T17:47:02+00:00",
-   "ingested": "2026-10-06T20:12:21.095619+00:00",
-   "headline": "Fed's Schmid: The Fed still has work to do on the short rate despite higher long-term yields.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794074,
-   "ts": "2026-10-06T17:43:24+00:00",
-   "ingested": "2026-10-06T20:12:21.095637+00:00",
-   "headline": "OpenAI: Advancing computer use with Ironclad; pact to train AI on contract workflows; OpenAI to expand framework to more software company partners",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794073,
-   "ts": "2026-10-06T17:36:48+00:00",
-   "ingested": "2026-10-06T20:12:21.095652+00:00",
-   "headline": "Fed's Schmid: Fed's credibility at stake in fighting inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794072,
-   "ts": "2026-10-06T17:34:38+00:00",
-   "ingested": "2026-10-06T20:12:21.095667+00:00",
-   "headline": "Fed's Schmid: AI is now one of the largest drivers of inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794053,
-   "ts": "2026-10-06T17:25:08+00:00",
-   "ingested": "2026-10-06T20:12:21.095681+00:00",
-   "headline": "Fed's Schmid: Still have a way to go in beating inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794052,
-   "ts": "2026-10-06T17:24:16+00:00",
-   "ingested": "2026-10-06T20:12:21.095695+00:00",
-   "headline": "Fed's Schmid: Inflation is frustrating, must be fixed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794051,
-   "ts": "2026-10-06T17:23:16+00:00",
-   "ingested": "2026-10-06T20:12:21.095712+00:00",
-   "headline": "Fed's Schmid: Labor force remains in a good place",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794050,
-   "ts": "2026-10-06T17:22:15+00:00",
-   "ingested": "2026-10-06T20:12:21.095730+00:00",
-   "headline": "Explosion heard on Qeshm Island a few minutes ago, reportedly coming from the sea; no injuries or damage reported on the island - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794049,
-   "ts": "2026-10-06T17:19:42+00:00",
-   "ingested": "2026-10-06T20:12:21.095751+00:00",
-   "headline": "Oman: Carried out medical evacuation for ten crew members of a Panama-flagged commercial vessel that was attacked northeast of Lima in Oman's Musandam Governorate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794033,
-   "ts": "2026-10-06T17:13:24+00:00",
-   "ingested": "2026-10-06T20:12:21.095785+00:00",
-   "headline": "Google became aware of a series of domain hijacks in Ghana last week $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794032,
-   "ts": "2026-10-06T17:13:05+00:00",
-   "ingested": "2026-10-06T20:12:21.095803+00:00",
-   "headline": "Google: Chrome's response to recent CCTLD registry hijacks $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794031,
-   "ts": "2026-10-06T17:10:35+00:00",
-   "ingested": "2026-10-06T20:12:21.095819+00:00",
-   "headline": "Three-year US Treasury clears at 4.932%, highest auction yield since 2006",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794030,
-   "ts": "2026-10-06T17:08:19+00:00",
-   "ingested": "2026-10-06T20:12:21.095833+00:00",
-   "headline": "China House Panel moolenaar seeks review of Hong Kong Fed liquidity tool access.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794029,
-   "ts": "2026-10-06T17:02:59+00:00",
-   "ingested": "2026-10-06T20:12:21.095846+00:00",
-   "headline": "US 3-Year Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794028,
-   "ts": "2026-10-06T17:02:54+00:00",
-   "ingested": "2026-10-06T20:12:21.095861+00:00",
-   "headline": "US 3-Year Note Bid-to-Cover Actual 2.620 (Forecast -, Previous 2.720)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794027,
-   "ts": "2026-10-06T17:02:03+00:00",
-   "ingested": "2026-10-06T20:12:21.095880+00:00",
-   "headline": "US 3-Year Note High Yield Actual 4.932% (Forecast -, Previous 4.474%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794026,
-   "ts": "2026-10-06T17:01:50+00:00",
-   "ingested": "2026-10-06T20:12:21.095893+00:00",
-   "headline": "Tanker burning near Russia's Black Sea coast - Local Authorities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794025,
-   "ts": "2026-10-06T17:01:30+00:00",
-   "ingested": "2026-10-06T20:12:21.095906+00:00",
-   "headline": "Treasury WI 3-year yield 4.934% before $58 billion auction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794013,
-   "ts": "2026-10-06T16:48:45+00:00",
-   "ingested": "2026-10-06T20:12:21.095923+00:00",
-   "headline": "Nvidia-backed cloud computing firm Lambda raising up to $4 billion at pre-money valuation of $14.5 billion - WSJ. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794011,
-   "ts": "2026-10-06T16:45:26+00:00",
-   "ingested": "2026-10-06T20:12:21.095936+00:00",
-   "headline": "Fed bids for 3-Year notes total $1.4 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794008,
-   "ts": "2026-10-06T16:39:16+00:00",
-   "ingested": "2026-10-06T20:12:21.095950+00:00",
-   "headline": "Yemini Armed Forces Spokesperson: Saudi Mercenaries Fail to Capture Bab-el-Mandeb - Tasnim News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794007,
-   "ts": "2026-10-06T16:36:34+00:00",
-   "ingested": "2026-10-06T20:12:21.095965+00:00",
-   "headline": "US Energy Secretary Wright: US farmers and truckers will quickly experience lower diesel cost - Post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9794006,
-   "ts": "2026-10-06T16:34:43+00:00",
-   "ingested": "2026-10-06T20:12:21.095981+00:00",
-   "headline": "Yemen Houthis' Al-Bakhti: We believe it's unlikely that Turkey and Pakistan will directly enter the war in Yemen - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793990,
-   "ts": "2026-10-06T16:30:33+00:00",
-   "ingested": "2026-10-06T20:12:21.095997+00:00",
-   "headline": "Yemen Houthis' Al-Bakhti: We have the capability to shut down all airports and ports in Saudi Arabia - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793975,
-   "ts": "2026-10-06T16:13:04+00:00",
-   "ingested": "2026-10-06T20:12:21.096012+00:00",
-   "headline": "Aviation sources reporting multiple flights between Doha and Tehran this week - The Correspondent reporter on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793974,
-   "ts": "2026-10-06T16:11:50+00:00",
-   "ingested": "2026-10-06T20:12:21.096031+00:00",
-   "headline": "Qatari official: Talks between the US and Iran are ongoing, messages are being exchanged between US and Iran with Qatar acting as mediator - NewsNation reporter post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793973,
-   "ts": "2026-10-06T16:05:48+00:00",
-   "ingested": "2026-10-06T20:12:21.096044+00:00",
-   "headline": "Google launches EmbeddingGemma 2 multimodal model. $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793971,
-   "ts": "2026-10-06T16:04:13+00:00",
-   "ingested": "2026-10-06T20:12:21.096056+00:00",
-   "headline": "EIA STEO Report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793970,
-   "ts": "2026-10-06T16:03:37+00:00",
-   "ingested": "2026-10-06T20:12:21.096073+00:00",
-   "headline": "EIA expects US retail diesel prices to stay above $6/gallon in October before gradually declining to about $4.50/gallon in 2027 - STEO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793952,
-   "ts": "2026-10-06T16:00:54+00:00",
-   "ingested": "2026-10-06T20:12:21.096087+00:00",
-   "headline": "Fed's Daly: Fed may observe shocks diminishing within 1-3 years - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793951,
-   "ts": "2026-10-06T16:00:53+00:00",
-   "ingested": "2026-10-06T20:12:21.096099+00:00",
-   "headline": "Kremlin: no concrete progress yet on trilateral meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793950,
-   "ts": "2026-10-06T16:00:52+00:00",
-   "ingested": "2026-10-06T20:12:21.096114+00:00",
-   "headline": "Kremlin: trilateral meeting of Putin, Trump and Xi at APEC summit in China in November is an intriguing idea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793949,
-   "ts": "2026-10-06T16:00:51+00:00",
-   "ingested": "2026-10-06T20:12:21.096130+00:00",
-   "headline": "Kremlin: Iranian president to join Russia-led former Soviet leaders summit in Turkmenistan on Friday, will meet Putin",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793944,
-   "ts": "2026-10-06T16:00:07+00:00",
-   "ingested": "2026-10-06T20:12:21.096142+00:00",
-   "headline": "Fed's Daly: May result in more tightening required.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793943,
-   "ts": "2026-10-06T15:59:56+00:00",
-   "ingested": "2026-10-06T20:12:21.096155+00:00",
-   "headline": "Fed's Daly: These factors could keep inflation elevated.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793941,
-   "ts": "2026-10-06T15:59:10+00:00",
-   "ingested": "2026-10-06T20:12:21.096169+00:00",
-   "headline": "Fed's Daly concerned AI, tariffs, energy costs may last longer - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793922,
-   "ts": "2026-10-06T15:46:09+00:00",
-   "ingested": "2026-10-06T20:12:21.096184+00:00",
-   "headline": "Diplomats: Sanctions affect about 1,650 new entities and individuals, increasing total Russia-related designations by 50%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793919,
-   "ts": "2026-10-06T15:45:21+00:00",
-   "ingested": "2026-10-06T20:12:21.096202+00:00",
-   "headline": "EU envoys expected to approve major new Russia sanctions Wednesday, adding about 1,570 companies and people in military-industrial complex, especially missile production - Diplomats",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793918,
-   "ts": "2026-10-06T15:43:54+00:00",
-   "ingested": "2026-10-06T20:12:21.096215+00:00",
-   "headline": "China and EU trade officials hold preparatory video meeting on Tuesday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793917,
-   "ts": "2026-10-06T15:42:06+00:00",
-   "ingested": "2026-10-06T20:12:21.096230+00:00",
-   "headline": "UAE is creating obstacles to the operation of Israeli rescue flights tomorrow - Israel's Channel 12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793916,
-   "ts": "2026-10-06T15:38:36+00:00",
-   "ingested": "2026-10-06T20:12:21.096245+00:00",
-   "headline": "Saudi-Led Coalition: We intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Khamis Mushait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793894,
-   "ts": "2026-10-06T15:28:36+00:00",
-   "ingested": "2026-10-06T20:12:21.096258+00:00",
-   "headline": "White House AI Task Force Member Michael ends remarks on CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793893,
-   "ts": "2026-10-06T15:28:19+00:00",
-   "ingested": "2026-10-06T20:12:21.096271+00:00",
-   "headline": "Pentagon Chief Tech officer Michael: Past AI incidents were preventable by labs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793892,
-   "ts": "2026-10-06T15:25:32+00:00",
-   "ingested": "2026-10-06T20:12:21.096284+00:00",
-   "headline": "Michael on AI task force: To make sure companies take care.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793891,
-   "ts": "2026-10-06T15:24:13+00:00",
-   "ingested": "2026-10-06T20:12:21.096297+00:00",
-   "headline": "Pentagon Chief Tech officer Michael: people should know AI can work for them",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793890,
-   "ts": "2026-10-06T15:23:40+00:00",
-   "ingested": "2026-10-06T20:12:21.096311+00:00",
-   "headline": "Pentagon Chief Tech officer Michael on AI task force: About future risk - CNBC Interview",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793889,
-   "ts": "2026-10-06T15:17:32+00:00",
-   "ingested": "2026-10-06T20:12:21.096325+00:00",
-   "headline": "Fed's Bowman: We're aiming early next year as start for new oversight system.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793885,
-   "ts": "2026-10-06T15:17:10+00:00",
-   "ingested": "2026-10-06T20:12:21.096339+00:00",
-   "headline": "Fed's bowman: Over next few months will advertise for new regional leader positions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793858,
-   "ts": "2026-10-06T15:15:08+00:00",
-   "ingested": "2026-10-06T20:12:21.096353+00:00",
-   "headline": "Gold seen at $5,013/0z in a year - LBMA survey of event delegates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793856,
-   "ts": "2026-10-06T15:11:43+00:00",
-   "ingested": "2026-10-06T20:12:21.096367+00:00",
-   "headline": "BoJ's Sato: I want to assess moves in consumption and income.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793855,
-   "ts": "2026-10-06T15:11:28+00:00",
-   "ingested": "2026-10-06T20:12:21.096380+00:00",
-   "headline": "BoJ's Sato: Personal consumption momentum not strong - Kyodo News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793854,
-   "ts": "2026-10-06T15:06:47+00:00",
-   "ingested": "2026-10-06T20:12:21.096393+00:00",
-   "headline": "BoJ's Sato agrees with policy of adjusting rates in stages - Kyodo",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793853,
-   "ts": "2026-10-06T15:03:08+00:00",
-   "ingested": "2026-10-06T15:03:52.998034+00:00",
-   "headline": "Russia's Volgograd Oil refinery halted oil processing on October 2nd following drone attack - according to 2 sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793846,
-   "ts": "2026-10-06T15:00:19+00:00",
-   "ingested": "2026-10-06T15:03:52.998059+00:00",
-   "headline": "US to sell $110 bln 4-Week bills on October 8th, to settle on October 13th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793845,
-   "ts": "2026-10-06T14:53:36+00:00",
-   "ingested": "2026-10-06T15:03:52.998078+00:00",
-   "headline": "Secretary-General of Hezbollah Lebanon: Israel cannot remain in southern Lebanon - Iranian Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793830,
-   "ts": "2026-10-06T14:45:58+00:00",
-   "ingested": "2026-10-06T15:03:52.998096+00:00",
-   "headline": "Fed's Bowman: New structure will consist of five regions across the states, depart from regional reserve bank-led model.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793828,
-   "ts": "2026-10-06T14:45:47+00:00",
-   "ingested": "2026-10-06T15:03:52.998113+00:00",
-   "headline": "Fed's Bowman does not comment on monetary policy or economic outlook in prepared remarks on bank regulation and supervision.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793827,
-   "ts": "2026-10-06T14:45:36+00:00",
-   "ingested": "2026-10-06T15:03:52.998128+00:00",
-   "headline": "Fed's Bowman: Fed to weigh updates this year to fixed-dollar asset thresholds.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793825,
-   "ts": "2026-10-06T14:45:25+00:00",
-   "ingested": "2026-10-06T15:03:52.998141+00:00",
-   "headline": "Fed's Bowman: Fed to consider soon raising bank asset thresholds.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793822,
-   "ts": "2026-10-06T14:44:36+00:00",
-   "ingested": "2026-10-06T15:03:52.998159+00:00",
-   "headline": "Hezbollah Secretary-General: We are ready to cooperate in resolving Lebanon's internal issues, but without foreign interference or instructions - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793821,
-   "ts": "2026-10-06T14:41:08+00:00",
-   "ingested": "2026-10-06T15:03:52.998175+00:00",
-   "headline": "WATCH LIVE: Fed's Musalem & Fed's Bowman Speak 10:45 ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793800,
-   "ts": "2026-10-06T14:25:11+00:00",
-   "ingested": "2026-10-06T15:03:52.998205+00:00",
-   "headline": "China to monitor UK's move on EV tariffs and will respond accordingly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793799,
-   "ts": "2026-10-06T14:24:24+00:00",
-   "ingested": "2026-10-06T15:03:52.998219+00:00",
-   "headline": "China expresses concerns to UK on reported potential EV tariffs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793798,
-   "ts": "2026-10-06T14:22:34+00:00",
-   "ingested": "2026-10-06T15:03:52.998237+00:00",
-   "headline": "ECB\u2019s Kocher: Abrupt market correction and geopolitics are key risks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793797,
-   "ts": "2026-10-06T14:22:01+00:00",
-   "ingested": "2026-10-06T15:03:52.998252+00:00",
-   "headline": "Avis Qarni hacking group send warning messages to Saudi intelligence officers' mobile phones - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793796,
-   "ts": "2026-10-06T14:21:25+00:00",
-   "ingested": "2026-10-06T15:03:52.998267+00:00",
-   "headline": "ECB\u2019s Kocher: Energy prices pose upward risk to forecasts.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793795,
-   "ts": "2026-10-06T14:19:45+00:00",
-   "ingested": "2026-10-06T15:03:52.998281+00:00",
-   "headline": "ECB's Kocher: Euro area economy proving resilient to shocks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793794,
-   "ts": "2026-10-06T14:19:29+00:00",
-   "ingested": "2026-10-06T15:03:52.998298+00:00",
-   "headline": "Fear & Greed Index: 49/100 - Neutral",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793772,
-   "ts": "2026-10-06T14:05:49+00:00",
-   "ingested": "2026-10-06T15:03:52.998322+00:00",
-   "headline": "Syrian Petroleum Company CEO: Syria imports 6 mln cubic metres a day from Azerbaijan and Jordan, domestic production around 9 mln cubic metres a day",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793771,
-   "ts": "2026-10-06T14:04:10+00:00",
-   "ingested": "2026-10-06T15:03:52.998336+00:00",
-   "headline": "Germany to order four more TKMS frigates for $6.3 billion, document shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793748,
-   "ts": "2026-10-06T14:00:00+00:00",
-   "ingested": "2026-10-06T15:03:52.998350+00:00",
-   "headline": "Canadian Ivey PMI Actual 58.2 (Forecast -, Previous 64.3)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793735,
-   "ts": "2026-10-06T13:37:25+00:00",
-   "ingested": "2026-10-06T15:03:52.998363+00:00",
-   "headline": "Israel warns of attack risk abroad ahead of Oct. 7th anniversary.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793734,
-   "ts": "2026-10-06T13:35:03+00:00",
-   "ingested": "2026-10-06T15:03:52.998379+00:00",
-   "headline": "Fitch on UK economic growth: We do not expect spread of AI tech to transform growth outlook over our forecast horizon to 2030.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793733,
-   "ts": "2026-10-06T13:34:00+00:00",
-   "ingested": "2026-10-06T15:03:52.998394+00:00",
-   "headline": "Fitch on UK economic growth: Spread of AI technology presents an upside to both capital deepening and TFP growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9793718,
-   "ts": "2026-10-06T13:33:03+00:00",
-   "ingested": "2026-10-06T15:03:52.998410+00:00",
-   "headline": "Fitch on UK economic growth: Low investment rate to weigh on UK's economic potential even as productivity growth picks up over next five years.",
    "channel": "rss",
    "source": "financialjuice"
   }
