@@ -1,7 +1,399 @@
 {
- "updated": "2026-10-09T14:31:15.298793+00:00",
+ "updated": "2026-10-09T19:42:36.312487+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9799498,
+   "ts": "2026-10-09T19:37:01+00:00",
+   "ingested": "2026-10-09T19:42:36.311315+00:00",
+   "headline": "The Ukrainian Government was surprised by Trump's announcement on Russian Diesel - Axios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799494,
+   "ts": "2026-10-09T19:30:26+00:00",
+   "ingested": "2026-10-09T19:42:36.311339+00:00",
+   "headline": "CFTC Positions in the Week of October 6th 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799476,
+   "ts": "2026-10-09T19:04:39+00:00",
+   "ingested": "2026-10-09T19:42:36.311364+00:00",
+   "headline": "Putin's Envoy Dmitriev on X: Russia-US cooperation on diesel and energy will benefit the world.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799469,
+   "ts": "2026-10-09T19:00:39+00:00",
+   "ingested": "2026-10-09T19:42:36.311385+00:00",
+   "headline": "US issues general license authorizing transactions related to sale, delivery, offloading, and importation of diesel fuel of Russian origin through April 7th, 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799467,
+   "ts": "2026-10-09T18:53:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311401+00:00",
+   "headline": "Trump: Putin Agreed to Release Diesel Into Global Oil Market - Truth Social",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799466,
+   "ts": "2026-10-09T18:50:41+00:00",
+   "ingested": "2026-10-09T19:42:36.311416+00:00",
+   "headline": "Brent Crude futures settle at $104.72/bbl, up 44 cents, 0.42%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799465,
+   "ts": "2026-10-09T18:50:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311439+00:00",
+   "headline": "US Treasury: Office of Foreign Assets Control (OFAC) is immediately issuing a temporary general license to allow the supply of Russian diesel to the global market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799463,
+   "ts": "2026-10-09T18:47:46+00:00",
+   "ingested": "2026-10-09T19:42:36.311454+00:00",
+   "headline": "Trump: Russia will immediately supply another 500k tons during month of November, and 1 mln tons immediately thereafter.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799460,
+   "ts": "2026-10-09T18:46:51+00:00",
+   "ingested": "2026-10-09T19:42:36.311467+00:00",
+   "headline": "Trump: Just concluded successful talk with Putin.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799461,
+   "ts": "2026-10-09T18:46:14+00:00",
+   "ingested": "2026-10-09T19:42:36.311482+00:00",
+   "headline": "Trump: Russia to supply 300k+ metric tons of diesel. Russia to deliver 3 mln metric tons diesel soon - Truth Social",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799448,
+   "ts": "2026-10-09T18:40:45+00:00",
+   "ingested": "2026-10-09T19:42:36.311497+00:00",
+   "headline": "Nadella: We're already testing new model across Microsoft. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799447,
+   "ts": "2026-10-09T18:40:13+00:00",
+   "ingested": "2026-10-09T19:42:36.311511+00:00",
+   "headline": "Microsoft Nadella: Introduces Microsoft-decision-1, new model. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799445,
+   "ts": "2026-10-09T18:31:55+00:00",
+   "ingested": "2026-10-09T19:42:36.311547+00:00",
+   "headline": "NYMEX Nat Gas Nov. futures settle at $3.2200/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799442,
+   "ts": "2026-10-09T18:31:24+00:00",
+   "ingested": "2026-10-09T19:42:36.311562+00:00",
+   "headline": "NYMEX diesel Nov. futures settle at $4.7384 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799435,
+   "ts": "2026-10-09T18:31:16+00:00",
+   "ingested": "2026-10-09T19:42:36.311576+00:00",
+   "headline": "NYMEX gasoline Nov. futures settle at $3.2952 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799433,
+   "ts": "2026-10-09T18:31:04+00:00",
+   "ingested": "2026-10-09T19:42:36.311591+00:00",
+   "headline": "NYMEX WTI crude Nov. futures settle at $91.85 a barrel up 36 cents, 0.39%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799428,
+   "ts": "2026-10-09T18:21:21+00:00",
+   "ingested": "2026-10-09T19:42:36.311605+00:00",
+   "headline": "ECB's Kazaks: ECB is in a fairly comfortable situation on rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799427,
+   "ts": "2026-10-09T18:21:12+00:00",
+   "ingested": "2026-10-09T19:42:36.311619+00:00",
+   "headline": "ECB's Kazaks: 2.5% is the upper limit of the ECB's neutral limit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799426,
+   "ts": "2026-10-09T18:21:01+00:00",
+   "ingested": "2026-10-09T19:42:36.311632+00:00",
+   "headline": "ECB's Kazaks: European economy is relatively resilient to shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799418,
+   "ts": "2026-10-09T18:10:19+00:00",
+   "ingested": "2026-10-09T19:42:36.311648+00:00",
+   "headline": "IDF: We attacked a Syrian terrorist operative from the air who was operating under the direction of the Iranian regime - Israel's N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799416,
+   "ts": "2026-10-09T18:04:15+00:00",
+   "ingested": "2026-10-09T19:42:36.311663+00:00",
+   "headline": "local sources report sounds heard in Yazd, eastern Iran were caused by military air defense exercise - Sepah Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799415,
+   "ts": "2026-10-09T18:02:15+00:00",
+   "ingested": "2026-10-09T19:42:36.311675+00:00",
+   "headline": "Trump planned memo is described by people familiar with matter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799414,
+   "ts": "2026-10-09T18:02:11+00:00",
+   "ingested": "2026-10-09T19:42:36.311688+00:00",
+   "headline": "Trump to issue memo as soon as today on state energy hurdles",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799413,
+   "ts": "2026-10-09T18:01:59+00:00",
+   "ingested": "2026-10-09T19:42:36.311701+00:00",
+   "headline": "Trump to seek ways to overcome state hurdles on energy projects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799382,
+   "ts": "2026-10-09T17:35:29+00:00",
+   "ingested": "2026-10-09T19:42:36.311714+00:00",
+   "headline": "Trump insisted to Sheinbaum more US-Mexico energy tie-ups - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799381,
+   "ts": "2026-10-09T17:33:30+00:00",
+   "ingested": "2026-10-09T19:42:36.311731+00:00",
+   "headline": "Trump directive will push US officials to use the Defense Production Act to find ways to increase production of oil and fuel - Sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799380,
+   "ts": "2026-10-09T17:32:47+00:00",
+   "ingested": "2026-10-09T19:42:36.311748+00:00",
+   "headline": "Trump Directive on diesel will push US department heads to find ways to bypass local, state regulations blocking energy production - three sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799379,
+   "ts": "2026-10-09T17:32:25+00:00",
+   "ingested": "2026-10-09T19:42:36.311763+00:00",
+   "headline": "Trump to issue directive to US officials that seeks to control the cost of diesel - Three industry sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799363,
+   "ts": "2026-10-09T17:30:56+00:00",
+   "ingested": "2026-10-09T19:42:36.311776+00:00",
+   "headline": "Trump pressures Mexico for energy deals in crunch trade talks - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799338,
+   "ts": "2026-10-09T17:01:05+00:00",
+   "ingested": "2026-10-09T19:42:36.311789+00:00",
+   "headline": "US Baker Hughes Oil Rig Count Actual 462 (Forecast -, Previous 456)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799337,
+   "ts": "2026-10-09T17:01:00+00:00",
+   "ingested": "2026-10-09T19:42:36.311802+00:00",
+   "headline": "US Baker Hughes Total Rig Count Actual 603 (Forecast -, Previous 598)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799305,
+   "ts": "2026-10-09T16:35:33+00:00",
+   "ingested": "2026-10-09T19:42:36.311815+00:00",
+   "headline": "US Gulf shuts in 1.3 bcf/d or 59% gas production - MMA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799304,
+   "ts": "2026-10-09T16:33:45+00:00",
+   "ingested": "2026-10-09T19:42:36.311829+00:00",
+   "headline": "US Gulf shuts in 1.5 million b/d or 72% of oil production - MMA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799295,
+   "ts": "2026-10-09T16:28:45+00:00",
+   "ingested": "2026-10-09T19:42:36.311844+00:00",
+   "headline": "EU Tech Chief: Landmark rules mean the Bloc is well equipped to deal with rogue AI agents and other risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799282,
+   "ts": "2026-10-09T16:15:31+00:00",
+   "ingested": "2026-10-09T19:42:36.311861+00:00",
+   "headline": "Trump on Iran: It's a very small price to pay.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799257,
+   "ts": "2026-10-09T16:00:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311874+00:00",
+   "headline": "WASDE Corn End Stocks Actual 1849M (Forecast 1695.34M, Previous 1567M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799256,
+   "ts": "2026-10-09T16:00:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311887+00:00",
+   "headline": "WASDE Soybean End Stocks Actual 315M (Forecast 305.5M, Previous 310M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799255,
+   "ts": "2026-10-09T16:00:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311899+00:00",
+   "headline": "WASDE Wheat End Stocks Actual 740M (Forecast 720M, Previous 717M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799254,
+   "ts": "2026-10-09T16:00:02+00:00",
+   "ingested": "2026-10-09T19:42:36.311912+00:00",
+   "headline": "WASDE Cotton End Stocks Actual 3.8M (Forecast 3.5M, Previous 3.6M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799246,
+   "ts": "2026-10-09T15:38:29+00:00",
+   "ingested": "2026-10-09T19:42:36.311925+00:00",
+   "headline": "Trump: We took out 28 million bbls of oil from Hormuz yesterday.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799245,
+   "ts": "2026-10-09T15:37:30+00:00",
+   "ingested": "2026-10-09T19:42:36.311938+00:00",
+   "headline": "Trump: The OMB is going to make a big announcement soon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799244,
+   "ts": "2026-10-09T15:36:56+00:00",
+   "ingested": "2026-10-09T19:42:36.311951+00:00",
+   "headline": "Trump on Iran: It is going to be over soon, one way or the other.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799243,
+   "ts": "2026-10-09T15:36:07+00:00",
+   "ingested": "2026-10-09T19:42:36.311964+00:00",
+   "headline": "Trump: We have a big announcement coming up on diesel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799222,
+   "ts": "2026-10-09T15:24:12+00:00",
+   "ingested": "2026-10-09T19:42:36.311977+00:00",
+   "headline": "Venezuela Expects Oil Production to Reach 1.5 Million BPD by End of 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799213,
+   "ts": "2026-10-09T15:09:01+00:00",
+   "ingested": "2026-10-09T19:42:36.311992+00:00",
+   "headline": "US Official: US Treasury Secretary Bessent to skip IMF-World Bank and G20 meetings in Bangkok due to domestic engagements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799212,
+   "ts": "2026-10-09T15:07:44+00:00",
+   "ingested": "2026-10-09T19:42:36.312005+00:00",
+   "headline": "Banks head for $5 bln gold trading windfall in record year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799209,
+   "ts": "2026-10-09T15:03:24+00:00",
+   "ingested": "2026-10-09T19:42:36.312018+00:00",
+   "headline": "Saudi Aramco is going to supply full oil volumes to European customers in November.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799187,
+   "ts": "2026-10-09T14:57:51+00:00",
+   "ingested": "2026-10-09T19:42:36.312031+00:00",
+   "headline": "BNP Paribas cuts Tesla's target price to $266 from $268. $TSLA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9799186,
+   "ts": "2026-10-09T14:55:57+00:00",
+   "ingested": "2026-10-09T19:42:36.312044+00:00",
+   "headline": "Italy and the EU edge closer to an agreement on a deal to cap energy bills.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9799136,
    "ts": "2026-10-09T14:25:08+00:00",
@@ -3607,398 +3999,6 @@
    "ts": "2026-10-07T18:01:46+00:00",
    "ingested": "2026-10-07T22:17:45.577578+00:00",
    "headline": "Fed Minutes: almost all participants viewed inflation risks as tilted to the upside, job market risks broadly balanced",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795848,
-   "ts": "2026-10-07T18:01:46+00:00",
-   "ingested": "2026-10-07T22:17:45.577594+00:00",
-   "headline": "Fed Minutes: participants generally viewed inflation risks tilted to the upside, some noted increased skew in recent months",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795847,
-   "ts": "2026-10-07T18:01:46+00:00",
-   "ingested": "2026-10-07T22:17:45.577651+00:00",
-   "headline": "Fed Minutes: Participants generally expected the job market to stay stable.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795844,
-   "ts": "2026-10-07T18:01:34+00:00",
-   "ingested": "2026-10-07T22:17:45.577669+00:00",
-   "headline": "Fed Minutes: Several saw the current rate as not or only mildly restrictive.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795835,
-   "ts": "2026-10-07T18:01:22+00:00",
-   "ingested": "2026-10-07T22:17:45.577683+00:00",
-   "headline": "Fed Minutes: Most participants saw another 2026 hike likely appropriate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795831,
-   "ts": "2026-10-07T18:01:08+00:00",
-   "ingested": "2026-10-07T22:17:45.577697+00:00",
-   "headline": "Fed Minutes: Several said the scale of the AI buildout continued to surprise",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795830,
-   "ts": "2026-10-07T18:00:56+00:00",
-   "ingested": "2026-10-07T22:17:45.577711+00:00",
-   "headline": "Fed Minutes: Many participants saw risk-management grounds for hike",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795828,
-   "ts": "2026-10-07T18:00:46+00:00",
-   "ingested": "2026-10-07T22:17:45.577724+00:00",
-   "headline": "Fed Minutes: Several participants saw more underlying economic momentum.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795827,
-   "ts": "2026-10-07T18:00:34+00:00",
-   "ingested": "2026-10-07T22:17:45.577738+00:00",
-   "headline": "Fed Minutes: all 19 officials supported rate hike at September meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795824,
-   "ts": "2026-10-07T17:57:02+00:00",
-   "ingested": "2026-10-07T22:17:45.577757+00:00",
-   "headline": "Microsoft Exective: RTX Spark machines with Nvidia chips are faster than Apple's fastest chips at generating images. RTX Spark-based machines with Nvidia chips will begin shipping next week $MSFT $NVDA $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795822,
-   "ts": "2026-10-07T17:53:29+00:00",
-   "ingested": "2026-10-07T22:17:45.577772+00:00",
-   "headline": "Google: Able to detect AI from OpenAI, Nvidia, and soon, Apple $GOOGL $NVDA $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795820,
-   "ts": "2026-10-07T17:52:53+00:00",
-   "ingested": "2026-10-07T22:17:45.577789+00:00",
-   "headline": "Trump: Canada would like to make a deal but we're not satisfied",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795819,
-   "ts": "2026-10-07T17:52:36+00:00",
-   "ingested": "2026-10-07T22:17:45.577803+00:00",
-   "headline": "Microsoft Windows Event with Satya Nadella and Jensen Huang | LIVE $MSFT $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795818,
-   "ts": "2026-10-07T17:52:23+00:00",
-   "ingested": "2026-10-07T22:17:45.577816+00:00",
-   "headline": "Trump: Canada has been very difficult to deal with",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795817,
-   "ts": "2026-10-07T17:51:07+00:00",
-   "ingested": "2026-10-07T22:17:45.577832+00:00",
-   "headline": "Microsoft Executive: Surface Laptop Ultra prices range up to $5,899 for the most powerful model $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795816,
-   "ts": "2026-10-07T17:49:34+00:00",
-   "ingested": "2026-10-07T22:17:45.577845+00:00",
-   "headline": "Trump reiterates oil price to come down after war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795815,
-   "ts": "2026-10-07T17:49:29+00:00",
-   "ingested": "2026-10-07T22:17:45.577858+00:00",
-   "headline": "Saudi Civil Aviation: Attacks occurred on Tuesday and Wednesday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795814,
-   "ts": "2026-10-07T17:49:12+00:00",
-   "ingested": "2026-10-07T22:17:45.577871+00:00",
-   "headline": "Saudi Civil Aviation: One killed in attacks on King Khalid International Airport",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795813,
-   "ts": "2026-10-07T17:48:52+00:00",
-   "ingested": "2026-10-07T22:17:45.577884+00:00",
-   "headline": "Microsoft's new premium laptop to start at $2,599 $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795812,
-   "ts": "2026-10-07T17:48:34+00:00",
-   "ingested": "2026-10-07T22:17:45.577896+00:00",
-   "headline": "Trump: Mortgage rates will come down after war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795811,
-   "ts": "2026-10-07T17:48:17+00:00",
-   "ingested": "2026-10-07T22:17:45.577909+00:00",
-   "headline": "US Treasury Secretary Bessent: Core inflation approaching Fed target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795810,
-   "ts": "2026-10-07T17:47:48+00:00",
-   "ingested": "2026-10-07T22:17:45.577922+00:00",
-   "headline": "US Treasury Secretary Bessent on high bond yields: Global phenomenon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795809,
-   "ts": "2026-10-07T17:47:17+00:00",
-   "ingested": "2026-10-07T22:17:45.577936+00:00",
-   "headline": "Saudi Civil Aviation Authority: Two killed in attacks on Abha International Airport",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795807,
-   "ts": "2026-10-07T17:46:24+00:00",
-   "ingested": "2026-10-07T17:46:54.826703+00:00",
-   "headline": "Trump: If the US didn't buy Swiss watches anymore, would save $40b",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795804,
-   "ts": "2026-10-07T17:45:39+00:00",
-   "ingested": "2026-10-07T17:46:54.826751+00:00",
-   "headline": "Microsoft Executive: Introduce Surface Laptop Ultra - Event $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795800,
-   "ts": "2026-10-07T17:44:45+00:00",
-   "ingested": "2026-10-07T17:46:54.826776+00:00",
-   "headline": "Trump: Warsh is great, but he's \u2018one vote\"",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795799,
-   "ts": "2026-10-07T17:44:25+00:00",
-   "ingested": "2026-10-07T17:46:54.826792+00:00",
-   "headline": "Trump: Interest rates should come down",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795798,
-   "ts": "2026-10-07T17:44:13+00:00",
-   "ingested": "2026-10-07T17:46:54.826806+00:00",
-   "headline": "Trump: Warsh is great",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795797,
-   "ts": "2026-10-07T17:43:22+00:00",
-   "ingested": "2026-10-07T17:46:54.826821+00:00",
-   "headline": "Trump on Putin call: I have a call set up",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795796,
-   "ts": "2026-10-07T17:35:52+00:00",
-   "ingested": "2026-10-07T17:46:54.826842+00:00",
-   "headline": "Microsoft Executive: Meta's Muse is coming to Windows; Copilot features powered by hybrid intelligence rolling out over the coming months \u2014 Event $MSFT $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795781,
-   "ts": "2026-10-07T17:28:36+00:00",
-   "ingested": "2026-10-07T17:46:54.826857+00:00",
-   "headline": "Trump on Plague: Russia isn\u2019t saying much",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795780,
-   "ts": "2026-10-07T17:28:21+00:00",
-   "ingested": "2026-10-07T17:46:54.826873+00:00",
-   "headline": "Trump on lab worker death in Russia: We don't think it's a bioweapon but will find out",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795779,
-   "ts": "2026-10-07T17:24:59+00:00",
-   "ingested": "2026-10-07T17:46:54.826891+00:00",
-   "headline": "Microsoft launches execution containers to block agents from unauthorized data access; OpenAI, Anthropic will adopt them for agent containment - Event $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795778,
-   "ts": "2026-10-07T17:22:21+00:00",
-   "ingested": "2026-10-07T17:46:54.826909+00:00",
-   "headline": "Microsoft Introduces AI Coding Model That Runs on Laptops; DeepSeek V4 Flash Runs on 60GB Machines, Outperforming GPT-5 on Some Coding Tasks $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795777,
-   "ts": "2026-10-07T17:21:47+00:00",
-   "ingested": "2026-10-07T17:46:54.826927+00:00",
-   "headline": "Microsoft introduces AI coding model that can run on individual laptops; new Nvidia Nemotron model will run on individual laptops and PCs - Event $MSFT $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795760,
-   "ts": "2026-10-07T17:15:48+00:00",
-   "ingested": "2026-10-07T17:46:54.826943+00:00",
-   "headline": "Microsoft launches Microsoft execution containers to block agents from unauthorized data access. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795751,
-   "ts": "2026-10-07T17:09:44+00:00",
-   "ingested": "2026-10-07T17:46:54.826957+00:00",
-   "headline": "French PM Lecornu urges lawmakers to limit 2027 deficit to 5% of GDP",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795750,
-   "ts": "2026-10-07T17:08:26+00:00",
-   "ingested": "2026-10-07T17:46:54.826970+00:00",
-   "headline": "Trump touts yesterday's stock market performance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795749,
-   "ts": "2026-10-07T17:07:20+00:00",
-   "ingested": "2026-10-07T17:46:54.826985+00:00",
-   "headline": "The US 10-year treasury clears at 5.3%, the highest auction yield since November 2000",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795748,
-   "ts": "2026-10-07T17:03:30+00:00",
-   "ingested": "2026-10-07T17:46:54.826997+00:00",
-   "headline": "US 10-Year Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795753,
-   "ts": "2026-10-07T17:02:10+00:00",
-   "ingested": "2026-10-07T17:46:54.827015+00:00",
-   "headline": "US $39 billion 10-year Treasury auction stops through by 1.7 bps at 5.3% vs WI 5.317%, highest auction yield since November 2000",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795747,
-   "ts": "2026-10-07T17:02:03+00:00",
-   "ingested": "2026-10-07T17:46:54.827029+00:00",
-   "headline": "US 10-Year Note High Yield Actual 5.3% (Forecast -, Previous 4.834%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795746,
-   "ts": "2026-10-07T17:02:02+00:00",
-   "ingested": "2026-10-07T17:46:54.827043+00:00",
-   "headline": "US 10-Year Note Bid-to-Cover Actual 2.77 (Forecast -, Previous 2.710)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795745,
-   "ts": "2026-10-07T17:01:47+00:00",
-   "ingested": "2026-10-07T17:46:54.827066+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: Iranian delegation used the opportunity of the UN General Assembly to explain Iran's innovative approach and presented a 7-day plan to restore security to the Strait of Hormuz.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795742,
-   "ts": "2026-10-07T17:01:12+00:00",
-   "ingested": "2026-10-07T17:46:54.827080+00:00",
-   "headline": "French Prime Minister Lecornu: France to release 10 million barrels of Diesel from reserves",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795737,
-   "ts": "2026-10-07T17:00:47+00:00",
-   "ingested": "2026-10-07T17:46:54.827094+00:00",
-   "headline": "Treasury WI 10 Yr yield 5.317% before $39 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795732,
-   "ts": "2026-10-07T16:59:07+00:00",
-   "ingested": "2026-10-07T17:46:54.827109+00:00",
-   "headline": "European Commission now hopes to get Beijing to accept unilateral EU cap on hybrid imports instead - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795730,
-   "ts": "2026-10-07T16:57:43+00:00",
-   "ingested": "2026-10-07T17:46:54.827122+00:00",
-   "headline": "China rejects EU request for voluntary curbs on hybrid car exports - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795729,
-   "ts": "2026-10-07T16:56:19+00:00",
-   "ingested": "2026-10-07T17:46:54.827138+00:00",
-   "headline": "WATCH LIVE: Trump to discuss automatic enrollment for Trump Accounts for American children 1 PM ET",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9795728,
-   "ts": "2026-10-07T16:53:55+00:00",
-   "ingested": "2026-10-07T17:46:54.827158+00:00",
-   "headline": "Iran\u2019s Foreign Minister Araghchi: While steadfast and determined in defending itself, is also serious about utilizing diplomatic tools to ensure its national interests and security.",
    "channel": "rss",
    "source": "financialjuice"
   }
