@@ -1,7 +1,615 @@
 {
- "updated": "2026-10-13T18:28:58.287154+00:00",
+ "updated": "2026-10-13T23:01:43.020584+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9803984,
+   "ts": "2026-10-13T22:13:50+00:00",
+   "ingested": "2026-10-13T23:01:43.019601+00:00",
+   "headline": "Saudi-led coalition: missile intercepted and destroyed in Al-Kharj",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803983,
+   "ts": "2026-10-13T22:08:25+00:00",
+   "ingested": "2026-10-13T23:01:43.019618+00:00",
+   "headline": "OpenAI in early discussions to buy security startup Trail of Bits: The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803982,
+   "ts": "2026-10-13T22:03:37+00:00",
+   "ingested": "2026-10-13T23:01:43.019628+00:00",
+   "headline": "Google Play launches personalized app creation through AI studio for users 18+ in select markets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803971,
+   "ts": "2026-10-13T22:00:48+00:00",
+   "ingested": "2026-10-13T23:01:43.019638+00:00",
+   "headline": "State Department: Secretary of State Marco Rubio to visit Samarkand, Uzbekistan; Mumbai and Jamnagar, India from October 17-22",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803969,
+   "ts": "2026-10-13T21:50:40+00:00",
+   "ingested": "2026-10-13T23:01:43.019647+00:00",
+   "headline": "Saudi civil defense: debris from intercepted Houthi missiles causes minor damage to 15 homes in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803968,
+   "ts": "2026-10-13T21:48:53+00:00",
+   "ingested": "2026-10-13T23:01:43.019655+00:00",
+   "headline": "Saudi civil defense: four injured in Riyadh after debris from two intercepted missiles falls",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803943,
+   "ts": "2026-10-13T21:46:04+00:00",
+   "ingested": "2026-10-13T23:01:43.019664+00:00",
+   "headline": "New Zealand External Migration & Visitors Actual 8.0% (Forecast -, Previous 8.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803945,
+   "ts": "2026-10-13T21:45:03+00:00",
+   "ingested": "2026-10-13T23:01:43.019672+00:00",
+   "headline": "New Zealand net migration surplus rises 1,530 in August",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803944,
+   "ts": "2026-10-13T21:45:03+00:00",
+   "ingested": "2026-10-13T23:01:43.019679+00:00",
+   "headline": "NZ short-term visitors rise 8% in August compared with year earlier",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803942,
+   "ts": "2026-10-13T21:45:00+00:00",
+   "ingested": "2026-10-13T23:01:43.019686+00:00",
+   "headline": "New Zealand Visitor Arrivals Actual 1530 (Forecast -, Previous 3,010)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803938,
+   "ts": "2026-10-13T21:34:18+00:00",
+   "ingested": "2026-10-13T23:01:43.019695+00:00",
+   "headline": "Attack on Saudi Aramco building causes limited fire, no casualties: state news agency citing energy ministry official",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803937,
+   "ts": "2026-10-13T21:33:06+00:00",
+   "ingested": "2026-10-13T23:01:43.019702+00:00",
+   "headline": "Aramco facility in Saudi eastern city of Dhahran targeted on Tuesday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803910,
+   "ts": "2026-10-13T21:01:30+00:00",
+   "ingested": "2026-10-13T23:01:43.019710+00:00",
+   "headline": "Foreign ministers of Iran and Oman discuss Yemen situation in phone call - Telegram post",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803887,
+   "ts": "2026-10-13T20:44:46+00:00",
+   "ingested": "2026-10-13T23:01:43.019717+00:00",
+   "headline": "Fed's Collins: Fed is not rethinking the 2% inflation target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803886,
+   "ts": "2026-10-13T20:44:03+00:00",
+   "ingested": "2026-10-13T23:01:43.019724+00:00",
+   "headline": "Fed's Collins: Fed economic models are mindful of government debt levels.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803885,
+   "ts": "2026-10-13T20:42:43+00:00",
+   "ingested": "2026-10-13T23:01:43.019733+00:00",
+   "headline": "US Justice Department says a Saudi national was arrested for installing a surreptitious audio recording device at a San Francisco Super Intelligence Company",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803884,
+   "ts": "2026-10-13T20:42:12+00:00",
+   "ingested": "2026-10-13T23:01:43.019742+00:00",
+   "headline": "US CENTCOM: Yesterday, US forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803883,
+   "ts": "2026-10-13T20:40:03+00:00",
+   "ingested": "2026-10-13T23:01:43.019750+00:00",
+   "headline": "Aramco's headquarters evacuated following missile attacks from Yemen - Iranian Media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803882,
+   "ts": "2026-10-13T20:39:11+00:00",
+   "ingested": "2026-10-13T23:01:43.019758+00:00",
+   "headline": "Israel, the United States, and the Gulf states are coordinating and preparing for a variety of scenarios - Israel's N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803881,
+   "ts": "2026-10-13T20:38:53+00:00",
+   "ingested": "2026-10-13T23:01:43.019767+00:00",
+   "headline": "There is no intelligence change that justifies an Israeli-American move in the coming weeks - Israel's N12 News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803880,
+   "ts": "2026-10-13T20:38:38+00:00",
+   "ingested": "2026-10-13T23:01:43.019775+00:00",
+   "headline": "According to the army, this is a slow and only partial restoration of the missile array at this time - Israel's N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803878,
+   "ts": "2026-10-13T20:37:52+00:00",
+   "ingested": "2026-10-13T23:01:43.019783+00:00",
+   "headline": "Iran has conducted a series of ballistic missile firing tests in recent days - Israel N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803877,
+   "ts": "2026-10-13T20:34:19+00:00",
+   "ingested": "2026-10-13T23:01:43.019790+00:00",
+   "headline": "Fed's Collins: Officials are well aware that higher rates can create challenges",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803876,
+   "ts": "2026-10-13T20:32:14+00:00",
+   "ingested": "2026-10-13T23:01:43.019797+00:00",
+   "headline": "Aramco headquarters in Dhahran hit during Houthi attacks on Tuesday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803865,
+   "ts": "2026-10-13T20:25:58+00:00",
+   "ingested": "2026-10-13T23:01:43.019804+00:00",
+   "headline": "Fed's Collins: Economic uncertainty is elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803864,
+   "ts": "2026-10-13T20:25:24+00:00",
+   "ingested": "2026-10-13T23:01:43.019815+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy: CHPP-4 was hit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803863,
+   "ts": "2026-10-13T20:24:48+00:00",
+   "ingested": "2026-10-13T23:01:43.019824+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy: Russian ballistic missile attack on Kyiv. The main target was energy infrastructure, CHPP-4.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803862,
+   "ts": "2026-10-13T20:24:06+00:00",
+   "ingested": "2026-10-13T23:01:43.019832+00:00",
+   "headline": "Fed's Collins: I am watching to see how broad inflation pressures are in the data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803861,
+   "ts": "2026-10-13T20:23:40+00:00",
+   "ingested": "2026-10-13T23:01:43.019840+00:00",
+   "headline": "Fed's Collins: Looking at the economy holistically when thinking about the future of rate policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803860,
+   "ts": "2026-10-13T20:21:38+00:00",
+   "ingested": "2026-10-13T23:01:43.019850+00:00",
+   "headline": "Bank of America fined for anti-money laundering, sanctions violations involving Russia, Iran, other nations; non-tax-deductible charge to hit Q3 EPS by 17c. $BAC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803846,
+   "ts": "2026-10-13T20:12:09+00:00",
+   "ingested": "2026-10-13T23:01:43.019857+00:00",
+   "headline": "US Treasury Department: Bank of America settles with OFAC for $11.66m $BAC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803845,
+   "ts": "2026-10-13T20:10:23+00:00",
+   "ingested": "2026-10-13T23:01:43.019864+00:00",
+   "headline": "BoE Gov. Bailey: Forward guidance got us too far to unconditional messaging.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803844,
+   "ts": "2026-10-13T20:09:54+00:00",
+   "ingested": "2026-10-13T23:01:43.019871+00:00",
+   "headline": "BoE Gov. Bailey: I support Warsh's views, forward guidance went too far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803843,
+   "ts": "2026-10-13T20:06:40+00:00",
+   "ingested": "2026-10-13T23:01:43.019878+00:00",
+   "headline": "BoE Gov. Bailey: UK does have a budget profile of a declining deficit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803841,
+   "ts": "2026-10-13T20:05:32+00:00",
+   "ingested": "2026-10-13T23:01:43.019885+00:00",
+   "headline": "BoE Gov. Bailey: There is far more leveraged finance now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803840,
+   "ts": "2026-10-13T20:04:45+00:00",
+   "ingested": "2026-10-13T23:01:43.019892+00:00",
+   "headline": "BoE Gov. Bailey: The longer the energy hit goes on, the harder it gets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803839,
+   "ts": "2026-10-13T20:04:05+00:00",
+   "ingested": "2026-10-13T23:01:43.019899+00:00",
+   "headline": "BoE Gov. Bailey: So far, second-round effects subdued in UK.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803838,
+   "ts": "2026-10-13T20:04:02+00:00",
+   "ingested": "2026-10-13T23:01:43.019907+00:00",
+   "headline": "Bank of America fined $1.2b over money laundering failures - FT $BAC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803837,
+   "ts": "2026-10-13T20:03:16+00:00",
+   "ingested": "2026-10-13T23:01:43.019914+00:00",
+   "headline": "BoE's Bailey: The longer the inflation hit goes on, the harder it gets",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803836,
+   "ts": "2026-10-13T20:02:14+00:00",
+   "ingested": "2026-10-13T23:01:43.019921+00:00",
+   "headline": "RBNZ to start repurchase of April 2027 Government Bonds.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803832,
+   "ts": "2026-10-13T20:01:36+00:00",
+   "ingested": "2026-10-13T23:01:43.019929+00:00",
+   "headline": "Fed's Collins: Data-center build out is pressuring inflation readings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803830,
+   "ts": "2026-10-13T20:01:29+00:00",
+   "ingested": "2026-10-13T23:01:43.019936+00:00",
+   "headline": "Fed's Collins: A stable job market should support consumer spending.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803820,
+   "ts": "2026-10-13T20:01:19+00:00",
+   "ingested": "2026-10-13T23:01:43.019942+00:00",
+   "headline": "Fed's Collins: I expect more growth and job market stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803817,
+   "ts": "2026-10-13T20:01:02+00:00",
+   "ingested": "2026-10-13T23:01:43.019950+00:00",
+   "headline": "Fed's Collins: The US economy has shown resilience in the face of shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803816,
+   "ts": "2026-10-13T20:00:50+00:00",
+   "ingested": "2026-10-13T23:01:43.019957+00:00",
+   "headline": "Fed's Collins: I supported the Fed raising rates at the September meeting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803815,
+   "ts": "2026-10-13T20:00:50+00:00",
+   "ingested": "2026-10-13T23:01:43.019963+00:00",
+   "headline": "Fed's Collins: Job market is broadly balanced",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803814,
+   "ts": "2026-10-13T20:00:39+00:00",
+   "ingested": "2026-10-13T23:01:43.019970+00:00",
+   "headline": "Fed's Collins: expect inflation to stay above 2% due to high energy prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803813,
+   "ts": "2026-10-13T20:00:34+00:00",
+   "ingested": "2026-10-13T23:01:43.019977+00:00",
+   "headline": "Fed's Collins: Future path of monetary policy in new year will depend on data.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803812,
+   "ts": "2026-10-13T20:00:29+00:00",
+   "ingested": "2026-10-13T23:01:43.019985+00:00",
+   "headline": "Fed's Collins: Elevated risk of high inflation is the Fed's main focus right now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803809,
+   "ts": "2026-10-13T19:58:21+00:00",
+   "ingested": "2026-10-13T23:01:43.019994+00:00",
+   "headline": "An anonymous report of a bomb on a Delta plane that landed in Israel caused the passengers to disembark in panic - Israel's N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803808,
+   "ts": "2026-10-13T19:53:20+00:00",
+   "ingested": "2026-10-13T23:01:43.020002+00:00",
+   "headline": "US CPI Prep: Attention on Core Numbers for Evidence of Broader Inflation Pressures - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803807,
+   "ts": "2026-10-13T19:53:18+00:00",
+   "ingested": "2026-10-13T23:01:43.020008+00:00",
+   "headline": "US CPI Crib Sheet - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803806,
+   "ts": "2026-10-13T19:52:50+00:00",
+   "ingested": "2026-10-13T23:01:43.020015+00:00",
+   "headline": "Series of explosions in Kyiv, no advance warning or alert given - Witness",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803805,
+   "ts": "2026-10-13T19:50:31+00:00",
+   "ingested": "2026-10-13T23:01:43.020024+00:00",
+   "headline": "OpenAI: At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803803,
+   "ts": "2026-10-13T19:50:11+00:00",
+   "ingested": "2026-10-13T23:01:43.020033+00:00",
+   "headline": "OpenAI: A specific employee had planted a device a few days earlier",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803802,
+   "ts": "2026-10-13T19:49:39+00:00",
+   "ingested": "2026-10-13T23:01:43.020040+00:00",
+   "headline": "OpenAI: Sophisticated recording device hidden in our offices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803801,
+   "ts": "2026-10-13T19:47:10+00:00",
+   "ingested": "2026-10-13T23:01:43.020047+00:00",
+   "headline": "Israel's Prime Minister Netanyahu and Trump talked about a possible new Iran action - Axios",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803795,
+   "ts": "2026-10-13T19:44:53+00:00",
+   "ingested": "2026-10-13T23:01:43.020057+00:00",
+   "headline": "Israel's Prime Minister Netanyahu: There is almost no country in the Middle East or in the West that does not ask for help from Israel - Israel's Channel 14",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803793,
+   "ts": "2026-10-13T19:39:35+00:00",
+   "ingested": "2026-10-13T23:01:43.020065+00:00",
+   "headline": "Nvidia: Macron and Huang covered AI safety and our recently launched open agent safety platform. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803792,
+   "ts": "2026-10-13T19:38:31+00:00",
+   "ingested": "2026-10-13T23:01:43.020071+00:00",
+   "headline": "Nvidia's CEO Huang met with French President Macron $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803767,
+   "ts": "2026-10-13T19:21:54+00:00",
+   "ingested": "2026-10-13T23:01:43.020077+00:00",
+   "headline": "Wednesday FX Option Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803756,
+   "ts": "2026-10-13T19:08:54+00:00",
+   "ingested": "2026-10-13T23:01:43.020085+00:00",
+   "headline": "UKMTO: Received another report of a tanker struck in the Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803755,
+   "ts": "2026-10-13T19:04:54+00:00",
+   "ingested": "2026-10-13T23:01:43.020092+00:00",
+   "headline": "UKMTO: A verified source has reported that a container ship was struck by an unknown projectile",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803738,
+   "ts": "2026-10-13T18:51:39+00:00",
+   "ingested": "2026-10-13T23:01:43.020102+00:00",
+   "headline": "Saudi Arabia: Danger has passed in Riyadh.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803737,
+   "ts": "2026-10-13T18:49:24+00:00",
+   "ingested": "2026-10-13T23:01:43.020109+00:00",
+   "headline": "Brent Crude futures settle at $105.69/bbl, down 96 cents, 0.9%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803729,
+   "ts": "2026-10-13T18:43:36+00:00",
+   "ingested": "2026-10-13T23:01:43.020116+00:00",
+   "headline": "Saudi-led Coalition: Intercepted missile toward Dhahran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803728,
+   "ts": "2026-10-13T18:41:20+00:00",
+   "ingested": "2026-10-13T23:01:43.020124+00:00",
+   "headline": "Saudi Arabia issues warning of potential hostile aerial threat to Riyadh - Message.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803727,
+   "ts": "2026-10-13T18:41:02+00:00",
+   "ingested": "2026-10-13T23:01:43.020131+00:00",
+   "headline": "Saudi-led Coalition intercepted a Houthi missile, destroying the missile in the eastern province of Haradh.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803726,
+   "ts": "2026-10-13T18:35:35+00:00",
+   "ingested": "2026-10-13T23:01:43.020139+00:00",
+   "headline": "Loud booms heard in Dhahran, in the vicinity of the Saudi Aramco headquarters - Six sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803725,
+   "ts": "2026-10-13T18:34:20+00:00",
+   "ingested": "2026-10-13T23:01:43.020146+00:00",
+   "headline": "An explosion was heard in the Sharqiya region of Saudi Arabia - ISNA.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803723,
+   "ts": "2026-10-13T18:31:52+00:00",
+   "ingested": "2026-10-13T23:01:43.020153+00:00",
+   "headline": "NYMEX Natural Gas November futures settle at $3.2830/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803710,
+   "ts": "2026-10-13T18:31:19+00:00",
+   "ingested": "2026-10-13T23:01:43.020160+00:00",
+   "headline": "NYMEX Diesel November futures settle at $4.9344 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803709,
+   "ts": "2026-10-13T18:31:09+00:00",
+   "ingested": "2026-10-13T23:01:43.020167+00:00",
+   "headline": "NYMEX Gasoline November futures settle at $3.2501 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803708,
+   "ts": "2026-10-13T18:31:00+00:00",
+   "ingested": "2026-10-13T23:01:43.020174+00:00",
+   "headline": "NYMEX WTI Crude November futures settle at $94.14 a barrel, up 40 cents, 0.43%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803705,
+   "ts": "2026-10-13T18:30:37+00:00",
+   "ingested": "2026-10-13T23:01:43.020182+00:00",
+   "headline": "ECB's Lane: The potential for AI to replace some workers may weaken their bargaining power, moderating wage growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9803701,
+   "ts": "2026-10-13T18:30:25+00:00",
+   "ingested": "2026-10-13T23:01:43.020191+00:00",
+   "headline": "ECB's Lane: An increase in long-term interest rates constitutes a material tightening, relevant for the ECB in setting its policy stance.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9803679,
    "ts": "2026-10-13T18:14:22+00:00",
@@ -3391,614 +3999,6 @@
    "ts": "2026-10-11T13:53:03+00:00",
    "ingested": "2026-10-11T14:11:22.920271+00:00",
    "headline": "Pakistan foreign minister Ishaq Dar: in contact with Saudi authorities, closely monitoring situation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800567,
-   "ts": "2026-10-11T13:52:12+00:00",
-   "ingested": "2026-10-11T14:11:22.920284+00:00",
-   "headline": "Pakistan foreign minister Ishaq Dar: Pakistan condemns Houthi strike on King Khalid international airport in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800557,
-   "ts": "2026-10-11T13:29:26+00:00",
-   "ingested": "2026-10-11T14:11:22.920296+00:00",
-   "headline": "Ukraine President Zelenskiy tells ABC: If Putin agrees to 60-day truce, Ukraine will hold elections",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800556,
-   "ts": "2026-10-11T13:28:36+00:00",
-   "ingested": "2026-10-11T14:11:22.920306+00:00",
-   "headline": "Houthi-linked media reports attack on Sanaa airport",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800548,
-   "ts": "2026-10-11T13:10:32+00:00",
-   "ingested": "2026-10-11T14:11:22.920316+00:00",
-   "headline": "US Treasury Secretary Bessent: we will proceed using all legal powers available - fox news",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800547,
-   "ts": "2026-10-11T13:09:24+00:00",
-   "ingested": "2026-10-11T14:11:22.920326+00:00",
-   "headline": "US Treasury Secretary Bessent: Russia diesel pact benefits Americans - Fox News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800546,
-   "ts": "2026-10-11T13:06:35+00:00",
-   "ingested": "2026-10-11T14:11:22.920335+00:00",
-   "headline": "UKMTO: ship sustained damage in incident",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800545,
-   "ts": "2026-10-11T13:06:09+00:00",
-   "ingested": "2026-10-11T14:11:22.920344+00:00",
-   "headline": "Ukmto: all crew members reported safe",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800544,
-   "ts": "2026-10-11T13:06:00+00:00",
-   "ingested": "2026-10-11T14:11:22.920353+00:00",
-   "headline": "UKMTO: tanker hit on port side by unidentified projectile",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800543,
-   "ts": "2026-10-11T13:05:30+00:00",
-   "ingested": "2026-10-11T14:11:22.920367+00:00",
-   "headline": "UKMTO: received report of incident in Strait of Hormuz",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800538,
-   "ts": "2026-10-11T12:57:59+00:00",
-   "ingested": "2026-10-11T14:11:22.920390+00:00",
-   "headline": "France deplores Palestinian president's move to delay elections: foreign ministry spokesperson calls for reversal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800533,
-   "ts": "2026-10-11T12:42:40+00:00",
-   "ingested": "2026-10-11T14:11:22.920404+00:00",
-   "headline": "Pakistan to deploy military forces in province once governed by ex-PM Imran Khan\u2019s party after emergency declared: interior ministry order",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800532,
-   "ts": "2026-10-11T12:39:31+00:00",
-   "ingested": "2026-10-11T14:11:22.920413+00:00",
-   "headline": "Russia: it condemns attack on Riyadh airport - IFax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800520,
-   "ts": "2026-10-11T12:05:58+00:00",
-   "ingested": "2026-10-11T14:11:22.920424+00:00",
-   "headline": "Egypt's core inflation slows to 14.1% year-on-year in September from 14.9% in August: central bank",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800513,
-   "ts": "2026-10-11T11:39:06+00:00",
-   "ingested": "2026-10-11T14:11:22.920433+00:00",
-   "headline": "Two killed in Ukrainian drone strike in Russian-controlled Lysychansk: RIA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800506,
-   "ts": "2026-10-11T11:19:50+00:00",
-   "ingested": "2026-10-11T14:11:22.920445+00:00",
-   "headline": "Governor to lead administration in Pakistan province once governed by Imran Khan's party: law minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800505,
-   "ts": "2026-10-11T11:19:34+00:00",
-   "ingested": "2026-10-11T14:11:22.920455+00:00",
-   "headline": "Ex-Pakistan PM Imran Khan's provincial government ends after emergency declared: law minister",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800474,
-   "ts": "2026-10-11T09:23:27+00:00",
-   "ingested": "2026-10-11T14:11:22.920465+00:00",
-   "headline": "Zelenskiy: We will continue coordinating with European partners today, discussing air defense packages",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800473,
-   "ts": "2026-10-11T09:19:27+00:00",
-   "ingested": "2026-10-11T14:11:22.920475+00:00",
-   "headline": "Any de-escalation steps must be mutual and backed by real guarantees: Zelenskiy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800472,
-   "ts": "2026-10-11T09:18:45+00:00",
-   "ingested": "2026-10-11T14:11:22.920486+00:00",
-   "headline": "Ukraine ready to halt strikes on Russian refineries if Russia ceases attacks on energy infrastructure: Zelenskiy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800470,
-   "ts": "2026-10-11T09:10:12+00:00",
-   "ingested": "2026-10-11T14:11:22.920495+00:00",
-   "headline": "Russia says it captured four settlements in Ukraine - Ifax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800444,
-   "ts": "2026-10-11T07:20:06+00:00",
-   "ingested": "2026-10-11T14:11:22.920506+00:00",
-   "headline": "Yemen's Houthis say warning should be taken seriously: Saudi Arabia bears responsibility for failed interceptions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800443,
-   "ts": "2026-10-11T07:19:22+00:00",
-   "ingested": "2026-10-11T07:20:01.643483+00:00",
-   "headline": "Yemen's Houthis renew warning to airlines, workers and travelers against using airports in Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800441,
-   "ts": "2026-10-11T07:07:15+00:00",
-   "ingested": "2026-10-11T07:20:01.643504+00:00",
-   "headline": "Saudi energy ministry: 25th WPC energy congress begins in Riyadh on Sunday - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800415,
-   "ts": "2026-10-11T04:39:03+00:00",
-   "ingested": "2026-10-11T07:20:01.643525+00:00",
-   "headline": "All 22 Indian crew members rescued, safe after vessel incident off UAE\u2019s Ras Al Khaimah coast: Indian consulate in Dubai",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800411,
-   "ts": "2026-10-11T04:29:48+00:00",
-   "ingested": "2026-10-11T07:20:01.643538+00:00",
-   "headline": "India's 'cockroach' movement leader Dipke freed from custody: lawyer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800362,
-   "ts": "2026-10-11T02:11:44+00:00",
-   "ingested": "2026-10-11T07:20:01.643552+00:00",
-   "headline": "UN's Guterres: strongly condemn Saturday\u2019s deadly assault by Houthis on King Khalid International Airport in Riyadh, Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800280,
-   "ts": "2026-10-11T00:10:35+00:00",
-   "ingested": "2026-10-11T01:19:48.916960+00:00",
-   "headline": "Trump: calls Saudi attack 'a terrible thing'",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800279,
-   "ts": "2026-10-11T00:10:33+00:00",
-   "ingested": "2026-10-11T01:19:48.916976+00:00",
-   "headline": "US Centcom: large cargo ship tried to pass regional waters after leaving Iranian port",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800278,
-   "ts": "2026-10-11T00:10:07+00:00",
-   "ingested": "2026-10-11T01:19:48.916989+00:00",
-   "headline": "US Centcom: Military fighter jet hit stern of Panama-flagged M/V Ocean Molica with precision munition, completely disabling ship's propulsion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800277,
-   "ts": "2026-10-11T00:09:38+00:00",
-   "ingested": "2026-10-11T01:19:48.916997+00:00",
-   "headline": "Trump: would like to see Fetterman switch to Republican",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800276,
-   "ts": "2026-10-11T00:09:09+00:00",
-   "ingested": "2026-10-11T01:19:48.917038+00:00",
-   "headline": "US Centcom: commercial cargo vessel disabled in Gulf of Oman after crew ignored warnings, tried to breach naval blockade on Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800275,
-   "ts": "2026-10-11T00:07:03+00:00",
-   "ingested": "2026-10-11T01:19:48.917048+00:00",
-   "headline": "Trump: Ukraine needs to hold an election",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800274,
-   "ts": "2026-10-11T00:03:53+00:00",
-   "ingested": "2026-10-11T01:19:48.917057+00:00",
-   "headline": "Saudi-led coalition: drone destroyed in Saudi Arabia's eastern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800268,
-   "ts": "2026-10-10T23:58:15+00:00",
-   "ingested": "2026-10-11T01:19:48.917064+00:00",
-   "headline": "Rubio: American killed in assaults",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800267,
-   "ts": "2026-10-10T23:55:09+00:00",
-   "ingested": "2026-10-11T01:19:48.917072+00:00",
-   "headline": "US Secretary of State Rubio: United States strongly denounces recent assaults on Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800266,
-   "ts": "2026-10-10T23:46:38+00:00",
-   "ingested": "2026-10-11T01:19:48.917080+00:00",
-   "headline": "US Justice Department spokesperson: antitrust division is merely probing whether news organizations breached competition laws",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800253,
-   "ts": "2026-10-10T23:00:38+00:00",
-   "ingested": "2026-10-11T01:19:48.917087+00:00",
-   "headline": "Saudi-led coalition: will respond firmly to attack",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800252,
-   "ts": "2026-10-10T22:59:59+00:00",
-   "ingested": "2026-10-11T01:19:48.917094+00:00",
-   "headline": "Justice Dept. investigating TV networks over Trump pool coverage: New York Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800251,
-   "ts": "2026-10-10T22:59:34+00:00",
-   "ingested": "2026-10-11T01:19:48.917102+00:00",
-   "headline": "Saudi-led coalition: Houthi assault on Riyadh airport a war crime",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800250,
-   "ts": "2026-10-10T22:59:04+00:00",
-   "ingested": "2026-10-11T01:19:48.917110+00:00",
-   "headline": "Saudi-led coalition: Yemen's Houthis responsible for Saturday attack on King Khalid Airport in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800241,
-   "ts": "2026-10-10T22:21:39+00:00",
-   "ingested": "2026-10-10T22:47:33.297671+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed ballistic missile in al-Kharj launched by Yemen's Houthis - post on X",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800235,
-   "ts": "2026-10-10T22:09:41+00:00",
-   "ingested": "2026-10-10T22:47:33.297696+00:00",
-   "headline": "UKMTO: crew reported safe, damage assessment and environmental impact unknown at time of report",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800234,
-   "ts": "2026-10-10T22:09:17+00:00",
-   "ingested": "2026-10-10T22:47:33.297716+00:00",
-   "headline": "Ukmto: master of outbound tanker reports port side hit by unidentified projectile, causing fire on board",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800227,
-   "ts": "2026-10-10T21:49:20+00:00",
-   "ingested": "2026-10-10T22:47:33.297740+00:00",
-   "headline": "At least 12 killed and 309 injured in Saturday strike on King Khalid International Airport in Riyadh, Saudi civil aviation authority",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800216,
-   "ts": "2026-10-10T20:55:42+00:00",
-   "ingested": "2026-10-10T22:47:33.297755+00:00",
-   "headline": "Saudi-led coalition: projectile landed near King Fahd International Airport in Dammam",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800194,
-   "ts": "2026-10-10T19:32:35+00:00",
-   "ingested": "2026-10-10T22:47:33.297771+00:00",
-   "headline": "Ukmto says several vessels near UAE's Ras al Khaimah ordered to leave anchorages via VHF broadcast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800189,
-   "ts": "2026-10-10T19:04:58+00:00",
-   "ingested": "2026-10-10T19:20:42.259664+00:00",
-   "headline": "Latest SPR release to ease disruptions from US storm: Energy Dept",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800188,
-   "ts": "2026-10-10T19:02:48+00:00",
-   "ingested": "2026-10-10T19:20:42.259692+00:00",
-   "headline": "US energy department approves emergency swap of up to 4 million barrels of crude oil from strategic petroleum reserve",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800177,
-   "ts": "2026-10-10T18:40:04+00:00",
-   "ingested": "2026-10-10T19:20:42.259711+00:00",
-   "headline": "Russian government: partially lifts diesel export ban after Trump-Putin agreement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800173,
-   "ts": "2026-10-10T18:22:23+00:00",
-   "ingested": "2026-10-10T19:20:42.259736+00:00",
-   "headline": "India\u2019s mission to Geneva on Delhi protests: Indians exercise right to peaceful assembly subject to reasonable restrictions in interest of public order",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800172,
-   "ts": "2026-10-10T18:16:38+00:00",
-   "ingested": "2026-10-10T19:20:42.259752+00:00",
-   "headline": "Nvidia in talks to buy or increase stake in US start-up Reflection AI: FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800170,
-   "ts": "2026-10-10T18:11:13+00:00",
-   "ingested": "2026-10-10T19:20:42.259769+00:00",
-   "headline": "India's mission to Geneva on Delhi protests: OHCHR's concerns misplaced, amount to undue intervention in India's internal matters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800169,
-   "ts": "2026-10-10T18:06:18+00:00",
-   "ingested": "2026-10-10T19:20:42.259787+00:00",
-   "headline": "India\u2019s mission to Geneva on Delhi protests: Indians exercise right to demonstrate subject to reasonable public order restrictions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800168,
-   "ts": "2026-10-10T18:06:07+00:00",
-   "ingested": "2026-10-10T19:20:42.259803+00:00",
-   "headline": "India's mission to Geneva on Delhi protests: acknowledges UN comments on today's events in New Delhi",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800152,
-   "ts": "2026-10-10T17:08:29+00:00",
-   "ingested": "2026-10-10T19:20:42.259819+00:00",
-   "headline": "UK govt: Burnham and Zelenskiy set to meet in person in coming days to continue talks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800151,
-   "ts": "2026-10-10T17:08:06+00:00",
-   "ingested": "2026-10-10T19:20:42.259835+00:00",
-   "headline": "UK government: emphasized Russia must agree to energy ceasefire, halt strikes on Ukrainian infrastructure and Black Sea shipping attacks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800150,
-   "ts": "2026-10-10T17:07:07+00:00",
-   "ingested": "2026-10-10T19:20:42.259855+00:00",
-   "headline": "UK govt: Prime Minister Burnham affirms UK to intensify sanctions on Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800149,
-   "ts": "2026-10-10T17:06:47+00:00",
-   "ingested": "2026-10-10T19:20:42.259871+00:00",
-   "headline": "Iran's Revolutionary Guards: oil tanker explodes after striking naval mine in Strait of Hormuz - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800148,
-   "ts": "2026-10-10T17:06:37+00:00",
-   "ingested": "2026-10-10T19:20:42.259884+00:00",
-   "headline": "UK govt: Burnham and Zelenskiy discussed importance of sustaining pressure on Russia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800147,
-   "ts": "2026-10-10T17:05:46+00:00",
-   "ingested": "2026-10-10T19:20:42.259897+00:00",
-   "headline": "UK govt: UK Prime Minister talked with Ukrainian President Volodymyr Zelenskiy today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800145,
-   "ts": "2026-10-10T16:46:28+00:00",
-   "ingested": "2026-10-10T19:20:42.259909+00:00",
-   "headline": "Trump on Iran, attacks: will review situation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800141,
-   "ts": "2026-10-10T16:45:34+00:00",
-   "ingested": "2026-10-10T19:20:42.259922+00:00",
-   "headline": "Trump at Riyadh airport: just learned about attack, will take action",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800139,
-   "ts": "2026-10-10T16:45:20+00:00",
-   "ingested": "2026-10-10T19:20:42.259936+00:00",
-   "headline": "Trump: time for Ukraine to appoint a new leader",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800138,
-   "ts": "2026-10-10T16:44:58+00:00",
-   "ingested": "2026-10-10T19:20:42.259949+00:00",
-   "headline": "Trump: suggests they appoint a new leader to facilitate a deal",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800137,
-   "ts": "2026-10-10T16:44:21+00:00",
-   "ingested": "2026-10-10T19:20:42.259961+00:00",
-   "headline": "Trump: Zelenskiy had better stop immediately",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800136,
-   "ts": "2026-10-10T16:44:06+00:00",
-   "ingested": "2026-10-10T19:20:42.259974+00:00",
-   "headline": "Trump: Zelenskiy can do whatever he wants but must avoid hitting refineries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800135,
-   "ts": "2026-10-10T16:43:29+00:00",
-   "ingested": "2026-10-10T19:20:42.259986+00:00",
-   "headline": "Trump: Zelenskiy might have resolved war multiple times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800134,
-   "ts": "2026-10-10T16:35:33+00:00",
-   "ingested": "2026-10-10T19:20:42.260001+00:00",
-   "headline": "Operations at King Khalid International Airport in Riyadh temporarily paused: Saudi Civil Aviation Authority",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800133,
-   "ts": "2026-10-10T16:34:59+00:00",
-   "ingested": "2026-10-10T19:20:42.260014+00:00",
-   "headline": "Saturday attack on Riyadh airport causes several injuries: Saudi civil aviation authority",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800132,
-   "ts": "2026-10-10T16:34:14+00:00",
-   "ingested": "2026-10-10T19:20:42.260028+00:00",
-   "headline": "King Khalid International Airport in Riyadh attacked on Saturday: Saudi civil aviation authority",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800123,
-   "ts": "2026-10-10T16:09:54+00:00",
-   "ingested": "2026-10-10T19:20:42.260042+00:00",
-   "headline": "Uae National Guard: coast guard rescues 22 after fire erupts on oil tanker in Gulf",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800122,
-   "ts": "2026-10-10T16:07:31+00:00",
-   "ingested": "2026-10-10T19:20:42.260057+00:00",
-   "headline": "US embassy in Riyadh: aware of assault on King Khalid International Airport in Riyadh on October 10",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800121,
-   "ts": "2026-10-10T16:07:18+00:00",
-   "ingested": "2026-10-10T19:20:42.260071+00:00",
-   "headline": "US embassy in Riyadh: urges all US citizens to avoid King Khalid International Airport and nearby areas",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800120,
-   "ts": "2026-10-10T16:05:13+00:00",
-   "ingested": "2026-10-10T19:20:42.260087+00:00",
-   "headline": "UK embassy in Riyadh advises British nationals to avoid King Khalid International Airport after 'serious incident' - advisory note",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800112,
-   "ts": "2026-10-10T15:51:09+00:00",
-   "ingested": "2026-10-10T19:20:42.260129+00:00",
-   "headline": "Russian defence ministry: strikes data-processing centre in Kyiv and cargo ship transporting military supplies to Odesa",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9800108,
-   "ts": "2026-10-10T15:20:45+00:00",
-   "ingested": "2026-10-10T19:20:42.260144+00:00",
-   "headline": "Eyewitnesses at Riyadh airport: several injured following blast earlier today",
    "channel": "rss",
    "source": "financialjuice"
   }
