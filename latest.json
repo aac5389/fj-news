@@ -1,7 +1,591 @@
 {
- "updated": "2026-10-15T12:03:07.139945+00:00",
+ "updated": "2026-10-15T16:53:00.996699+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9807410,
+   "ts": "2026-10-15T16:45:48+00:00",
+   "ingested": "2026-10-15T16:53:00.995001+00:00",
+   "headline": "Germany and France reach a deal to preserve the EU car industry - AFP.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807377,
+   "ts": "2026-10-15T16:15:18+00:00",
+   "ingested": "2026-10-15T16:53:00.995026+00:00",
+   "headline": "Microsoft completed pre-training on Model MAI-Base-2. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807375,
+   "ts": "2026-10-15T16:09:29+00:00",
+   "ingested": "2026-10-15T16:53:00.995048+00:00",
+   "headline": "Japan MoF Official: Policymakers did confirm the need for vigilance and avoiding leaving any seed of a financial system crisis unattended.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807374,
+   "ts": "2026-10-15T16:07:29+00:00",
+   "ingested": "2026-10-15T16:53:00.995073+00:00",
+   "headline": "Japan MoF Official: There were no concerns voiced at the G7 & G20 about the risk of financial system instability from the AI sell-off, more important is fact global economy has shown resilience to various shocks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807373,
+   "ts": "2026-10-15T16:05:27+00:00",
+   "ingested": "2026-10-15T16:53:00.995091+00:00",
+   "headline": "Japan MoF Official: We're always monitoring market moves carefully, we won't comment on each stock, forex, and bond market move.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807372,
+   "ts": "2026-10-15T16:03:48+00:00",
+   "ingested": "2026-10-15T16:53:00.995119+00:00",
+   "headline": "UK Finance Minister Healey poised to raise taxes on banks in budget - The Guardian.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807366,
+   "ts": "2026-10-15T16:01:37+00:00",
+   "ingested": "2026-10-15T16:53:00.995160+00:00",
+   "headline": "US 30-year fixed-rate mortgage averages 7.40 pct in the October 15th week vs 7.4% prior week - Freddie Mac.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807349,
+   "ts": "2026-10-15T16:01:13+00:00",
+   "ingested": "2026-10-15T16:53:00.995188+00:00",
+   "headline": "EIA Crude Cushing Inventories  Actual 1.862M (Forecast -, Previous 0.444M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807348,
+   "ts": "2026-10-15T16:00:02+00:00",
+   "ingested": "2026-10-15T16:53:00.995213+00:00",
+   "headline": "EIA Distillate Inventories Actual -2.527M (Forecast -1.72M, Previous -0.042M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807347,
+   "ts": "2026-10-15T16:00:02+00:00",
+   "ingested": "2026-10-15T16:53:00.995237+00:00",
+   "headline": "EIA Gasoline Inventories Actual 3.518M (Forecast -0.911M, Previous 0.382M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807346,
+   "ts": "2026-10-15T16:00:02+00:00",
+   "ingested": "2026-10-15T16:53:00.995266+00:00",
+   "headline": "EIA Crude Oil Inventories Actual -8.557M (Forecast 0.15M, Previous -3.186M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807327,
+   "ts": "2026-10-15T15:32:52+00:00",
+   "ingested": "2026-10-15T16:53:00.995282+00:00",
+   "headline": "US 4-Week Bill Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807326,
+   "ts": "2026-10-15T15:32:04+00:00",
+   "ingested": "2026-10-15T16:53:00.995298+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.56 (Forecast -, Previous 2.400)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807325,
+   "ts": "2026-10-15T15:32:03+00:00",
+   "ingested": "2026-10-15T16:53:00.995311+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 4% (Forecast -, Previous 3.980%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807308,
+   "ts": "2026-10-15T15:25:22+00:00",
+   "ingested": "2026-10-15T16:53:00.995325+00:00",
+   "headline": "ECB Officials get impatient for Lagarde to clear up her plans",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807291,
+   "ts": "2026-10-15T15:10:03+00:00",
+   "ingested": "2026-10-15T16:53:00.995343+00:00",
+   "headline": "Nvidia CEO Huang: No Need to Backstop CoreWeave $NVDA $CRWV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807290,
+   "ts": "2026-10-15T15:05:21+00:00",
+   "ingested": "2026-10-15T16:53:00.995357+00:00",
+   "headline": "Nvidia Releases Nemotron 3.5 Super VL, a 120-Billion-Parameter Open Agentic AI Model $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807289,
+   "ts": "2026-10-15T15:01:48+00:00",
+   "ingested": "2026-10-15T16:53:00.995377+00:00",
+   "headline": "Yemen's Houthis: The strike on 'Saudi Military operations HQ\u2019 in Aden was part of a policy of targeting Saudi reinforcements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807280,
+   "ts": "2026-10-15T15:00:54+00:00",
+   "ingested": "2026-10-15T16:53:00.995389+00:00",
+   "headline": "US Treasury Auction Schedule",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807276,
+   "ts": "2026-10-15T14:58:35+00:00",
+   "ingested": "2026-10-15T16:53:00.995401+00:00",
+   "headline": "Saudi Arabia: Danger has passed in Najran.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807275,
+   "ts": "2026-10-15T14:56:51+00:00",
+   "ingested": "2026-10-15T16:53:00.995415+00:00",
+   "headline": "Saudi Arabia issues early warning alert for potential threat in Najran - Civil Defense.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807274,
+   "ts": "2026-10-15T14:51:11+00:00",
+   "ingested": "2026-10-15T16:53:00.995434+00:00",
+   "headline": "German Government to collaborate with NVIDIA on AI - Handelsblatt. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807273,
+   "ts": "2026-10-15T14:47:12+00:00",
+   "ingested": "2026-10-15T16:53:00.995448+00:00",
+   "headline": "Tasnim News citing AFP: Yemen rejected Saudi Arabia's request for talks in Oman.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807229,
+   "ts": "2026-10-15T14:30:30+00:00",
+   "ingested": "2026-10-15T16:53:00.995461+00:00",
+   "headline": "EU begins assessing additional sectors for China trade quotas.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807225,
+   "ts": "2026-10-15T14:30:01+00:00",
+   "ingested": "2026-10-15T16:53:00.995474+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 67B (Forecast 74B, Previous 85B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807224,
+   "ts": "2026-10-15T14:27:41+00:00",
+   "ingested": "2026-10-15T16:53:00.995493+00:00",
+   "headline": "Houthis fire several missiles at the Presidential Palace complex in Yemen's Aden - Two Government Officials.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807223,
+   "ts": "2026-10-15T14:18:13+00:00",
+   "ingested": "2026-10-15T16:53:00.995506+00:00",
+   "headline": "Crypto Fear and Greed Index: 53/100 = Neutral",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807222,
+   "ts": "2026-10-15T14:17:36+00:00",
+   "ingested": "2026-10-15T16:53:00.995518+00:00",
+   "headline": "Fear and Greed Index: 23/100 = Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807204,
+   "ts": "2026-10-15T14:04:11+00:00",
+   "ingested": "2026-10-15T16:53:00.995532+00:00",
+   "headline": "Yemen's Houthis renew warning to airlines that Saudi airspace and airports are unsafe.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807203,
+   "ts": "2026-10-15T14:04:01+00:00",
+   "ingested": "2026-10-15T16:53:00.995546+00:00",
+   "headline": "Four booms heard in vicinity of the Presidential Palace in Yemen's Aden - Three Witnesses.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807180,
+   "ts": "2026-10-15T14:01:10+00:00",
+   "ingested": "2026-10-15T16:53:00.995561+00:00",
+   "headline": "US Business Inventories MoM Actual 0.4% (Forecast 0.4%, Previous 0.8%, Revised 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807172,
+   "ts": "2026-10-15T13:44:24+00:00",
+   "ingested": "2026-10-15T16:53:00.995575+00:00",
+   "headline": "IEA Governing Board: Accelerated IEA release includes over 20 million barrels of diesel as soon as possible.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807171,
+   "ts": "2026-10-15T13:44:10+00:00",
+   "ingested": "2026-10-15T16:53:00.995592+00:00",
+   "headline": "IEA Governing Board encouraged those IEA members holding oil production and refining capacities to boost the supply of crude and refined products, particularly diesel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807170,
+   "ts": "2026-10-15T13:43:45+00:00",
+   "ingested": "2026-10-15T16:53:00.995605+00:00",
+   "headline": "IEA Governing Board agreed to accelerate the release of the remaining volumes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807169,
+   "ts": "2026-10-15T13:43:21+00:00",
+   "ingested": "2026-10-15T16:53:00.995621+00:00",
+   "headline": "IEA Governing Board reaffirmed commitment to continue delivering on the March 2026 collective action in response to the Strait of Hormuz crisis.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807168,
+   "ts": "2026-10-15T13:43:06+00:00",
+   "ingested": "2026-10-15T16:53:00.995638+00:00",
+   "headline": "IEA's Governing Board: Approximately 330 million barrels have so far been released.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807167,
+   "ts": "2026-10-15T13:42:29+00:00",
+   "ingested": "2026-10-15T16:53:00.995651+00:00",
+   "headline": "IEA Nations are willing to take further action in the global markets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807166,
+   "ts": "2026-10-15T13:42:02+00:00",
+   "ingested": "2026-10-15T16:53:00.995665+00:00",
+   "headline": "IEA: The oil release announced in March is going to exceed 400 mln barrels.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807165,
+   "ts": "2026-10-15T13:40:26+00:00",
+   "ingested": "2026-10-15T16:53:00.995695+00:00",
+   "headline": "IEA seeks to release 20m bbl of diesel as soon as possible.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807164,
+   "ts": "2026-10-15T13:40:05+00:00",
+   "ingested": "2026-10-15T16:53:00.995717+00:00",
+   "headline": "IEA agrees to complete the release of the outstanding 100m bbl of oil.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807143,
+   "ts": "2026-10-15T13:26:58+00:00",
+   "ingested": "2026-10-15T16:53:00.995735+00:00",
+   "headline": "Chinese State Trader buys another 10-13 US soybean cargoes Wednesday night for December-March shipment - Traders.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807142,
+   "ts": "2026-10-15T13:21:46+00:00",
+   "ingested": "2026-10-15T16:53:00.995750+00:00",
+   "headline": "Saudi-Led Coalition: There were 20 Houthi attacks on Riyadh Airport in October that resulted in 17 fatalities.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807141,
+   "ts": "2026-10-15T13:19:58+00:00",
+   "ingested": "2026-10-15T16:53:00.995763+00:00",
+   "headline": "US Sentiment: Hot Inflation + Drop in Yields, Haven Demand Strengthens - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807125,
+   "ts": "2026-10-15T13:15:54+00:00",
+   "ingested": "2026-10-15T16:53:00.995778+00:00",
+   "headline": "Saudi-led Coalition: Yemen's Houthis attempted to attack dozens of airports, oil facilities and ports in Saudi Arabia.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807124,
+   "ts": "2026-10-15T13:15:45+00:00",
+   "ingested": "2026-10-15T16:53:00.995791+00:00",
+   "headline": "Saudi-led coalition: Houthis have acquired advanced weaponry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807121,
+   "ts": "2026-10-15T13:08:55+00:00",
+   "ingested": "2026-10-15T16:53:00.995803+00:00",
+   "headline": "WEF could appoint Lagarde next chair as early as November.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807104,
+   "ts": "2026-10-15T12:59:56+00:00",
+   "ingested": "2026-10-15T16:53:00.995817+00:00",
+   "headline": "Effective fed funds rate 3.88% October 14th vs 3.88% October 13th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807103,
+   "ts": "2026-10-15T12:51:59+00:00",
+   "ingested": "2026-10-15T16:53:00.995833+00:00",
+   "headline": "France is starting to put into action operational elements of the agreement to help protect Saudi Arabian oil facilities - Foreign Ministry Spokesperson.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807102,
+   "ts": "2026-10-15T12:50:39+00:00",
+   "ingested": "2026-10-15T16:53:00.995849+00:00",
+   "headline": "UK 30-year gilt yield on track for biggest daily fall since April, down 13 bps to 5.781% amid global rally",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807076,
+   "ts": "2026-10-15T12:43:23+00:00",
+   "ingested": "2026-10-15T16:53:00.995864+00:00",
+   "headline": "US Treasury dismisses IMF debt warning and \u2018messy\u2019 forecasting - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807075,
+   "ts": "2026-10-15T12:41:33+00:00",
+   "ingested": "2026-10-15T16:53:00.995878+00:00",
+   "headline": "Japan's Fin. Min. Katayama: G7 agreed to do tabletop exercise on AI incidents.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807074,
+   "ts": "2026-10-15T12:41:30+00:00",
+   "ingested": "2026-10-15T16:53:00.995893+00:00",
+   "headline": "Iran's army navy: A 'violating' oil tanker is on fire in the eastern part of the Strait of Hormuz - State media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807072,
+   "ts": "2026-10-15T12:37:59+00:00",
+   "ingested": "2026-10-15T16:53:00.995907+00:00",
+   "headline": "US Retail Sales YoY Actual 6.29% (Forecast -, Previous 6.01% ,Revision 5.36%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807073,
+   "ts": "2026-10-15T12:37:38+00:00",
+   "ingested": "2026-10-15T16:53:00.995920+00:00",
+   "headline": "Japan's Fin. Min. Katayama to G20: We need to monitor mkt moves with high urgency.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807071,
+   "ts": "2026-10-15T12:36:36+00:00",
+   "ingested": "2026-10-15T16:53:00.995933+00:00",
+   "headline": "Japan's Fin. Min. Katayama: G20 reaffirmed past commitments on foreign exchange",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807027,
+   "ts": "2026-10-15T12:31:10+00:00",
+   "ingested": "2026-10-15T16:53:00.995951+00:00",
+   "headline": "Canadian Manufacturing Sales MoM Actual 1.5% (Forecast 1.1%, Previous -0.4%, Revised -0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807032,
+   "ts": "2026-10-15T12:30:05+00:00",
+   "ingested": "2026-10-15T16:53:00.995965+00:00",
+   "headline": "US Core PPI YoY Actual 5% (Forecast 4.4%, Previous 4.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807031,
+   "ts": "2026-10-15T12:30:05+00:00",
+   "ingested": "2026-10-15T16:53:00.995979+00:00",
+   "headline": "US Philly Fed Business Index Actual 20.9 (Forecast 28, Previous 37.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807030,
+   "ts": "2026-10-15T12:30:05+00:00",
+   "ingested": "2026-10-15T16:53:00.995992+00:00",
+   "headline": "US Core PPI MoM Actual 0.7% (Forecast 0.3%, Previous 0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807029,
+   "ts": "2026-10-15T12:30:04+00:00",
+   "ingested": "2026-10-15T16:53:00.996005+00:00",
+   "headline": "US PPI MoM Actual 1.3% (Forecast 0.6%, Previous 0.4%, Revised 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807028,
+   "ts": "2026-10-15T12:30:04+00:00",
+   "ingested": "2026-10-15T16:53:00.996018+00:00",
+   "headline": "US PPI YoY Actual 6.3% (Forecast 5.4%, Previous 5.4%, Revised 5.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807026,
+   "ts": "2026-10-15T12:30:03+00:00",
+   "ingested": "2026-10-15T16:53:00.996032+00:00",
+   "headline": "Canadian Wholesale Sales MoM Actual -1.6% (Forecast -1.5%, Previous 0.3%, Revised 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807025,
+   "ts": "2026-10-15T12:30:02+00:00",
+   "ingested": "2026-10-15T16:53:00.996046+00:00",
+   "headline": "US Continued Jobless Claims Actual 1.71M (Forecast 1.709M, Previous 1.716M, Revised 1.714M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807024,
+   "ts": "2026-10-15T12:30:02+00:00",
+   "ingested": "2026-10-15T16:53:00.996059+00:00",
+   "headline": "US Initial Jobless Claims Actual 199k (Forecast 200k, Previous 197k, Revised 198k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807023,
+   "ts": "2026-10-15T12:30:01+00:00",
+   "ingested": "2026-10-15T16:53:00.996073+00:00",
+   "headline": "US Core Retail Sales MoM Actual 0.9% (Forecast 0.5%, Previous 1.4%, Revised 1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807022,
+   "ts": "2026-10-15T12:30:01+00:00",
+   "ingested": "2026-10-15T16:53:00.996086+00:00",
+   "headline": "US Retail Sales MoM Actual 0.8% (Forecast 0.3%, Previous 1.2%, Revised 1.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807021,
+   "ts": "2026-10-15T12:30:00+00:00",
+   "ingested": "2026-10-15T16:53:00.996099+00:00",
+   "headline": "NY Fed Manufacturing Actual 25.5 (Forecast 12, Previous 7.60)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807020,
+   "ts": "2026-10-15T12:24:02+00:00",
+   "ingested": "2026-10-15T16:53:00.996117+00:00",
+   "headline": "US tells IEA nations it\u2019s unhappy with emergency oil release, and has suggested supplementing oil release with extra 100mln bbl.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807008,
+   "ts": "2026-10-15T12:07:11+00:00",
+   "ingested": "2026-10-15T16:53:00.996129+00:00",
+   "headline": "China's MoF Lan: Protectionism, geopolitical risks hit growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807007,
+   "ts": "2026-10-15T12:06:53+00:00",
+   "ingested": "2026-10-15T16:53:00.996142+00:00",
+   "headline": "China's MoF Lan: The Chinese economy continues stable, positive trend.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807006,
+   "ts": "2026-10-15T12:05:41+00:00",
+   "ingested": "2026-10-15T16:53:00.996155+00:00",
+   "headline": "China's Lan: China to implement more active fiscal policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807005,
+   "ts": "2026-10-15T12:04:43+00:00",
+   "ingested": "2026-10-15T16:53:00.996170+00:00",
+   "headline": "Poll: The UK Government's current fiscal headroom likely eroded to \u00a310-12 billion.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9807004,
+   "ts": "2026-10-15T12:04:40+00:00",
+   "ingested": "2026-10-15T16:53:00.996184+00:00",
+   "headline": "Poll: UK government should target headroom of \u00a315-16 billion in October budget",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9806980,
    "ts": "2026-10-15T12:00:13+00:00",
@@ -3415,590 +3999,6 @@
    "ts": "2026-10-14T02:39:45+00:00",
    "ingested": "2026-10-14T06:46:32.549295+00:00",
    "headline": "China Jan-Sep copper concentrates imports at 21.97 million tonnes vs 22.64 million tonnes a year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804318,
-   "ts": "2026-10-14T02:39:45+00:00",
-   "ingested": "2026-10-14T06:46:32.549303+00:00",
-   "headline": "China jan-sep rare earth shipments 43,711.2 tonnes vs 48,355.6 tonnes year earlier: Customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804317,
-   "ts": "2026-10-14T02:39:44+00:00",
-   "ingested": "2026-10-14T06:46:32.549311+00:00",
-   "headline": "China September natural gas imports 10.86 million tonnes vs 10.33 million tonnes in August: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804316,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549319+00:00",
-   "headline": "China September oil product imports 1.85 million tonnes vs 2.25 million tonnes in August: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804315,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549328+00:00",
-   "headline": "China jan-sep unwrought copper and copper products imports total 3.758 million tonnes, down from 4.018 million tonnes a year earlier - customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804314,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549336+00:00",
-   "headline": "China september unwrought copper and copper products imports 461,000 tonnes, vs 382,000 tonnes in august: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804313,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549344+00:00",
-   "headline": "China Jan-Sep oil product imports 24 million tonnes vs 30.68 million tonnes year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804312,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549352+00:00",
-   "headline": "China jan-sep crude oil shipments 357.97 million tonnes vs 422.61 million tonnes year earlier - customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804311,
-   "ts": "2026-10-14T02:39:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549360+00:00",
-   "headline": "China September crude oil imports 37.10 million tonnes vs 37.93 million tonnes in August: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804310,
-   "ts": "2026-10-14T02:37:27+00:00",
-   "ingested": "2026-10-14T06:46:32.549370+00:00",
-   "headline": "China customs vice minister: country\u2019s integrated supply chains and technological innovation capabilities bolster global computing and power demand growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804309,
-   "ts": "2026-10-14T02:32:42+00:00",
-   "ingested": "2026-10-14T06:46:32.549377+00:00",
-   "headline": "China September trade surplus with United States $34.01 billion, customs data show",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804308,
-   "ts": "2026-10-14T02:31:32+00:00",
-   "ingested": "2026-10-14T06:46:32.549385+00:00",
-   "headline": "China customs vice minister: stable economic operations, expanding advanced manufacturing and strong demand for key components drive growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804307,
-   "ts": "2026-10-14T02:31:27+00:00",
-   "ingested": "2026-10-14T06:46:32.549393+00:00",
-   "headline": "China\u2019s September trade surplus at 905.97 billion yuan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804296,
-   "ts": "2026-10-14T02:31:13+00:00",
-   "ingested": "2026-10-14T06:46:32.549400+00:00",
-   "headline": "China sept trade surplus $133.53 bln beats poll estimate of $118.1 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804293,
-   "ts": "2026-10-14T02:30:55+00:00",
-   "ingested": "2026-10-14T06:46:32.549408+00:00",
-   "headline": "China Sept dollar-denominated exports jump 36.3% y/y, beats poll of 25.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804289,
-   "ts": "2026-10-14T02:29:55+00:00",
-   "ingested": "2026-10-14T06:46:32.549416+00:00",
-   "headline": "China customs vice minister: China\u2019s imports have climbed more than 20% monthly since March",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804288,
-   "ts": "2026-10-14T02:29:55+00:00",
-   "ingested": "2026-10-14T06:46:32.549424+00:00",
-   "headline": "ECB\u2019s president Lagarde: will not contest French presidency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804287,
-   "ts": "2026-10-14T02:25:10+00:00",
-   "ingested": "2026-10-14T06:46:32.549432+00:00",
-   "headline": "ECB President Lagarde: Growth isn\u2019t strong, but 1.1% expansion in 2026 isn\u2019t bad",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804286,
-   "ts": "2026-10-14T02:24:18+00:00",
-   "ingested": "2026-10-14T06:46:32.549439+00:00",
-   "headline": "China customs vice minister: current exports outlook for Q4 remains unchanged",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804285,
-   "ts": "2026-10-14T02:23:36+00:00",
-   "ingested": "2026-10-14T06:46:32.549447+00:00",
-   "headline": "ECB\u2019s President Lagarde: primary and initial solution to French debt resides in French fiscal policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804284,
-   "ts": "2026-10-14T02:20:17+00:00",
-   "ingested": "2026-10-14T06:46:32.549456+00:00",
-   "headline": "ECB President Lagarde: in Europe there is anticipation of wage hikes through collective bargaining, we are monitoring those signals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804283,
-   "ts": "2026-10-14T02:19:43+00:00",
-   "ingested": "2026-10-14T06:46:32.549464+00:00",
-   "headline": "ECB President Lagarde: we can\u2019t wait until signs are obvious but can anticipate, look for clues",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804282,
-   "ts": "2026-10-14T02:19:23+00:00",
-   "ingested": "2026-10-14T06:46:32.549471+00:00",
-   "headline": "China Sept yuan-denominated exports rise 29.6% y/y",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804281,
-   "ts": "2026-10-14T02:19:23+00:00",
-   "ingested": "2026-10-14T06:46:32.549478+00:00",
-   "headline": "China jan-sept yuan-denominated imports rise 22.3% y/y: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804280,
-   "ts": "2026-10-14T02:19:23+00:00",
-   "ingested": "2026-10-14T06:46:32.549485+00:00",
-   "headline": "China customs vice minister: China's foreign trade maintains strong growth momentum",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804279,
-   "ts": "2026-10-14T02:19:21+00:00",
-   "ingested": "2026-10-14T06:46:32.549491+00:00",
-   "headline": "ECB President Lagarde: no second-round effects visible yet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804278,
-   "ts": "2026-10-14T02:19:21+00:00",
-   "ingested": "2026-10-14T06:46:32.549499+00:00",
-   "headline": "China customs vice minister: global uncertainties persist for full-year trade, including geopolitical conflicts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804277,
-   "ts": "2026-10-14T02:19:21+00:00",
-   "ingested": "2026-10-14T06:46:32.549507+00:00",
-   "headline": "China customs vice minister: China's import and export steady expansion rooted in Q4",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804148,
-   "ts": "2026-10-14T01:40:04+00:00",
-   "ingested": "2026-10-14T01:50:05.690435+00:00",
-   "headline": "S.Korea central bank says sells 2-year monetary stabilisation bonds at 3.860% yield",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804147,
-   "ts": "2026-10-14T01:39:45+00:00",
-   "ingested": "2026-10-14T01:50:05.690460+00:00",
-   "headline": "Japan foreign minister: Japan seeks fair treatment of detained nationals by Russian authorities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804146,
-   "ts": "2026-10-14T01:38:37+00:00",
-   "ingested": "2026-10-14T01:50:05.690480+00:00",
-   "headline": "Japan foreign minister: Japanese embassy in Russia seeking details from Russian authorities on detained Japanese citizen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804132,
-   "ts": "2026-10-14T01:31:21+00:00",
-   "ingested": "2026-10-14T01:50:05.690497+00:00",
-   "headline": "Chinese CPI MoM Actual 0.2% (Forecast -, Previous 0.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804127,
-   "ts": "2026-10-14T01:31:18+00:00",
-   "ingested": "2026-10-14T01:50:05.690513+00:00",
-   "headline": "Chinese CPI YoY Actual 0.9% (Forecast 1%, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804126,
-   "ts": "2026-10-14T01:31:18+00:00",
-   "ingested": "2026-10-14T01:50:05.690528+00:00",
-   "headline": "Chinese PPI YoY Actual 5.0% (Forecast 4.4%, Previous 3.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804139,
-   "ts": "2026-10-14T01:30:38+00:00",
-   "ingested": "2026-10-14T01:50:05.690542+00:00",
-   "headline": "China Sept PPI rises 5% y/y, exceeds poll of 4.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804138,
-   "ts": "2026-10-14T01:30:32+00:00",
-   "ingested": "2026-10-14T01:50:05.690556+00:00",
-   "headline": "China September CPI rises 0.2% month on month, below 0.3% forecast",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804134,
-   "ts": "2026-10-14T01:30:28+00:00",
-   "ingested": "2026-10-14T01:50:05.690570+00:00",
-   "headline": "China Sept CPI rises 0.9% y/y, below poll of 1.0%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804131,
-   "ts": "2026-10-14T01:30:20+00:00",
-   "ingested": "2026-10-14T01:50:05.690585+00:00",
-   "headline": "China reports September food CPI down 1.7% year on year; non-food CPI up 1.5%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804130,
-   "ts": "2026-10-14T01:30:20+00:00",
-   "ingested": "2026-10-14T01:50:05.690599+00:00",
-   "headline": "China September CPI rises 0.2% month-on-month, misses poll of 0.3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804129,
-   "ts": "2026-10-14T01:30:18+00:00",
-   "ingested": "2026-10-14T01:50:05.690613+00:00",
-   "headline": "China September CPI rises 0.9% year on year, poll predicted 1.0%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804128,
-   "ts": "2026-10-14T01:30:18+00:00",
-   "ingested": "2026-10-14T01:50:05.690626+00:00",
-   "headline": "China September producer prices rise 1.2% month on month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804125,
-   "ts": "2026-10-14T01:21:46+00:00",
-   "ingested": "2026-10-14T01:50:05.690642+00:00",
-   "headline": "China central bank pumps 56 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804124,
-   "ts": "2026-10-14T01:19:34+00:00",
-   "ingested": "2026-10-14T01:50:05.690656+00:00",
-   "headline": "Ukraine drone strike kills one in Balakovo, Saratov region, governor says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804123,
-   "ts": "2026-10-14T01:17:37+00:00",
-   "ingested": "2026-10-14T01:50:05.690670+00:00",
-   "headline": "China fixes yuan midpoint at strongest level since Feb. 2, 2023",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804102,
-   "ts": "2026-10-14T00:46:39+00:00",
-   "ingested": "2026-10-14T01:50:05.690684+00:00",
-   "headline": "Trump: Taiwan agrees to purchase 30% of gas from Alaska pipeline",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804082,
-   "ts": "2026-10-14T00:23:41+00:00",
-   "ingested": "2026-10-14T01:50:05.690698+00:00",
-   "headline": "China PBOC poised to fix yuan midpoint at 6.6922 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804055,
-   "ts": "2026-10-13T23:55:52+00:00",
-   "ingested": "2026-10-14T01:50:05.690717+00:00",
-   "headline": "Microsoft spokesperson: Azure leadership hasn\u2019t instructed teams to create cost-reduction strategies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804027,
-   "ts": "2026-10-13T23:12:51+00:00",
-   "ingested": "2026-10-14T01:50:05.690732+00:00",
-   "headline": "China's PLA navy: routine drill in annual plan targets boosting troops\u2019 combat readiness",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9804026,
-   "ts": "2026-10-13T23:12:17+00:00",
-   "ingested": "2026-10-14T01:50:05.690748+00:00",
-   "headline": "China\u2019s PLA navy forms Liaoning aircraft carrier strike group for training exercises in western Pacific waters: CCTV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803984,
-   "ts": "2026-10-13T22:13:50+00:00",
-   "ingested": "2026-10-13T23:01:43.019601+00:00",
-   "headline": "Saudi-led coalition: missile intercepted and destroyed in Al-Kharj",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803983,
-   "ts": "2026-10-13T22:08:25+00:00",
-   "ingested": "2026-10-13T23:01:43.019618+00:00",
-   "headline": "OpenAI in early discussions to buy security startup Trail of Bits: The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803982,
-   "ts": "2026-10-13T22:03:37+00:00",
-   "ingested": "2026-10-13T23:01:43.019628+00:00",
-   "headline": "Google Play launches personalized app creation through AI studio for users 18+ in select markets",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803971,
-   "ts": "2026-10-13T22:00:48+00:00",
-   "ingested": "2026-10-13T23:01:43.019638+00:00",
-   "headline": "State Department: Secretary of State Marco Rubio to visit Samarkand, Uzbekistan; Mumbai and Jamnagar, India from October 17-22",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803969,
-   "ts": "2026-10-13T21:50:40+00:00",
-   "ingested": "2026-10-13T23:01:43.019647+00:00",
-   "headline": "Saudi civil defense: debris from intercepted Houthi missiles causes minor damage to 15 homes in Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803968,
-   "ts": "2026-10-13T21:48:53+00:00",
-   "ingested": "2026-10-13T23:01:43.019655+00:00",
-   "headline": "Saudi civil defense: four injured in Riyadh after debris from two intercepted missiles falls",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803943,
-   "ts": "2026-10-13T21:46:04+00:00",
-   "ingested": "2026-10-13T23:01:43.019664+00:00",
-   "headline": "New Zealand External Migration & Visitors Actual 8.0% (Forecast -, Previous 8.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803945,
-   "ts": "2026-10-13T21:45:03+00:00",
-   "ingested": "2026-10-13T23:01:43.019672+00:00",
-   "headline": "New Zealand net migration surplus rises 1,530 in August",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803944,
-   "ts": "2026-10-13T21:45:03+00:00",
-   "ingested": "2026-10-13T23:01:43.019679+00:00",
-   "headline": "NZ short-term visitors rise 8% in August compared with year earlier",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803942,
-   "ts": "2026-10-13T21:45:00+00:00",
-   "ingested": "2026-10-13T23:01:43.019686+00:00",
-   "headline": "New Zealand Visitor Arrivals Actual 1530 (Forecast -, Previous 3,010)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803938,
-   "ts": "2026-10-13T21:34:18+00:00",
-   "ingested": "2026-10-13T23:01:43.019695+00:00",
-   "headline": "Attack on Saudi Aramco building causes limited fire, no casualties: state news agency citing energy ministry official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803937,
-   "ts": "2026-10-13T21:33:06+00:00",
-   "ingested": "2026-10-13T23:01:43.019702+00:00",
-   "headline": "Aramco facility in Saudi eastern city of Dhahran targeted on Tuesday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803910,
-   "ts": "2026-10-13T21:01:30+00:00",
-   "ingested": "2026-10-13T23:01:43.019710+00:00",
-   "headline": "Foreign ministers of Iran and Oman discuss Yemen situation in phone call - Telegram post",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803887,
-   "ts": "2026-10-13T20:44:46+00:00",
-   "ingested": "2026-10-13T23:01:43.019717+00:00",
-   "headline": "Fed's Collins: Fed is not rethinking the 2% inflation target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803886,
-   "ts": "2026-10-13T20:44:03+00:00",
-   "ingested": "2026-10-13T23:01:43.019724+00:00",
-   "headline": "Fed's Collins: Fed economic models are mindful of government debt levels.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803885,
-   "ts": "2026-10-13T20:42:43+00:00",
-   "ingested": "2026-10-13T23:01:43.019733+00:00",
-   "headline": "US Justice Department says a Saudi national was arrested for installing a surreptitious audio recording device at a San Francisco Super Intelligence Company",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803884,
-   "ts": "2026-10-13T20:42:12+00:00",
-   "ingested": "2026-10-13T23:01:43.019742+00:00",
-   "headline": "US CENTCOM: Yesterday, US forces assisted Gulf partners in shipping more than 19 million barrels of crude oil through the strait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803883,
-   "ts": "2026-10-13T20:40:03+00:00",
-   "ingested": "2026-10-13T23:01:43.019750+00:00",
-   "headline": "Aramco's headquarters evacuated following missile attacks from Yemen - Iranian Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803882,
-   "ts": "2026-10-13T20:39:11+00:00",
-   "ingested": "2026-10-13T23:01:43.019758+00:00",
-   "headline": "Israel, the United States, and the Gulf states are coordinating and preparing for a variety of scenarios - Israel's N12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803881,
-   "ts": "2026-10-13T20:38:53+00:00",
-   "ingested": "2026-10-13T23:01:43.019767+00:00",
-   "headline": "There is no intelligence change that justifies an Israeli-American move in the coming weeks - Israel's N12 News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803880,
-   "ts": "2026-10-13T20:38:38+00:00",
-   "ingested": "2026-10-13T23:01:43.019775+00:00",
-   "headline": "According to the army, this is a slow and only partial restoration of the missile array at this time - Israel's N12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803878,
-   "ts": "2026-10-13T20:37:52+00:00",
-   "ingested": "2026-10-13T23:01:43.019783+00:00",
-   "headline": "Iran has conducted a series of ballistic missile firing tests in recent days - Israel N12 News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803877,
-   "ts": "2026-10-13T20:34:19+00:00",
-   "ingested": "2026-10-13T23:01:43.019790+00:00",
-   "headline": "Fed's Collins: Officials are well aware that higher rates can create challenges",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803876,
-   "ts": "2026-10-13T20:32:14+00:00",
-   "ingested": "2026-10-13T23:01:43.019797+00:00",
-   "headline": "Aramco headquarters in Dhahran hit during Houthi attacks on Tuesday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9803865,
-   "ts": "2026-10-13T20:25:58+00:00",
-   "ingested": "2026-10-13T23:01:43.019804+00:00",
-   "headline": "Fed's Collins: Economic uncertainty is elevated",
    "channel": "rss",
    "source": "financialjuice"
   }
