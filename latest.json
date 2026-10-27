@@ -1,7 +1,247 @@
 {
- "updated": "2026-10-27T19:34:05.912036+00:00",
+ "updated": "2026-10-27T23:07:00.168454+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9823914,
+   "ts": "2026-10-27T23:02:05+00:00",
+   "ingested": "2026-10-27T23:07:00.167885+00:00",
+   "headline": "Netanyahu-led bloc now matches rival Eisenkot camp: Updated Channel 13 exit poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823902,
+   "ts": "2026-10-27T22:59:35+00:00",
+   "ingested": "2026-10-27T23:07:00.167901+00:00",
+   "headline": "Saudi Arabia issues early warning for possible hostile threat in Jeddah: civil defense",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823884,
+   "ts": "2026-10-27T22:41:35+00:00",
+   "ingested": "2026-10-27T23:07:00.167911+00:00",
+   "headline": "UK's Healey to restore cuts to cash ISA limits - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823869,
+   "ts": "2026-10-27T22:25:27+00:00",
+   "ingested": "2026-10-27T23:07:00.167920+00:00",
+   "headline": "Anthropic: Claude enterprise pursuing FedRAMP moderate approval via FedRAMP 20x program",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823868,
+   "ts": "2026-10-27T22:25:21+00:00",
+   "ingested": "2026-10-27T23:07:00.167929+00:00",
+   "headline": "Anthropic: government agencies can purchase Claude at onegov discount via GSA's multiple award schedule today - website",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823867,
+   "ts": "2026-10-27T22:24:14+00:00",
+   "ingested": "2026-10-27T23:07:00.167937+00:00",
+   "headline": "Anthropic: discount on Claude products broadens to state, local, tribal, territorial governments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823866,
+   "ts": "2026-10-27T22:24:06+00:00",
+   "ingested": "2026-10-27T23:07:00.167945+00:00",
+   "headline": "Anthropic: launching dedicated program to help agencies optimize Claude use",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823865,
+   "ts": "2026-10-27T22:23:37+00:00",
+   "ingested": "2026-10-27T23:07:00.167952+00:00",
+   "headline": "Anthropic expands GSA partnership with 40% markdown on Claude products for government",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823835,
+   "ts": "2026-10-27T21:59:44+00:00",
+   "ingested": "2026-10-27T23:07:00.167965+00:00",
+   "headline": "Enlitic signs three-year $144,000 deal with Southwest Medical Imaging for Ensight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823788,
+   "ts": "2026-10-27T21:02:08+00:00",
+   "ingested": "2026-10-27T23:07:00.167974+00:00",
+   "headline": "Chile's central bank: council will closely monitor signs of increased shock transmission or persistence in inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823787,
+   "ts": "2026-10-27T21:01:43+00:00",
+   "ingested": "2026-10-27T23:07:00.167981+00:00",
+   "headline": "IMF: reaches staff-level accord on third review under Argentina's extended fund facility arrangement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823774,
+   "ts": "2026-10-27T21:01:18+00:00",
+   "ingested": "2026-10-27T23:07:00.167994+00:00",
+   "headline": "Chile\u2019s central bank: local economy may regain momentum by 2027, but current weakness could last longer than expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823769,
+   "ts": "2026-10-27T21:00:40+00:00",
+   "ingested": "2026-10-27T23:07:00.168002+00:00",
+   "headline": "Chile's central bank: future interest rate path to be evaluated on meeting-by-meeting basis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823767,
+   "ts": "2026-10-27T20:47:10+00:00",
+   "ingested": "2026-10-27T23:07:00.168010+00:00",
+   "headline": "US API Cushing Stock Change Actual -0.453M (Forecast -, Previous 0.936M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823766,
+   "ts": "2026-10-27T20:46:58+00:00",
+   "ingested": "2026-10-27T23:07:00.168017+00:00",
+   "headline": "US API Distillate Stock Change Actual 0.38M (Forecast -, Previous -2.6M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823765,
+   "ts": "2026-10-27T20:46:44+00:00",
+   "ingested": "2026-10-27T23:07:00.168025+00:00",
+   "headline": "US API Gasoline Stock Change Actual 2.39M (Forecast -, Previous -2.577M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823764,
+   "ts": "2026-10-27T20:46:32+00:00",
+   "ingested": "2026-10-27T23:07:00.168032+00:00",
+   "headline": "US API Crude Stock Change Actual -2.031M (Forecast 0.8M, Previous -4.93M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823752,
+   "ts": "2026-10-27T20:45:37+00:00",
+   "ingested": "2026-10-27T23:07:00.168041+00:00",
+   "headline": "UK's Chancellor Healey prepares to slash household gas bills by \u00a350 - The Telegraph",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823710,
+   "ts": "2026-10-27T20:07:01+00:00",
+   "ingested": "2026-10-27T23:07:00.168053+00:00",
+   "headline": "Israeli Journalist Neira Kraus on X, citing Israeli election projections: Netanyahu is not projected to be Israel\u2019s next prime minister. However, it remains unclear which coalition could be formed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823709,
+   "ts": "2026-10-27T20:06:43+00:00",
+   "ingested": "2026-10-27T23:07:00.168060+00:00",
+   "headline": "$V Visa Q4 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823708,
+   "ts": "2026-10-27T20:05:45+00:00",
+   "ingested": "2026-10-27T23:07:00.168068+00:00",
+   "headline": "Three Israeli exit polls see the Eisenkot Bloc leading, but with no majority.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823706,
+   "ts": "2026-10-27T20:01:57+00:00",
+   "ingested": "2026-10-27T23:07:00.168077+00:00",
+   "headline": "Israel's Channel 12 Poll: The \"Eisenkot Bloc\" is leading with 52 seats, while the \"Netanyahu Bloc\" has 50. The Arab parties received 18 seats.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823703,
+   "ts": "2026-10-27T20:01:41+00:00",
+   "ingested": "2026-10-27T23:07:00.168085+00:00",
+   "headline": "Israel's Prime Minister Netanyahu bloc trails in Israel vote - N12 exit poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823690,
+   "ts": "2026-10-27T20:01:02+00:00",
+   "ingested": "2026-10-27T23:07:00.168094+00:00",
+   "headline": "Netanyahu's Likud Party is to win 24 of 120 seats in the Knesset - Channel 12 Exit Poll.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823689,
+   "ts": "2026-10-27T20:00:29+00:00",
+   "ingested": "2026-10-27T23:07:00.168101+00:00",
+   "headline": "Israel's Prime Minister Netanyahu Likud leads in Israel vote - N12 Exit Poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823686,
+   "ts": "2026-10-27T19:53:49+00:00",
+   "ingested": "2026-10-27T23:07:00.168109+00:00",
+   "headline": "US Interest Rate Prep: Rate Hold is Likely, but what about December? - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823685,
+   "ts": "2026-10-27T19:53:48+00:00",
+   "ingested": "2026-10-27T23:07:00.168115+00:00",
+   "headline": "October FOMC Crib Sheet - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823683,
+   "ts": "2026-10-27T19:49:28+00:00",
+   "ingested": "2026-10-27T23:07:00.168125+00:00",
+   "headline": "Trump reiterates that oil is flowing out of the Hormuz Strait",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823682,
+   "ts": "2026-10-27T19:46:56+00:00",
+   "ingested": "2026-10-27T23:07:00.168132+00:00",
+   "headline": "Trump suggests Venezuela could become a US state",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823658,
+   "ts": "2026-10-27T19:36:52+00:00",
+   "ingested": "2026-10-27T23:07:00.168141+00:00",
+   "headline": "Lockheed Martin wins a $694m US Air Force contract, with the company to produce an air-launched hypersonic missile $LMT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9823657,
    "ts": "2026-10-27T19:32:28+00:00",
@@ -3759,246 +3999,6 @@
    "ts": "2026-10-23T19:51:59+00:00",
    "ingested": "2026-10-23T22:29:17.068256+00:00",
    "headline": "JPY CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819413,
-   "ts": "2026-10-23T19:51:57+00:00",
-   "ingested": "2026-10-23T22:29:17.068268+00:00",
-   "headline": "GBP CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819412,
-   "ts": "2026-10-23T19:51:55+00:00",
-   "ingested": "2026-10-23T22:29:17.068280+00:00",
-   "headline": "CHF CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819411,
-   "ts": "2026-10-23T19:51:54+00:00",
-   "ingested": "2026-10-23T22:29:17.068292+00:00",
-   "headline": "NZD CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819410,
-   "ts": "2026-10-23T19:51:52+00:00",
-   "ingested": "2026-10-23T22:29:17.068304+00:00",
-   "headline": "CAD CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819409,
-   "ts": "2026-10-23T19:51:50+00:00",
-   "ingested": "2026-10-23T22:29:17.068317+00:00",
-   "headline": "ZN CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819408,
-   "ts": "2026-10-23T19:51:49+00:00",
-   "ingested": "2026-10-23T22:29:17.068328+00:00",
-   "headline": "ZT CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819407,
-   "ts": "2026-10-23T19:51:47+00:00",
-   "ingested": "2026-10-23T22:29:17.068340+00:00",
-   "headline": "VIX CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819406,
-   "ts": "2026-10-23T19:51:45+00:00",
-   "ingested": "2026-10-23T22:29:17.068352+00:00",
-   "headline": "NQ CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819405,
-   "ts": "2026-10-23T19:51:44+00:00",
-   "ingested": "2026-10-23T22:29:17.068363+00:00",
-   "headline": "ES CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819404,
-   "ts": "2026-10-23T19:51:42+00:00",
-   "ingested": "2026-10-23T22:29:17.068379+00:00",
-   "headline": "WTI CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819403,
-   "ts": "2026-10-23T19:51:40+00:00",
-   "ingested": "2026-10-23T22:29:17.068391+00:00",
-   "headline": "Copper CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819402,
-   "ts": "2026-10-23T19:51:39+00:00",
-   "ingested": "2026-10-23T22:29:17.068402+00:00",
-   "headline": "Gold CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819385,
-   "ts": "2026-10-23T19:40:33+00:00",
-   "ingested": "2026-10-23T22:29:17.068418+00:00",
-   "headline": "Trump: We're close to ending, I hope, the Russia-Ukraine war.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819384,
-   "ts": "2026-10-23T19:38:48+00:00",
-   "ingested": "2026-10-23T22:29:17.068434+00:00",
-   "headline": "Trump further modifies Canadian products subject to tariffs under Section 338 to take effect on October 30th - White House.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819383,
-   "ts": "2026-10-23T19:37:14+00:00",
-   "ingested": "2026-10-23T22:29:17.068447+00:00",
-   "headline": "Trump: I doubt Iran will say \"let's get down to business\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819382,
-   "ts": "2026-10-23T19:36:38+00:00",
-   "ingested": "2026-10-23T22:29:17.068460+00:00",
-   "headline": "Trump on Iran: We may do another operation against Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819381,
-   "ts": "2026-10-23T19:36:27+00:00",
-   "ingested": "2026-10-23T22:29:17.068473+00:00",
-   "headline": "Speculative traders turn most bearish on the Euro since 2020 - CFTC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819380,
-   "ts": "2026-10-23T19:36:13+00:00",
-   "ingested": "2026-10-23T22:29:17.068486+00:00",
-   "headline": "Trump on Cuba: We will send US Secretary of State Rubio in to finish up the deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819379,
-   "ts": "2026-10-23T19:35:24+00:00",
-   "ingested": "2026-10-23T22:29:17.068499+00:00",
-   "headline": "Trump Holds a Rally in Ft. Myers, FL - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819378,
-   "ts": "2026-10-23T19:34:43+00:00",
-   "ingested": "2026-10-23T22:29:17.068511+00:00",
-   "headline": "Trump: We'll take care of Cuba on our way back from Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819377,
-   "ts": "2026-10-23T19:32:06+00:00",
-   "ingested": "2026-10-23T22:29:17.068527+00:00",
-   "headline": "Iran's Revolutionary Guards: Two tankers struck naval mines while trying to use an unauthorised route south of the Strait of Hormuz - State Media.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819364,
-   "ts": "2026-10-23T19:31:09+00:00",
-   "ingested": "2026-10-23T22:29:17.068540+00:00",
-   "headline": "CFTC Positions in the Week of October 20th 2026",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819347,
-   "ts": "2026-10-23T19:14:48+00:00",
-   "ingested": "2026-10-23T19:26:08.786175+00:00",
-   "headline": "OpenAI strengthened containment for frontier-model training",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819344,
-   "ts": "2026-10-23T19:03:03+00:00",
-   "ingested": "2026-10-23T19:26:08.786199+00:00",
-   "headline": "Iran: Southern ports blockade cut imports 25% - ISNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819331,
-   "ts": "2026-10-23T18:59:17+00:00",
-   "ingested": "2026-10-23T19:26:08.786220+00:00",
-   "headline": "Iraqi PM: Iraq aims to gradually raise oil production to 10 mln bpd by 2032.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819330,
-   "ts": "2026-10-23T18:47:05+00:00",
-   "ingested": "2026-10-23T19:26:08.786240+00:00",
-   "headline": "Brent Crude futures settle at $116.72/bbl, up $3.55, 3.14%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819315,
-   "ts": "2026-10-23T18:31:24+00:00",
-   "ingested": "2026-10-23T19:26:08.786257+00:00",
-   "headline": "NYMEX Diesel November futures settle at $4.9842 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819305,
-   "ts": "2026-10-23T18:31:14+00:00",
-   "ingested": "2026-10-23T19:26:08.786273+00:00",
-   "headline": "NYMEX Gasoline November futures settle at $3.2116 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819304,
-   "ts": "2026-10-23T18:31:03+00:00",
-   "ingested": "2026-10-23T19:26:08.786291+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $103.27 a barrel, up $3.80, 3.82%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819277,
-   "ts": "2026-10-23T18:02:13+00:00",
-   "ingested": "2026-10-23T19:26:08.786309+00:00",
-   "headline": "The Iranian and Russian presidents are going to hold talks in Moscow next week - ISNA.",
    "channel": "rss",
    "source": "financialjuice"
   }
