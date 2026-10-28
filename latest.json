@@ -1,7 +1,799 @@
 {
- "updated": "2026-10-28T08:26:52.352689+00:00",
+ "updated": "2026-10-28T15:19:36.491879+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9825400,
+   "ts": "2026-10-28T15:10:02+00:00",
+   "ingested": "2026-10-28T15:19:36.490193+00:00",
+   "headline": "Nvidia: RTX Spark laptops now available from Asus, Dell, HP, Lenovo, Microsoft, MSI - Website. $NVDA $MSFT $HPQ $DELL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825399,
+   "ts": "2026-10-28T15:08:31+00:00",
+   "ingested": "2026-10-28T15:19:36.490212+00:00",
+   "headline": "Nvidia introduces Nemotron 3.5 transcribe speech model. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825398,
+   "ts": "2026-10-28T15:08:20+00:00",
+   "ingested": "2026-10-28T15:19:36.490224+00:00",
+   "headline": "Bank of Canada Press Conference has ended",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825397,
+   "ts": "2026-10-28T15:07:58+00:00",
+   "ingested": "2026-10-28T15:19:36.490237+00:00",
+   "headline": "BoC's Senior Dep. Gov. Rogers: We don't think a Middle East resolution is imminent.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825374,
+   "ts": "2026-10-28T14:57:12+00:00",
+   "ingested": "2026-10-28T15:19:36.490249+00:00",
+   "headline": "Dutch PM: No European ally is willing to buy Russian energy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825373,
+   "ts": "2026-10-28T14:56:26+00:00",
+   "ingested": "2026-10-28T15:19:36.490259+00:00",
+   "headline": "BoC's Senior Deputy Gov. Rogers: Strong consensus that inflation risks were higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825372,
+   "ts": "2026-10-28T14:55:41+00:00",
+   "ingested": "2026-10-28T15:19:36.490269+00:00",
+   "headline": "EU set to scrap Associate Member offer for Canada - Politico",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825371,
+   "ts": "2026-10-28T14:55:26+00:00",
+   "ingested": "2026-10-28T15:19:36.490302+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy: Ready to discuss territory only at leaders' level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825370,
+   "ts": "2026-10-28T14:54:46+00:00",
+   "ingested": "2026-10-28T15:19:36.490314+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy expects to have clarity on talks after the US elections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825369,
+   "ts": "2026-10-28T14:53:44+00:00",
+   "ingested": "2026-10-28T15:19:36.490329+00:00",
+   "headline": "BoC's Senior Deputy Gov. Rogers: Uncertainty over the economy and borrowing rates is weighing on the housing market; the bank's housing forecast is 'subdued'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825368,
+   "ts": "2026-10-28T14:52:11+00:00",
+   "ingested": "2026-10-28T15:19:36.490339+00:00",
+   "headline": "BoC's Senior Deputy Gov. Rogers: Uncertainty over economy is hanging over housing market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825367,
+   "ts": "2026-10-28T14:50:41+00:00",
+   "ingested": "2026-10-28T15:19:36.490351+00:00",
+   "headline": "Ukraine\u2019s President Zelenskiy expects trilateral Ukraine-US-Russia talks by November 10th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825366,
+   "ts": "2026-10-28T14:50:36+00:00",
+   "ingested": "2026-10-28T15:19:36.490362+00:00",
+   "headline": "BoC's Gov. Macklem: Uncertainty in US trade and the Middle East could change outlook.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825365,
+   "ts": "2026-10-28T14:49:05+00:00",
+   "ingested": "2026-10-28T15:19:36.490372+00:00",
+   "headline": "BoC's Gov. Macklem: Inflation looking less likely to be well-contained",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825364,
+   "ts": "2026-10-28T14:47:19+00:00",
+   "ingested": "2026-10-28T15:19:36.490381+00:00",
+   "headline": "BoC's Gov. Macklem: There is no predetermined path for rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825363,
+   "ts": "2026-10-28T14:46:58+00:00",
+   "ingested": "2026-10-28T15:19:36.490392+00:00",
+   "headline": "Iran war costs rise to $47bln - WAPO citing US military estimates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825348,
+   "ts": "2026-10-28T14:45:07+00:00",
+   "ingested": "2026-10-28T15:19:36.490401+00:00",
+   "headline": "BoC's Gov. Macklem: Businesses planning to pass on high input costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825347,
+   "ts": "2026-10-28T14:44:54+00:00",
+   "ingested": "2026-10-28T15:19:36.490411+00:00",
+   "headline": "BoC's Gov. Macklem: Hiking will limit pass through of higher oil prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825346,
+   "ts": "2026-10-28T14:43:45+00:00",
+   "ingested": "2026-10-28T15:19:36.490422+00:00",
+   "headline": "BoC's Gov. Macklem: Policy rate, even with this hike, is low enough that it is not restraining growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825345,
+   "ts": "2026-10-28T14:42:23+00:00",
+   "ingested": "2026-10-28T15:19:36.490431+00:00",
+   "headline": "BoC's Gov. Macklem: Estimates of investment may be conservative",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825344,
+   "ts": "2026-10-28T14:41:35+00:00",
+   "ingested": "2026-10-28T15:19:36.490441+00:00",
+   "headline": "Bank of Canada Governor Macklem: We are seeing more investment in the energy sector",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825343,
+   "ts": "2026-10-28T14:36:49+00:00",
+   "ingested": "2026-10-28T15:19:36.490451+00:00",
+   "headline": "JPMorgan: Extra UK bank tax lacks principle - Statement $JPM",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825342,
+   "ts": "2026-10-28T14:33:37+00:00",
+   "ingested": "2026-10-28T15:19:36.490460+00:00",
+   "headline": "Foreign firms get no exemption from raised UK bank surcharge.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825323,
+   "ts": "2026-10-28T14:31:37+00:00",
+   "ingested": "2026-10-28T15:19:36.490470+00:00",
+   "headline": "EIA Crude Cushing Inventories  Actual -0.624M (Forecast -, Previous 0.987M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825322,
+   "ts": "2026-10-28T14:30:02+00:00",
+   "ingested": "2026-10-28T15:19:36.490479+00:00",
+   "headline": "EIA Distillate Inventories Actual -1.462M (Forecast -1.075M, Previous 1.675M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825321,
+   "ts": "2026-10-28T14:30:01+00:00",
+   "ingested": "2026-10-28T15:19:36.490489+00:00",
+   "headline": "EIA Crude Oil Inventories Actual -1.892M (Forecast 0M, Previous -3.060M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825320,
+   "ts": "2026-10-28T14:30:01+00:00",
+   "ingested": "2026-10-28T15:19:36.490499+00:00",
+   "headline": "EIA Gasoline Inventories Actual 3.87M (Forecast -1M, Previous -2.952M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825318,
+   "ts": "2026-10-28T14:21:05+00:00",
+   "ingested": "2026-10-28T15:19:36.490508+00:00",
+   "headline": "BoC Press Conference with Gov. Macklem - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825317,
+   "ts": "2026-10-28T14:20:19+00:00",
+   "ingested": "2026-10-28T15:19:36.490517+00:00",
+   "headline": "ADNOC tells clients new Hormuz bypass pipe to start early 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825316,
+   "ts": "2026-10-28T14:18:35+00:00",
+   "ingested": "2026-10-28T15:19:36.490526+00:00",
+   "headline": "Crypto Fear and Greed Index: 51/100 = Neutral",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825315,
+   "ts": "2026-10-28T14:18:00+00:00",
+   "ingested": "2026-10-28T15:19:36.490535+00:00",
+   "headline": "Fear and Greed Index: 35/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825290,
+   "ts": "2026-10-28T14:14:27+00:00",
+   "ingested": "2026-10-28T15:19:36.490546+00:00",
+   "headline": "Britain to reform electricity standing charges -Treasury Documents.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825289,
+   "ts": "2026-10-28T14:04:37+00:00",
+   "ingested": "2026-10-28T15:19:36.490555+00:00",
+   "headline": "UK DMO: Standing repo facility for T-bills to start in January.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825268,
+   "ts": "2026-10-28T14:00:50+00:00",
+   "ingested": "2026-10-28T15:19:36.490566+00:00",
+   "headline": "UK pre-measures headroom in 2029-30 est. at \u00a312.5B - OBR",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825261,
+   "ts": "2026-10-28T13:53:28+00:00",
+   "ingested": "2026-10-28T15:19:36.490577+00:00",
+   "headline": "Losses on BoE's QT \u00a35.7b more in 2027-28 than forecast in March.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825260,
+   "ts": "2026-10-28T13:52:46+00:00",
+   "ingested": "2026-10-28T15:19:36.490587+00:00",
+   "headline": "Kremlin: Date of trilateral talks to be announced soon: IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825259,
+   "ts": "2026-10-28T13:50:03+00:00",
+   "ingested": "2026-10-28T15:19:36.490596+00:00",
+   "headline": "NATO Sec. Gen. Rutte: UK budget has strong defense commitment.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825258,
+   "ts": "2026-10-28T13:47:53+00:00",
+   "ingested": "2026-10-28T15:19:36.490609+00:00",
+   "headline": "BoC's Gov. Macklem: The main argument for holding rates was that inflation has been concentrated in energy prices and services that rely on energy inputs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825257,
+   "ts": "2026-10-28T13:47:35+00:00",
+   "ingested": "2026-10-28T15:19:36.490620+00:00",
+   "headline": "BoC's Gov. Macklem: Main argument for hiking was that energy prices are expected to remain higher and cost pressures are building.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825256,
+   "ts": "2026-10-28T13:47:32+00:00",
+   "ingested": "2026-10-28T15:19:36.490631+00:00",
+   "headline": "BoC's Gov. Macklem: Projected 2% growth in 2027 and 2028 will absorb the remaining slack in the economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825255,
+   "ts": "2026-10-28T13:47:20+00:00",
+   "ingested": "2026-10-28T15:19:36.490642+00:00",
+   "headline": "BoC's Gov. Macklem: With economy expected to recover, there is less downward pressure on prices to offset cost pressures.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825254,
+   "ts": "2026-10-28T13:47:15+00:00",
+   "ingested": "2026-10-28T15:19:36.490654+00:00",
+   "headline": "BoC's Gov. Macklem: An increase in the policy rate was needed to reduce the risk that elevated energy prices could become generalized inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825253,
+   "ts": "2026-10-28T13:47:00+00:00",
+   "ingested": "2026-10-28T15:19:36.490664+00:00",
+   "headline": "BoC: Outlook for Canadian inflation has deteriorated while growth outlook has improved modestly.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825252,
+   "ts": "2026-10-28T13:46:59+00:00",
+   "ingested": "2026-10-28T15:19:36.490674+00:00",
+   "headline": "BoC's Gov. Macklem: Increased risks to inflation means there was less scope for monetary accommodation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825251,
+   "ts": "2026-10-28T13:46:49+00:00",
+   "ingested": "2026-10-28T15:19:36.490685+00:00",
+   "headline": "BoC's Gov. Macklem: Governing council will take future decisions one meeting at a time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825250,
+   "ts": "2026-10-28T13:46:44+00:00",
+   "ingested": "2026-10-28T15:19:36.490696+00:00",
+   "headline": "BoC MPR assumes price of Brent oil to average around $100 in Q4 before gradually falling to around $75 by end-2028.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825245,
+   "ts": "2026-10-28T13:46:33+00:00",
+   "ingested": "2026-10-28T15:19:36.490706+00:00",
+   "headline": "BoC monetary policy rate assumes most exemptions for USMCA compliant goods will remain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825244,
+   "ts": "2026-10-28T13:46:29+00:00",
+   "ingested": "2026-10-28T15:19:36.490717+00:00",
+   "headline": "BoC: Nominal neutral interest rate in Canada assumed to be at the mid point of the estimated 2.25% to 3.25% range.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825241,
+   "ts": "2026-10-28T13:46:20+00:00",
+   "ingested": "2026-10-28T15:19:36.490728+00:00",
+   "headline": "BoC: Potential output growth expected to ease to just under 1.5% in 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825240,
+   "ts": "2026-10-28T13:46:19+00:00",
+   "ingested": "2026-10-28T15:19:36.490738+00:00",
+   "headline": "BoC: Annualized Q3 growth seen at 2.0% from 1.5% in July; Q4 0.8%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825239,
+   "ts": "2026-10-28T13:46:11+00:00",
+   "ingested": "2026-10-28T15:19:36.490750+00:00",
+   "headline": "BoC: Inflation to average 2.9% in 2026 (vs 2.5% in July), 3.1% in 2027 (vs 2.0%), 2.2% in 2028 (vs 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825238,
+   "ts": "2026-10-28T13:46:02+00:00",
+   "ingested": "2026-10-28T15:19:36.490759+00:00",
+   "headline": "BoC still sees some excess supply in the economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825237,
+   "ts": "2026-10-28T13:46:01+00:00",
+   "ingested": "2026-10-28T15:19:36.490768+00:00",
+   "headline": "BoC sees inflation at 3.1% in 2027, from 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825236,
+   "ts": "2026-10-28T13:45:52+00:00",
+   "ingested": "2026-10-28T15:19:36.490778+00:00",
+   "headline": "BoC expects gdp growth to average 2% in 2027 and 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825235,
+   "ts": "2026-10-28T13:45:50+00:00",
+   "ingested": "2026-10-28T15:19:36.490788+00:00",
+   "headline": "BoC: We may need to hike again, but plans to \u2018proceed carefully'.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825234,
+   "ts": "2026-10-28T13:45:46+00:00",
+   "ingested": "2026-10-28T15:19:36.490797+00:00",
+   "headline": "BoC: Inflation to remain over target until mid-2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825233,
+   "ts": "2026-10-28T13:45:39+00:00",
+   "ingested": "2026-10-28T15:19:36.490807+00:00",
+   "headline": "BoC: Hike needed to prevent oil prices seeping into other costs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825232,
+   "ts": "2026-10-28T13:45:30+00:00",
+   "ingested": "2026-10-28T15:19:36.490816+00:00",
+   "headline": "BoC sees CPI increasing to 3.5% by end of 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825225,
+   "ts": "2026-10-28T13:45:16+00:00",
+   "ingested": "2026-10-28T15:19:36.490825+00:00",
+   "headline": "BoC expects oil prices to remain high through 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825224,
+   "ts": "2026-10-28T13:45:00+00:00",
+   "ingested": "2026-10-28T15:19:36.490835+00:00",
+   "headline": "BoC Rate Decision Actual 2.5% (Forecast 2.5%, Previous 2.25%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825223,
+   "ts": "2026-10-28T13:44:44+00:00",
+   "ingested": "2026-10-28T15:19:36.490846+00:00",
+   "headline": "Britain plans to extend upcoming carbon border tax to include refined products - Treasury Documents Show.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825222,
+   "ts": "2026-10-28T13:43:04+00:00",
+   "ingested": "2026-10-28T15:19:36.490856+00:00",
+   "headline": "UK OBR: Headroom would be \u00a310.2 bln if fuel duty stayed frozen",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825221,
+   "ts": "2026-10-28T13:42:18+00:00",
+   "ingested": "2026-10-28T15:19:36.490866+00:00",
+   "headline": "UK OBR: Cumulative cost of fuel duty freezes and 5p cut has risen to \u00a3139 bln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825220,
+   "ts": "2026-10-28T13:38:53+00:00",
+   "ingested": "2026-10-28T15:19:36.490876+00:00",
+   "headline": "UK 2026-31 net borrowing forecast raised by \u00a365 billion.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825219,
+   "ts": "2026-10-28T13:37:01+00:00",
+   "ingested": "2026-10-28T15:19:36.490886+00:00",
+   "headline": "UK OBR: Probability of meeting fiscal mandate now 56%, down from 59% at budget 2025.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825218,
+   "ts": "2026-10-28T13:36:27+00:00",
+   "ingested": "2026-10-28T15:19:36.490896+00:00",
+   "headline": "UK bank tax hike to raise receipts by \u00a31 billion in 27/28 - OBR",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825217,
+   "ts": "2026-10-28T13:36:04+00:00",
+   "ingested": "2026-10-28T15:19:36.490906+00:00",
+   "headline": "UK OBR sees government borrowing \u00a3112b in 2027-28; saw \u00a396.5b.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825216,
+   "ts": "2026-10-28T13:35:57+00:00",
+   "ingested": "2026-10-28T15:19:36.490920+00:00",
+   "headline": "UK'S OBR on tax: Tax-to-GDP ratio is expected to surpass its historical high of 37.2 per cent in 2027-28 and continue increasing in every year of the forecast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825215,
+   "ts": "2026-10-28T13:35:51+00:00",
+   "ingested": "2026-10-28T15:19:36.490930+00:00",
+   "headline": "UK OBR sees government borrowing \u00a3133.2b in 2026-27; saw \u00a3115.5b.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825214,
+   "ts": "2026-10-28T13:35:46+00:00",
+   "ingested": "2026-10-28T15:19:36.490939+00:00",
+   "headline": "UK OBR sees govt borrowing \u00a368.3B in 2031-32",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825213,
+   "ts": "2026-10-28T13:34:33+00:00",
+   "ingested": "2026-10-28T15:19:36.490952+00:00",
+   "headline": "UK's OBR: If energy prices return to our march forecast path, we would expect more rapid disinflation, stronger near-term GDP growth and a potential easing of financial conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825212,
+   "ts": "2026-10-28T13:34:19+00:00",
+   "ingested": "2026-10-28T15:19:36.490962+00:00",
+   "headline": "UK headroom against debt rule now \u00a324b; was \u00a327.1b.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825211,
+   "ts": "2026-10-28T13:34:12+00:00",
+   "ingested": "2026-10-28T15:19:36.490976+00:00",
+   "headline": "UK'S OBR: If energy prices were to peak at a higher level and remain elevated for longer, we would expect increased inflation, weaker near-term GDP growth, and a potential tightening of financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825210,
+   "ts": "2026-10-28T13:34:05+00:00",
+   "ingested": "2026-10-28T15:19:36.490986+00:00",
+   "headline": "UK's OBR: Sees inflation at 3.5% in 2027 in central forecast (March forecast: 2%).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825209,
+   "ts": "2026-10-28T13:33:56+00:00",
+   "ingested": "2026-10-28T15:19:36.490998+00:00",
+   "headline": "UK'S OBR: Margins against the fiscal targets are very small compared to the inherent risk and uncertainty around any medium-term fiscal forecast",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825208,
+   "ts": "2026-10-28T13:33:45+00:00",
+   "ingested": "2026-10-28T15:19:36.491011+00:00",
+   "headline": "UK'S OBR on productivity: If productivity growth were 0.5 percentage points higher or lower than forecast, borrowing could reach \u00a350 billion lower or \u00a340 billion higher.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825207,
+   "ts": "2026-10-28T13:33:36+00:00",
+   "ingested": "2026-10-28T15:19:36.491022+00:00",
+   "headline": "UK's OBR: A 1% change in interest rates could raise or reduce government debt interest costs by \u00a316 billion.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825206,
+   "ts": "2026-10-28T13:33:25+00:00",
+   "ingested": "2026-10-28T15:19:36.491032+00:00",
+   "headline": "UK OBR sees 2026 inflation at 3.1%; saw 2.3%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825205,
+   "ts": "2026-10-28T13:33:16+00:00",
+   "ingested": "2026-10-28T15:19:36.491042+00:00",
+   "headline": "UK budget policies increase borrowing by \u00a33.5 billion in 2027-28",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825204,
+   "ts": "2026-10-28T13:33:12+00:00",
+   "ingested": "2026-10-28T15:19:36.491053+00:00",
+   "headline": "UK budget policies reduce borrowing by \u00a311.7 billion in 31-32.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825203,
+   "ts": "2026-10-28T13:33:02+00:00",
+   "ingested": "2026-10-28T15:19:36.491065+00:00",
+   "headline": "UK'S OBR: If energy prices reach a higher and more sustained peak, borrowing could be \u00a317 billion above the central forecast in 2027-28",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825202,
+   "ts": "2026-10-28T13:32:50+00:00",
+   "ingested": "2026-10-28T15:19:36.491077+00:00",
+   "headline": "UK DMO: To sell \u00a315.6 bln of index-linked gilts via auction in 2026/27 (April remit: \u00a316 bln).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825201,
+   "ts": "2026-10-28T13:32:37+00:00",
+   "ingested": "2026-10-28T15:19:36.491088+00:00",
+   "headline": "UK OBR: Significantly better or worse outcomes for public finances and economy of broadly equal probability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825200,
+   "ts": "2026-10-28T13:32:30+00:00",
+   "ingested": "2026-10-28T15:19:36.491100+00:00",
+   "headline": "UK DMO: to sell \u00a37.8 bln of index-linked gilts via syndication in 2026/27 (April remit: \u00a37 bln).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825199,
+   "ts": "2026-10-28T13:32:29+00:00",
+   "ingested": "2026-10-28T15:19:36.491111+00:00",
+   "headline": "UK DMO: To sell \u00a315.6 bln of index-linked gilts via auction in 2026/27 (April remit \u00a315bln)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825197,
+   "ts": "2026-10-28T13:32:21+00:00",
+   "ingested": "2026-10-28T15:19:36.491122+00:00",
+   "headline": "UK DMO: To sell \u00a312.5 bln of long-dated conventional gilts via syndication in 2026/27 (april remit: \u00a315 bln).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825196,
+   "ts": "2026-10-28T13:32:08+00:00",
+   "ingested": "2026-10-28T15:19:36.491134+00:00",
+   "headline": "UK's OBR: The outlook for the economy and public finances is uncertain, with significantly better or worse outcomes of broadly equal probability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825182,
+   "ts": "2026-10-28T13:31:45+00:00",
+   "ingested": "2026-10-28T15:19:36.491145+00:00",
+   "headline": "World Bank: 25 countries have received $8.7 billion in support to deal with fiscal pressures and the impacts of the Iran war",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825179,
+   "ts": "2026-10-28T13:31:30+00:00",
+   "ingested": "2026-10-28T15:19:36.491157+00:00",
+   "headline": "World Bank: Precious metals prices to jump 40% in 2026 due to elevated demand for safe-haven assets, some moderation seen in 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825178,
+   "ts": "2026-10-28T13:31:23+00:00",
+   "ingested": "2026-10-28T15:19:36.491168+00:00",
+   "headline": "World Bank sees metals prices rising 25% to a new high in 2026, with aluminum, copper, and tin all hitting record levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825177,
+   "ts": "2026-10-28T13:31:09+00:00",
+   "ingested": "2026-10-28T15:19:36.491179+00:00",
+   "headline": "World Bank: Adverse scenario could see energy and food commodity prices surge, driving global inflation higher.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825176,
+   "ts": "2026-10-28T13:31:09+00:00",
+   "ingested": "2026-10-28T15:19:36.491191+00:00",
+   "headline": "World Bank: Any escalation in the Middle East conflict, continued damage to Russian oil infrastructure, could further boost energy prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825175,
+   "ts": "2026-10-28T13:30:52+00:00",
+   "ingested": "2026-10-28T15:19:36.491202+00:00",
+   "headline": "World Bank expects food commodity prices to rise 10% in 2026 and 7% more in 2027 due to grain shipment disruptions, extreme weather.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825174,
+   "ts": "2026-10-28T13:30:51+00:00",
+   "ingested": "2026-10-28T15:19:36.491213+00:00",
+   "headline": "World Bank: Overall commodity prices to surge 23% in 2026 due to global shocks before declining by 7% in 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825172,
+   "ts": "2026-10-28T13:30:34+00:00",
+   "ingested": "2026-10-28T15:19:36.491228+00:00",
+   "headline": "World Bank expects global oil supply to fall 5.2% in 2026, biggest drop in more than 4 decades outside the 2020 global recession",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825171,
+   "ts": "2026-10-28T13:30:32+00:00",
+   "ingested": "2026-10-28T15:19:36.491240+00:00",
+   "headline": "World Bank sees global energy prices up 32% in 2026, reaching four-year high, due to war in Middle East.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825169,
+   "ts": "2026-10-28T13:30:17+00:00",
+   "ingested": "2026-10-28T15:19:36.491251+00:00",
+   "headline": "UK DMO: Gross gilt issuance planned for 2026/27 is \u00a3250.6 bln (poll: \u00a3249.6 bln; dmo april remit: \u00a3246.2 bln).",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825168,
+   "ts": "2026-10-28T13:30:17+00:00",
+   "ingested": "2026-10-28T15:19:36.491261+00:00",
+   "headline": "US Sentiment: RBNZ Surprise Hold, FOMC Press Conference Important - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825167,
+   "ts": "2026-10-28T13:29:09+00:00",
+   "ingested": "2026-10-28T15:19:36.491269+00:00",
+   "headline": "UK's Chancellor Healey ends budget speech.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9824625,
    "ts": "2026-10-28T08:11:03+00:00",
@@ -3207,798 +3999,6 @@
    "ts": "2026-10-26T21:20:19+00:00",
    "ingested": "2026-10-26T23:32:42.791969+00:00",
    "headline": "Comey seeks dismissal of case: court filing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821918,
-   "ts": "2026-10-26T21:20:01+00:00",
-   "ingested": "2026-10-26T23:32:42.791984+00:00",
-   "headline": "US Justice Department charges former FBI director James Comey with sharing national defense information in 2016: court document",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821894,
-   "ts": "2026-10-26T21:13:12+00:00",
-   "ingested": "2026-10-26T23:32:42.792000+00:00",
-   "headline": "Former FBI director James Comey says on Instagram: 'I'm still innocent'; lawyers will defend and 'fight the latest' in court",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821893,
-   "ts": "2026-10-26T21:10:57+00:00",
-   "ingested": "2026-10-26T23:32:42.792014+00:00",
-   "headline": "US DOJ charges former FBI director James Comey again: NBC News reporter",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821861,
-   "ts": "2026-10-26T20:42:08+00:00",
-   "ingested": "2026-10-26T23:32:42.792027+00:00",
-   "headline": "Amazon Business adds three new AI-powered buying insights $AMZN",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821860,
-   "ts": "2026-10-26T20:40:26+00:00",
-   "ingested": "2026-10-26T23:32:42.792045+00:00",
-   "headline": "Canada's PM Carney: To the extent any progress has been made in US trade talks, it's because the US is coming closer to our position",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821859,
-   "ts": "2026-10-26T20:34:49+00:00",
-   "ingested": "2026-10-26T23:32:42.792060+00:00",
-   "headline": "Canada's PM Carney: Not willing to sign US trade terms offered in August",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821843,
-   "ts": "2026-10-26T20:27:04+00:00",
-   "ingested": "2026-10-26T23:32:42.792089+00:00",
-   "headline": "WH Sr. Adviser Hassett: The affordability crisis is a myth - Fox News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821842,
-   "ts": "2026-10-26T20:24:10+00:00",
-   "ingested": "2026-10-26T23:32:42.792119+00:00",
-   "headline": "Broadcom to supply XPU AI accelerators via SPV from 2027 and to be leased to Anthropic $AVGO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821841,
-   "ts": "2026-10-26T20:22:37+00:00",
-   "ingested": "2026-10-26T23:32:42.792150+00:00",
-   "headline": "BofA, Blackstone, Ctt\u00ef, MS set $63b AI financing with Broadcom $BAC $BX $C $AVGO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821810,
-   "ts": "2026-10-26T19:46:23+00:00",
-   "ingested": "2026-10-26T19:55:25.925579+00:00",
-   "headline": "The UK is holding talks with the EU about returning to free movement - Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821794,
-   "ts": "2026-10-26T19:36:40+00:00",
-   "ingested": "2026-10-26T19:55:25.925608+00:00",
-   "headline": "Iran is open to a shorter US proposal timeline if conditions are met - State TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821777,
-   "ts": "2026-10-26T19:27:30+00:00",
-   "ingested": "2026-10-26T19:55:25.925634+00:00",
-   "headline": "The US and Canada are working on a deal to ease US tariffs on Canadian steel and auto imports - Sources.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821776,
-   "ts": "2026-10-26T19:22:04+00:00",
-   "ingested": "2026-10-26T19:55:25.925654+00:00",
-   "headline": "Tuesday FX Option Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821772,
-   "ts": "2026-10-26T19:06:55+00:00",
-   "ingested": "2026-10-26T19:55:25.925677+00:00",
-   "headline": "US high-grade bond sales set to hit a record at $1.76 trillion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821759,
-   "ts": "2026-10-26T19:00:48+00:00",
-   "ingested": "2026-10-26T19:55:25.925701+00:00",
-   "headline": "Poll: RBNZ cash rate to end year at 3.00%, 13 of 23 economists say, but 9 see rise to 3.25% in December.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821758,
-   "ts": "2026-10-26T19:00:34+00:00",
-   "ingested": "2026-10-26T19:55:25.925725+00:00",
-   "headline": "Poll: RBNZ to hike cash rate by 25 basis points to 3.00% on October 28th, according to 22 of 27 economists.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821744,
-   "ts": "2026-10-26T18:44:47+00:00",
-   "ingested": "2026-10-26T19:55:25.925745+00:00",
-   "headline": "Brent Crude futures settle at $115.81/bbl, down 91 cents, 0.78%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821743,
-   "ts": "2026-10-26T18:43:14+00:00",
-   "ingested": "2026-10-26T19:55:25.925766+00:00",
-   "headline": "Iran warns Israel that it will respond in kind to any threat - Fars.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821742,
-   "ts": "2026-10-26T18:39:55+00:00",
-   "ingested": "2026-10-26T19:55:25.925791+00:00",
-   "headline": "Apple: Siri AI is currently unavailable in the EU. We're working with the EU on a path forward - Website. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821741,
-   "ts": "2026-10-26T18:39:10+00:00",
-   "ingested": "2026-10-26T19:55:25.925817+00:00",
-   "headline": "Apple: Siri AI is expanding to more people around the world, with availability in French, Japanese, Korean, Portuguese, and Spanish languages. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821733,
-   "ts": "2026-10-26T18:32:06+00:00",
-   "ingested": "2026-10-26T19:55:25.925836+00:00",
-   "headline": "NYMEX Natural Gas November futures settle at $2.6020/MMBtu.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821732,
-   "ts": "2026-10-26T18:31:30+00:00",
-   "ingested": "2026-10-26T19:55:25.925856+00:00",
-   "headline": "NYMEX Diesel November futures settle at $4.9120 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821731,
-   "ts": "2026-10-26T18:31:19+00:00",
-   "ingested": "2026-10-26T19:55:25.925875+00:00",
-   "headline": "NYMEX Gasoline November futures settle at $3.2185 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821730,
-   "ts": "2026-10-26T18:31:09+00:00",
-   "ingested": "2026-10-26T19:55:25.925897+00:00",
-   "headline": "NYMEX WTI Crude December futures settle at $101.76 a barrel, down $1.51, 1.46%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821719,
-   "ts": "2026-10-26T18:29:27+00:00",
-   "ingested": "2026-10-26T19:55:25.925917+00:00",
-   "headline": "Fitch Ratings: Broader u.s. price pressures raise inflation persistence risk.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821718,
-   "ts": "2026-10-26T18:28:56+00:00",
-   "ingested": "2026-10-26T19:55:25.925937+00:00",
-   "headline": "OpenAI: GPT-6.1 Terra standard API pricing is $1/M input tokens.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821698,
-   "ts": "2026-10-26T18:07:34+00:00",
-   "ingested": "2026-10-26T19:55:25.925981+00:00",
-   "headline": "OpenAI: GPT-6.1 Terra is rolling out now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821697,
-   "ts": "2026-10-26T18:03:28+00:00",
-   "ingested": "2026-10-26T19:55:25.926002+00:00",
-   "headline": "Anthropic execs demanded by FTC to testify in probe - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821662,
-   "ts": "2026-10-26T17:44:49+00:00",
-   "ingested": "2026-10-26T19:55:25.926022+00:00",
-   "headline": "Musk: Starlink mobile network build-out will take 2-3 years $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821661,
-   "ts": "2026-10-26T17:34:01+00:00",
-   "ingested": "2026-10-26T19:55:25.926041+00:00",
-   "headline": "IBM and Nvidia link agent identity to runtime access controls. $IBM $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821660,
-   "ts": "2026-10-26T17:32:46+00:00",
-   "ingested": "2026-10-26T19:55:25.926059+00:00",
-   "headline": "UKMTO receives multiple reports of vessel on fire near Iraq",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821637,
-   "ts": "2026-10-26T17:29:40+00:00",
-   "ingested": "2026-10-26T19:55:25.926077+00:00",
-   "headline": "OpenAI releases ChatGPT Work activity data across 100 countries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821620,
-   "ts": "2026-10-26T17:09:25+00:00",
-   "ingested": "2026-10-26T19:55:25.926099+00:00",
-   "headline": "Romanian Intelligence Agency: Russia-coordinated sabotage network was targeting defence and industrial targets in Romania and beyond",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821619,
-   "ts": "2026-10-26T17:08:06+00:00",
-   "ingested": "2026-10-26T19:55:25.926125+00:00",
-   "headline": "Apple: Aware of issue on small number of iPhone duos. Issue affects inner display of iPhone Duo. Users should contact AppleCare for replacement $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821617,
-   "ts": "2026-10-26T17:05:12+00:00",
-   "ingested": "2026-10-26T19:55:25.926155+00:00",
-   "headline": "UK national living wage, which applies to those aged 21 and over, is expected to rise from \u00a312.71 to around \u00a313.20, an increase of 3.9% - Times Report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821616,
-   "ts": "2026-10-26T17:04:32+00:00",
-   "ingested": "2026-10-26T19:55:25.926181+00:00",
-   "headline": "UK Finance Minister Healey will announce plans to increase the minimum wage by nearly 4% but slow the rise for young people - Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821614,
-   "ts": "2026-10-26T17:03:30+00:00",
-   "ingested": "2026-10-26T19:55:25.926202+00:00",
-   "headline": "US 2-Year Note Bid-to-Cover Actual 2.590 (Forecast -, Previous 2.630)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821615,
-   "ts": "2026-10-26T17:03:21+00:00",
-   "ingested": "2026-10-26T19:55:25.926218+00:00",
-   "headline": "US 2 Yr Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821613,
-   "ts": "2026-10-26T17:01:58+00:00",
-   "ingested": "2026-10-26T19:55:25.926238+00:00",
-   "headline": "US 2-Year Note High Yield Actual 4.708% (Forecast -, Previous 4.787%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821593,
-   "ts": "2026-10-26T17:00:20+00:00",
-   "ingested": "2026-10-26T19:55:25.926256+00:00",
-   "headline": "Treasury WI 2 Yr yield 4.705% before $69 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821590,
-   "ts": "2026-10-26T16:54:26+00:00",
-   "ingested": "2026-10-26T19:55:25.926275+00:00",
-   "headline": "Japan's Sakana AI to build domestic models from scratch - Nikkei",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821589,
-   "ts": "2026-10-26T16:48:28+00:00",
-   "ingested": "2026-10-26T19:55:25.926296+00:00",
-   "headline": "Apple iPhone Duo draws early complaints of the screen cracking. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821578,
-   "ts": "2026-10-26T16:45:41+00:00",
-   "ingested": "2026-10-26T19:55:25.926315+00:00",
-   "headline": "Fed bids for 2-year notes total $7.7 bln.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821559,
-   "ts": "2026-10-26T16:24:40+00:00",
-   "ingested": "2026-10-26T19:55:25.926333+00:00",
-   "headline": "German president arrives in China's Anhui - CCTV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821516,
-   "ts": "2026-10-26T15:47:12+00:00",
-   "ingested": "2026-10-26T19:55:25.926353+00:00",
-   "headline": "Iran, Turkey, Pakistan, Saudi agree to continue talks - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821483,
-   "ts": "2026-10-26T15:33:23+00:00",
-   "ingested": "2026-10-26T19:55:25.926373+00:00",
-   "headline": "US 3-Month Awarded High Actual 82.290% (Forecast -, Previous 29.440%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821482,
-   "ts": "2026-10-26T15:33:23+00:00",
-   "ingested": "2026-10-26T19:55:25.926394+00:00",
-   "headline": "US 6-Month Awarded High Actual 61.740% (Forecast -, Previous 86.090%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821481,
-   "ts": "2026-10-26T15:31:49+00:00",
-   "ingested": "2026-10-26T19:55:25.926501+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 3.07 (Forecast -, Previous 2.770)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821480,
-   "ts": "2026-10-26T15:31:49+00:00",
-   "ingested": "2026-10-26T19:55:25.926524+00:00",
-   "headline": "US 3-Month Bill High Yield Actual 4.05% (Forecast -, Previous 4.095%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821479,
-   "ts": "2026-10-26T15:31:48+00:00",
-   "ingested": "2026-10-26T19:55:25.926544+00:00",
-   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.63 (Forecast -, Previous 2.840)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821478,
-   "ts": "2026-10-26T15:31:48+00:00",
-   "ingested": "2026-10-26T19:55:25.926564+00:00",
-   "headline": "US 6-Month Bill High Yield Actual 4.21% (Forecast -, Previous 4.220%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821476,
-   "ts": "2026-10-26T15:30:34+00:00",
-   "ingested": "2026-10-26T19:55:25.926585+00:00",
-   "headline": "Microsoft to offer buyouts to 60,000 workers in latest cost cut. $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821467,
-   "ts": "2026-10-26T15:15:56+00:00",
-   "ingested": "2026-10-26T19:55:25.926605+00:00",
-   "headline": "Fed bids for 3-month bills total $8.5 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821466,
-   "ts": "2026-10-26T15:15:35+00:00",
-   "ingested": "2026-10-26T19:55:25.926708+00:00",
-   "headline": "Fed bids for 6-month bills total $7.3 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821457,
-   "ts": "2026-10-26T15:15:21+00:00",
-   "ingested": "2026-10-26T19:55:25.926738+00:00",
-   "headline": "Trump\u2019s Gasoline prices surpass biden average ahead of the midterms",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821456,
-   "ts": "2026-10-26T15:13:02+00:00",
-   "ingested": "2026-10-26T19:55:25.926767+00:00",
-   "headline": "Stocks of crude oil in the US Strategic Petroleum Reserve fell to 282.6 million barrels last week, the lowest level since 1982",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821455,
-   "ts": "2026-10-26T15:02:14+00:00",
-   "ingested": "2026-10-26T19:55:25.926788+00:00",
-   "headline": "US Treasury to buy back up to $6 bln in longer-dated debt Tuesday.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821439,
-   "ts": "2026-10-26T15:00:30+00:00",
-   "ingested": "2026-10-26T19:55:25.926809+00:00",
-   "headline": "Kremlin: Putin to hold meetings with Iran's Pezeshkian, Emir of Qatar on Tuesday in Moscow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821432,
-   "ts": "2026-10-26T14:55:39+00:00",
-   "ingested": "2026-10-26T19:55:25.926828+00:00",
-   "headline": "Past FOMC Market Reactions & Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821424,
-   "ts": "2026-10-26T14:41:55+00:00",
-   "ingested": "2026-10-26T19:55:25.926848+00:00",
-   "headline": "Lawmakers query Musk on shutdown of Starlink. $SPCX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821423,
-   "ts": "2026-10-26T14:39:53+00:00",
-   "ingested": "2026-10-26T19:55:25.926870+00:00",
-   "headline": "Iran's President Pezeshkian heads to Moscow to participate in the meeting of gas exporters - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821403,
-   "ts": "2026-10-26T14:31:47+00:00",
-   "ingested": "2026-10-26T19:55:25.926891+00:00",
-   "headline": "Dallas Fed Mfg. Bus. Index Actual 13.40 (Forecast 8.8, Previous 9.80)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821394,
-   "ts": "2026-10-26T14:11:02+00:00",
-   "ingested": "2026-10-26T19:55:25.926925+00:00",
-   "headline": "Iran President tells Pakistan, Saudi, Turkey officials - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821392,
-   "ts": "2026-10-26T14:10:19+00:00",
-   "ingested": "2026-10-26T19:55:25.926972+00:00",
-   "headline": "Iran is ready to back 'any understanding\u2019 for regional unity - IRIB.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821375,
-   "ts": "2026-10-26T13:50:38+00:00",
-   "ingested": "2026-10-26T14:09:41.333145+00:00",
-   "headline": "Anthropic: Effected a 1-for-1,000 reverse stock split of its authorized and issued shares of class T common stock",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821373,
-   "ts": "2026-10-26T13:46:30+00:00",
-   "ingested": "2026-10-26T14:09:41.333190+00:00",
-   "headline": "Russia: In contact with Turkey on black sea shipping - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821349,
-   "ts": "2026-10-26T13:33:14+00:00",
-   "ingested": "2026-10-26T14:09:41.333230+00:00",
-   "headline": "Iran will not discuss its nuclear programme before it meets Tehran's demands - Senior Iranian official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821346,
-   "ts": "2026-10-26T13:32:35+00:00",
-   "ingested": "2026-10-26T14:09:41.333268+00:00",
-   "headline": "Senior Iranian official: Tehran talks with Mecca pact members do not cover Iran's nuclear issue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821340,
-   "ts": "2026-10-26T13:21:31+00:00",
-   "ingested": "2026-10-26T14:09:41.333310+00:00",
-   "headline": "Anthropic targets IPO week of November 16 - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821339,
-   "ts": "2026-10-26T13:20:42+00:00",
-   "ingested": "2026-10-26T14:09:41.333340+00:00",
-   "headline": "Anthropic sees CAPEX increase significantly",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821332,
-   "ts": "2026-10-26T13:17:01+00:00",
-   "ingested": "2026-10-26T14:09:41.333408+00:00",
-   "headline": "Anthropic: We may be required to seek additional financing sooner than we currently anticipate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821329,
-   "ts": "2026-10-26T13:16:13+00:00",
-   "ingested": "2026-10-26T14:09:41.333444+00:00",
-   "headline": "Anthropic to spend up to $114.5B with Google through 2033 $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821317,
-   "ts": "2026-10-26T13:14:28+00:00",
-   "ingested": "2026-10-26T14:09:41.333479+00:00",
-   "headline": "JPMorgan: The anomaly is that FX has remained relatively placid - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821315,
-   "ts": "2026-10-26T13:12:46+00:00",
-   "ingested": "2026-10-26T14:09:41.333510+00:00",
-   "headline": "Anthropic to spend up to $120.5b on SpaceXAI NVIDIA compute.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821314,
-   "ts": "2026-10-26T13:10:53+00:00",
-   "ingested": "2026-10-26T14:09:41.333546+00:00",
-   "headline": "Meeting between Iran and Mecca pact countries starts in Tehran - Iranian State Media.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821313,
-   "ts": "2026-10-26T13:10:34+00:00",
-   "ingested": "2026-10-26T14:09:41.333577+00:00",
-   "headline": "Goldman Sachs on FOMC - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821311,
-   "ts": "2026-10-26T13:08:47+00:00",
-   "ingested": "2026-10-26T14:09:41.333608+00:00",
-   "headline": "Anthropic may not achieve or sustain profitability in future.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821310,
-   "ts": "2026-10-26T13:08:06+00:00",
-   "ingested": "2026-10-26T14:09:41.333642+00:00",
-   "headline": "Anthropic sees costs will boost over time, losses will continue.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821309,
-   "ts": "2026-10-26T13:06:36+00:00",
-   "ingested": "2026-10-26T14:09:41.333673+00:00",
-   "headline": "Anthropic H1 net loss $80.7 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821308,
-   "ts": "2026-10-26T13:05:52+00:00",
-   "ingested": "2026-10-26T14:09:41.333704+00:00",
-   "headline": "Anthropic 1H revenue $16.3 billion vs. $1.2 billion yoy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821307,
-   "ts": "2026-10-26T13:03:57+00:00",
-   "ingested": "2026-10-26T14:09:41.333740+00:00",
-   "headline": "Anthropic: We have applied to list our class A common stock on the Nasdaq Global Select Market under the symbol $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821306,
-   "ts": "2026-10-26T13:03:52+00:00",
-   "ingested": "2026-10-26T14:09:41.333774+00:00",
-   "headline": "Anthropic files for IPO of class A shares on the Nasdaq.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821305,
-   "ts": "2026-10-26T13:02:47+00:00",
-   "ingested": "2026-10-26T14:09:41.333808+00:00",
-   "headline": "Iran President to hold bilateral meeting with Russia's Putin - Mehr",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821295,
-   "ts": "2026-10-26T13:00:28+00:00",
-   "ingested": "2026-10-26T14:09:41.333842+00:00",
-   "headline": "Effective Fed Funds Rate 3.88% October 23 vs 3.88% October 22.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821294,
-   "ts": "2026-10-26T12:52:46+00:00",
-   "ingested": "2026-10-26T14:09:41.333872+00:00",
-   "headline": "Deutsche Bank's View on Israeli Elections - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821293,
-   "ts": "2026-10-26T12:47:59+00:00",
-   "ingested": "2026-10-26T14:09:41.333900+00:00",
-   "headline": "US Sentiment: META To Raise $95 bln to Fund AI - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821273,
-   "ts": "2026-10-26T12:30:00+00:00",
-   "ingested": "2026-10-26T14:09:41.333931+00:00",
-   "headline": "Chicago National Activity Index Actual 0.07 (Forecast -0.095, Previous -0.04)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821253,
-   "ts": "2026-10-26T12:13:04+00:00",
-   "ingested": "2026-10-26T14:09:41.333963+00:00",
-   "headline": "SpaceX sees less than 1-year payback periods on SI investments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821251,
-   "ts": "2026-10-26T12:05:56+00:00",
-   "ingested": "2026-10-26T14:09:41.333996+00:00",
-   "headline": "Oracle introduces new AI-powered ways to execute work across Oracle Fusion applications",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821250,
-   "ts": "2026-10-26T12:05:42+00:00",
-   "ingested": "2026-10-26T14:09:41.334026+00:00",
-   "headline": "SpaceX signs $40 billion gpu financing deal with Apollo.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821244,
-   "ts": "2026-10-26T12:00:10+00:00",
-   "ingested": "2026-10-26T14:09:41.334060+00:00",
-   "headline": "Secured overnight financing rate 3.92% October 23rd vs 3.90% Oct. 22nd",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821243,
-   "ts": "2026-10-26T11:57:10+00:00",
-   "ingested": "2026-10-26T14:09:41.334103+00:00",
-   "headline": "France\u2019s President Macron: The government will announce several 'concrete and huge' decisions regarding demands by school student protesters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821242,
-   "ts": "2026-10-26T11:54:39+00:00",
-   "ingested": "2026-10-26T14:09:41.334134+00:00",
-   "headline": "Oracle announces Oracle Fusion Companion with agentic home",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821241,
-   "ts": "2026-10-26T11:54:01+00:00",
-   "ingested": "2026-10-26T14:09:41.334165+00:00",
-   "headline": "Oracle launches agentic AI platform for cloud implementation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821240,
-   "ts": "2026-10-26T11:51:52+00:00",
-   "ingested": "2026-10-26T14:09:41.334200+00:00",
-   "headline": "Saudi Arabia: Negotiations aim to prevent escalations and pave the way for an agreement to end the conflict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821239,
-   "ts": "2026-10-26T11:51:06+00:00",
-   "ingested": "2026-10-26T14:09:41.334238+00:00",
-   "headline": "Saudi Arabia: It is important to open channels for negotiations on the backdrop of the Mecca pact talks in Tehran - Statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821220,
-   "ts": "2026-10-26T11:46:04+00:00",
-   "ingested": "2026-10-26T14:09:41.334273+00:00",
-   "headline": "France\u2019s President Macron: We know next Saturday is another saturday that will be a day of risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821178,
-   "ts": "2026-10-26T11:04:07+00:00",
-   "ingested": "2026-10-26T14:09:41.334308+00:00",
-   "headline": "Meta: Nvidia, AMD, Broadcom to buy up to $5b of class A shares $META $NVDA $AMD",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821174,
-   "ts": "2026-10-26T11:01:01+00:00",
-   "ingested": "2026-10-26T14:09:41.334338+00:00",
-   "headline": "$VZ Verizon Q3 2026 Earnings",
    "channel": "rss",
    "source": "financialjuice"
   }
