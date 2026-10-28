@@ -1,7 +1,743 @@
 {
- "updated": "2026-10-27T23:07:00.168454+00:00",
+ "updated": "2026-10-28T02:10:04.133242+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9824226,
+   "ts": "2026-10-28T02:08:47+00:00",
+   "ingested": "2026-10-28T02:10:04.131265+00:00",
+   "headline": "RBNZ Governor Breman: more tightening may be required, even reaching restrictive levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824225,
+   "ts": "2026-10-28T02:05:02+00:00",
+   "ingested": "2026-10-28T02:10:04.131290+00:00",
+   "headline": "RBNZ Governor Breman: panel reviewed fall in NZD, if persistent could boost imported inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824224,
+   "ts": "2026-10-28T02:02:32+00:00",
+   "ingested": "2026-10-28T02:10:04.131308+00:00",
+   "headline": "RBNZ Governor Breman: likely need for tighter policy depends on economy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824127,
+   "ts": "2026-10-28T01:53:37+00:00",
+   "ingested": "2026-10-28T02:10:04.131325+00:00",
+   "headline": "Taiwan central bank chief: 80% of current forex reserves held in U.S. bonds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824126,
+   "ts": "2026-10-28T01:47:58+00:00",
+   "ingested": "2026-10-28T02:10:04.131345+00:00",
+   "headline": "Taiwan central bank chief: never said cpi can\u2019t stay above 2%, 2% is merely a benchmark",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824115,
+   "ts": "2026-10-28T01:35:13+00:00",
+   "ingested": "2026-10-28T02:10:04.131363+00:00",
+   "headline": "Taiwan central bank chief: Taiwan dollar's relative weakness this year due to foreign investors profit-taking on stocks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824108,
+   "ts": "2026-10-28T01:26:06+00:00",
+   "ingested": "2026-10-28T02:10:04.131376+00:00",
+   "headline": "RBA Governor Bullock: inflation remains excessively high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824107,
+   "ts": "2026-10-28T01:24:06+00:00",
+   "ingested": "2026-10-28T02:10:04.131390+00:00",
+   "headline": "Israel's PM Netanyahu: israel faces historic chance to eliminate iranian threat",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824106,
+   "ts": "2026-10-28T01:22:09+00:00",
+   "ingested": "2026-10-28T02:10:04.131432+00:00",
+   "headline": "China cbank injects 1 trillion yuan via overnight reverse repos: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824105,
+   "ts": "2026-10-28T01:20:48+00:00",
+   "ingested": "2026-10-28T02:10:04.131449+00:00",
+   "headline": "China central bank injects 151 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824104,
+   "ts": "2026-10-28T01:20:43+00:00",
+   "ingested": "2026-10-28T02:10:04.131463+00:00",
+   "headline": "RBA Governor Bullock: domestic demand still exceeds domestic supply",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824103,
+   "ts": "2026-10-28T01:20:13+00:00",
+   "ingested": "2026-10-28T02:10:04.131480+00:00",
+   "headline": "Australian dollar climbs 2% against New Zealand dollar to NZ$1.2602, highest since early 2013",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824102,
+   "ts": "2026-10-28T01:19:55+00:00",
+   "ingested": "2026-10-28T02:10:04.131495+00:00",
+   "headline": "Israel's PM Netanyahu: 'we must form a robust right-wing national government'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824101,
+   "ts": "2026-10-28T01:18:19+00:00",
+   "ingested": "2026-10-28T02:10:04.131508+00:00",
+   "headline": "Israel's PM Netanyahu: Likud remains largest party in Israel",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824100,
+   "ts": "2026-10-28T01:17:59+00:00",
+   "ingested": "2026-10-28T02:10:04.131521+00:00",
+   "headline": "Israel's PM Netanyahu: 'we are still awaiting tangible results'",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824083,
+   "ts": "2026-10-28T01:08:19+00:00",
+   "ingested": "2026-10-28T02:10:04.131534+00:00",
+   "headline": "RBA\u2019s Hunter: don\u2019t expect recession in Australia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824082,
+   "ts": "2026-10-28T01:04:35+00:00",
+   "ingested": "2026-10-28T02:10:04.131547+00:00",
+   "headline": "RBNZ minutes: committee focuses on medium-term inflation outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824081,
+   "ts": "2026-10-28T01:03:55+00:00",
+   "ingested": "2026-10-28T02:10:04.131562+00:00",
+   "headline": "RBNZ minutes: certain domestic financial conditions ease amid lower exchange rate and decline in some term lending rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824080,
+   "ts": "2026-10-28T01:03:49+00:00",
+   "ingested": "2026-10-28T02:10:04.131577+00:00",
+   "headline": "RBNZ minutes: risk inflation entrenches before conventional expectations adjust despite previous two OCR hikes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824079,
+   "ts": "2026-10-28T01:03:19+00:00",
+   "ingested": "2026-10-28T02:10:04.131591+00:00",
+   "headline": "RBNZ minutes: ongoing higher refined fuel prices and currency depreciation could risk greater indirect inflation effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824078,
+   "ts": "2026-10-28T01:03:07+00:00",
+   "ingested": "2026-10-28T02:10:04.131608+00:00",
+   "headline": "RBNZ minutes: four members Anna Breman, Carl Hansen, Prasanna Gal, Rebecca Williams vote to hold OCR, three members Paul Conway, Hayley Gourley, Karen Silk back increase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824077,
+   "ts": "2026-10-28T01:02:31+00:00",
+   "ingested": "2026-10-28T02:10:04.131621+00:00",
+   "headline": "RBNZ minutes: more OCR hikes probable, but dependent on economic outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824076,
+   "ts": "2026-10-28T01:02:18+00:00",
+   "ingested": "2026-10-28T02:10:04.131636+00:00",
+   "headline": "RBNZ: committee focused on bringing inflation back to 2 percent target midpoint over medium term",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824075,
+   "ts": "2026-10-28T01:02:13+00:00",
+   "ingested": "2026-10-28T02:10:04.131652+00:00",
+   "headline": "RBNZ: New Zealand\u2019s recovery may be stronger than expected but could lose momentum if global environment weakens",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824074,
+   "ts": "2026-10-28T01:02:12+00:00",
+   "ingested": "2026-10-28T02:10:04.131665+00:00",
+   "headline": "RBNZ members agreed on inflation forecast, differed on risk weightings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824073,
+   "ts": "2026-10-28T01:02:11+00:00",
+   "ingested": "2026-10-28T02:10:04.131679+00:00",
+   "headline": "RBNZ: Committee agrees tighter monetary policy probably needed, depends on economic outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824072,
+   "ts": "2026-10-28T01:02:08+00:00",
+   "ingested": "2026-10-28T02:10:04.131692+00:00",
+   "headline": "pi signals upside risks for inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824071,
+   "ts": "2026-10-28T01:02:08+00:00",
+   "ingested": "2026-10-28T02:10:04.131704+00:00",
+   "headline": "Difficult to fully assess supply shocks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824070,
+   "ts": "2026-10-28T01:02:08+00:00",
+   "ingested": "2026-10-28T02:10:04.131718+00:00",
+   "headline": "RBNZ: members varied in emphasis on risks and timing of monetary policy response",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824069,
+   "ts": "2026-10-28T01:02:06+00:00",
+   "ingested": "2026-10-28T02:10:04.131731+00:00",
+   "headline": "RBNZ: committee agreed stronger monetary policy likely needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824066,
+   "ts": "2026-10-28T01:01:42+00:00",
+   "ingested": "2026-10-28T02:10:04.131757+00:00",
+   "headline": "New Zealand dollar falls 1.4% to $0.5600 after Reserve Bank keeps rates steady",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824050,
+   "ts": "2026-10-28T01:01:36+00:00",
+   "ingested": "2026-10-28T02:10:04.131772+00:00",
+   "headline": "New Zealand Cash Rate Actual 2.75% (Forecast 3%, Previous 2.75%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824057,
+   "ts": "2026-10-28T01:01:29+00:00",
+   "ingested": "2026-10-28T02:10:04.131785+00:00",
+   "headline": "RBNZ: global factors contributing to inflation pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824056,
+   "ts": "2026-10-28T01:01:28+00:00",
+   "ingested": "2026-10-28T02:10:04.131798+00:00",
+   "headline": "RBNZ: all committee members concur on overall inflation outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824055,
+   "ts": "2026-10-28T01:01:24+00:00",
+   "ingested": "2026-10-28T02:10:04.131813+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805% unchanged from prior session",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824054,
+   "ts": "2026-10-28T01:01:24+00:00",
+   "ingested": "2026-10-28T02:10:04.131826+00:00",
+   "headline": "Reserve Bank of New Zealand sets official cash rate at 2.75%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824053,
+   "ts": "2026-10-28T01:00:52+00:00",
+   "ingested": "2026-10-28T02:10:04.131839+00:00",
+   "headline": "Monetary policy committee today votes 4-3 to keep OCR at 2.75%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824051,
+   "ts": "2026-10-28T01:00:51+00:00",
+   "ingested": "2026-10-28T02:10:04.131852+00:00",
+   "headline": "New Zealand's Reserve Bank keeps OCR steady at 2.75%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824049,
+   "ts": "2026-10-28T00:55:56+00:00",
+   "ingested": "2026-10-28T02:10:04.131865+00:00",
+   "headline": "RBA Governor Bullock: challenging to fully see through supply shocks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824048,
+   "ts": "2026-10-28T00:52:46+00:00",
+   "ingested": "2026-10-28T02:10:04.131879+00:00",
+   "headline": "RBA Governor Bullock: CPI points to upside risks for inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824047,
+   "ts": "2026-10-28T00:52:23+00:00",
+   "ingested": "2026-10-28T02:10:04.131891+00:00",
+   "headline": "RBA Governor Bullock: unable to provide outlook for board decision",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824046,
+   "ts": "2026-10-28T00:51:54+00:00",
+   "ingested": "2026-10-28T02:10:04.131904+00:00",
+   "headline": "RBA's Hunter: August CPI was stronger than expected",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824027,
+   "ts": "2026-10-28T00:38:56+00:00",
+   "ingested": "2026-10-28T02:10:04.131917+00:00",
+   "headline": "RBA Deputy Governor Hauser: CPI figures meet expectations but remain elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824026,
+   "ts": "2026-10-28T00:38:28+00:00",
+   "ingested": "2026-10-28T02:10:04.131930+00:00",
+   "headline": "Anthropic selects JPMorgan to head US retail offering in IPO",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824013,
+   "ts": "2026-10-28T00:31:48+00:00",
+   "ingested": "2026-10-28T02:10:04.131943+00:00",
+   "headline": "Australian CPI YoY Actual 3.9% (Forecast -, Previous 4.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824000,
+   "ts": "2026-10-28T00:31:34+00:00",
+   "ingested": "2026-10-28T02:10:04.131956+00:00",
+   "headline": "RBA Weighted Mean CPI YoY Actual 3.6% (Forecast -, Previous 3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823999,
+   "ts": "2026-10-28T00:31:34+00:00",
+   "ingested": "2026-10-28T02:10:04.131968+00:00",
+   "headline": "RBA Weighted Median CPI QoQ Actual 1.0% (Forecast -, Previous 0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824014,
+   "ts": "2026-10-28T00:30:19+00:00",
+   "ingested": "2026-10-28T02:10:04.131982+00:00",
+   "headline": "Australia Q3 consumer price index rises 3.9% year-on-year, in line with poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824012,
+   "ts": "2026-10-28T00:30:09+00:00",
+   "ingested": "2026-10-28T02:10:04.131996+00:00",
+   "headline": "Australia Q3 RBA trimmed mean CPI rises 1% q/q, in line with poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824011,
+   "ts": "2026-10-28T00:30:05+00:00",
+   "ingested": "2026-10-28T02:10:04.132009+00:00",
+   "headline": "Australia Q3 RBA weighted median CPI rises 1% q/q, poll expected 1.1%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824010,
+   "ts": "2026-10-28T00:30:05+00:00",
+   "ingested": "2026-10-28T02:10:04.132022+00:00",
+   "headline": "Meta launches Muse personal AI assistant in Singapore",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824009,
+   "ts": "2026-10-28T00:30:05+00:00",
+   "ingested": "2026-10-28T02:10:04.132035+00:00",
+   "headline": "Australia Q3 CPI (all groups) rises 1.3% q/q, poll expected 1.2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824008,
+   "ts": "2026-10-28T00:30:05+00:00",
+   "ingested": "2026-10-28T02:10:04.132048+00:00",
+   "headline": "Australia Sept RBA trimmed mean CPI rises 0.3% m/m",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824007,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132062+00:00",
+   "headline": "Australia Q3 RBA trimmed mean CPI rose 3.7% yr/yr, poll expected 3.6%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824006,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132075+00:00",
+   "headline": "Australia Sept RBA trimmed mean CPI rises 3.6% yr/yr",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824005,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132088+00:00",
+   "headline": "Australia Sept CPI (all groups) rises 4.3% year on year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824004,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132102+00:00",
+   "headline": "Australia Q3 RBA weighted median CPI rises 3.6% year on year, matching poll expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824003,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132115+00:00",
+   "headline": "Australia Sept RBA weighted median CPI rises 0.2% m/m",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824002,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132128+00:00",
+   "headline": "Australia Sept RBA Weighted Median CPI Rises 3.4% Year/Year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9824001,
+   "ts": "2026-10-28T00:30:04+00:00",
+   "ingested": "2026-10-28T02:10:04.132140+00:00",
+   "headline": "Australia Sept CPI (all groups) rises 0.8% m/m",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823998,
+   "ts": "2026-10-28T00:30:02+00:00",
+   "ingested": "2026-10-28T02:10:04.132153+00:00",
+   "headline": "RBA Trimmed Mean CPI QoQ Actual 1% (Forecast 1%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823997,
+   "ts": "2026-10-28T00:30:02+00:00",
+   "ingested": "2026-10-28T02:10:04.132166+00:00",
+   "headline": "RBA Trimmed Mean CPI YoY Actual 3.7% (Forecast 3.6%, Previous 3.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823996,
+   "ts": "2026-10-28T00:30:02+00:00",
+   "ingested": "2026-10-28T02:10:04.132179+00:00",
+   "headline": "Australian CPI QoQ Actual 1.3% (Forecast 1.2%, Previous 0.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823995,
+   "ts": "2026-10-28T00:30:01+00:00",
+   "ingested": "2026-10-28T02:10:04.132191+00:00",
+   "headline": "Australian CPI YoY NSA Actual 4.3% (Forecast 4.2%, Previous 4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823994,
+   "ts": "2026-10-28T00:20:11+00:00",
+   "ingested": "2026-10-28T02:10:04.132205+00:00",
+   "headline": "China PBOC likely to fix yuan midpoint at 6.6734 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823993,
+   "ts": "2026-10-28T00:20:06+00:00",
+   "ingested": "2026-10-28T02:10:04.132219+00:00",
+   "headline": "RBA Governor Bullock: labour market appears slightly tighter than previously assessed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823992,
+   "ts": "2026-10-28T00:19:56+00:00",
+   "ingested": "2026-10-28T02:10:04.132232+00:00",
+   "headline": "RBA Governor Bullock: inflation still seen from domestic capacity pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823991,
+   "ts": "2026-10-28T00:19:56+00:00",
+   "ingested": "2026-10-28T02:10:04.132244+00:00",
+   "headline": "Household spending growth has been slowing only gradually",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823990,
+   "ts": "2026-10-28T00:19:40+00:00",
+   "ingested": "2026-10-28T02:10:04.132258+00:00",
+   "headline": "Monetary policy works with a lag: Full effects of recent rate hikes yet to impact domestic activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823989,
+   "ts": "2026-10-28T00:19:40+00:00",
+   "ingested": "2026-10-28T02:10:04.132271+00:00",
+   "headline": "Impact of Middle East conflict on economic activity has been relatively modest so far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823988,
+   "ts": "2026-10-28T00:19:40+00:00",
+   "ingested": "2026-10-28T02:10:04.132284+00:00",
+   "headline": "RBA Governor Bullock: short-term inflation outlook remains elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823987,
+   "ts": "2026-10-28T00:19:29+00:00",
+   "ingested": "2026-10-28T02:10:04.132298+00:00",
+   "headline": "RBA Governor Bullock: oil and related prices jump sharply again, will significantly boost inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823986,
+   "ts": "2026-10-28T00:19:17+00:00",
+   "ingested": "2026-10-28T02:10:04.132311+00:00",
+   "headline": "RBA governor Bullock: Inflation will likely exceed August base case",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823985,
+   "ts": "2026-10-28T00:18:48+00:00",
+   "ingested": "2026-10-28T02:10:04.132324+00:00",
+   "headline": "RBA Governor Bullock: extended phase of weak aggregate demand needed to ease capacity pressures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823984,
+   "ts": "2026-10-28T00:18:32+00:00",
+   "ingested": "2026-10-28T02:10:04.132337+00:00",
+   "headline": "RBA Governor Bullock: Household spending growth easing only gradually",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823983,
+   "ts": "2026-10-28T00:18:25+00:00",
+   "ingested": "2026-10-28T02:10:04.132351+00:00",
+   "headline": "RBA Governor Bullock: impact of Middle East conflict on economic activity has been relatively modest so far",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823982,
+   "ts": "2026-10-28T00:18:15+00:00",
+   "ingested": "2026-10-28T02:10:04.132366+00:00",
+   "headline": "RBA governor Bullock: monetary policy acts with delay, full impact of recent rate hikes not yet seen on domestic activity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823981,
+   "ts": "2026-10-28T00:17:52+00:00",
+   "ingested": "2026-10-28T02:10:04.132381+00:00",
+   "headline": "Netanyahu's bloc now leads Eisenkot's bloc: updated Channel 12 exit poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823980,
+   "ts": "2026-10-28T00:17:42+00:00",
+   "ingested": "2026-10-28T02:10:04.132414+00:00",
+   "headline": "RBA Governor Bullock: acknowledge higher interest rates can be tough, but high inflation can't persist",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823979,
+   "ts": "2026-10-28T00:17:20+00:00",
+   "ingested": "2026-10-28T02:10:04.132429+00:00",
+   "headline": "RBA Governor Bullock: we are dedicated to mandate of delivering price stability and full employment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823978,
+   "ts": "2026-10-28T00:17:11+00:00",
+   "ingested": "2026-10-28T02:10:04.132445+00:00",
+   "headline": "RBA Governor Bullock: key question is whether monetary policy tightening so far will be enough to return inflation to target in reasonable time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823976,
+   "ts": "2026-10-28T00:01:57+00:00",
+   "ingested": "2026-10-28T02:10:04.132460+00:00",
+   "headline": "financial terms and other details of OpenAI\u2019s planned acquisition of Google chips remain undisclosed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823975,
+   "ts": "2026-10-28T00:01:32+00:00",
+   "ingested": "2026-10-28T02:10:04.132473+00:00",
+   "headline": "OpenAI plans to acquire Google's AI chips: The Information",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823958,
+   "ts": "2026-10-27T23:46:11+00:00",
+   "ingested": "2026-10-28T02:10:04.132488+00:00",
+   "headline": "U.S. cost of Iran war operations climbs above $47 billion: Pentagon estimate seen by source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823948,
+   "ts": "2026-10-27T23:40:12+00:00",
+   "ingested": "2026-10-28T02:10:04.132502+00:00",
+   "headline": "Netanyahu bloc now equals Eisenkot bloc: Kan 11 updated exit poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823947,
+   "ts": "2026-10-27T23:39:31+00:00",
+   "ingested": "2026-10-28T02:10:04.132515+00:00",
+   "headline": "Netanyahu's Likud rises to 27 seats, Kan 11 updated exit poll",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823946,
+   "ts": "2026-10-27T23:33:57+00:00",
+   "ingested": "2026-10-28T02:10:04.132532+00:00",
+   "headline": "US judge to rule Wednesday on justice department\u2019s urgent plea to stop California counting mail ballots from suspected noncitizens - court hearing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823935,
+   "ts": "2026-10-27T23:23:05+00:00",
+   "ingested": "2026-10-28T02:10:04.132545+00:00",
+   "headline": "Eisenkot tells defense establishment Netanyahu has lost people's trust",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823934,
+   "ts": "2026-10-27T23:18:45+00:00",
+   "ingested": "2026-10-28T02:10:04.132558+00:00",
+   "headline": "Eisenkot: I will do everything possible to meet people's wishes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823933,
+   "ts": "2026-10-27T23:17:38+00:00",
+   "ingested": "2026-10-28T02:10:04.132573+00:00",
+   "headline": "Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward Taif",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823932,
+   "ts": "2026-10-27T23:17:37+00:00",
+   "ingested": "2026-10-28T02:10:04.132585+00:00",
+   "headline": "Eisenkot: Israeli public has chosen change, opposing Netanyahu",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9823915,
+   "ts": "2026-10-27T23:08:00+00:00",
+   "ingested": "2026-10-28T02:10:04.132598+00:00",
+   "headline": "Danger has passed in Jeddah and Yanbu: Saudi civil defense",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9823914,
    "ts": "2026-10-27T23:02:05+00:00",
@@ -3263,742 +3999,6 @@
    "ts": "2026-10-26T00:43:58+00:00",
    "ingested": "2026-10-26T01:47:54.607565+00:00",
    "headline": "Saudi civil defense issues warning over potential risk in Riyadh: state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820502,
-   "ts": "2026-10-26T00:19:43+00:00",
-   "ingested": "2026-10-26T01:47:54.607576+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6691 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820483,
-   "ts": "2026-10-25T23:59:34+00:00",
-   "ingested": "2026-10-26T01:47:54.607586+00:00",
-   "headline": "Trump announces newest flagship national park in US: Chiricahua National Park in Arizona",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820457,
-   "ts": "2026-10-25T22:30:09+00:00",
-   "ingested": "2026-10-25T23:45:17.296723+00:00",
-   "headline": "Anthropic's Claude accessed publicly available Georgia voter data without human permission: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820439,
-   "ts": "2026-10-25T21:21:24+00:00",
-   "ingested": "2026-10-25T21:51:53.397424+00:00",
-   "headline": "British finance minister John Healey expected to announce 3.9% increase to full state pension - The Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820436,
-   "ts": "2026-10-25T21:11:25+00:00",
-   "ingested": "2026-10-25T21:51:53.397447+00:00",
-   "headline": "North Korea: South Korea provocations like firing on North Korean personnel breach UN charter - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820435,
-   "ts": "2026-10-25T21:10:32+00:00",
-   "ingested": "2026-10-25T21:51:53.397468+00:00",
-   "headline": "North Korea says it sent letter to UN Security Council accusing South Korea of fabricating mine explosion incident to delay and obstruct North Korea's border fortification - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820423,
-   "ts": "2026-10-25T19:48:42+00:00",
-   "ingested": "2026-10-25T21:51:53.397483+00:00",
-   "headline": "Saudi Hercules military transport plane landed at Mehrabad Airport in Tehran minutes ago - Iran's Sepah News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820412,
-   "ts": "2026-10-25T19:07:21+00:00",
-   "ingested": "2026-10-25T19:15:34.035592+00:00",
-   "headline": "Zelenskiy on talks: territory issue only for heads of state, technical talks cover other matters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820411,
-   "ts": "2026-10-25T19:01:56+00:00",
-   "ingested": "2026-10-25T19:15:34.035616+00:00",
-   "headline": "Zelenskiy: progress on unlocking Patriot missile supplies to Ukraine very slow",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820407,
-   "ts": "2026-10-25T19:00:03+00:00",
-   "ingested": "2026-10-25T19:15:34.035638+00:00",
-   "headline": "Poll: Reserve Bank of New Zealand to raise cash rate by 25 basis points to 3.00% on October 28, 22 of 27 economists predict",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820406,
-   "ts": "2026-10-25T19:00:03+00:00",
-   "ingested": "2026-10-25T19:15:34.035657+00:00",
-   "headline": "Poll: RBNZ cash rate to finish year at 3.00%, 13 of 23 economists say, but 9 expect increase to 3.25% in December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820405,
-   "ts": "2026-10-25T18:51:28+00:00",
-   "ingested": "2026-10-25T19:15:34.035671+00:00",
-   "headline": "Zelenskiy: US, Ukraine, Russia trilateral meeting planned for November",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820404,
-   "ts": "2026-10-25T18:49:31+00:00",
-   "ingested": "2026-10-25T19:15:34.035686+00:00",
-   "headline": "Zelenskiy: US intelligence sharing on Russian ballistic missile strike warnings fully resumes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820403,
-   "ts": "2026-10-25T18:49:29+00:00",
-   "ingested": "2026-10-25T19:15:34.035700+00:00",
-   "headline": "Zelenskiy: Starshield service restored with speeds up to 420 kph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820402,
-   "ts": "2026-10-25T18:45:03+00:00",
-   "ingested": "2026-10-25T19:15:34.035714+00:00",
-   "headline": "Algerian parliament approves resolution to deploy troops to Niger: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820372,
-   "ts": "2026-10-25T16:35:41+00:00",
-   "ingested": "2026-10-25T16:39:40.266091+00:00",
-   "headline": "Trump: We will not attack Iran today.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820362,
-   "ts": "2026-10-25T15:58:10+00:00",
-   "ingested": "2026-10-25T16:39:40.266121+00:00",
-   "headline": "Netanyahu at an Arrow missile defense battery: Have intelligence indications Iran and its proxies may try to challenge us with an attack aimed at disrupting the elections.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820328,
-   "ts": "2026-10-25T13:23:49+00:00",
-   "ingested": "2026-10-25T16:39:40.266142+00:00",
-   "headline": "Saudi civil defense: shrapnel from intercepting two ballistic missiles launched by Yemen's Houthis in Khamis Mushait and Ahad Rafidah injures two people",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820327,
-   "ts": "2026-10-25T13:20:52+00:00",
-   "ingested": "2026-10-25T16:39:40.266158+00:00",
-   "headline": "One killed in Ukrainian missile strike on industrial site in Russia's Lipetsk region: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820326,
-   "ts": "2026-10-25T13:20:04+00:00",
-   "ingested": "2026-10-25T16:39:40.266184+00:00",
-   "headline": "Libya's Sirte oil firm says Brega gas unit restart will supply 60 million cubic feet of gas to system instead of flaring it - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820325,
-   "ts": "2026-10-25T13:19:52+00:00",
-   "ingested": "2026-10-25T16:39:40.266198+00:00",
-   "headline": "Libya's Sirte Oil Co. resumes natural gas processing unit at Brega plant after years-long closure: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820323,
-   "ts": "2026-10-25T13:16:51+00:00",
-   "ingested": "2026-10-25T16:39:40.266212+00:00",
-   "headline": "Libya's NOC announces restart of Sirte company's two methanol plants after maintenance: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820322,
-   "ts": "2026-10-25T13:16:37+00:00",
-   "ingested": "2026-10-25T16:39:40.266225+00:00",
-   "headline": "Canada's PM Carney: Crown Prince of Abu Dhabi to visit Ottawa from October 26 to 27",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820318,
-   "ts": "2026-10-25T13:13:43+00:00",
-   "ingested": "2026-10-25T16:39:40.266237+00:00",
-   "headline": "Libya's NOC restarts Brega refinery after maintenance shutdown: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820317,
-   "ts": "2026-10-25T13:09:25+00:00",
-   "ingested": "2026-10-25T16:39:40.266250+00:00",
-   "headline": "Qatari mediation effort coordinated with US: source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820316,
-   "ts": "2026-10-25T13:09:15+00:00",
-   "ingested": "2026-10-25T16:39:40.266265+00:00",
-   "headline": "Qatari mediators in Tehran on Sunday in effort to ease regional tensions: official briefed on situation - source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820280,
-   "ts": "2026-10-25T11:37:02+00:00",
-   "ingested": "2026-10-25T12:20:46.377134+00:00",
-   "headline": "Iran's air defence shoots down Lucas drone near southern Bandar Abbas: Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820165,
-   "ts": "2026-10-25T03:24:51+00:00",
-   "ingested": "2026-10-25T06:56:14.698374+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Houthis towards Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820155,
-   "ts": "2026-10-25T03:13:22+00:00",
-   "ingested": "2026-10-25T06:56:14.698390+00:00",
-   "headline": "Saudi civil defense: danger has passed in Riyadh city",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820154,
-   "ts": "2026-10-25T03:03:19+00:00",
-   "ingested": "2026-10-25T06:56:14.698400+00:00",
-   "headline": "Saudi civil defense issues warning over possible threat in Riyadh - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820068,
-   "ts": "2026-10-24T22:01:25+00:00",
-   "ingested": "2026-10-24T23:42:50.683603+00:00",
-   "headline": "Saudi-led coalition: Intercepts and destroys drone in Riyadh region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820061,
-   "ts": "2026-10-24T21:41:43+00:00",
-   "ingested": "2026-10-24T23:42:50.683620+00:00",
-   "headline": "N.Korea leader Kim Jong Un returns to N.Korea via bridge - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820060,
-   "ts": "2026-10-24T21:40:17+00:00",
-   "ingested": "2026-10-24T23:42:50.683635+00:00",
-   "headline": "N. Korea leader Kim Jong Un visits memorial for China\u2019s role in Korean War in Dandong, China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820059,
-   "ts": "2026-10-24T21:39:08+00:00",
-   "ingested": "2026-10-24T21:39:32.119365+00:00",
-   "headline": "N. Korea leader Kim Jong Un visits China: KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820054,
-   "ts": "2026-10-24T21:16:42+00:00",
-   "ingested": "2026-10-24T21:39:32.119387+00:00",
-   "headline": "Yemen's Houthis say they will keep attacking Saudi Arabia's King Khalid airport",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820050,
-   "ts": "2026-10-24T21:14:11+00:00",
-   "ingested": "2026-10-24T21:39:32.119404+00:00",
-   "headline": "Yemen's Houthis renew caution to airlines, workers, travelers against using Saudi Arabia's King Khalid airport in Riyadh: military target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820037,
-   "ts": "2026-10-24T19:33:14+00:00",
-   "ingested": "2026-10-24T21:39:32.119442+00:00",
-   "headline": "Saudi Arabia's Riyadh airport to allocate terminal 1 for domestic flights, terminal 2 for international flights from October 25: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820035,
-   "ts": "2026-10-24T19:26:37+00:00",
-   "ingested": "2026-10-24T21:39:32.119455+00:00",
-   "headline": "Explosive-laden drone targets Iranian Kurdish opposition camp northeast of Iraq's Erbil: security sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820031,
-   "ts": "2026-10-24T19:02:08+00:00",
-   "ingested": "2026-10-24T19:16:11.036114+00:00",
-   "headline": "Yemen's Houthis: attacked Saudi Arabia's King Fahd International Airport in Dammam, Najran airport and Khamis Mushait airbase",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820030,
-   "ts": "2026-10-24T19:02:01+00:00",
-   "ingested": "2026-10-24T19:16:11.036133+00:00",
-   "headline": "Yemen's Houthis say they struck Saudi Aramco site in Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820029,
-   "ts": "2026-10-24T19:01:56+00:00",
-   "ingested": "2026-10-24T19:16:11.036146+00:00",
-   "headline": "Yemen's Houthis say they struck Riyadh airport in Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9820028,
-   "ts": "2026-10-24T19:01:19+00:00",
-   "ingested": "2026-10-24T19:16:11.036159+00:00",
-   "headline": "Yemen's Houthis refute claims of attacking Mecca and Medina after Saudi Arabia says it intercepted missiles",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819944,
-   "ts": "2026-10-24T13:54:51+00:00",
-   "ingested": "2026-10-24T16:56:40.851868+00:00",
-   "headline": "Ukrainian drones reached industrial hub of Russia\u2019s Omsk: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819943,
-   "ts": "2026-10-24T13:51:12+00:00",
-   "ingested": "2026-10-24T16:56:40.851892+00:00",
-   "headline": "Ukraine drone reaches industrial hub of Russia\u2019s Omsk: governor",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819936,
-   "ts": "2026-10-24T13:44:13+00:00",
-   "ingested": "2026-10-24T16:56:40.851915+00:00",
-   "headline": "US updates travel advisories for Gulf and Middle East including Saudi Arabia, Qatar, UAE, Iraq, Lebanon and Israel citing threat of increased Iranian-backed Houthi regional aggression: Security Al",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819911,
-   "ts": "2026-10-24T12:48:31+00:00",
-   "ingested": "2026-10-24T13:38:01.236935+00:00",
-   "headline": "Week Ahead Sentiment: Central Banks & Earnings To Dominate - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819902,
-   "ts": "2026-10-24T12:44:15+00:00",
-   "ingested": "2026-10-24T13:38:01.236954+00:00",
-   "headline": "Iran President Pezeshkian blames US for interim deal failure: 'I still think we should conclude it' - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819901,
-   "ts": "2026-10-24T12:43:05+00:00",
-   "ingested": "2026-10-24T13:38:01.236965+00:00",
-   "headline": "Zelenskiy: starlink restrictions completely removed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819890,
-   "ts": "2026-10-24T12:10:30+00:00",
-   "ingested": "2026-10-24T13:38:01.236978+00:00",
-   "headline": "Trump: May relocate White House press corps to new site",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819870,
-   "ts": "2026-10-24T11:07:53+00:00",
-   "ingested": "2026-10-24T13:38:01.236988+00:00",
-   "headline": "kim jong un tours dandong car plant during china visit: chinese state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819869,
-   "ts": "2026-10-24T11:07:40+00:00",
-   "ingested": "2026-10-24T13:38:01.236997+00:00",
-   "headline": "Kim Jong Un visited Korean War memorial in Dandong, honored Chinese people's volunteer army martyrs: Chinese state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819868,
-   "ts": "2026-10-24T11:07:28+00:00",
-   "ingested": "2026-10-24T13:38:01.237008+00:00",
-   "headline": "China, North Korea to boost strategic talks and cooperation to protect sovereignty, security and development interests: Chinese state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819867,
-   "ts": "2026-10-24T11:07:16+00:00",
-   "ingested": "2026-10-24T13:38:01.237023+00:00",
-   "headline": "China, North Korea vow to boost people-to-people ties and economic, trade collaboration with new Yalu River bridge opening - Chinese state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819866,
-   "ts": "2026-10-24T11:04:28+00:00",
-   "ingested": "2026-10-24T13:38:01.237035+00:00",
-   "headline": "Ras al Khaimah public services department: all emirate beaches to close until further notice - RAK police GHQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819865,
-   "ts": "2026-10-24T11:04:20+00:00",
-   "ingested": "2026-10-24T13:38:01.237048+00:00",
-   "headline": "China\u2019s top political advisor Wang Huning met North Korea\u2019s Kim Jong Un in Dandong, Chinese state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819858,
-   "ts": "2026-10-24T10:43:09+00:00",
-   "ingested": "2026-10-24T13:38:01.237056+00:00",
-   "headline": "German Chancellor Merz: politicians backing far-right AfD have no place in our party",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819850,
-   "ts": "2026-10-24T10:09:50+00:00",
-   "ingested": "2026-10-24T13:38:01.237065+00:00",
-   "headline": "German chancellor Merz: Russia poses a huge threat to our freedom, seeks to destabilise Germany",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819833,
-   "ts": "2026-10-24T09:02:46+00:00",
-   "ingested": "2026-10-24T09:45:51.371055+00:00",
-   "headline": "Danger has passed in Taif: Saudi civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819832,
-   "ts": "2026-10-24T09:02:46+00:00",
-   "ingested": "2026-10-24T09:45:51.371075+00:00",
-   "headline": "S.Korea presidential Blue House: monitoring North Korean leader Kim Jong Un\u2019s China visit - Newsis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819821,
-   "ts": "2026-10-24T08:56:17+00:00",
-   "ingested": "2026-10-24T09:45:51.371086+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys two ballistic missiles launched by Yemen's Houthis towards Taif and Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819813,
-   "ts": "2026-10-24T08:27:07+00:00",
-   "ingested": "2026-10-24T09:45:51.371094+00:00",
-   "headline": "Danger has passed in Yanbu: Saudi civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819812,
-   "ts": "2026-10-24T08:26:15+00:00",
-   "ingested": "2026-10-24T09:45:51.371101+00:00",
-   "headline": "Danger has subsided in Mecca: Saudi civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819811,
-   "ts": "2026-10-24T08:19:52+00:00",
-   "ingested": "2026-10-24T09:45:51.371108+00:00",
-   "headline": "Saudi civil defense warns of potential risk in Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819810,
-   "ts": "2026-10-24T08:19:52+00:00",
-   "ingested": "2026-10-24T09:45:51.371115+00:00",
-   "headline": "Ukraine's military: it hit Russia's top electro-optical equipment maker in Oryol",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819809,
-   "ts": "2026-10-24T08:17:31+00:00",
-   "ingested": "2026-10-24T09:45:51.371122+00:00",
-   "headline": "Saudi civil defense issues warning of possible threat in Taif",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819808,
-   "ts": "2026-10-24T08:16:37+00:00",
-   "ingested": "2026-10-24T09:45:51.371129+00:00",
-   "headline": "Saudi civil defense issues warning of potential hazard in Jeddah",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819801,
-   "ts": "2026-10-24T08:14:19+00:00",
-   "ingested": "2026-10-24T09:45:51.371136+00:00",
-   "headline": "Ukrainian military hit Russian petrochemical plant in Togliatti: Ukrainian drone maker",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819792,
-   "ts": "2026-10-24T07:49:24+00:00",
-   "ingested": "2026-10-24T09:45:51.371144+00:00",
-   "headline": "Ukraine's Starlink connection renewed at 400 km/h: defence minister says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819789,
-   "ts": "2026-10-24T07:33:58+00:00",
-   "ingested": "2026-10-24T09:45:51.371151+00:00",
-   "headline": "North Korea's Kim Jong Un likely to return home after China visit on Saturday: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819787,
-   "ts": "2026-10-24T07:29:34+00:00",
-   "ingested": "2026-10-24T09:45:51.371159+00:00",
-   "headline": "Industrial sites damaged in attack on Russia's Togliatti: IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819779,
-   "ts": "2026-10-24T07:14:59+00:00",
-   "ingested": "2026-10-24T09:45:51.371167+00:00",
-   "headline": "China's Premier Li Qiang visits Dandong to meet North Korea's Kim Jong Un: Yonhap",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819777,
-   "ts": "2026-10-24T07:02:01+00:00",
-   "ingested": "2026-10-24T09:45:51.371175+00:00",
-   "headline": "North Korea's Kim Jong Un appears to have reached Dandong, China via newly opened bridge: South Korean government source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819761,
-   "ts": "2026-10-24T06:03:30+00:00",
-   "ingested": "2026-10-24T09:45:51.371182+00:00",
-   "headline": "North Korea's Kim Jong Un to visit China: S.Korean media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819760,
-   "ts": "2026-10-24T06:01:40+00:00",
-   "ingested": "2026-10-24T09:45:51.371188+00:00",
-   "headline": "ECB releases media interview with Milano Finanza",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819619,
-   "ts": "2026-10-24T01:35:13+00:00",
-   "ingested": "2026-10-24T05:34:55.956365+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis toward Riyadh",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819609,
-   "ts": "2026-10-24T01:08:02+00:00",
-   "ingested": "2026-10-24T05:34:55.956395+00:00",
-   "headline": "Saudi civil defense: danger has passed in Wadi Al-Dawasir governorate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819602,
-   "ts": "2026-10-24T01:00:47+00:00",
-   "ingested": "2026-10-24T05:34:55.956419+00:00",
-   "headline": "Saudi civil defense issues warning on possible threat in Wadi Al-Dawasir governorate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819601,
-   "ts": "2026-10-24T00:57:56+00:00",
-   "ingested": "2026-10-24T00:58:31.354349+00:00",
-   "headline": "Saudi civil defense issues warning of potential threat in Riyadh and Najran: state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819594,
-   "ts": "2026-10-24T00:23:46+00:00",
-   "ingested": "2026-10-24T00:58:31.354373+00:00",
-   "headline": "Saudi-led coalition: intercepted and destroyed drone over eastern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819555,
-   "ts": "2026-10-23T22:59:27+00:00",
-   "ingested": "2026-10-24T00:58:31.354392+00:00",
-   "headline": "OpenAI: red-teaming exercise uncovers vulnerability enabling unauthenticated remote code execution in Brotli compression library",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819518,
-   "ts": "2026-10-23T21:37:43+00:00",
-   "ingested": "2026-10-23T22:29:17.068073+00:00",
-   "headline": "US Secretary of Defense Hegseth: Defense department designates Confucius Institutes as national security threat",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819477,
-   "ts": "2026-10-23T20:54:59+00:00",
-   "ingested": "2026-10-23T22:29:17.068098+00:00",
-   "headline": "France Fin. Min. Lescure: The Moody's call recognizes the solidity of the French economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819476,
-   "ts": "2026-10-23T20:50:51+00:00",
-   "ingested": "2026-10-23T22:29:17.068118+00:00",
-   "headline": "Moody's: The recent sharp rise in French government bond yields adds to the risks of a further weakening of debt affordability.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819475,
-   "ts": "2026-10-23T20:48:38+00:00",
-   "ingested": "2026-10-23T22:29:17.068135+00:00",
-   "headline": "Moody's projects a 5.2% of GDP deficit in 2027 for France.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819474,
-   "ts": "2026-10-23T20:48:05+00:00",
-   "ingested": "2026-10-23T22:29:17.068152+00:00",
-   "headline": "Moody's: France's rating remains at Aa3, assuming that a deficit-reducing budget for 2027 will be adopted.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819473,
-   "ts": "2026-10-23T20:47:21+00:00",
-   "ingested": "2026-10-23T22:29:17.068168+00:00",
-   "headline": "Moody's since previous periodic review of France rating, slower growth and higher deficit have pushed debt burden somewhat higer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819443,
-   "ts": "2026-10-23T20:15:45+00:00",
-   "ingested": "2026-10-23T22:29:17.068183+00:00",
-   "headline": "US bank deposits rose to $19.810 tln from $19.772 tln in the prior week.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819440,
-   "ts": "2026-10-23T20:08:20+00:00",
-   "ingested": "2026-10-23T22:29:17.068202+00:00",
-   "headline": "Venezuela oil output at 1.2m barrels/day - Oil Minister.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819417,
-   "ts": "2026-10-23T19:52:05+00:00",
-   "ingested": "2026-10-23T22:29:17.068217+00:00",
-   "headline": "USD CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819416,
-   "ts": "2026-10-23T19:52:03+00:00",
-   "ingested": "2026-10-23T22:29:17.068230+00:00",
-   "headline": "EUR CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819415,
-   "ts": "2026-10-23T19:52:01+00:00",
-   "ingested": "2026-10-23T22:29:17.068242+00:00",
-   "headline": "AUD CFTC Positions Week of October 20th - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9819414,
-   "ts": "2026-10-23T19:51:59+00:00",
-   "ingested": "2026-10-23T22:29:17.068256+00:00",
-   "headline": "JPY CFTC Positions Week of October 20th - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
