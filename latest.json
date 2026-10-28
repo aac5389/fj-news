@@ -1,7 +1,791 @@
 {
- "updated": "2026-10-28T15:19:36.491879+00:00",
+ "updated": "2026-10-28T20:22:49.655188+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9825984,
+   "ts": "2026-10-28T20:22:09+00:00",
+   "ingested": "2026-10-28T20:22:49.653073+00:00",
+   "headline": "US Treasury Secretary Bessent appearance on CNBC concludes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825983,
+   "ts": "2026-10-28T20:21:52+00:00",
+   "ingested": "2026-10-28T20:22:49.653099+00:00",
+   "headline": "US Treasury Secretary Bessent: In general the trade deals are pretty locked in.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825982,
+   "ts": "2026-10-28T20:21:27+00:00",
+   "ingested": "2026-10-28T20:22:49.653119+00:00",
+   "headline": "US Treasury Secretary Bessent: Consumer behavior is quite strong, business behavior is quite strong.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825981,
+   "ts": "2026-10-28T20:20:54+00:00",
+   "ingested": "2026-10-28T20:22:49.653137+00:00",
+   "headline": "US Treasury Secretary Bessent: A lot of Trump economic agenda is baked in, like tax cuts.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825980,
+   "ts": "2026-10-28T20:19:43+00:00",
+   "ingested": "2026-10-28T20:22:49.653153+00:00",
+   "headline": "US Treasury Secretary Bessent: France has a tough hand.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825979,
+   "ts": "2026-10-28T20:19:16+00:00",
+   "ingested": "2026-10-28T20:22:49.653170+00:00",
+   "headline": "US Treasury Secretary Bessent: We're still seeing deals get done; Meta is financing with equity. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825978,
+   "ts": "2026-10-28T20:18:52+00:00",
+   "ingested": "2026-10-28T20:22:49.653186+00:00",
+   "headline": "US Treasury Secretary Bessent: I don't see widening spreads on al-issuer debt as problematic - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825977,
+   "ts": "2026-10-28T20:18:43+00:00",
+   "ingested": "2026-10-28T20:22:49.653201+00:00",
+   "headline": "US Treasury Secretary Bessent: I don't think AI borrowing is problematic at all.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825975,
+   "ts": "2026-10-28T20:18:17+00:00",
+   "ingested": "2026-10-28T20:22:49.653215+00:00",
+   "headline": "Alphabet 3Q26 trailing twelve months FCF $19.75b, -73% YoY. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825974,
+   "ts": "2026-10-28T20:17:52+00:00",
+   "ingested": "2026-10-28T20:22:49.653231+00:00",
+   "headline": "US Treasury Secretary Bessent: Iran is not able to get dollars, and funding for their proxies is going down - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825973,
+   "ts": "2026-10-28T20:17:06+00:00",
+   "ingested": "2026-10-28T20:22:49.653245+00:00",
+   "headline": "Global bond sales reach annual record at $6.61 trillion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825959,
+   "ts": "2026-10-28T20:15:57+00:00",
+   "ingested": "2026-10-28T20:22:49.653260+00:00",
+   "headline": "US Treasury Secretary Bessent: Operation Outcast on Iran is succeeding.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825958,
+   "ts": "2026-10-28T20:15:42+00:00",
+   "ingested": "2026-10-28T20:22:49.653276+00:00",
+   "headline": "Alphabet: AI investments driving overall search query growth. YoY search query growth rate highest in 5 years $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825950,
+   "ts": "2026-10-28T20:14:23+00:00",
+   "ingested": "2026-10-28T20:22:49.653291+00:00",
+   "headline": "US Treasury Secretary Bessent repeats there is a big correlation between yields and oil prices.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825949,
+   "ts": "2026-10-28T20:13:30+00:00",
+   "ingested": "2026-10-28T20:22:49.653307+00:00",
+   "headline": "US Treasury Secretary Bessent: As Warsh said, bonds done a lot of tightening for us.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825948,
+   "ts": "2026-10-28T20:13:09+00:00",
+   "ingested": "2026-10-28T20:22:49.653361+00:00",
+   "headline": "US Treasury Secretary Bessent: 10-Yr yield never looked back after September 2024 Fed cut.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825947,
+   "ts": "2026-10-28T20:10:19+00:00",
+   "ingested": "2026-10-28T20:22:49.653379+00:00",
+   "headline": "$FDX FedEx Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825944,
+   "ts": "2026-10-28T20:06:51+00:00",
+   "ingested": "2026-10-28T20:22:49.653394+00:00",
+   "headline": "$EBAY eBay Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825943,
+   "ts": "2026-10-28T20:06:07+00:00",
+   "ingested": "2026-10-28T20:22:49.653413+00:00",
+   "headline": "$F Ford Q3 2026 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825941,
+   "ts": "2026-10-28T20:02:45+00:00",
+   "ingested": "2026-10-28T20:22:49.653426+00:00",
+   "headline": "$GOOGL Google Q3 2026 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825940,
+   "ts": "2026-10-28T20:02:15+00:00",
+   "ingested": "2026-10-28T20:22:49.653439+00:00",
+   "headline": "$MSFT Microsoft Q1 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825936,
+   "ts": "2026-10-28T20:01:44+00:00",
+   "ingested": "2026-10-28T20:22:49.653451+00:00",
+   "headline": "T-Mobile Q3 2026 Earnings $TMUS",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825925,
+   "ts": "2026-10-28T20:00:47+00:00",
+   "ingested": "2026-10-28T20:22:49.653466+00:00",
+   "headline": "Vance sent letter at direction of Trump who is aware of continuing outreach, one person said - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825924,
+   "ts": "2026-10-28T20:00:35+00:00",
+   "ingested": "2026-10-28T20:22:49.653484+00:00",
+   "headline": "US VP Vance sent letter to Secretary of Iran's Top Security body who had been the longest-serving commander of IRGC - WSJ citing Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825916,
+   "ts": "2026-10-28T19:58:53+00:00",
+   "ingested": "2026-10-28T20:22:49.653501+00:00",
+   "headline": "Al Jazeera reporter: Iran insists its conditions be implemented before any nuclear negotiations as indirect US-Iran messages continue.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825915,
+   "ts": "2026-10-28T19:58:51+00:00",
+   "ingested": "2026-10-28T20:22:49.653519+00:00",
+   "headline": "Al Jazeera reporter: US proposal seeks to combine Iran's seven conditions with US nuclear demands, including highly enriched uranium and inspections, with phased implementation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825914,
+   "ts": "2026-10-28T19:56:44+00:00",
+   "ingested": "2026-10-28T20:22:49.653534+00:00",
+   "headline": "UK's Chancellor Healey: First priority for UK energy policy is cheaper energy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825913,
+   "ts": "2026-10-28T19:55:05+00:00",
+   "ingested": "2026-10-28T20:22:49.653549+00:00",
+   "headline": "UK's Chancellor Healey: Banks are fundamental to the UK's prosperity, status, and success.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825912,
+   "ts": "2026-10-28T19:54:44+00:00",
+   "ingested": "2026-10-28T20:22:49.653563+00:00",
+   "headline": "UK's Chancellor Healey: I've asked BoE to look at banks' capital requirements.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825911,
+   "ts": "2026-10-28T19:53:21+00:00",
+   "ingested": "2026-10-28T20:22:49.653577+00:00",
+   "headline": "UK's Chancellor Healey: We'll press ahead with financial services and markets bill.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825910,
+   "ts": "2026-10-28T19:52:07+00:00",
+   "ingested": "2026-10-28T20:22:49.653592+00:00",
+   "headline": "UK's Chancellor Healey: A time limit on the bank tax hike will be in the legislation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825909,
+   "ts": "2026-10-28T19:51:59+00:00",
+   "ingested": "2026-10-28T20:22:49.653606+00:00",
+   "headline": "FOMC Market Reactions, Sentiment & Summary - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825907,
+   "ts": "2026-10-28T19:50:04+00:00",
+   "ingested": "2026-10-28T20:22:49.653624+00:00",
+   "headline": "UK's Chancellor Healey: The cost of business has been a priority for me in the budget.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825897,
+   "ts": "2026-10-28T19:45:23+00:00",
+   "ingested": "2026-10-28T20:22:49.653642+00:00",
+   "headline": "The new proposal's schedule includes claims of opening the Strait of Hormuz, lifting the blockade, addressing the Iranian nuclear issue, and summoning inspectors. - Al Arabiya",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825895,
+   "ts": "2026-10-28T19:44:04+00:00",
+   "ingested": "2026-10-28T20:22:49.653657+00:00",
+   "headline": "Mediators and Iran are discussing holding a Turkey meeting before November 4th - Al Arabiya citing Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825873,
+   "ts": "2026-10-28T19:22:39+00:00",
+   "ingested": "2026-10-28T20:22:49.653669+00:00",
+   "headline": "Thursday FX Options Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825872,
+   "ts": "2026-10-28T19:20:39+00:00",
+   "ingested": "2026-10-28T20:22:49.653690+00:00",
+   "headline": "US CENTCOM: All internationally recognized primary transit routes through the Strait of Hormuz have been cleared of sea mines by U.S. forces and remain so. Thousands of commercial vessels have safely used the transit lanes and continue today.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825855,
+   "ts": "2026-10-28T19:05:01+00:00",
+   "ingested": "2026-10-28T20:22:49.653709+00:00",
+   "headline": "Fed Chair Warsh on tightening financial conditions: It tells me our policy is working; not uncomfortable with it",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825854,
+   "ts": "2026-10-28T19:05:00+00:00",
+   "ingested": "2026-10-28T20:22:49.653722+00:00",
+   "headline": "Fed's Chair Warsh ends press conference.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825853,
+   "ts": "2026-10-28T19:04:31+00:00",
+   "ingested": "2026-10-28T20:22:49.653737+00:00",
+   "headline": "Fed Chair Warsh: Economic growth is higher, but that doesn't mean it's causing inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825852,
+   "ts": "2026-10-28T19:04:17+00:00",
+   "ingested": "2026-10-28T20:22:49.653751+00:00",
+   "headline": "Fed's Warsh: I don't think we have to throw people out of work.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825850,
+   "ts": "2026-10-28T19:03:45+00:00",
+   "ingested": "2026-10-28T20:22:49.653771+00:00",
+   "headline": "Fed Chair Warsh: Productivity has been moving higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825849,
+   "ts": "2026-10-28T19:03:40+00:00",
+   "ingested": "2026-10-28T20:22:49.653786+00:00",
+   "headline": "Fed's Chair Warsh: Most at the Fed don't think the economy is running too hot.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825848,
+   "ts": "2026-10-28T19:03:26+00:00",
+   "ingested": "2026-10-28T20:22:49.653801+00:00",
+   "headline": "Fed Chair Warsh: The economy is pointing in the right direction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825847,
+   "ts": "2026-10-28T19:03:12+00:00",
+   "ingested": "2026-10-28T20:22:49.653816+00:00",
+   "headline": "Fed Chair Warsh: Our measures of the size of the aggregate demand curve are imperfect",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825845,
+   "ts": "2026-10-28T19:01:59+00:00",
+   "ingested": "2026-10-28T20:22:49.653831+00:00",
+   "headline": "Fed's Warsh: When we removed dose of accomodation, the effects on financial market conditions were consistent with expectations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825827,
+   "ts": "2026-10-28T19:00:52+00:00",
+   "ingested": "2026-10-28T20:22:49.653846+00:00",
+   "headline": "Fed's Chair Warsh: The balance sheet is now solely within the four walls of the task force.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825826,
+   "ts": "2026-10-28T19:00:34+00:00",
+   "ingested": "2026-10-28T20:22:49.653861+00:00",
+   "headline": "Fed's Warsh: The balance sheet task force recommendations will be fed into the FOMC early in the first quarter.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825807,
+   "ts": "2026-10-28T18:59:58+00:00",
+   "ingested": "2026-10-28T20:22:49.653876+00:00",
+   "headline": "Fed's Warsh: I pay a lot of attention to the Korean economy, it tells me what's coming this way.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825806,
+   "ts": "2026-10-28T18:58:25+00:00",
+   "ingested": "2026-10-28T20:22:49.653889+00:00",
+   "headline": "Fed's Warsh: I won't share musings on what will happen in December.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825805,
+   "ts": "2026-10-28T18:58:14+00:00",
+   "ingested": "2026-10-28T20:22:49.653901+00:00",
+   "headline": "Fed's Warsh: I don't believe in prejudging meetings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825804,
+   "ts": "2026-10-28T18:58:03+00:00",
+   "ingested": "2026-10-28T20:22:49.653914+00:00",
+   "headline": "Fed's Warsh: I don't believe in forward guidance, absent a crisis.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825803,
+   "ts": "2026-10-28T18:56:20+00:00",
+   "ingested": "2026-10-28T20:22:49.653928+00:00",
+   "headline": "Fed's Warsh: Strength in CAPEX is no longer in narrow pockets.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825802,
+   "ts": "2026-10-28T18:56:10+00:00",
+   "ingested": "2026-10-28T20:22:49.653942+00:00",
+   "headline": "Fed's Chair Warsh: I believe interest rates matter for tech investment surge.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825801,
+   "ts": "2026-10-28T18:56:01+00:00",
+   "ingested": "2026-10-28T20:22:49.653955+00:00",
+   "headline": "Fed's Chair Warsh: Market participants are discriminating on investments.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825800,
+   "ts": "2026-10-28T18:55:49+00:00",
+   "ingested": "2026-10-28T20:22:49.653970+00:00",
+   "headline": "Fed's Warsh: You've seen credit spreads widen for some assets, some tightening in some financial conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825799,
+   "ts": "2026-10-28T18:55:41+00:00",
+   "ingested": "2026-10-28T20:22:49.653983+00:00",
+   "headline": "Fed's Chair Warsh: Credit spreads have widened.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825798,
+   "ts": "2026-10-28T18:55:32+00:00",
+   "ingested": "2026-10-28T20:22:49.653998+00:00",
+   "headline": "Fed's Chair Warsh: We're seeing interest rates have an effect on the technology complex.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825797,
+   "ts": "2026-10-28T18:55:13+00:00",
+   "ingested": "2026-10-28T20:22:49.654014+00:00",
+   "headline": "Fed's Warsh: Since early September, we've seen that, inside and outside the technology complex, interest rates have had an effect.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825796,
+   "ts": "2026-10-28T18:54:49+00:00",
+   "ingested": "2026-10-28T20:22:49.654029+00:00",
+   "headline": "Fed's Warsh: I was skeptical that interest rates would not have an effect on AI. Rates affect almost everything.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825795,
+   "ts": "2026-10-28T18:53:45+00:00",
+   "ingested": "2026-10-28T20:22:49.654042+00:00",
+   "headline": "Fed's Warsh: I take note that oil futures prices have moved up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825794,
+   "ts": "2026-10-28T18:53:04+00:00",
+   "ingested": "2026-10-28T20:22:49.654055+00:00",
+   "headline": "Fed's Warsh: Interest rates have rolled over to the downside.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825793,
+   "ts": "2026-10-28T18:52:31+00:00",
+   "ingested": "2026-10-28T20:22:49.654070+00:00",
+   "headline": "Fed's Warsh: There's a stable correlation between oil prices rising and market-set interest rates, until recently.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825792,
+   "ts": "2026-10-28T18:51:57+00:00",
+   "ingested": "2026-10-28T20:22:49.654087+00:00",
+   "headline": "Fed's Warsh: Inflation expectations have gone up in near-term, but longer-term measures show households and businesses have confidence that the Fed will deliver price stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825791,
+   "ts": "2026-10-28T18:51:03+00:00",
+   "ingested": "2026-10-28T20:22:49.654100+00:00",
+   "headline": "Fed's Warsh: Price stability target is 2%, measured by PCE.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825790,
+   "ts": "2026-10-28T18:50:52+00:00",
+   "ingested": "2026-10-28T20:22:49.654113+00:00",
+   "headline": "Fed's Warsh: There is no soft inflation target.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825789,
+   "ts": "2026-10-28T18:50:44+00:00",
+   "ingested": "2026-10-28T20:22:49.654128+00:00",
+   "headline": "Fed's Chair Warsh: We just came out of a heck of a family fight here.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825788,
+   "ts": "2026-10-28T18:48:37+00:00",
+   "ingested": "2026-10-28T20:22:49.654145+00:00",
+   "headline": "Fed's Chair Warsh: I plan on attending a task force field hearing next month. I might have a few words to say at the November 16th field hearing.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825787,
+   "ts": "2026-10-28T18:47:49+00:00",
+   "ingested": "2026-10-28T20:22:49.654159+00:00",
+   "headline": "Fed's Warsh: Task force conclusions are unlikely to find their way into this policy juncture.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825780,
+   "ts": "2026-10-28T18:46:55+00:00",
+   "ingested": "2026-10-28T20:22:49.654172+00:00",
+   "headline": "Fed's Warsh: Some of the task forces will hit year-end deadline.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825778,
+   "ts": "2026-10-28T18:46:35+00:00",
+   "ingested": "2026-10-28T20:22:49.654186+00:00",
+   "headline": "Fed's Warsh: The five task forces are hard at work, I have done periodic check-ins.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825771,
+   "ts": "2026-10-28T18:45:10+00:00",
+   "ingested": "2026-10-28T20:22:49.654199+00:00",
+   "headline": "Brent Crude futures settle at $115.32/bbl, up $1.44, 1.26%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825770,
+   "ts": "2026-10-28T18:44:56+00:00",
+   "ingested": "2026-10-28T20:22:49.654213+00:00",
+   "headline": "Fed's Chair Warsh: There's more news to come on the format of new meetings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825769,
+   "ts": "2026-10-28T18:44:33+00:00",
+   "ingested": "2026-10-28T20:22:49.654230+00:00",
+   "headline": "Fed's Chair Warsh: We do not anticipate issuing a policy statement at strategy meetings. It is not obvious what we'll come out with yet at the new meetings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825768,
+   "ts": "2026-10-28T18:43:33+00:00",
+   "ingested": "2026-10-28T20:22:49.654242+00:00",
+   "headline": "Fed's Warsh: I have 18 quite independent colleagues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825767,
+   "ts": "2026-10-28T18:42:36+00:00",
+   "ingested": "2026-10-28T20:22:49.654259+00:00",
+   "headline": "Fed's Warsh: We decided to take stock of where we are, ask if period ahead will provide more clarity, our judgement is that it would.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825766,
+   "ts": "2026-10-28T18:42:29+00:00",
+   "ingested": "2026-10-28T20:22:49.654273+00:00",
+   "headline": "Fed's Chair Warsh: The overwhelming consensus is that the monetary medicine is starting to work.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825765,
+   "ts": "2026-10-28T18:41:11+00:00",
+   "ingested": "2026-10-28T20:22:49.654286+00:00",
+   "headline": "Fed's Warsh: I am encouraged by the progress we've made.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825764,
+   "ts": "2026-10-28T18:40:56+00:00",
+   "ingested": "2026-10-28T20:22:49.654299+00:00",
+   "headline": "Fed's Chair Warsh: The period in front of us is information-rich.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825763,
+   "ts": "2026-10-28T18:40:38+00:00",
+   "ingested": "2026-10-28T20:22:49.654311+00:00",
+   "headline": "Fed's Warsh: I feel good about the signposts.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825762,
+   "ts": "2026-10-28T18:40:14+00:00",
+   "ingested": "2026-10-28T20:22:49.654346+00:00",
+   "headline": "Fed's Warsh: Inflation compensation as measured by swaps is going the right way.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825761,
+   "ts": "2026-10-28T18:40:07+00:00",
+   "ingested": "2026-10-28T20:22:49.654361+00:00",
+   "headline": "Fed's Warsh: In September we removed a dose of accommodation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825760,
+   "ts": "2026-10-28T18:39:35+00:00",
+   "ingested": "2026-10-28T20:22:49.654378+00:00",
+   "headline": "Fed's Warsh: The Fed has put in place 'new monetary medicine\u2019.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825759,
+   "ts": "2026-10-28T18:39:22+00:00",
+   "ingested": "2026-10-28T20:22:49.654395+00:00",
+   "headline": "Fed's Warsh: Ensuring price stability and quashing inflation is not about an individual date or an isolated data point.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825758,
+   "ts": "2026-10-28T18:38:47+00:00",
+   "ingested": "2026-10-28T20:22:49.654409+00:00",
+   "headline": "Fed's Chair Warsh: Ensuring price stability is not about a fixed date on a calendar.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825757,
+   "ts": "2026-10-28T18:38:33+00:00",
+   "ingested": "2026-10-28T20:22:49.654427+00:00",
+   "headline": "Fed's Chair Warsh: In 2027, one meeting won't have a vote on rates or a statement. In 2028, I expect two meetings won't have a rate vote.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825756,
+   "ts": "2026-10-28T18:37:54+00:00",
+   "ingested": "2026-10-28T20:22:49.654443+00:00",
+   "headline": "Fed's Warsh: It is important to reserve time and space for strategic deliberations, looking out over longer time horizons.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825755,
+   "ts": "2026-10-28T18:37:38+00:00",
+   "ingested": "2026-10-28T20:22:49.654458+00:00",
+   "headline": "Fed's Warsh: Information in coming period will help us determine where we want policy to be.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825754,
+   "ts": "2026-10-28T18:37:28+00:00",
+   "ingested": "2026-10-28T20:22:49.654471+00:00",
+   "headline": "Fed's Warsh: We have shown our willingness to act.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825753,
+   "ts": "2026-10-28T18:36:39+00:00",
+   "ingested": "2026-10-28T20:22:49.654494+00:00",
+   "headline": "Fed's Warsh: We've decided to change the FOMC schedule next fall; 8 meetings is the right number a year. One meeting will not have a vote on the policy rate. One meeting will be focused on strategy. Expect in 2028 to have 6 policy-setting meetings.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825752,
+   "ts": "2026-10-28T18:36:07+00:00",
+   "ingested": "2026-10-28T20:22:49.654507+00:00",
+   "headline": "Fed's Chair Warsh: I am not surprised by financial market volatility.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825751,
+   "ts": "2026-10-28T18:35:55+00:00",
+   "ingested": "2026-10-28T20:22:49.654520+00:00",
+   "headline": "Fed's Warsh: Discussed geopolitics and technology.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825750,
+   "ts": "2026-10-28T18:35:42+00:00",
+   "ingested": "2026-10-28T20:22:49.654535+00:00",
+   "headline": "Fed's Warsh: Financial conditions go in the direction of more durable economic growth, price stability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825749,
+   "ts": "2026-10-28T18:35:15+00:00",
+   "ingested": "2026-10-28T20:22:49.654548+00:00",
+   "headline": "Fed's Warsh: Unwilling and unable to call financial conditions tight.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825748,
+   "ts": "2026-10-28T18:35:06+00:00",
+   "ingested": "2026-10-28T20:22:49.654562+00:00",
+   "headline": "Fed's Warsh: Market participants more discerning in capital allocations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825743,
+   "ts": "2026-10-28T18:34:59+00:00",
+   "ingested": "2026-10-28T20:22:49.654575+00:00",
+   "headline": "Fed's Chair Warsh: We've started to see some change in financial conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825738,
+   "ts": "2026-10-28T18:34:48+00:00",
+   "ingested": "2026-10-28T20:22:49.654587+00:00",
+   "headline": "Fed's Warsh: Credit conditions have tightened.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9825728,
+   "ts": "2026-10-28T18:34:40+00:00",
+   "ingested": "2026-10-28T20:22:49.654601+00:00",
+   "headline": "Fed's Warsh: The discussion at the Fed is focused mainly on the price stability remit.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9825400,
    "ts": "2026-10-28T15:10:02+00:00",
@@ -3215,790 +3999,6 @@
    "ts": "2026-10-27T09:55:32+00:00",
    "ingested": "2026-10-27T14:28:38.741308+00:00",
    "headline": "Kremlin: Russia's Putin held a phone call with Norway's St\u00f8re and Finland's Stubb - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822754,
-   "ts": "2026-10-27T09:28:05+00:00",
-   "ingested": "2026-10-27T14:28:38.741319+00:00",
-   "headline": "Kremlin: No date yet for US-Ukraine talks in UAE - TASS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822753,
-   "ts": "2026-10-27T09:21:56+00:00",
-   "ingested": "2026-10-27T14:28:38.741331+00:00",
-   "headline": "OPEC+ is set to hold oil output targets steady at Sunday meeting - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822752,
-   "ts": "2026-10-27T09:21:41+00:00",
-   "ingested": "2026-10-27T14:28:38.741346+00:00",
-   "headline": "Russia's Putin and Finland's president Stubb, and Norway\u2019s prime minister may speak as soon as Tuesday - Sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822751,
-   "ts": "2026-10-27T09:21:08+00:00",
-   "ingested": "2026-10-27T14:28:38.741359+00:00",
-   "headline": "Italy's economy minister: Expect cabinet meeting on 2027 budget law to take place on Wednesday morning.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822719,
-   "ts": "2026-10-27T09:14:21+00:00",
-   "ingested": "2026-10-27T14:28:38.741371+00:00",
-   "headline": "Iran's president and Qatar Emir discuss energy cooperation and trade",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822694,
-   "ts": "2026-10-27T09:01:37+00:00",
-   "ingested": "2026-10-27T14:28:38.741382+00:00",
-   "headline": "Eurozone Loans to Households Actual 3.1% (Forecast -, Previous 3.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822693,
-   "ts": "2026-10-27T09:01:36+00:00",
-   "ingested": "2026-10-27T14:28:38.741394+00:00",
-   "headline": "Eurozone Loans to Non Financial Firms Actual 4.2% (Forecast -, Previous 4.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822692,
-   "ts": "2026-10-27T09:00:04+00:00",
-   "ingested": "2026-10-27T14:28:38.741408+00:00",
-   "headline": "Eurozone Money-M3 Annual Growth Actual 3.5% (Forecast 3.4%, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822691,
-   "ts": "2026-10-27T08:58:22+00:00",
-   "ingested": "2026-10-27T14:28:38.741421+00:00",
-   "headline": "Putin said to plan talks with Norway's Store, Finland's Stubb.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822690,
-   "ts": "2026-10-27T08:55:44+00:00",
-   "ingested": "2026-10-27T14:28:38.741432+00:00",
-   "headline": "Iran's PGSA: Legal action to be taken against Sinokor vessels.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822689,
-   "ts": "2026-10-27T08:55:16+00:00",
-   "ingested": "2026-10-27T14:28:38.741443+00:00",
-   "headline": "Iran's PGSA: Sinokor vessels have committed most violations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822688,
-   "ts": "2026-10-27T08:46:46+00:00",
-   "ingested": "2026-10-27T14:28:38.741453+00:00",
-   "headline": "NVIDIA to invest $3b in Meta - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822669,
-   "ts": "2026-10-27T08:45:57+00:00",
-   "ingested": "2026-10-27T14:28:38.741463+00:00",
-   "headline": "UniCredit: Events This Week - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822643,
-   "ts": "2026-10-27T08:27:19+00:00",
-   "ingested": "2026-10-27T14:28:38.741478+00:00",
-   "headline": "Europe Sentiment: Anthropic IPO, Meta Funding - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822642,
-   "ts": "2026-10-27T08:26:10+00:00",
-   "ingested": "2026-10-27T14:28:38.741488+00:00",
-   "headline": "Iran, Egypt foreign ministers discuss Middle East in call.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822641,
-   "ts": "2026-10-27T08:25:25+00:00",
-   "ingested": "2026-10-27T14:28:38.741499+00:00",
-   "headline": "Saudi Arabia contains fire near Ras Tanura oil hub after attack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822593,
-   "ts": "2026-10-27T07:45:00+00:00",
-   "ingested": "2026-10-27T08:09:48.361655+00:00",
-   "headline": "French Consumer Confidence Actual 80 (Forecast 85, Previous 86)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822592,
-   "ts": "2026-10-27T07:42:03+00:00",
-   "ingested": "2026-10-27T08:09:48.361683+00:00",
-   "headline": "Germany's Merz: I am in favour of a trade agreement between the EU and the ASEAN bloc. It needs to happen quickly.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822582,
-   "ts": "2026-10-27T07:23:53+00:00",
-   "ingested": "2026-10-27T08:09:48.361702+00:00",
-   "headline": "French retailers won't refill released diesel stocks - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822581,
-   "ts": "2026-10-27T07:19:09+00:00",
-   "ingested": "2026-10-27T08:09:48.361720+00:00",
-   "headline": "Saudi civil defense issues an alert of potential danger in Najran city",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822563,
-   "ts": "2026-10-27T07:14:51+00:00",
-   "ingested": "2026-10-27T08:09:48.361738+00:00",
-   "headline": "China Foreign Ministry, on EU planning trade measures: China always believes China-EU trade ties are partnership in nature.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822562,
-   "ts": "2026-10-27T07:14:41+00:00",
-   "ingested": "2026-10-27T08:09:48.361755+00:00",
-   "headline": "China to dispatch officials to the Middle East in a bid to defuse tension",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822561,
-   "ts": "2026-10-27T07:03:12+00:00",
-   "ingested": "2026-10-27T08:09:48.361769+00:00",
-   "headline": "Coreweave expands AI platform to Denmark, the Middle East, and Asia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822543,
-   "ts": "2026-10-27T07:01:36+00:00",
-   "ingested": "2026-10-27T08:09:48.361784+00:00",
-   "headline": "Swedish Trade Balance Actual 4.1B (Forecast -, Previous -11.9B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822545,
-   "ts": "2026-10-27T07:00:58+00:00",
-   "ingested": "2026-10-27T08:09:48.361799+00:00",
-   "headline": "Currency Strength Chart: Strongest: NZD, AUD, USD, CAD, CHF, GBP, EUR, JPY - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822512,
-   "ts": "2026-10-27T06:38:56+00:00",
-   "ingested": "2026-10-27T08:09:48.361866+00:00",
-   "headline": "EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822489,
-   "ts": "2026-10-27T06:04:22+00:00",
-   "ingested": "2026-10-27T08:09:48.361882+00:00",
-   "headline": "Russian defense ministry: Russian forces strike cargo ship in Black Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822476,
-   "ts": "2026-10-27T06:01:26+00:00",
-   "ingested": "2026-10-27T08:09:48.361896+00:00",
-   "headline": "Finnish October industry confidence rises 2 points, Ek says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822472,
-   "ts": "2026-10-27T06:00:15+00:00",
-   "ingested": "2026-10-27T08:09:48.361911+00:00",
-   "headline": "Finnish October Consumer Confidence Drops to -9.7 Points, Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822471,
-   "ts": "2026-10-27T06:00:15+00:00",
-   "ingested": "2026-10-27T08:09:48.361925+00:00",
-   "headline": "Finnish October consumer confidence at -9.7 points: Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822470,
-   "ts": "2026-10-27T05:53:58+00:00",
-   "ingested": "2026-10-27T08:09:48.361941+00:00",
-   "headline": "China's 30-year government bond futures due in December rise 0.4% to record 118.56",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822469,
-   "ts": "2026-10-27T05:52:39+00:00",
-   "ingested": "2026-10-27T08:09:48.361956+00:00",
-   "headline": "Meta to broaden use of Nvidia Vera Rubin, Vera CPUs, Spectrum-X, and BlueField-4",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822468,
-   "ts": "2026-10-27T05:52:31+00:00",
-   "ingested": "2026-10-27T08:09:48.361971+00:00",
-   "headline": "Nvidia and Meta Explore Collaboration on OpenShell Reference Architecture and Nvidia Sentry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822467,
-   "ts": "2026-10-27T05:52:31+00:00",
-   "ingested": "2026-10-27T08:09:48.361984+00:00",
-   "headline": "Nvidia to invest $3 billion in Meta equity offering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822466,
-   "ts": "2026-10-27T05:52:19+00:00",
-   "ingested": "2026-10-27T08:09:48.361999+00:00",
-   "headline": "Nvidia and Meta to broaden partnership on Muse and Muse family of models amid strong growth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822446,
-   "ts": "2026-10-27T05:36:47+00:00",
-   "ingested": "2026-10-27T08:09:48.362013+00:00",
-   "headline": "India oil minister: Middle East crude supply is increasing as they can ship more",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822445,
-   "ts": "2026-10-27T05:36:47+00:00",
-   "ingested": "2026-10-27T08:09:48.362027+00:00",
-   "headline": "India oil minister: no US pressure to reduce Russian oil imports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822444,
-   "ts": "2026-10-27T05:35:21+00:00",
-   "ingested": "2026-10-27T08:09:48.362040+00:00",
-   "headline": "India oil minister: india now sources 67% of lpg imports from US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822443,
-   "ts": "2026-10-27T05:35:21+00:00",
-   "ingested": "2026-10-27T08:09:48.362053+00:00",
-   "headline": "No pressure from United States to reduce Russian oil imports",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822437,
-   "ts": "2026-10-27T05:24:12+00:00",
-   "ingested": "2026-10-27T08:09:48.362067+00:00",
-   "headline": "Meta prices $25 billion of class A common stock at $625 per share in public offering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822436,
-   "ts": "2026-10-27T05:23:56+00:00",
-   "ingested": "2026-10-27T08:09:48.362082+00:00",
-   "headline": "India oil minister: expanding refining capacity to support domestic demand, uphold export pledge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822400,
-   "ts": "2026-10-27T05:08:44+00:00",
-   "ingested": "2026-10-27T08:09:48.362097+00:00",
-   "headline": "Meta: pricing of 250 million series A depositary shares at public offering price of $50 per share",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822399,
-   "ts": "2026-10-27T05:05:33+00:00",
-   "ingested": "2026-10-27T08:09:48.362115+00:00",
-   "headline": "Meta announces pricing of depositary shares linked to series A mandatory convertible preferred stock and Class A common stock in forward sale agreements",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822385,
-   "ts": "2026-10-27T04:59:52+00:00",
-   "ingested": "2026-10-27T08:09:48.362130+00:00",
-   "headline": "Russia strikes transport infrastructure in Ukraine's Kyiv, logistics center in Kharkiv region: Russian defense ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822384,
-   "ts": "2026-10-27T04:52:06+00:00",
-   "ingested": "2026-10-27T08:09:48.362147+00:00",
-   "headline": "Ukraine drone strike kills one, injures six in Russia\u2019s Bryansk, governor says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822369,
-   "ts": "2026-10-27T04:43:50+00:00",
-   "ingested": "2026-10-27T08:09:48.362164+00:00",
-   "headline": "Katayama: aims to preserve market confidence in yen, Takaichi administration's fiscal policy via transparent, consistent communication (adds dropped letter)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822368,
-   "ts": "2026-10-27T04:41:05+00:00",
-   "ingested": "2026-10-27T08:09:48.362205+00:00",
-   "headline": "Katayam: aim to sustain market confidence in yen, Takaichi administration\u2019s fiscal approach via clear, consistent communication",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822367,
-   "ts": "2026-10-27T04:40:09+00:00",
-   "ingested": "2026-10-27T08:09:48.362220+00:00",
-   "headline": "Katayama: yen must shift to reflect fundamentals",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822366,
-   "ts": "2026-10-27T04:39:53+00:00",
-   "ingested": "2026-10-27T08:09:48.362236+00:00",
-   "headline": "Katayama: closely monitoring market moves with heightened urgency including at this moment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822365,
-   "ts": "2026-10-27T04:39:17+00:00",
-   "ingested": "2026-10-27T08:09:48.362250+00:00",
-   "headline": "Finmin Katayama: Govt prepared to take decisive steps in fx market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822351,
-   "ts": "2026-10-27T04:25:06+00:00",
-   "ingested": "2026-10-27T08:09:48.362265+00:00",
-   "headline": "Moody's analyst: future rating action hinges on whether Japan's recent resilience endures future shocks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822350,
-   "ts": "2026-10-27T04:25:06+00:00",
-   "ingested": "2026-10-27T08:09:48.362280+00:00",
-   "headline": "Moody's sovereign analyst: Japan showing signs of steady growth, stable inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822349,
-   "ts": "2026-10-27T04:17:55+00:00",
-   "ingested": "2026-10-27T08:09:48.362295+00:00",
-   "headline": "Taiwan Central Bank: Banks' loan quality stable, loan risks contained",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822345,
-   "ts": "2026-10-27T04:12:58+00:00",
-   "ingested": "2026-10-27T08:09:48.362313+00:00",
-   "headline": "Taiwan central bank: Taiwan dollar falls 1.25% against US dollar in H1 amid foreign net selling of stocks and dividend outflows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822344,
-   "ts": "2026-10-27T04:10:22+00:00",
-   "ingested": "2026-10-27T08:09:48.362329+00:00",
-   "headline": "Taiwan central bank: Taiwan dollar depreciates against U.S. dollar this year, holds steady versus other major currencies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822343,
-   "ts": "2026-10-27T04:09:22+00:00",
-   "ingested": "2026-10-27T08:09:48.362342+00:00",
-   "headline": "Taiwan central bank: current monetary policy stance is tightening",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822342,
-   "ts": "2026-10-27T04:07:18+00:00",
-   "ingested": "2026-10-27T08:09:48.362357+00:00",
-   "headline": "Taiwan central bank: geopolitical risks, climate conditions are main uncertainties shaping future inflation path in Taiwan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822341,
-   "ts": "2026-10-27T04:05:56+00:00",
-   "ingested": "2026-10-27T08:09:48.362371+00:00",
-   "headline": "Taiwan central bank: forecasts Taiwan GDP growth of 5.82% next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822340,
-   "ts": "2026-10-27T04:05:21+00:00",
-   "ingested": "2026-10-27T08:09:48.362386+00:00",
-   "headline": "Taiwan central bank: demand for emerging technologies to remain robust next year, supporting exports and private investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822339,
-   "ts": "2026-10-27T04:04:34+00:00",
-   "ingested": "2026-10-27T08:09:48.362400+00:00",
-   "headline": "Taiwan central bank: forecasts robust economic expansion this year, steady growth in 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822338,
-   "ts": "2026-10-27T04:02:05+00:00",
-   "ingested": "2026-10-27T08:09:48.362416+00:00",
-   "headline": "One killed, 30 injured as drone strikes passenger bus in Russia-occupied Zaporizhzhia Russia-installed official says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822316,
-   "ts": "2026-10-27T03:40:32+00:00",
-   "ingested": "2026-10-27T08:09:48.362429+00:00",
-   "headline": "China finance ministry offers 3-month bills at 1.1222% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822315,
-   "ts": "2026-10-27T03:37:21+00:00",
-   "ingested": "2026-10-27T08:09:48.362443+00:00",
-   "headline": "Israeli military: Incident regarded seriously, continues high defensive readiness in area",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822314,
-   "ts": "2026-10-27T03:36:44+00:00",
-   "ingested": "2026-10-27T08:09:48.362458+00:00",
-   "headline": "Israeli military: Egyptian civilian held after crossing border fence from Egypt into Israel near Nitzana",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822283,
-   "ts": "2026-10-27T03:05:07+00:00",
-   "ingested": "2026-10-27T08:09:48.362471+00:00",
-   "headline": "Ukraine's Kyiv mayor: southern bridge and subway hit in strike",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822162,
-   "ts": "2026-10-27T01:47:12+00:00",
-   "ingested": "2026-10-27T02:23:33.715897+00:00",
-   "headline": "Saudi-led coalition: four drones launched by Yemen's Houthis towards southern region intercepted and destroyed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822157,
-   "ts": "2026-10-27T01:34:37+00:00",
-   "ingested": "2026-10-27T02:23:33.715921+00:00",
-   "headline": "Explosions heard in Kyiv, Ukraine: source witness says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822156,
-   "ts": "2026-10-27T01:32:28+00:00",
-   "ingested": "2026-10-27T02:23:33.715940+00:00",
-   "headline": "China Jan-Sept industrial profits rise 15.5% yr/yr: stats bureau",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822147,
-   "ts": "2026-10-27T01:31:53+00:00",
-   "ingested": "2026-10-27T02:23:33.715957+00:00",
-   "headline": "Chinese Industrial profit YTD Actual 15.5% (Forecast -, Previous 15.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822146,
-   "ts": "2026-10-27T01:21:24+00:00",
-   "ingested": "2026-10-27T02:23:33.715973+00:00",
-   "headline": "China cbank injects 1 trillion yuan through overnight reverse repos: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822145,
-   "ts": "2026-10-27T01:20:40+00:00",
-   "ingested": "2026-10-27T02:23:33.715990+00:00",
-   "headline": "China c.bank injects 412 bln yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822127,
-   "ts": "2026-10-27T01:03:12+00:00",
-   "ingested": "2026-10-27T02:23:33.716005+00:00",
-   "headline": "Russia suspends strikes on Ukraine's Kherson as ceasefire starts in Oleshky: Russian Defence Ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822126,
-   "ts": "2026-10-27T01:02:43+00:00",
-   "ingested": "2026-10-27T02:23:33.716019+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822116,
-   "ts": "2026-10-27T00:39:05+00:00",
-   "ingested": "2026-10-27T02:23:33.716034+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys three ballistic missiles launched by Yemen's Houthis towards eastern region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822102,
-   "ts": "2026-10-27T00:25:00+00:00",
-   "ingested": "2026-10-27T02:23:33.716050+00:00",
-   "headline": "Bank of Korea official: exports and investments strong in Q4, attention on private consumption rebound",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822101,
-   "ts": "2026-10-27T00:22:18+00:00",
-   "ingested": "2026-10-27T02:23:33.716067+00:00",
-   "headline": "Bank of Korea official: chip output to rise next year on HBM production effects, prices to keep climbing but at slower pace",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822100,
-   "ts": "2026-10-27T00:18:25+00:00",
-   "ingested": "2026-10-27T02:23:33.716089+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6731 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822099,
-   "ts": "2026-10-27T00:17:03+00:00",
-   "ingested": "2026-10-27T02:23:33.716105+00:00",
-   "headline": "Bank of Korea official: Q3 GDP lifts this year's economic growth forecast by 0.35 percentage points",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822088,
-   "ts": "2026-10-27T00:15:42+00:00",
-   "ingested": "2026-10-27T02:23:33.716119+00:00",
-   "headline": "Saudi civil defense: threat over in eastern region and Kharj governorate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822085,
-   "ts": "2026-10-27T00:11:42+00:00",
-   "ingested": "2026-10-27T02:23:33.716164+00:00",
-   "headline": "Bank of Korea official: private spending to slowly rebound from Q4 to Q1 2027",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822084,
-   "ts": "2026-10-27T00:08:56+00:00",
-   "ingested": "2026-10-27T02:23:33.716180+00:00",
-   "headline": "Saudi Arabia raises early alert for possible hostile threat in Kharj governorate: civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822083,
-   "ts": "2026-10-27T00:05:34+00:00",
-   "ingested": "2026-10-27T02:23:33.716194+00:00",
-   "headline": "Saudi Arabia issues early alert for potential hostile threat in eastern region: civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822069,
-   "ts": "2026-10-26T23:50:02+00:00",
-   "ingested": "2026-10-27T02:23:33.716208+00:00",
-   "headline": "Japanese Service PPI Actual 3.7% (Forecast 3.7%, Previous 3.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822015,
-   "ts": "2026-10-26T23:00:03+00:00",
-   "ingested": "2026-10-26T23:32:42.791737+00:00",
-   "headline": "S.Korea Q3 private consumption seasonally adjusted declines 0.2% quarter-on-quarter: central bank estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822014,
-   "ts": "2026-10-26T23:00:03+00:00",
-   "ingested": "2026-10-26T23:32:42.791762+00:00",
-   "headline": "S. Korea Q3 facility spending rises 4.1% quarter on quarter: central bank estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822013,
-   "ts": "2026-10-26T23:00:03+00:00",
-   "ingested": "2026-10-26T23:32:42.791780+00:00",
-   "headline": "S.Korea Q3 GDP +3.4% y/y vs poll +3.0%: central bank estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822012,
-   "ts": "2026-10-26T23:00:02+00:00",
-   "ingested": "2026-10-26T23:32:42.791798+00:00",
-   "headline": "S.Korea Q3 GDP seasonally adjusted +1.0% q/q: central bank estimate (Poll: +0.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822011,
-   "ts": "2026-10-26T23:00:02+00:00",
-   "ingested": "2026-10-26T23:32:42.791814+00:00",
-   "headline": "S.Korea Q3 exports rise 2.3% q/q, beat central bank estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822010,
-   "ts": "2026-10-26T23:00:02+00:00",
-   "ingested": "2026-10-26T23:32:42.791831+00:00",
-   "headline": "S. Korea 3rd-quarter construction investment rises 0.7% q/q, central bank estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822009,
-   "ts": "2026-10-26T23:00:00+00:00",
-   "ingested": "2026-10-26T23:32:42.791852+00:00",
-   "headline": "S. Korean GDP YoY Adv. Actual 3.4% (Forecast 3.1%, Previous 3.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9822008,
-   "ts": "2026-10-26T23:00:00+00:00",
-   "ingested": "2026-10-26T23:32:42.791866+00:00",
-   "headline": "S. Korean GDP QoQ Adv. Actual 1% (Forecast 0.8%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821978,
-   "ts": "2026-10-26T22:21:39+00:00",
-   "ingested": "2026-10-26T23:32:42.791882+00:00",
-   "headline": "US appeals court rejects Trump administration request to halt California counting mail ballots from suspected noncitizens",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821942,
-   "ts": "2026-10-26T21:44:29+00:00",
-   "ingested": "2026-10-26T23:32:42.791897+00:00",
-   "headline": "OpenAI: Our models confirm local smoothing conjecture in every dimension, resolving Kakeya and Stein conjectures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821941,
-   "ts": "2026-10-26T21:44:13+00:00",
-   "ingested": "2026-10-26T23:32:42.791912+00:00",
-   "headline": "US Justice Department: Comey case filed to stop statute of limitations, investigation continues - spokesperson",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821940,
-   "ts": "2026-10-26T21:41:59+00:00",
-   "ingested": "2026-10-26T23:32:42.791928+00:00",
-   "headline": "OpenAI: Our system has recently demonstrated that the exponential time hypothesis is false - website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821939,
-   "ts": "2026-10-26T21:37:28+00:00",
-   "ingested": "2026-10-26T23:32:42.791944+00:00",
-   "headline": "OpenAI: announcing three new findings in mathematics, computer science, physics on harmonic analysis, complexity theory, quantum field theory",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821920,
-   "ts": "2026-10-26T21:21:58+00:00",
-   "ingested": "2026-10-26T23:32:42.791957+00:00",
-   "headline": "Codeifai Ltd: Amazon features CDE's ProtectCode on AWS Marketplace",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9821919,
-   "ts": "2026-10-26T21:20:19+00:00",
-   "ingested": "2026-10-26T23:32:42.791969+00:00",
-   "headline": "Comey seeks dismissal of case: court filing",
    "channel": "rss",
    "source": "financialjuice"
   }
