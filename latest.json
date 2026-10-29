@@ -1,7 +1,343 @@
 {
- "updated": "2026-10-29T05:44:01.923957+00:00",
+ "updated": "2026-10-29T11:48:22.295198+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9827150,
+   "ts": "2026-10-29T11:31:30+00:00",
+   "ingested": "2026-10-29T11:48:22.293864+00:00",
+   "headline": "Microsoft kicks off 10-part us dollar high-grade bond offering.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827074,
+   "ts": "2026-10-29T11:02:27+00:00",
+   "ingested": "2026-10-29T11:48:22.293889+00:00",
+   "headline": "Italian Consumer Confidence Actual 90.3 (Forecast 91, Previous 91.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827073,
+   "ts": "2026-10-29T11:02:26+00:00",
+   "ingested": "2026-10-29T11:48:22.293908+00:00",
+   "headline": "Italian Mfg Business Confidence Actual 91.9 (Forecast 92, Previous 91.9 ,Revision 91.9)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827065,
+   "ts": "2026-10-29T10:48:17+00:00",
+   "ingested": "2026-10-29T11:48:22.293924+00:00",
+   "headline": "$LLY Eli Lilly Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827043,
+   "ts": "2026-10-29T10:32:44+00:00",
+   "ingested": "2026-10-29T11:48:22.293938+00:00",
+   "headline": "$CAT Caterpillar Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827042,
+   "ts": "2026-10-29T10:31:36+00:00",
+   "ingested": "2026-10-29T11:48:22.293997+00:00",
+   "headline": "$MRK Merck & Co Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826996,
+   "ts": "2026-10-29T10:14:28+00:00",
+   "ingested": "2026-10-29T11:48:22.294022+00:00",
+   "headline": "Italian Non-EU Flash Trade Balance Actual 2.83B (Forecast -, Previous 2.00B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826995,
+   "ts": "2026-10-29T10:07:17+00:00",
+   "ingested": "2026-10-29T11:48:22.294040+00:00",
+   "headline": "Japan PM Takaichi: Will deploy subsidies aimed at curbing utility, gas bills from December through February.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826994,
+   "ts": "2026-10-29T10:05:29+00:00",
+   "ingested": "2026-10-29T11:48:22.294055+00:00",
+   "headline": "Japan PM Takaichi: To start electricity and gas bill supporting measures from December.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826971,
+   "ts": "2026-10-29T10:01:01+00:00",
+   "ingested": "2026-10-29T11:48:22.294077+00:00",
+   "headline": "ECB Lagarde's successor will be appointed by the European Council following the nomination process outlined in article 283 of the treaty on the functioning of the European Union.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826967,
+   "ts": "2026-10-29T09:57:54+00:00",
+   "ingested": "2026-10-29T11:48:22.294092+00:00",
+   "headline": "ECB President Lagarde plans to step down February 7, she told staff.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826913,
+   "ts": "2026-10-29T09:31:44+00:00",
+   "ingested": "2026-10-29T11:48:22.294108+00:00",
+   "headline": "UK Mortgage Lending Actual 3.866B (Forecast 4.2B, Previous 4.410B ,Revision 4.174B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826914,
+   "ts": "2026-10-29T09:31:44+00:00",
+   "ingested": "2026-10-29T11:48:22.294121+00:00",
+   "headline": "UK M4 Money Supply Actual 0.1% (Forecast -, Previous 0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826915,
+   "ts": "2026-10-29T09:31:43+00:00",
+   "ingested": "2026-10-29T11:48:22.294136+00:00",
+   "headline": "UK Mortgage Approvals Actual 53.443k (Forecast 54k, Previous 54.918k ,Revision 54.814k)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826912,
+   "ts": "2026-10-29T09:31:43+00:00",
+   "ingested": "2026-10-29T11:48:22.294149+00:00",
+   "headline": "BoE Consumer Credit Actual 1.914B (Forecast 2B, Previous 2.464B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826911,
+   "ts": "2026-10-29T09:29:21+00:00",
+   "ingested": "2026-10-29T11:48:22.294164+00:00",
+   "headline": "South Korea, Germany to upgrade bilateral ties to enhanced strategic partnership - Korean Presidential Office.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826887,
+   "ts": "2026-10-29T09:09:16+00:00",
+   "ingested": "2026-10-29T11:48:22.294178+00:00",
+   "headline": "US suspected spy helped China evade constraints on AI chips - NYT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826869,
+   "ts": "2026-10-29T09:01:13+00:00",
+   "ingested": "2026-10-29T11:48:22.294192+00:00",
+   "headline": "Italian Unemployment Rate Actual 6.3% (Forecast 6.2%, Previous 6.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826868,
+   "ts": "2026-10-29T08:55:46+00:00",
+   "ingested": "2026-10-29T11:48:22.294205+00:00",
+   "headline": "Trump Admin in ongoing talks for temporary peace deal - Semafor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826867,
+   "ts": "2026-10-29T08:46:53+00:00",
+   "ingested": "2026-10-29T11:48:22.294222+00:00",
+   "headline": "Iran's Revolutionary Guards Navy: 3 tankers caught fire after hitting mines over last 24 hours off southern coast of Strait of Hormuz.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826857,
+   "ts": "2026-10-29T08:41:59+00:00",
+   "ingested": "2026-10-29T11:48:22.294239+00:00",
+   "headline": "Credit \u00c1gricole: Japan - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826856,
+   "ts": "2026-10-29T08:35:04+00:00",
+   "ingested": "2026-10-29T11:48:22.294252+00:00",
+   "headline": "Credit \u00c1gricole: FOMC Recap - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826819,
+   "ts": "2026-10-29T08:06:06+00:00",
+   "ingested": "2026-10-29T11:48:22.294265+00:00",
+   "headline": "Mizuho bank to raise yen term deposit rates from November 2.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826818,
+   "ts": "2026-10-29T08:04:58+00:00",
+   "ingested": "2026-10-29T11:48:22.294279+00:00",
+   "headline": "Spanish Retail Sales SA YoY Actual -1.4% (Forecast -, Previous -0.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826817,
+   "ts": "2026-10-29T08:03:08+00:00",
+   "ingested": "2026-10-29T11:48:22.294301+00:00",
+   "headline": "EU Energy Chief: We're better situated at dealing with this crisis than we were in 2022 because we've reduced our gas consumption. We use 18% less gas now than we did in 2022.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826816,
+   "ts": "2026-10-29T08:01:27+00:00",
+   "ingested": "2026-10-29T11:48:22.294315+00:00",
+   "headline": "South Korea to issue 12t won of treasury bonds in November.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826749,
+   "ts": "2026-10-29T07:23:47+00:00",
+   "ingested": "2026-10-29T11:48:22.294362+00:00",
+   "headline": "S&P 500 Stock Names Implied Volatility",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826728,
+   "ts": "2026-10-29T07:02:34+00:00",
+   "ingested": "2026-10-29T11:48:22.294389+00:00",
+   "headline": "Currency Strength Chart: Strongest: CAD, JPY, USD, CHF, AUD, EUR, GBP, NZD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826709,
+   "ts": "2026-10-29T07:00:05+00:00",
+   "ingested": "2026-10-29T11:48:22.294444+00:00",
+   "headline": "Swedish GDP YoY Advance  Actual 2.8% (Forecast 2.9%, Previous 3.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826704,
+   "ts": "2026-10-29T06:41:54+00:00",
+   "ingested": "2026-10-29T11:48:22.294469+00:00",
+   "headline": "Russia's Rosatom is discussing with united states possibility of cooperation on small nuclear power plants to supply power to data centres for artificial intelligence - Ria",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826703,
+   "ts": "2026-10-29T06:32:12+00:00",
+   "ingested": "2026-10-29T11:48:22.294487+00:00",
+   "headline": "South Korea National Security Advisor: Continuing talks with US on Strait of Hormuz deployment, still considering various options.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826702,
+   "ts": "2026-10-29T06:31:54+00:00",
+   "ingested": "2026-10-29T11:48:22.294500+00:00",
+   "headline": "UKMTO gets report of incident 9NM North of Khasab, Oman.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826673,
+   "ts": "2026-10-29T06:03:30+00:00",
+   "ingested": "2026-10-29T11:48:22.294513+00:00",
+   "headline": "S.Korea spy agency: situation may shift around Apec - Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826672,
+   "ts": "2026-10-29T06:03:20+00:00",
+   "ingested": "2026-10-29T11:48:22.294529+00:00",
+   "headline": "Equinor: new appraisal well in Afrodite find indicates recoverable gas volumes could be more than double earlier estimates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826671,
+   "ts": "2026-10-29T06:03:00+00:00",
+   "ingested": "2026-10-29T11:48:22.294543+00:00",
+   "headline": "Equinor doubles recoverable gas volume estimate at Afrodite find near Kvitebjorn field",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826670,
+   "ts": "2026-10-29T06:03:00+00:00",
+   "ingested": "2026-10-29T11:48:22.294557+00:00",
+   "headline": "Equinor estimates Afrodite recoverable volumes at 77-180 million barrels of oil equivalent",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826669,
+   "ts": "2026-10-29T06:03:00+00:00",
+   "ingested": "2026-10-29T11:48:22.294572+00:00",
+   "headline": "S.Korea spy agency: gaps endure between US and N.Korea on dialogue terms - Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826668,
+   "ts": "2026-10-29T06:02:51+00:00",
+   "ingested": "2026-10-29T11:48:22.294584+00:00",
+   "headline": "doubles North Sea gas find estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826667,
+   "ts": "2026-10-29T06:02:31+00:00",
+   "ingested": "2026-10-29T11:48:22.294599+00:00",
+   "headline": "S.Korea spy agency: Kim Jong Un may have indicated stance on US-N.Korea talks during China visit - Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826651,
+   "ts": "2026-10-29T06:00:55+00:00",
+   "ingested": "2026-10-29T11:48:22.294615+00:00",
+   "headline": "S.Korea spy agency: Kim Jong Un's China visit seemed to have additional motive beyond marking China's role in Korean War - Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826648,
+   "ts": "2026-10-29T05:57:46+00:00",
+   "ingested": "2026-10-29T11:48:22.294629+00:00",
+   "headline": "Drone debris falls on industrial site territory in Russia's Sterlitamak: mayor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9826647,
+   "ts": "2026-10-29T05:57:06+00:00",
+   "ingested": "2026-10-29T11:48:22.294645+00:00",
+   "headline": "S.Korea spy agency: N.Korea Kim Jong Un visit to China mostly with foreign ministry staff, no key military officials -Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9826639,
    "ts": "2026-10-29T05:40:01+00:00",
@@ -3663,342 +3999,6 @@
    "ts": "2026-10-27T19:53:48+00:00",
    "ingested": "2026-10-27T23:07:00.168115+00:00",
    "headline": "October FOMC Crib Sheet - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823683,
-   "ts": "2026-10-27T19:49:28+00:00",
-   "ingested": "2026-10-27T23:07:00.168125+00:00",
-   "headline": "Trump reiterates that oil is flowing out of the Hormuz Strait",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823682,
-   "ts": "2026-10-27T19:46:56+00:00",
-   "ingested": "2026-10-27T23:07:00.168132+00:00",
-   "headline": "Trump suggests Venezuela could become a US state",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823658,
-   "ts": "2026-10-27T19:36:52+00:00",
-   "ingested": "2026-10-27T23:07:00.168141+00:00",
-   "headline": "Lockheed Martin wins a $694m US Air Force contract, with the company to produce an air-launched hypersonic missile $LMT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823657,
-   "ts": "2026-10-27T19:32:28+00:00",
-   "ingested": "2026-10-27T19:34:05.910674+00:00",
-   "headline": "Oracle: Plan to expand multicloud AI database services to the US government $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823618,
-   "ts": "2026-10-27T19:11:48+00:00",
-   "ingested": "2026-10-27T19:34:05.910705+00:00",
-   "headline": "The US and Russia suggest an oil venture off the Sakhalin coast after the war - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823616,
-   "ts": "2026-10-27T19:09:49+00:00",
-   "ingested": "2026-10-27T19:34:05.910727+00:00",
-   "headline": "HP and Asus shift some PC manufacturing back to China due to AI-driven cost hikes; Dell is also evaluating shifting some PC making back to China, according to sources - Nikkei $HPE $DELL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823615,
-   "ts": "2026-10-27T19:06:41+00:00",
-   "ingested": "2026-10-27T19:34:05.910739+00:00",
-   "headline": "Trumps Speaks live",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823595,
-   "ts": "2026-10-27T18:52:30+00:00",
-   "ingested": "2026-10-27T19:34:05.910751+00:00",
-   "headline": "Iran's President Pezeshkian has left Russia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823594,
-   "ts": "2026-10-27T18:46:42+00:00",
-   "ingested": "2026-10-27T19:34:05.910762+00:00",
-   "headline": "US Energy Secretary Wright: The war with Iran is unfortunate timing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823593,
-   "ts": "2026-10-27T18:46:30+00:00",
-   "ingested": "2026-10-27T19:34:05.910774+00:00",
-   "headline": "Brent Crude futures settle at $113.88/bbl, down $1.93, 1.67%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823587,
-   "ts": "2026-10-27T18:39:54+00:00",
-   "ingested": "2026-10-27T19:34:05.910786+00:00",
-   "headline": "US Energy Secretary Wright: The Iran war has come at a cost - Fox News.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823585,
-   "ts": "2026-10-27T18:31:39+00:00",
-   "ingested": "2026-10-27T19:34:05.910797+00:00",
-   "headline": "NYMEX WTI Crude futures settle at $99.90/bbl, down $1.86, 1.83%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823582,
-   "ts": "2026-10-27T18:31:17+00:00",
-   "ingested": "2026-10-27T19:34:05.910808+00:00",
-   "headline": "NYMEX Diesel November futures settle at $4.7752 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823570,
-   "ts": "2026-10-27T18:31:06+00:00",
-   "ingested": "2026-10-27T19:34:05.910819+00:00",
-   "headline": "NYMEX Gasoline November futures settle at $3.1376 a gallon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823568,
-   "ts": "2026-10-27T18:23:35+00:00",
-   "ingested": "2026-10-27T19:34:05.910829+00:00",
-   "headline": "US Energy Secretary Wright ends remarks on CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823567,
-   "ts": "2026-10-27T18:23:03+00:00",
-   "ingested": "2026-10-27T19:34:05.910840+00:00",
-   "headline": "US Energy Secretary Wright: The US is ramping up LNG exports.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823566,
-   "ts": "2026-10-27T18:22:10+00:00",
-   "ingested": "2026-10-27T19:34:05.910850+00:00",
-   "headline": "US Energy Secretary Wright: The suspension of sanctions on Russia is temporary.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823565,
-   "ts": "2026-10-27T18:20:13+00:00",
-   "ingested": "2026-10-27T19:34:05.910861+00:00",
-   "headline": "US Energy Secretary Wright: Russia cannot export diesel right now.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823564,
-   "ts": "2026-10-27T18:19:30+00:00",
-   "ingested": "2026-10-27T19:34:05.910873+00:00",
-   "headline": "US Energy Secretary Wright: The flow of refined products from the Hormuz Strait has increased.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823562,
-   "ts": "2026-10-27T18:16:49+00:00",
-   "ingested": "2026-10-27T19:34:05.910884+00:00",
-   "headline": "US Energy Secretary Wright: The constellation energy deal will add 1.1 Gigawatts.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823529,
-   "ts": "2026-10-27T18:02:48+00:00",
-   "ingested": "2026-10-27T19:34:05.910895+00:00",
-   "headline": "Treasury accepts $6b of offers for buyback, matching the maximum.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823528,
-   "ts": "2026-10-27T18:02:26+00:00",
-   "ingested": "2026-10-27T19:34:05.910909+00:00",
-   "headline": "Treasury receives $10.746B of offers for buyback, accepts $6B; buyback targets coupons maturing in 2046-2056, accepts 6 of 35 eligible issues.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823513,
-   "ts": "2026-10-27T18:01:40+00:00",
-   "ingested": "2026-10-27T19:34:05.910920+00:00",
-   "headline": "The EU eyes global tax deal revenue to boost next budget - Politico",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823505,
-   "ts": "2026-10-27T17:48:25+00:00",
-   "ingested": "2026-10-27T19:34:05.910930+00:00",
-   "headline": "US VP Vance: I understand Gasoline prices are high",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823492,
-   "ts": "2026-10-27T17:40:40+00:00",
-   "ingested": "2026-10-27T19:34:05.910940+00:00",
-   "headline": "Google launches Genie 4 world model with native audio $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823468,
-   "ts": "2026-10-27T17:06:18+00:00",
-   "ingested": "2026-10-27T19:34:05.910951+00:00",
-   "headline": "Trump: 1 mln barrels of Venezuelan oil is just the 1st shipment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823467,
-   "ts": "2026-10-27T17:05:00+00:00",
-   "ingested": "2026-10-27T19:34:05.910965+00:00",
-   "headline": "Putin: The Bushehr nuclear power plant construction project in Iran has not been stopped and is in operation - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823466,
-   "ts": "2026-10-27T17:04:07+00:00",
-   "ingested": "2026-10-27T19:34:05.910977+00:00",
-   "headline": "News sources report the occurrence of an explosion near Moafaq al-Sulti base in Jordan - Fars News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823461,
-   "ts": "2026-10-27T17:03:42+00:00",
-   "ingested": "2026-10-27T19:34:05.910989+00:00",
-   "headline": "US 5-Year Note Bid-to-Cover Actual 2.330 (Forecast -, Previous 2.210)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823465,
-   "ts": "2026-10-27T17:03:09+00:00",
-   "ingested": "2026-10-27T19:34:05.910999+00:00",
-   "headline": "US 5-Year Note Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823460,
-   "ts": "2026-10-27T17:02:11+00:00",
-   "ingested": "2026-10-27T19:34:05.911010+00:00",
-   "headline": "US 5-Year Note High Yield Actual 4.845% (Forecast -, Previous 5.033%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823446,
-   "ts": "2026-10-27T17:00:23+00:00",
-   "ingested": "2026-10-27T19:34:05.911021+00:00",
-   "headline": "Treasury WI 5y yield 4.841% before the $70 billion auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823443,
-   "ts": "2026-10-27T16:50:00+00:00",
-   "ingested": "2026-10-27T19:34:05.911032+00:00",
-   "headline": "Iran and Russia presidents discuss energy cooperation and trade",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823429,
-   "ts": "2026-10-27T16:45:37+00:00",
-   "ingested": "2026-10-27T19:34:05.911063+00:00",
-   "headline": "Fed bids for 5-Year notes total $7.8 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823425,
-   "ts": "2026-10-27T16:45:05+00:00",
-   "ingested": "2026-10-27T19:34:05.911085+00:00",
-   "headline": "Iran, Russia presidents hold talks in Moscow - Tasnim",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823395,
-   "ts": "2026-10-27T16:05:54+00:00",
-   "ingested": "2026-10-27T19:34:05.911096+00:00",
-   "headline": "Oracle brings google TPUs to Oracle Cloud infrastructure. $ORCL $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823393,
-   "ts": "2026-10-27T16:04:18+00:00",
-   "ingested": "2026-10-27T19:34:05.911109+00:00",
-   "headline": "Oracle adds networking capabilities to Acceleron for AI. OpenAI expands partnership with Oracle to bring apps to ChatGPT. $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823392,
-   "ts": "2026-10-27T16:02:29+00:00",
-   "ingested": "2026-10-27T19:34:05.911119+00:00",
-   "headline": "Oracle expands OpenAI partnership - CNBC. $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823377,
-   "ts": "2026-10-27T16:01:09+00:00",
-   "ingested": "2026-10-27T19:34:05.911130+00:00",
-   "headline": "Nvidia & Oracle expand Nvidia Vera Rubin $NVDA $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823375,
-   "ts": "2026-10-27T16:00:57+00:00",
-   "ingested": "2026-10-27T19:34:05.911140+00:00",
-   "headline": "Intel and Oracle plan expanded pact. $INTC $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823374,
-   "ts": "2026-10-27T16:00:36+00:00",
-   "ingested": "2026-10-27T19:34:05.911151+00:00",
-   "headline": "Google upgrades AI world model that rattled video game stocks $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823373,
-   "ts": "2026-10-27T16:00:33+00:00",
-   "ingested": "2026-10-27T19:34:05.911162+00:00",
-   "headline": "Oracle and Cerebras announce partnership in statement. $ORCL",
    "channel": "rss",
    "source": "financialjuice"
   }
