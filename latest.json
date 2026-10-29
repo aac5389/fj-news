@@ -1,7 +1,799 @@
 {
- "updated": "2026-10-29T11:48:22.295198+00:00",
+ "updated": "2026-10-29T17:36:14.777154+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9827825,
+   "ts": "2026-10-29T17:34:53+00:00",
+   "ingested": "2026-10-29T17:36:14.775616+00:00",
+   "headline": "Netanyahu's bloc leads in final vote count - Israel's N12 News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827824,
+   "ts": "2026-10-29T17:33:16+00:00",
+   "ingested": "2026-10-29T17:36:14.775639+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: Progress can only be achieved once Iran\u2019s seven conditions have been agreed upon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827823,
+   "ts": "2026-10-29T17:33:04+00:00",
+   "ingested": "2026-10-29T17:36:14.775654+00:00",
+   "headline": "Iran's Parliament Speaker Ghalibaf: Iran's conditions have been repeatedly and clearly stated to the mediators",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827822,
+   "ts": "2026-10-29T17:32:29+00:00",
+   "ingested": "2026-10-29T17:36:14.775668+00:00",
+   "headline": "Exxon and Chevron cancel plans for their executives to travel to UAE's oil conference ADIPEC next week on security ground - two sources. $XOM $CVX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827802,
+   "ts": "2026-10-29T17:23:18+00:00",
+   "ingested": "2026-10-29T17:36:14.775678+00:00",
+   "headline": "WATCH LIVE: Trump Speaks at Rally",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827792,
+   "ts": "2026-10-29T17:16:25+00:00",
+   "ingested": "2026-10-29T17:36:14.775688+00:00",
+   "headline": "Nvidia: Huang interactions with MegasPeed not unusual - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827781,
+   "ts": "2026-10-29T17:15:52+00:00",
+   "ingested": "2026-10-29T17:36:14.775698+00:00",
+   "headline": "Apple cuts Taiwan app store commission rate to 26%. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827780,
+   "ts": "2026-10-29T17:15:34+00:00",
+   "ingested": "2026-10-29T17:36:14.775709+00:00",
+   "headline": "French Interior Minister: We will mobilise 70,000 security forces to maintain order during October 31st protests in France",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827775,
+   "ts": "2026-10-29T17:04:33+00:00",
+   "ingested": "2026-10-29T17:36:14.775719+00:00",
+   "headline": "Yemeni army has targeted the Aramco oil company in widespread wave of missile attacks - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827773,
+   "ts": "2026-10-29T17:03:50+00:00",
+   "ingested": "2026-10-29T17:36:14.775730+00:00",
+   "headline": "US 7-Year Bid-to-Cover Actual 2.460 (Forecast -, Previous 2.420)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827774,
+   "ts": "2026-10-29T17:03:33+00:00",
+   "ingested": "2026-10-29T17:36:14.775738+00:00",
+   "headline": "US 7-Yr Note Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827772,
+   "ts": "2026-10-29T17:02:11+00:00",
+   "ingested": "2026-10-29T17:36:14.775748+00:00",
+   "headline": "US 7-Year High Yield Actual 4.894% (Forecast -, Previous 5.085%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827751,
+   "ts": "2026-10-29T17:00:18+00:00",
+   "ingested": "2026-10-29T17:36:14.775758+00:00",
+   "headline": "Treasury WI 7y yield 4.894% before $44 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827746,
+   "ts": "2026-10-29T16:45:33+00:00",
+   "ingested": "2026-10-29T17:36:14.775767+00:00",
+   "headline": "Fed bids for 7-Year notes total $4.9 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827744,
+   "ts": "2026-10-29T16:37:56+00:00",
+   "ingested": "2026-10-29T17:36:14.775778+00:00",
+   "headline": "EU Commissioner Jorgensen: Half of oil stock releases in coming months will be diesel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827743,
+   "ts": "2026-10-29T16:37:22+00:00",
+   "ingested": "2026-10-29T17:36:14.775789+00:00",
+   "headline": "EU Commissioner Jorgensen: EU member states have reaffirmed their commitment to an accelerated release of 42.6 million barrels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827742,
+   "ts": "2026-10-29T16:36:46+00:00",
+   "ingested": "2026-10-29T17:36:14.775800+00:00",
+   "headline": "EU Commissioner Jorgensen: We do not expect security of oil, gas supply, but citizens struggling to pay bills.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827713,
+   "ts": "2026-10-29T16:21:12+00:00",
+   "ingested": "2026-10-29T17:36:14.775810+00:00",
+   "headline": "Microsoft expects to raise about $25 bln in US bond sale - source. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827712,
+   "ts": "2026-10-29T16:20:16+00:00",
+   "ingested": "2026-10-29T17:36:14.775820+00:00",
+   "headline": "UK October year-ahead public inflation expectations 4.2% vs 4.5% in September - Citi/YouGov",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827711,
+   "ts": "2026-10-29T16:20:01+00:00",
+   "ingested": "2026-10-29T17:36:14.775830+00:00",
+   "headline": "UK October long-term public inflation expectations 4.0% vs 4.3% in September - Citi YouGov",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827676,
+   "ts": "2026-10-29T16:00:26+00:00",
+   "ingested": "2026-10-29T17:36:14.775841+00:00",
+   "headline": "US 30-yr fixed rate mortgage averages 7.24% in Oct 29 week vs 7.32% prior week - Freddie Mac",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827665,
+   "ts": "2026-10-29T15:46:07+00:00",
+   "ingested": "2026-10-29T17:36:14.775850+00:00",
+   "headline": "Russia set to extend diesel export ban until the end of the year - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827663,
+   "ts": "2026-10-29T15:35:58+00:00",
+   "ingested": "2026-10-29T17:36:14.775859+00:00",
+   "headline": "ECB officials are ready to raise interest rates in December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827661,
+   "ts": "2026-10-29T15:32:10+00:00",
+   "ingested": "2026-10-29T17:36:14.775872+00:00",
+   "headline": "US 4-Week Bill High Yield Actual 3.91% (Forecast -, Previous 3.945%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827660,
+   "ts": "2026-10-29T15:32:10+00:00",
+   "ingested": "2026-10-29T17:36:14.775883+00:00",
+   "headline": "US 4-Week Bill Bid-to-Cover Actual 3.1 (Forecast -, Previous 2.820)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827645,
+   "ts": "2026-10-29T15:27:53+00:00",
+   "ingested": "2026-10-29T17:36:14.775896+00:00",
+   "headline": "New ECB staff estimates show bond yield rise cutting growth by cumulative 100 BPS, inflation by 90 BPS in 2027-28 vs Sept baseline - sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827644,
+   "ts": "2026-10-29T15:23:50+00:00",
+   "ingested": "2026-10-29T17:36:14.775906+00:00",
+   "headline": "FCC votes to ban all Chinese labs from testing US electronics starting in December 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827642,
+   "ts": "2026-10-29T15:19:38+00:00",
+   "ingested": "2026-10-29T17:36:14.775916+00:00",
+   "headline": "Fitch Ratings: US private credit default rate remains elevated in 3Q26",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827628,
+   "ts": "2026-10-29T15:15:36+00:00",
+   "ingested": "2026-10-29T17:36:14.775925+00:00",
+   "headline": "Fed bids for 4-Week bills total $5.9 bln.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827615,
+   "ts": "2026-10-29T15:01:12+00:00",
+   "ingested": "2026-10-29T17:36:14.775935+00:00",
+   "headline": "Shell CEO: We are at record diesel production.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827613,
+   "ts": "2026-10-29T15:00:55+00:00",
+   "ingested": "2026-10-29T17:36:14.775947+00:00",
+   "headline": "IMF: We fully back Fed chair Warsh's remarks on focus on price stability; Fed is rightly monitoring data closely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827612,
+   "ts": "2026-10-29T15:00:54+00:00",
+   "ingested": "2026-10-29T17:36:14.775957+00:00",
+   "headline": "IMF: Fed and ECB face high uncertainty and must closely monitor data going forward.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827611,
+   "ts": "2026-10-29T15:00:51+00:00",
+   "ingested": "2026-10-29T17:36:14.775969+00:00",
+   "headline": "IMF: US growth resilient so far, propelled by private consumption despite higher oil prices and inflation, plus investment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827610,
+   "ts": "2026-10-29T15:00:50+00:00",
+   "ingested": "2026-10-29T17:36:14.775978+00:00",
+   "headline": "IMF: Important for United States to keep expanding how technology gains are shared.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827609,
+   "ts": "2026-10-29T15:00:49+00:00",
+   "ingested": "2026-10-29T17:36:14.775988+00:00",
+   "headline": "IMF: US expansion buoyed by robust productivity gains over past three years",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827608,
+   "ts": "2026-10-29T15:00:46+00:00",
+   "ingested": "2026-10-29T17:36:14.775997+00:00",
+   "headline": "US treasury to sell $95 billion in three-month bills",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827607,
+   "ts": "2026-10-29T15:00:41+00:00",
+   "ingested": "2026-10-29T17:36:14.776006+00:00",
+   "headline": "US Treasury to sell $82 billion in six-month bills",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827580,
+   "ts": "2026-10-29T14:42:57+00:00",
+   "ingested": "2026-10-29T17:36:14.776015+00:00",
+   "headline": "Trump concludes remarks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827579,
+   "ts": "2026-10-29T14:42:17+00:00",
+   "ingested": "2026-10-29T17:36:14.776026+00:00",
+   "headline": "Iran insists on its seven conditions being met by US, any position that contradicts this framework is unacceptable - Tasnim News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827578,
+   "ts": "2026-10-29T14:41:24+00:00",
+   "ingested": "2026-10-29T17:36:14.776036+00:00",
+   "headline": "Iran's Tansim news agency: Iran received letter from Vance, has not replied.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827577,
+   "ts": "2026-10-29T14:40:58+00:00",
+   "ingested": "2026-10-29T17:36:14.776045+00:00",
+   "headline": "Iran hasn't yet replied to Vance's letter - Tasnim",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827575,
+   "ts": "2026-10-29T14:38:59+00:00",
+   "ingested": "2026-10-29T17:36:14.776055+00:00",
+   "headline": "WH Sr. Adviser Hassett: If Oct. inflation  is really high, Fed probably to act.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827574,
+   "ts": "2026-10-29T14:36:49+00:00",
+   "ingested": "2026-10-29T17:36:14.776063+00:00",
+   "headline": "WATCH LIVE: Trump Speaks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827573,
+   "ts": "2026-10-29T14:32:19+00:00",
+   "ingested": "2026-10-29T17:36:14.776072+00:00",
+   "headline": "ECB's President Lagarde concludes press conference.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827543,
+   "ts": "2026-10-29T14:30:01+00:00",
+   "ingested": "2026-10-29T17:36:14.776082+00:00",
+   "headline": "EIA Natural Gas Change BCF Actual 80B (Forecast 72B, Previous 77B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827542,
+   "ts": "2026-10-29T14:28:34+00:00",
+   "ingested": "2026-10-29T17:36:14.776091+00:00",
+   "headline": "ECB President Lagarde: no plan to readjust",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827541,
+   "ts": "2026-10-29T14:28:29+00:00",
+   "ingested": "2026-10-29T17:36:14.776100+00:00",
+   "headline": "ECB President Lagarde: quantitative tightening is progressing mechanically",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827540,
+   "ts": "2026-10-29T14:28:05+00:00",
+   "ingested": "2026-10-29T17:36:14.776109+00:00",
+   "headline": "ECB President Lagarde: no shift in approach on bond repayments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827539,
+   "ts": "2026-10-29T14:22:37+00:00",
+   "ingested": "2026-10-29T17:36:14.776125+00:00",
+   "headline": "Before noon today, a delinquent oil tanker traveling in the forbidden and unsafe area in the east of the Strait of Hormuz was damaged and caught fire due to collision with sea mines and stopped moving - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827538,
+   "ts": "2026-10-29T14:22:19+00:00",
+   "ingested": "2026-10-29T17:36:14.776135+00:00",
+   "headline": "Offending oil tanker collides with sea mines, damaged, catches fire and is stopped - IRIB News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827537,
+   "ts": "2026-10-29T14:19:08+00:00",
+   "ingested": "2026-10-29T17:36:14.776146+00:00",
+   "headline": "EU's von der Leyen: this implies combined or supplementary investment, including private funding on both sides",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827536,
+   "ts": "2026-10-29T14:19:06+00:00",
+   "ingested": "2026-10-29T17:36:14.776156+00:00",
+   "headline": "EU's von der Leyen: EU and Canada to create unified space for strategic supply chains",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827535,
+   "ts": "2026-10-29T14:18:29+00:00",
+   "ingested": "2026-10-29T17:36:14.776166+00:00",
+   "headline": "Fear & Greed Index: 35/100 - Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827534,
+   "ts": "2026-10-29T14:18:01+00:00",
+   "ingested": "2026-10-29T17:36:14.776176+00:00",
+   "headline": "Crypto Fear & Greed Index: 51/100 - Neutral",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827533,
+   "ts": "2026-10-29T14:17:01+00:00",
+   "ingested": "2026-10-29T17:36:14.776186+00:00",
+   "headline": "ECB's Lagarde: We have no plan to restrict the number of meetings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827532,
+   "ts": "2026-10-29T14:16:34+00:00",
+   "ingested": "2026-10-29T17:36:14.776198+00:00",
+   "headline": "QatarEnergy CEO: Has met Iranian Acting Petroleum Minister twice in past two weeks, exploring postwar cooperation in oil and gas",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827526,
+   "ts": "2026-10-29T14:16:19+00:00",
+   "ingested": "2026-10-29T17:36:14.776208+00:00",
+   "headline": "ECB president Lagarde: direction of travel fairly clear for all of us",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827508,
+   "ts": "2026-10-29T14:15:13+00:00",
+   "ingested": "2026-10-29T17:36:14.776221+00:00",
+   "headline": "QatarEnergy CEO: Qatar Buying US LNG as Hedge Against Hormuz Disruptions, Expects More Long-Term Deals by End-2026, Target \"Much Higher\" Than 7 MTPA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827507,
+   "ts": "2026-10-29T14:13:44+00:00",
+   "ingested": "2026-10-29T17:36:14.776233+00:00",
+   "headline": "ECB's Lagarde: Countries with high debt have to factor into fiscal policy plans that rates are higher and will probably remain higher",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827506,
+   "ts": "2026-10-29T14:13:20+00:00",
+   "ingested": "2026-10-29T17:36:14.776242+00:00",
+   "headline": "ECB's Lagarde: Debt issuance by hyperscalers plays a role in yield rise",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827505,
+   "ts": "2026-10-29T14:12:20+00:00",
+   "ingested": "2026-10-29T17:36:14.776252+00:00",
+   "headline": "ECB president Lagarde: long end of curve has climbed globally",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827504,
+   "ts": "2026-10-29T14:12:19+00:00",
+   "ingested": "2026-10-29T17:36:14.776261+00:00",
+   "headline": "ECB president Lagarde: focus on 10-year and full bond curve",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827503,
+   "ts": "2026-10-29T14:10:31+00:00",
+   "ingested": "2026-10-29T17:36:14.776270+00:00",
+   "headline": "ECB President Lagarde: ECB will probably develop scenarios in December",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827502,
+   "ts": "2026-10-29T14:09:11+00:00",
+   "ingested": "2026-10-29T17:36:14.776282+00:00",
+   "headline": "EU\u2019s Von der Leyen: It will be \u2018partnership without membership\u2019",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827501,
+   "ts": "2026-10-29T14:08:35+00:00",
+   "ingested": "2026-10-29T17:36:14.776292+00:00",
+   "headline": "EU's Von der Leyen: talks under way on Canada as first associate member of EU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827500,
+   "ts": "2026-10-29T14:08:34+00:00",
+   "ingested": "2026-10-29T17:36:14.776303+00:00",
+   "headline": "EU's von der Leyen: Canada cannot join EU due to location, but aims to elevate ties to highest level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827499,
+   "ts": "2026-10-29T14:08:32+00:00",
+   "ingested": "2026-10-29T17:36:14.776313+00:00",
+   "headline": "ECB President Lagarde: in strong enough position to wait for further data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827498,
+   "ts": "2026-10-29T14:06:22+00:00",
+   "ingested": "2026-10-29T17:36:14.776322+00:00",
+   "headline": "ECB President Lagarde: ECB is unanimously seen as well positioned",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827497,
+   "ts": "2026-10-29T14:05:59+00:00",
+   "ingested": "2026-10-29T17:36:14.776331+00:00",
+   "headline": "ECB President Lagarde: Measured approach still suitable at this time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827496,
+   "ts": "2026-10-29T14:05:07+00:00",
+   "ingested": "2026-10-29T17:36:14.776341+00:00",
+   "headline": "ECB President Lagarde: governing council discussed if increase was suitable",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827495,
+   "ts": "2026-10-29T14:04:46+00:00",
+   "ingested": "2026-10-29T17:36:14.776351+00:00",
+   "headline": "ECB President Lagarde: cost of long-term borrowing has risen since Sept.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827494,
+   "ts": "2026-10-29T14:03:03+00:00",
+   "ingested": "2026-10-29T17:36:14.776361+00:00",
+   "headline": "ECB President Lagarde: no sign of second-round effects beyond projections",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827493,
+   "ts": "2026-10-29T14:02:38+00:00",
+   "ingested": "2026-10-29T17:36:14.776370+00:00",
+   "headline": "ECB President Lagarde: indirect impact from energy price surge has intensified",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827457,
+   "ts": "2026-10-29T13:58:05+00:00",
+   "ingested": "2026-10-29T17:36:14.776380+00:00",
+   "headline": "ECB President Lagarde: financial conditions have become more stringent since last meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827456,
+   "ts": "2026-10-29T13:58:02+00:00",
+   "ingested": "2026-10-29T17:36:14.776389+00:00",
+   "headline": "ECB's Lagarde: Financial conditions have tightened",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827455,
+   "ts": "2026-10-29T13:56:53+00:00",
+   "ingested": "2026-10-29T17:36:14.776399+00:00",
+   "headline": "ECB's President Lagarde: Fiscal uncertainty may further tighten financial conditions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827454,
+   "ts": "2026-10-29T13:56:08+00:00",
+   "ingested": "2026-10-29T17:36:14.776408+00:00",
+   "headline": "ECB's Lagarde: Risks to inflation are to the upside.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827453,
+   "ts": "2026-10-29T13:55:41+00:00",
+   "ingested": "2026-10-29T17:36:14.776417+00:00",
+   "headline": "US Treasury Secretary Bessent: Great GDP number",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827452,
+   "ts": "2026-10-29T13:55:26+00:00",
+   "ingested": "2026-10-29T17:36:14.776427+00:00",
+   "headline": "ECB's Lagarde: Worsening of market sentiment could tighten financing conditions, dampen demand.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827451,
+   "ts": "2026-10-29T13:54:35+00:00",
+   "ingested": "2026-10-29T17:36:14.776436+00:00",
+   "headline": "ECB President Lagarde: growth risks point downward",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827450,
+   "ts": "2026-10-29T13:54:28+00:00",
+   "ingested": "2026-10-29T17:36:14.776445+00:00",
+   "headline": "ECB president Lagarde: subsequent drop in energy inflation expected to reduce headline inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827449,
+   "ts": "2026-10-29T13:53:58+00:00",
+   "ingested": "2026-10-29T17:36:14.776454+00:00",
+   "headline": "ECB President Lagarde: energy prices have risen beyond baseline",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827448,
+   "ts": "2026-10-29T13:53:57+00:00",
+   "ingested": "2026-10-29T17:36:14.776465+00:00",
+   "headline": "ECB President Lagarde: negotiated wage growth to range 2.5%-2.8% for remainder of year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827447,
+   "ts": "2026-10-29T13:53:45+00:00",
+   "ingested": "2026-10-29T17:36:14.776474+00:00",
+   "headline": "ECB President Lagarde: most gauges of long-term inflation expectations near 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827446,
+   "ts": "2026-10-29T13:53:33+00:00",
+   "ingested": "2026-10-29T17:36:14.776484+00:00",
+   "headline": "ECB President Lagarde: Wage tracker shows 2.5%-2.8% growth in remaining months of 2026",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827445,
+   "ts": "2026-10-29T13:53:18+00:00",
+   "ingested": "2026-10-29T17:36:14.776493+00:00",
+   "headline": "ECB President Lagarde: wage pressures stay moderate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827444,
+   "ts": "2026-10-29T13:53:11+00:00",
+   "ingested": "2026-10-29T17:36:14.776502+00:00",
+   "headline": "ECB's President Lagarde: Early stages of pricing chain point to upward pressure",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827443,
+   "ts": "2026-10-29T13:52:47+00:00",
+   "ingested": "2026-10-29T17:36:14.776511+00:00",
+   "headline": "ECB President Lagarde: underlying inflation stayed largely steady",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827442,
+   "ts": "2026-10-29T13:52:18+00:00",
+   "ingested": "2026-10-29T17:36:14.776519+00:00",
+   "headline": "WH Sr. Adviser Hassett ends remarks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827441,
+   "ts": "2026-10-29T13:51:45+00:00",
+   "ingested": "2026-10-29T17:36:14.776529+00:00",
+   "headline": "ECB President Lagarde: fiscal measures should be temporary, focused, customized",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827438,
+   "ts": "2026-10-29T13:51:05+00:00",
+   "ingested": "2026-10-29T17:36:14.776537+00:00",
+   "headline": "ECB President Lagarde: fiscal stability is crucial anchor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827437,
+   "ts": "2026-10-29T13:51:05+00:00",
+   "ingested": "2026-10-29T17:36:14.776547+00:00",
+   "headline": "ECB President Lagarde: exports expected to accelerate on support",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827436,
+   "ts": "2026-10-29T13:50:49+00:00",
+   "ingested": "2026-10-29T17:36:14.776557+00:00",
+   "headline": "ECB President Lagarde: AI investment, government spending need to bolster growth",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827435,
+   "ts": "2026-10-29T13:50:12+00:00",
+   "ingested": "2026-10-29T17:36:14.776567+00:00",
+   "headline": "ECB President Lagarde: new rise in energy prices dents consumer confidence",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827434,
+   "ts": "2026-10-29T13:50:06+00:00",
+   "ingested": "2026-10-29T17:36:14.776576+00:00",
+   "headline": "ECB President Lagarde: growth to stay supported in near term",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827433,
+   "ts": "2026-10-29T13:49:42+00:00",
+   "ingested": "2026-10-29T17:36:14.776586+00:00",
+   "headline": "ECB's Lagarde: Incoming data suggests economy expanding in Q3",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827431,
+   "ts": "2026-10-29T13:49:13+00:00",
+   "ingested": "2026-10-29T17:36:14.776596+00:00",
+   "headline": "WH Sr. Adviser Hassett: There's room to let inflation get under control",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827430,
+   "ts": "2026-10-29T13:47:42+00:00",
+   "ingested": "2026-10-29T17:36:14.776614+00:00",
+   "headline": "ECB's President Lagarde repeats ECB policy statement.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9827429,
+   "ts": "2026-10-29T13:47:10+00:00",
+   "ingested": "2026-10-29T17:36:14.776623+00:00",
+   "headline": "Hassett: Supply side boom putting downward pressure on prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9827150,
    "ts": "2026-10-29T11:31:30+00:00",
@@ -3207,798 +3999,6 @@
    "ts": "2026-10-28T01:03:19+00:00",
    "ingested": "2026-10-28T02:10:04.131591+00:00",
    "headline": "RBNZ minutes: ongoing higher refined fuel prices and currency depreciation could risk greater indirect inflation effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824078,
-   "ts": "2026-10-28T01:03:07+00:00",
-   "ingested": "2026-10-28T02:10:04.131608+00:00",
-   "headline": "RBNZ minutes: four members Anna Breman, Carl Hansen, Prasanna Gal, Rebecca Williams vote to hold OCR, three members Paul Conway, Hayley Gourley, Karen Silk back increase",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824077,
-   "ts": "2026-10-28T01:02:31+00:00",
-   "ingested": "2026-10-28T02:10:04.131621+00:00",
-   "headline": "RBNZ minutes: more OCR hikes probable, but dependent on economic outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824076,
-   "ts": "2026-10-28T01:02:18+00:00",
-   "ingested": "2026-10-28T02:10:04.131636+00:00",
-   "headline": "RBNZ: committee focused on bringing inflation back to 2 percent target midpoint over medium term",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824075,
-   "ts": "2026-10-28T01:02:13+00:00",
-   "ingested": "2026-10-28T02:10:04.131652+00:00",
-   "headline": "RBNZ: New Zealand\u2019s recovery may be stronger than expected but could lose momentum if global environment weakens",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824074,
-   "ts": "2026-10-28T01:02:12+00:00",
-   "ingested": "2026-10-28T02:10:04.131665+00:00",
-   "headline": "RBNZ members agreed on inflation forecast, differed on risk weightings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824073,
-   "ts": "2026-10-28T01:02:11+00:00",
-   "ingested": "2026-10-28T02:10:04.131679+00:00",
-   "headline": "RBNZ: Committee agrees tighter monetary policy probably needed, depends on economic outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824072,
-   "ts": "2026-10-28T01:02:08+00:00",
-   "ingested": "2026-10-28T02:10:04.131692+00:00",
-   "headline": "pi signals upside risks for inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824071,
-   "ts": "2026-10-28T01:02:08+00:00",
-   "ingested": "2026-10-28T02:10:04.131704+00:00",
-   "headline": "Difficult to fully assess supply shocks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824070,
-   "ts": "2026-10-28T01:02:08+00:00",
-   "ingested": "2026-10-28T02:10:04.131718+00:00",
-   "headline": "RBNZ: members varied in emphasis on risks and timing of monetary policy response",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824069,
-   "ts": "2026-10-28T01:02:06+00:00",
-   "ingested": "2026-10-28T02:10:04.131731+00:00",
-   "headline": "RBNZ: committee agreed stronger monetary policy likely needed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824066,
-   "ts": "2026-10-28T01:01:42+00:00",
-   "ingested": "2026-10-28T02:10:04.131757+00:00",
-   "headline": "New Zealand dollar falls 1.4% to $0.5600 after Reserve Bank keeps rates steady",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824050,
-   "ts": "2026-10-28T01:01:36+00:00",
-   "ingested": "2026-10-28T02:10:04.131772+00:00",
-   "headline": "New Zealand Cash Rate Actual 2.75% (Forecast 3%, Previous 2.75%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824057,
-   "ts": "2026-10-28T01:01:29+00:00",
-   "ingested": "2026-10-28T02:10:04.131785+00:00",
-   "headline": "RBNZ: global factors contributing to inflation pressures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824056,
-   "ts": "2026-10-28T01:01:28+00:00",
-   "ingested": "2026-10-28T02:10:04.131798+00:00",
-   "headline": "RBNZ: all committee members concur on overall inflation outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824055,
-   "ts": "2026-10-28T01:01:24+00:00",
-   "ingested": "2026-10-28T02:10:04.131813+00:00",
-   "headline": "Taiwan overnight interbank rate starts at 0.805% unchanged from prior session",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824054,
-   "ts": "2026-10-28T01:01:24+00:00",
-   "ingested": "2026-10-28T02:10:04.131826+00:00",
-   "headline": "Reserve Bank of New Zealand sets official cash rate at 2.75%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824053,
-   "ts": "2026-10-28T01:00:52+00:00",
-   "ingested": "2026-10-28T02:10:04.131839+00:00",
-   "headline": "Monetary policy committee today votes 4-3 to keep OCR at 2.75%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824051,
-   "ts": "2026-10-28T01:00:51+00:00",
-   "ingested": "2026-10-28T02:10:04.131852+00:00",
-   "headline": "New Zealand's Reserve Bank keeps OCR steady at 2.75%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824049,
-   "ts": "2026-10-28T00:55:56+00:00",
-   "ingested": "2026-10-28T02:10:04.131865+00:00",
-   "headline": "RBA Governor Bullock: challenging to fully see through supply shocks",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824048,
-   "ts": "2026-10-28T00:52:46+00:00",
-   "ingested": "2026-10-28T02:10:04.131879+00:00",
-   "headline": "RBA Governor Bullock: CPI points to upside risks for inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824047,
-   "ts": "2026-10-28T00:52:23+00:00",
-   "ingested": "2026-10-28T02:10:04.131891+00:00",
-   "headline": "RBA Governor Bullock: unable to provide outlook for board decision",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824046,
-   "ts": "2026-10-28T00:51:54+00:00",
-   "ingested": "2026-10-28T02:10:04.131904+00:00",
-   "headline": "RBA's Hunter: August CPI was stronger than expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824027,
-   "ts": "2026-10-28T00:38:56+00:00",
-   "ingested": "2026-10-28T02:10:04.131917+00:00",
-   "headline": "RBA Deputy Governor Hauser: CPI figures meet expectations but remain elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824026,
-   "ts": "2026-10-28T00:38:28+00:00",
-   "ingested": "2026-10-28T02:10:04.131930+00:00",
-   "headline": "Anthropic selects JPMorgan to head US retail offering in IPO",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824013,
-   "ts": "2026-10-28T00:31:48+00:00",
-   "ingested": "2026-10-28T02:10:04.131943+00:00",
-   "headline": "Australian CPI YoY Actual 3.9% (Forecast -, Previous 4.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824000,
-   "ts": "2026-10-28T00:31:34+00:00",
-   "ingested": "2026-10-28T02:10:04.131956+00:00",
-   "headline": "RBA Weighted Mean CPI YoY Actual 3.6% (Forecast -, Previous 3.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823999,
-   "ts": "2026-10-28T00:31:34+00:00",
-   "ingested": "2026-10-28T02:10:04.131968+00:00",
-   "headline": "RBA Weighted Median CPI QoQ Actual 1.0% (Forecast -, Previous 0.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824014,
-   "ts": "2026-10-28T00:30:19+00:00",
-   "ingested": "2026-10-28T02:10:04.131982+00:00",
-   "headline": "Australia Q3 consumer price index rises 3.9% year-on-year, in line with poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824012,
-   "ts": "2026-10-28T00:30:09+00:00",
-   "ingested": "2026-10-28T02:10:04.131996+00:00",
-   "headline": "Australia Q3 RBA trimmed mean CPI rises 1% q/q, in line with poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824011,
-   "ts": "2026-10-28T00:30:05+00:00",
-   "ingested": "2026-10-28T02:10:04.132009+00:00",
-   "headline": "Australia Q3 RBA weighted median CPI rises 1% q/q, poll expected 1.1%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824010,
-   "ts": "2026-10-28T00:30:05+00:00",
-   "ingested": "2026-10-28T02:10:04.132022+00:00",
-   "headline": "Meta launches Muse personal AI assistant in Singapore",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824009,
-   "ts": "2026-10-28T00:30:05+00:00",
-   "ingested": "2026-10-28T02:10:04.132035+00:00",
-   "headline": "Australia Q3 CPI (all groups) rises 1.3% q/q, poll expected 1.2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824008,
-   "ts": "2026-10-28T00:30:05+00:00",
-   "ingested": "2026-10-28T02:10:04.132048+00:00",
-   "headline": "Australia Sept RBA trimmed mean CPI rises 0.3% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824007,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132062+00:00",
-   "headline": "Australia Q3 RBA trimmed mean CPI rose 3.7% yr/yr, poll expected 3.6%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824006,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132075+00:00",
-   "headline": "Australia Sept RBA trimmed mean CPI rises 3.6% yr/yr",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824005,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132088+00:00",
-   "headline": "Australia Sept CPI (all groups) rises 4.3% year on year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824004,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132102+00:00",
-   "headline": "Australia Q3 RBA weighted median CPI rises 3.6% year on year, matching poll expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824003,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132115+00:00",
-   "headline": "Australia Sept RBA weighted median CPI rises 0.2% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824002,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132128+00:00",
-   "headline": "Australia Sept RBA Weighted Median CPI Rises 3.4% Year/Year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9824001,
-   "ts": "2026-10-28T00:30:04+00:00",
-   "ingested": "2026-10-28T02:10:04.132140+00:00",
-   "headline": "Australia Sept CPI (all groups) rises 0.8% m/m",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823998,
-   "ts": "2026-10-28T00:30:02+00:00",
-   "ingested": "2026-10-28T02:10:04.132153+00:00",
-   "headline": "RBA Trimmed Mean CPI QoQ Actual 1% (Forecast 1%, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823997,
-   "ts": "2026-10-28T00:30:02+00:00",
-   "ingested": "2026-10-28T02:10:04.132166+00:00",
-   "headline": "RBA Trimmed Mean CPI YoY Actual 3.7% (Forecast 3.6%, Previous 3.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823996,
-   "ts": "2026-10-28T00:30:02+00:00",
-   "ingested": "2026-10-28T02:10:04.132179+00:00",
-   "headline": "Australian CPI QoQ Actual 1.3% (Forecast 1.2%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823995,
-   "ts": "2026-10-28T00:30:01+00:00",
-   "ingested": "2026-10-28T02:10:04.132191+00:00",
-   "headline": "Australian CPI YoY NSA Actual 4.3% (Forecast 4.2%, Previous 4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823994,
-   "ts": "2026-10-28T00:20:11+00:00",
-   "ingested": "2026-10-28T02:10:04.132205+00:00",
-   "headline": "China PBOC likely to fix yuan midpoint at 6.6734 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823993,
-   "ts": "2026-10-28T00:20:06+00:00",
-   "ingested": "2026-10-28T02:10:04.132219+00:00",
-   "headline": "RBA Governor Bullock: labour market appears slightly tighter than previously assessed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823992,
-   "ts": "2026-10-28T00:19:56+00:00",
-   "ingested": "2026-10-28T02:10:04.132232+00:00",
-   "headline": "RBA Governor Bullock: inflation still seen from domestic capacity pressures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823991,
-   "ts": "2026-10-28T00:19:56+00:00",
-   "ingested": "2026-10-28T02:10:04.132244+00:00",
-   "headline": "Household spending growth has been slowing only gradually",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823990,
-   "ts": "2026-10-28T00:19:40+00:00",
-   "ingested": "2026-10-28T02:10:04.132258+00:00",
-   "headline": "Monetary policy works with a lag: Full effects of recent rate hikes yet to impact domestic activity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823989,
-   "ts": "2026-10-28T00:19:40+00:00",
-   "ingested": "2026-10-28T02:10:04.132271+00:00",
-   "headline": "Impact of Middle East conflict on economic activity has been relatively modest so far",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823988,
-   "ts": "2026-10-28T00:19:40+00:00",
-   "ingested": "2026-10-28T02:10:04.132284+00:00",
-   "headline": "RBA Governor Bullock: short-term inflation outlook remains elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823987,
-   "ts": "2026-10-28T00:19:29+00:00",
-   "ingested": "2026-10-28T02:10:04.132298+00:00",
-   "headline": "RBA Governor Bullock: oil and related prices jump sharply again, will significantly boost inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823986,
-   "ts": "2026-10-28T00:19:17+00:00",
-   "ingested": "2026-10-28T02:10:04.132311+00:00",
-   "headline": "RBA governor Bullock: Inflation will likely exceed August base case",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823985,
-   "ts": "2026-10-28T00:18:48+00:00",
-   "ingested": "2026-10-28T02:10:04.132324+00:00",
-   "headline": "RBA Governor Bullock: extended phase of weak aggregate demand needed to ease capacity pressures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823984,
-   "ts": "2026-10-28T00:18:32+00:00",
-   "ingested": "2026-10-28T02:10:04.132337+00:00",
-   "headline": "RBA Governor Bullock: Household spending growth easing only gradually",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823983,
-   "ts": "2026-10-28T00:18:25+00:00",
-   "ingested": "2026-10-28T02:10:04.132351+00:00",
-   "headline": "RBA Governor Bullock: impact of Middle East conflict on economic activity has been relatively modest so far",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823982,
-   "ts": "2026-10-28T00:18:15+00:00",
-   "ingested": "2026-10-28T02:10:04.132366+00:00",
-   "headline": "RBA governor Bullock: monetary policy acts with delay, full impact of recent rate hikes not yet seen on domestic activity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823981,
-   "ts": "2026-10-28T00:17:52+00:00",
-   "ingested": "2026-10-28T02:10:04.132381+00:00",
-   "headline": "Netanyahu's bloc now leads Eisenkot's bloc: updated Channel 12 exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823980,
-   "ts": "2026-10-28T00:17:42+00:00",
-   "ingested": "2026-10-28T02:10:04.132414+00:00",
-   "headline": "RBA Governor Bullock: acknowledge higher interest rates can be tough, but high inflation can't persist",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823979,
-   "ts": "2026-10-28T00:17:20+00:00",
-   "ingested": "2026-10-28T02:10:04.132429+00:00",
-   "headline": "RBA Governor Bullock: we are dedicated to mandate of delivering price stability and full employment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823978,
-   "ts": "2026-10-28T00:17:11+00:00",
-   "ingested": "2026-10-28T02:10:04.132445+00:00",
-   "headline": "RBA Governor Bullock: key question is whether monetary policy tightening so far will be enough to return inflation to target in reasonable time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823976,
-   "ts": "2026-10-28T00:01:57+00:00",
-   "ingested": "2026-10-28T02:10:04.132460+00:00",
-   "headline": "financial terms and other details of OpenAI\u2019s planned acquisition of Google chips remain undisclosed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823975,
-   "ts": "2026-10-28T00:01:32+00:00",
-   "ingested": "2026-10-28T02:10:04.132473+00:00",
-   "headline": "OpenAI plans to acquire Google's AI chips: The Information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823958,
-   "ts": "2026-10-27T23:46:11+00:00",
-   "ingested": "2026-10-28T02:10:04.132488+00:00",
-   "headline": "U.S. cost of Iran war operations climbs above $47 billion: Pentagon estimate seen by source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823948,
-   "ts": "2026-10-27T23:40:12+00:00",
-   "ingested": "2026-10-28T02:10:04.132502+00:00",
-   "headline": "Netanyahu bloc now equals Eisenkot bloc: Kan 11 updated exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823947,
-   "ts": "2026-10-27T23:39:31+00:00",
-   "ingested": "2026-10-28T02:10:04.132515+00:00",
-   "headline": "Netanyahu's Likud rises to 27 seats, Kan 11 updated exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823946,
-   "ts": "2026-10-27T23:33:57+00:00",
-   "ingested": "2026-10-28T02:10:04.132532+00:00",
-   "headline": "US judge to rule Wednesday on justice department\u2019s urgent plea to stop California counting mail ballots from suspected noncitizens - court hearing",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823935,
-   "ts": "2026-10-27T23:23:05+00:00",
-   "ingested": "2026-10-28T02:10:04.132545+00:00",
-   "headline": "Eisenkot tells defense establishment Netanyahu has lost people's trust",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823934,
-   "ts": "2026-10-27T23:18:45+00:00",
-   "ingested": "2026-10-28T02:10:04.132558+00:00",
-   "headline": "Eisenkot: I will do everything possible to meet people's wishes",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823933,
-   "ts": "2026-10-27T23:17:38+00:00",
-   "ingested": "2026-10-28T02:10:04.132573+00:00",
-   "headline": "Saudi-led coalition: Intercepts and destroys ballistic missile launched by Yemen's Houthis toward Taif",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823932,
-   "ts": "2026-10-27T23:17:37+00:00",
-   "ingested": "2026-10-28T02:10:04.132585+00:00",
-   "headline": "Eisenkot: Israeli public has chosen change, opposing Netanyahu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823915,
-   "ts": "2026-10-27T23:08:00+00:00",
-   "ingested": "2026-10-28T02:10:04.132598+00:00",
-   "headline": "Danger has passed in Jeddah and Yanbu: Saudi civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823914,
-   "ts": "2026-10-27T23:02:05+00:00",
-   "ingested": "2026-10-27T23:07:00.167885+00:00",
-   "headline": "Netanyahu-led bloc now matches rival Eisenkot camp: Updated Channel 13 exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823902,
-   "ts": "2026-10-27T22:59:35+00:00",
-   "ingested": "2026-10-27T23:07:00.167901+00:00",
-   "headline": "Saudi Arabia issues early warning for possible hostile threat in Jeddah: civil defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823884,
-   "ts": "2026-10-27T22:41:35+00:00",
-   "ingested": "2026-10-27T23:07:00.167911+00:00",
-   "headline": "UK's Healey to restore cuts to cash ISA limits - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823869,
-   "ts": "2026-10-27T22:25:27+00:00",
-   "ingested": "2026-10-27T23:07:00.167920+00:00",
-   "headline": "Anthropic: Claude enterprise pursuing FedRAMP moderate approval via FedRAMP 20x program",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823868,
-   "ts": "2026-10-27T22:25:21+00:00",
-   "ingested": "2026-10-27T23:07:00.167929+00:00",
-   "headline": "Anthropic: government agencies can purchase Claude at onegov discount via GSA's multiple award schedule today - website",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823867,
-   "ts": "2026-10-27T22:24:14+00:00",
-   "ingested": "2026-10-27T23:07:00.167937+00:00",
-   "headline": "Anthropic: discount on Claude products broadens to state, local, tribal, territorial governments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823866,
-   "ts": "2026-10-27T22:24:06+00:00",
-   "ingested": "2026-10-27T23:07:00.167945+00:00",
-   "headline": "Anthropic: launching dedicated program to help agencies optimize Claude use",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823865,
-   "ts": "2026-10-27T22:23:37+00:00",
-   "ingested": "2026-10-27T23:07:00.167952+00:00",
-   "headline": "Anthropic expands GSA partnership with 40% markdown on Claude products for government",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823835,
-   "ts": "2026-10-27T21:59:44+00:00",
-   "ingested": "2026-10-27T23:07:00.167965+00:00",
-   "headline": "Enlitic signs three-year $144,000 deal with Southwest Medical Imaging for Ensight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823788,
-   "ts": "2026-10-27T21:02:08+00:00",
-   "ingested": "2026-10-27T23:07:00.167974+00:00",
-   "headline": "Chile's central bank: council will closely monitor signs of increased shock transmission or persistence in inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823787,
-   "ts": "2026-10-27T21:01:43+00:00",
-   "ingested": "2026-10-27T23:07:00.167981+00:00",
-   "headline": "IMF: reaches staff-level accord on third review under Argentina's extended fund facility arrangement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823774,
-   "ts": "2026-10-27T21:01:18+00:00",
-   "ingested": "2026-10-27T23:07:00.167994+00:00",
-   "headline": "Chile\u2019s central bank: local economy may regain momentum by 2027, but current weakness could last longer than expected",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823769,
-   "ts": "2026-10-27T21:00:40+00:00",
-   "ingested": "2026-10-27T23:07:00.168002+00:00",
-   "headline": "Chile's central bank: future interest rate path to be evaluated on meeting-by-meeting basis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823767,
-   "ts": "2026-10-27T20:47:10+00:00",
-   "ingested": "2026-10-27T23:07:00.168010+00:00",
-   "headline": "US API Cushing Stock Change Actual -0.453M (Forecast -, Previous 0.936M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823766,
-   "ts": "2026-10-27T20:46:58+00:00",
-   "ingested": "2026-10-27T23:07:00.168017+00:00",
-   "headline": "US API Distillate Stock Change Actual 0.38M (Forecast -, Previous -2.6M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823765,
-   "ts": "2026-10-27T20:46:44+00:00",
-   "ingested": "2026-10-27T23:07:00.168025+00:00",
-   "headline": "US API Gasoline Stock Change Actual 2.39M (Forecast -, Previous -2.577M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823764,
-   "ts": "2026-10-27T20:46:32+00:00",
-   "ingested": "2026-10-27T23:07:00.168032+00:00",
-   "headline": "US API Crude Stock Change Actual -2.031M (Forecast 0.8M, Previous -4.93M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823752,
-   "ts": "2026-10-27T20:45:37+00:00",
-   "ingested": "2026-10-27T23:07:00.168041+00:00",
-   "headline": "UK's Chancellor Healey prepares to slash household gas bills by \u00a350 - The Telegraph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823710,
-   "ts": "2026-10-27T20:07:01+00:00",
-   "ingested": "2026-10-27T23:07:00.168053+00:00",
-   "headline": "Israeli Journalist Neira Kraus on X, citing Israeli election projections: Netanyahu is not projected to be Israel\u2019s next prime minister. However, it remains unclear which coalition could be formed",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823709,
-   "ts": "2026-10-27T20:06:43+00:00",
-   "ingested": "2026-10-27T23:07:00.168060+00:00",
-   "headline": "$V Visa Q4 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823708,
-   "ts": "2026-10-27T20:05:45+00:00",
-   "ingested": "2026-10-27T23:07:00.168068+00:00",
-   "headline": "Three Israeli exit polls see the Eisenkot Bloc leading, but with no majority.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823706,
-   "ts": "2026-10-27T20:01:57+00:00",
-   "ingested": "2026-10-27T23:07:00.168077+00:00",
-   "headline": "Israel's Channel 12 Poll: The \"Eisenkot Bloc\" is leading with 52 seats, while the \"Netanyahu Bloc\" has 50. The Arab parties received 18 seats.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823703,
-   "ts": "2026-10-27T20:01:41+00:00",
-   "ingested": "2026-10-27T23:07:00.168085+00:00",
-   "headline": "Israel's Prime Minister Netanyahu bloc trails in Israel vote - N12 exit poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823690,
-   "ts": "2026-10-27T20:01:02+00:00",
-   "ingested": "2026-10-27T23:07:00.168094+00:00",
-   "headline": "Netanyahu's Likud Party is to win 24 of 120 seats in the Knesset - Channel 12 Exit Poll.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823689,
-   "ts": "2026-10-27T20:00:29+00:00",
-   "ingested": "2026-10-27T23:07:00.168101+00:00",
-   "headline": "Israel's Prime Minister Netanyahu Likud leads in Israel vote - N12 Exit Poll",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823686,
-   "ts": "2026-10-27T19:53:49+00:00",
-   "ingested": "2026-10-27T23:07:00.168109+00:00",
-   "headline": "US Interest Rate Prep: Rate Hold is Likely, but what about December? - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9823685,
-   "ts": "2026-10-27T19:53:48+00:00",
-   "ingested": "2026-10-27T23:07:00.168115+00:00",
-   "headline": "October FOMC Crib Sheet - FJElite",
    "channel": "rss",
    "source": "financialjuice"
   }
