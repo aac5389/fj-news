@@ -1,12 +1,12 @@
 {
- "updated_et": "2026-10-29 14:47 ET",
+ "updated_et": "2026-10-30 04:57 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-03 16:30 ET",
-   "minutes_until": 7302,
+   "minutes_until": 6452,
    "moves": [
     "CL"
    ],
@@ -16,7 +16,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-04 10:30 ET",
-   "minutes_until": 8382,
+   "minutes_until": 7532,
    "moves": [
     "CL"
    ],
@@ -25,7 +25,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-11-06 08:30 ET",
-   "minutes_until": 11142,
+   "minutes_until": 10292,
    "moves": [
     "ES",
     "GC"
@@ -35,7 +35,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-11-10 08:30 ET",
-   "minutes_until": 16902,
+   "minutes_until": 16052,
    "moves": [
     "ES",
     "GC"
@@ -45,7 +45,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-10 16:30 ET",
-   "minutes_until": 17382,
+   "minutes_until": 16532,
    "moves": [
     "CL"
    ],
@@ -55,7 +55,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-12 12:00 ET",
-   "minutes_until": 19992,
+   "minutes_until": 19142,
    "moves": [
     "CL"
    ],
@@ -65,7 +65,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-11-13 08:30 ET",
-   "minutes_until": 21222,
+   "minutes_until": 20372,
    "moves": [
     "ES",
     "GC"
@@ -75,7 +75,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-17 16:30 ET",
-   "minutes_until": 27462,
+   "minutes_until": 26612,
    "moves": [
     "CL"
    ],
@@ -85,7 +85,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-18 10:30 ET",
-   "minutes_until": 28542,
+   "minutes_until": 27692,
    "moves": [
     "CL"
    ],
@@ -94,7 +94,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-11-24 16:30 ET",
-   "minutes_until": 37542,
+   "minutes_until": 36692,
    "moves": [
     "CL"
    ],
@@ -102,9 +102,9 @@
    "note": "approximate; not holiday-adjusted"
   },
   {
-   "name": "Gross Domestic Product",
+   "name": "Personal Income and Outlays",
    "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 38502,
+   "minutes_until": 37652,
    "moves": [
     "ES",
     "GC"
@@ -112,9 +112,9 @@
    "source": "BEA"
   },
   {
-   "name": "Personal Income and Outlays",
+   "name": "Gross Domestic Product",
    "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 38502,
+   "minutes_until": 37652,
    "moves": [
     "ES",
     "GC"
@@ -124,7 +124,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-11-25 10:30 ET",
-   "minutes_until": 38622,
+   "minutes_until": 37772,
    "moves": [
     "CL"
    ],
@@ -133,7 +133,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-01 16:30 ET",
-   "minutes_until": 47622,
+   "minutes_until": 46772,
    "moves": [
     "CL"
    ],
@@ -143,7 +143,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-02 10:30 ET",
-   "minutes_until": 48702,
+   "minutes_until": 47852,
    "moves": [
     "CL"
    ],
@@ -152,7 +152,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-12-04 08:30 ET",
-   "minutes_until": 51462,
+   "minutes_until": 50612,
    "moves": [
     "ES",
     "GC"
@@ -162,7 +162,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-08 16:30 ET",
-   "minutes_until": 57702,
+   "minutes_until": 56852,
    "moves": [
     "CL"
    ],
@@ -172,7 +172,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-09 10:30 ET",
-   "minutes_until": 58782,
+   "minutes_until": 57932,
    "moves": [
     "CL"
    ],
@@ -181,7 +181,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-12-10 08:30 ET",
-   "minutes_until": 60102,
+   "minutes_until": 59252,
    "moves": [
     "ES",
     "GC"
