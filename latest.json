@@ -1,7 +1,31 @@
 {
- "updated": "2026-10-31T22:09:11.361411+00:00",
+ "updated": "2026-11-01T01:07:03.248746+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831069,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T01:07:03.248334+00:00",
+   "headline": "S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831068,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T01:07:03.248353+00:00",
+   "headline": "S. Korea October imports rise 36.0% y/y, below poll of 39.9%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9831067,
+   "ts": "2026-11-01T00:00:03+00:00",
+   "ingested": "2026-11-01T01:07:03.248366+00:00",
+   "headline": "S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831020,
    "ts": "2026-10-31T21:28:48+00:00",
@@ -3975,30 +3999,6 @@
    "ts": "2026-10-29T15:00:51+00:00",
    "ingested": "2026-10-29T17:36:14.775969+00:00",
    "headline": "IMF: US growth resilient so far, propelled by private consumption despite higher oil prices and inflation, plus investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827610,
-   "ts": "2026-10-29T15:00:50+00:00",
-   "ingested": "2026-10-29T17:36:14.775978+00:00",
-   "headline": "IMF: Important for United States to keep expanding how technology gains are shared.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827609,
-   "ts": "2026-10-29T15:00:49+00:00",
-   "ingested": "2026-10-29T17:36:14.775988+00:00",
-   "headline": "IMF: US expansion buoyed by robust productivity gains over past three years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827608,
-   "ts": "2026-10-29T15:00:46+00:00",
-   "ingested": "2026-10-29T17:36:14.775997+00:00",
-   "headline": "US treasury to sell $95 billion in three-month bills",
    "channel": "rss",
    "source": "financialjuice"
   }
