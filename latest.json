@@ -1,7 +1,15 @@
 {
- "updated": "2026-11-01T01:07:03.248746+00:00",
+ "updated": "2026-11-01T07:28:08.397372+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9831280,
+   "ts": "2026-11-01T06:50:34+00:00",
+   "ingested": "2026-11-01T07:28:08.396989+00:00",
+   "headline": "Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9831069,
    "ts": "2026-11-01T00:00:03+00:00",
@@ -3991,14 +3999,6 @@
    "ts": "2026-10-29T15:00:54+00:00",
    "ingested": "2026-10-29T17:36:14.775957+00:00",
    "headline": "IMF: Fed and ECB face high uncertainty and must closely monitor data going forward.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9827611,
-   "ts": "2026-10-29T15:00:51+00:00",
-   "ingested": "2026-10-29T17:36:14.775969+00:00",
-   "headline": "IMF: US growth resilient so far, propelled by private consumption despite higher oil prices and inflation, plus investment",
    "channel": "rss",
    "source": "financialjuice"
   }
