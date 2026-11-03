@@ -1,7 +1,239 @@
 {
- "updated": "2026-11-03T16:19:53.954687+00:00",
+ "updated": "2026-11-03T21:51:04.761893+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9835482,
+   "ts": "2026-11-03T21:45:01+00:00",
+   "ingested": "2026-11-03T21:51:04.761019+00:00",
+   "headline": "New Zealand Participation Rate Actual 70.4% (Forecast 70.7%, Previous 70.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835481,
+   "ts": "2026-11-03T21:45:01+00:00",
+   "ingested": "2026-11-03T21:51:04.761040+00:00",
+   "headline": "New Zealand Job Growth QoQ Actual -0.1% (Forecast 0.4%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835480,
+   "ts": "2026-11-03T21:45:00+00:00",
+   "ingested": "2026-11-03T21:51:04.761056+00:00",
+   "headline": "New Zealand Unemployment Rate Actual 5.7% (Forecast 5.5%, Previous 5.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835438,
+   "ts": "2026-11-03T21:16:06+00:00",
+   "ingested": "2026-11-03T21:51:04.761069+00:00",
+   "headline": "$AMD Q3 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835434,
+   "ts": "2026-11-03T21:15:04+00:00",
+   "ingested": "2026-11-03T21:51:04.761083+00:00",
+   "headline": "ECB's Kocher: Dec. rate hike likely if situation doesn't change.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835433,
+   "ts": "2026-11-03T21:14:36+00:00",
+   "ingested": "2026-11-03T21:51:04.761098+00:00",
+   "headline": "ECB's Kocher: ECB will continue to react on inflation when necessary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835432,
+   "ts": "2026-11-03T21:13:23+00:00",
+   "ingested": "2026-11-03T21:51:04.761108+00:00",
+   "headline": "ECB's Kocher: Risks to inflation remain elevated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835386,
+   "ts": "2026-11-03T20:35:02+00:00",
+   "ingested": "2026-11-03T21:51:04.761125+00:00",
+   "headline": "UK Navy: Received report of vessel struck by an unknown projectile 9nm northeast of Lima, Oman; vessel and crew safe",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835331,
+   "ts": "2026-11-03T19:46:26+00:00",
+   "ingested": "2026-11-03T21:51:04.761140+00:00",
+   "headline": "Brent Crude futures settle at $103.60/bbl, down $1.17, 1.12%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835321,
+   "ts": "2026-11-03T19:31:40+00:00",
+   "ingested": "2026-11-03T21:51:04.761152+00:00",
+   "headline": "NYMEX Nat Gas Dec. futures settle at $2.8950/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835308,
+   "ts": "2026-11-03T19:31:12+00:00",
+   "ingested": "2026-11-03T21:51:04.761164+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.9355 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835306,
+   "ts": "2026-11-03T19:31:05+00:00",
+   "ingested": "2026-11-03T21:51:04.761176+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.5306 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835305,
+   "ts": "2026-11-03T19:30:58+00:00",
+   "ingested": "2026-11-03T21:51:04.761190+00:00",
+   "headline": "NYMEX WTI Crude Dec. futures settle at $96.09 a barrel down 37 cents, 0.38%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835275,
+   "ts": "2026-11-03T19:05:31+00:00",
+   "ingested": "2026-11-03T21:51:04.761201+00:00",
+   "headline": "Apple opens Siri AI preview to all developers. $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835274,
+   "ts": "2026-11-03T19:02:56+00:00",
+   "ingested": "2026-11-03T21:51:04.761212+00:00",
+   "headline": "ECB's Sleijpen: Problems in France must be solved in Paris",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835246,
+   "ts": "2026-11-03T18:50:02+00:00",
+   "ingested": "2026-11-03T21:51:04.761228+00:00",
+   "headline": "US officials have held up approval for American chipmaking equipment needed by SK Hynix to expand production in China - Sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835240,
+   "ts": "2026-11-03T18:39:16+00:00",
+   "ingested": "2026-11-03T21:51:04.761240+00:00",
+   "headline": "ECB's Nagel on France Budget: This isn't a task for monetary policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835239,
+   "ts": "2026-11-03T18:38:56+00:00",
+   "ingested": "2026-11-03T21:51:04.761252+00:00",
+   "headline": "ECB's Nagel: I am confident that France will get a grip on its budget issues.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835238,
+   "ts": "2026-11-03T18:34:29+00:00",
+   "ingested": "2026-11-03T21:51:04.761264+00:00",
+   "headline": "ECB's Sleijpen: Tightening is slowing Europe's economy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835237,
+   "ts": "2026-11-03T18:34:02+00:00",
+   "ingested": "2026-11-03T21:51:04.761276+00:00",
+   "headline": "ECB's Sleijpen: The advance in energy risks has knock-on inflation effects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835235,
+   "ts": "2026-11-03T18:31:29+00:00",
+   "ingested": "2026-11-03T21:51:04.761287+00:00",
+   "headline": "ECB's Sleijpen: We don't really see second-round effects yet.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835218,
+   "ts": "2026-11-03T18:27:02+00:00",
+   "ingested": "2026-11-03T21:51:04.761300+00:00",
+   "headline": "ECB's Sleijpen: The Iran shock is more persistent than earlier thought.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835217,
+   "ts": "2026-11-03T18:19:12+00:00",
+   "ingested": "2026-11-03T21:51:04.761315+00:00",
+   "headline": "Trump is negotiating an agreement with Venezuela on US troops - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835193,
+   "ts": "2026-11-03T18:00:30+00:00",
+   "ingested": "2026-11-03T21:51:04.761328+00:00",
+   "headline": "ECB's Nagel: We can and must prevent an energy price spike from causing broad-based inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835191,
+   "ts": "2026-11-03T18:00:20+00:00",
+   "ingested": "2026-11-03T21:51:04.761340+00:00",
+   "headline": "ECB's Nagel: Inflationary pressures higher than expected in September; approaching adverse scenario",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835190,
+   "ts": "2026-11-03T18:00:15+00:00",
+   "ingested": "2026-11-03T21:51:04.761355+00:00",
+   "headline": "ECB's Nagel: A rate hike in December is very likely to be necessary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835188,
+   "ts": "2026-11-03T17:52:47+00:00",
+   "ingested": "2026-11-03T21:51:04.761381+00:00",
+   "headline": "Israel tells the US that Iran is weighing chemical weapons use - NYT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835169,
+   "ts": "2026-11-03T17:37:30+00:00",
+   "ingested": "2026-11-03T21:51:04.761401+00:00",
+   "headline": "Fitch Ratings: French banks\u2019 rating headroom narrows on sovereign outlook revision.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9835069,
+   "ts": "2026-11-03T16:28:24+00:00",
+   "ingested": "2026-11-03T21:51:04.761414+00:00",
+   "headline": "Greenland's Parliament approves a security deal with the United States.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9835068,
    "ts": "2026-11-03T16:18:05+00:00",
@@ -3767,238 +3999,6 @@
    "ts": "2026-11-01T13:58:05+00:00",
    "ingested": "2026-11-01T14:26:25.347548+00:00",
    "headline": "Russia's security service: minor detained after US tip-off over threat to carry out terrorist attack in Tsaritsyno park - Interfax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831456,
-   "ts": "2026-11-01T13:11:40+00:00",
-   "ingested": "2026-11-01T14:26:25.347565+00:00",
-   "headline": "Iran's Foreign Minister Aragchi on talks with Qatari mediators: negotiations ongoing and advancing, no definitive conclusion reached yet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831455,
-   "ts": "2026-11-01T13:10:18+00:00",
-   "ingested": "2026-11-01T14:26:25.347580+00:00",
-   "headline": "Iran's state media citing Foreign Minister Aragchi on talks with Qatari mediators: hope for rationality from other side",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831451,
-   "ts": "2026-11-01T13:01:06+00:00",
-   "ingested": "2026-11-01T14:26:25.347597+00:00",
-   "headline": "Russia\u2019s state statistics service: targeted by cyberattacks between Oct. 29 and Nov. 1; no data breached - Interfax",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831435,
-   "ts": "2026-11-01T12:26:08+00:00",
-   "ingested": "2026-11-01T14:26:25.347609+00:00",
-   "headline": "OPEC+ keeps oil output quotas unchanged for December at Sunday meeting: statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831434,
-   "ts": "2026-11-01T12:23:29+00:00",
-   "ingested": "2026-11-01T14:26:25.347622+00:00",
-   "headline": "World Bank to sign $1 billion deal with Egypt for second phase of development program: Egyptian cabinet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831417,
-   "ts": "2026-11-01T12:10:38+00:00",
-   "ingested": "2026-11-01T14:26:25.347659+00:00",
-   "headline": "Kremlin: positive assessment of humanitarian operation in Oleshky and coordination between Russian and Ukrainian ombudsmen",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831373,
-   "ts": "2026-11-01T11:09:54+00:00",
-   "ingested": "2026-11-01T14:26:25.347675+00:00",
-   "headline": "Iranian negotiators in Doha for third day of talks with Qatari mediators: official briefed on discussions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831358,
-   "ts": "2026-11-01T10:33:37+00:00",
-   "ingested": "2026-11-01T14:26:25.347687+00:00",
-   "headline": "Zelenskiy: Ukraine strikes Kamensky plant in Russia\u2019s Rostov region",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831322,
-   "ts": "2026-11-01T09:46:28+00:00",
-   "ingested": "2026-11-01T14:26:25.347700+00:00",
-   "headline": "Ukraine's Zelenskiy: Russia targeted energy infrastructure in four regions overnight, hundreds of thousands lose power",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831292,
-   "ts": "2026-11-01T07:39:48+00:00",
-   "ingested": "2026-11-01T14:26:25.347715+00:00",
-   "headline": "Russian investigators open criminal case on terrorism over attack on industrial site in Nizhny Novgorod region: TASS cites investigative committee",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831280,
-   "ts": "2026-11-01T06:50:34+00:00",
-   "ingested": "2026-11-01T07:28:08.396989+00:00",
-   "headline": "Industrial facility in Russia's Nizhny Novgorod region suffers major damage after extensive drone strike, governor says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831069,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T01:07:03.248334+00:00",
-   "headline": "S.Korea Oct trade surplus provisional $42.50 billion vs $49.97 billion in Sept",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831068,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T01:07:03.248353+00:00",
-   "headline": "S. Korea October imports rise 36.0% y/y, below poll of 39.9%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831067,
-   "ts": "2026-11-01T00:00:03+00:00",
-   "ingested": "2026-11-01T01:07:03.248366+00:00",
-   "headline": "S.Korea Oct exports rise 93.7% y/y, beating poll of 93.2%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9831020,
-   "ts": "2026-10-31T21:28:48+00:00",
-   "ingested": "2026-10-31T22:09:11.360797+00:00",
-   "headline": "FBI: North Korea was behind the theft of over $6 billion in virtual assets from cryptocurrency exchange Binance",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830986,
-   "ts": "2026-10-31T19:01:29+00:00",
-   "ingested": "2026-10-31T22:09:11.360825+00:00",
-   "headline": "Iran\u2019s security chief Rezaei: Strait of Hormuz to stay closed until Tehran\u2019s conditions fulfilled",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830953,
-   "ts": "2026-10-31T18:58:53+00:00",
-   "ingested": "2026-10-31T22:09:11.360844+00:00",
-   "headline": "Iran\u2019s Rezaei: Iran\u2019s nuclear rights under non-proliferation treaty must be respected if talks happen in later stages",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830952,
-   "ts": "2026-10-31T18:53:35+00:00",
-   "ingested": "2026-10-31T22:09:11.360858+00:00",
-   "headline": "Iran's Rezaei: War must end permanently, no nation should dare attack Iran again",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830951,
-   "ts": "2026-10-31T18:52:34+00:00",
-   "ingested": "2026-10-31T22:09:11.360874+00:00",
-   "headline": "Iran security chief Rezaei tells state TV: we seriously pursue diplomacy but won\u2019t forsake Iranian people\u2019s rights",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830941,
-   "ts": "2026-10-31T18:27:03+00:00",
-   "ingested": "2026-10-31T18:51:19.176949+00:00",
-   "headline": "Security chief Rezaei: Iran's nuclear issue can be discussed only after US meets Iran's demands - state TV",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830939,
-   "ts": "2026-10-31T18:22:05+00:00",
-   "ingested": "2026-10-31T18:51:19.177002+00:00",
-   "headline": "Trade in food and agricultural products should not be used as tool for economic or political coercion: G20 chair says",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830935,
-   "ts": "2026-10-31T17:56:04+00:00",
-   "ingested": "2026-10-31T18:51:19.177046+00:00",
-   "headline": "Iran security chief Rezaei: no new decision on changing nuclear doctrine, debate ongoing if same doctrine should continue in another war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830930,
-   "ts": "2026-10-31T17:35:14+00:00",
-   "ingested": "2026-10-31T18:51:19.177082+00:00",
-   "headline": "Iran's security chief Rezaei: tone of Vance letter has changed, signaling Iranian people's victory - Iran news agencies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830922,
-   "ts": "2026-10-31T16:56:36+00:00",
-   "ingested": "2026-10-31T18:51:19.177110+00:00",
-   "headline": "Iran's navy: oil tanker 'operated in limited zone' - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830921,
-   "ts": "2026-10-31T16:55:48+00:00",
-   "ingested": "2026-10-31T18:51:19.177139+00:00",
-   "headline": "Iran's navy: oil tanker ignites in Strait of Hormuz after hitting naval mines - state media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830920,
-   "ts": "2026-10-31T16:53:06+00:00",
-   "ingested": "2026-10-31T18:51:19.177176+00:00",
-   "headline": "US Secretary of State Rubio: anticipate Trump, China's Xi to convene at G20 and APEC gatherings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830918,
-   "ts": "2026-10-31T16:46:07+00:00",
-   "ingested": "2026-10-31T18:51:19.177208+00:00",
-   "headline": "US Secretary of State Rubio: discussed with Russia's Lavrov chance for Trump, Putin to meet at APEC next month",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830916,
-   "ts": "2026-10-31T16:41:23+00:00",
-   "ingested": "2026-10-31T18:51:19.177235+00:00",
-   "headline": "Indian govt releases tax devolution of 1.09 trillion rupees to states as advance instalment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9830915,
-   "ts": "2026-10-31T16:39:31+00:00",
-   "ingested": "2026-10-31T18:51:19.177266+00:00",
-   "headline": "US Secretary of State Rubio: Zelenskiy invite possible if 'something positive' results from attending G20 summit",
    "channel": "rss",
    "source": "financialjuice"
   }
