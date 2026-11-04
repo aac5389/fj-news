@@ -1,7 +1,383 @@
 {
- "updated": "2026-11-04T16:32:17.450543+00:00",
+ "updated": "2026-11-04T22:09:45.490000+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837569,
+   "ts": "2026-11-04T21:54:45+00:00",
+   "ingested": "2026-11-04T22:09:45.488662+00:00",
+   "headline": "Qualcomm CEO: Dragonfly C1000 CPU remains on track to ship to Meta as scheduled $QCOM $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837512,
+   "ts": "2026-11-04T21:10:07+00:00",
+   "ingested": "2026-11-04T22:09:45.488693+00:00",
+   "headline": "Goldman Sachs and Apollo in talks to sell SpaceX\u2019s $40 billion AI deal $GS $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837511,
+   "ts": "2026-11-04T21:06:54+00:00",
+   "ingested": "2026-11-04T22:09:45.488713+00:00",
+   "headline": "North Korea test-fired a newly designed advanced air-defence missile system - KCNA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837510,
+   "ts": "2026-11-04T21:05:09+00:00",
+   "ingested": "2026-11-04T22:09:45.488729+00:00",
+   "headline": "$ARM Arm Holdings Q2 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837509,
+   "ts": "2026-11-04T21:03:58+00:00",
+   "ingested": "2026-11-04T22:09:45.488745+00:00",
+   "headline": "Microsoft raises $25b in 10-tranche bond offering. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837494,
+   "ts": "2026-11-04T21:00:47+00:00",
+   "ingested": "2026-11-04T22:09:45.488758+00:00",
+   "headline": "$QCOM Qualcomm Q4 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837475,
+   "ts": "2026-11-04T20:33:19+00:00",
+   "ingested": "2026-11-04T22:09:45.488783+00:00",
+   "headline": "Trump: If I took tariffs off? We have 3,000 plants under construction right now. Every single plant would stop building, right?\u201d- CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837474,
+   "ts": "2026-11-04T20:33:12+00:00",
+   "ingested": "2026-11-04T22:09:45.488797+00:00",
+   "headline": "Trump precludes the possibility of paring back his tariffs - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837473,
+   "ts": "2026-11-04T20:32:29+00:00",
+   "ingested": "2026-11-04T22:09:45.488811+00:00",
+   "headline": "Trump declined to comment about the credit card rate cap - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837470,
+   "ts": "2026-11-04T20:31:19+00:00",
+   "ingested": "2026-11-04T22:09:45.488825+00:00",
+   "headline": "Trump: \u2018Financial ideas' would be 'mutually good' - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837464,
+   "ts": "2026-11-04T20:30:37+00:00",
+   "ingested": "2026-11-04T22:09:45.488839+00:00",
+   "headline": "Trump: Can work with Democrats on \u2018financial ideas': CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837442,
+   "ts": "2026-11-04T20:09:42+00:00",
+   "ingested": "2026-11-04T22:09:45.488858+00:00",
+   "headline": "Meta to determine the future of its investment in Piqua, Ohio - Semafor. $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837424,
+   "ts": "2026-11-04T19:50:42+00:00",
+   "ingested": "2026-11-04T22:09:45.488872+00:00",
+   "headline": "Brent crude futures settle at their lowest since August 31st",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837412,
+   "ts": "2026-11-04T19:46:22+00:00",
+   "ingested": "2026-11-04T22:09:45.488887+00:00",
+   "headline": "Apple cuts internal AI usage budgets in move to reduce spending $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837400,
+   "ts": "2026-11-04T19:45:27+00:00",
+   "ingested": "2026-11-04T22:09:45.488904+00:00",
+   "headline": "Apple lowered daily AI cap for some engineers to $200 from $300; planning further cuts to employees' AI usage limits $AAPL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837397,
+   "ts": "2026-11-04T19:44:15+00:00",
+   "ingested": "2026-11-04T22:09:45.488925+00:00",
+   "headline": "Brent crude futures settle at $94.62/bbl, down $8.98, 8.67%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837392,
+   "ts": "2026-11-04T19:31:44+00:00",
+   "ingested": "2026-11-04T22:09:45.488939+00:00",
+   "headline": "NYMEX Natural gas Dec. Futures settle at $2.9590/MMBTU",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837391,
+   "ts": "2026-11-04T19:31:09+00:00",
+   "ingested": "2026-11-04T22:09:45.488953+00:00",
+   "headline": "NYMEX diesel Dec. futures settle at $4.2055 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837390,
+   "ts": "2026-11-04T19:31:02+00:00",
+   "ingested": "2026-11-04T22:09:45.488967+00:00",
+   "headline": "NYMEX gasoline Dec. futures settle at $2.7286 a gallon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837389,
+   "ts": "2026-11-04T19:30:56+00:00",
+   "ingested": "2026-11-04T22:09:45.488981+00:00",
+   "headline": "NYMEX WTI crude Dec. futures settle at $88.12 a barrel, down $7.97, 8.29%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837387,
+   "ts": "2026-11-04T19:23:31+00:00",
+   "ingested": "2026-11-04T22:09:45.488995+00:00",
+   "headline": "ECB's Moulin: Skeptical on the government plan to raise the regulated savings cap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837386,
+   "ts": "2026-11-04T19:22:53+00:00",
+   "ingested": "2026-11-04T22:09:45.489008+00:00",
+   "headline": "ECB's Moulin: No longer risk of loop between banks, sovereigns",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837385,
+   "ts": "2026-11-04T19:21:48+00:00",
+   "ingested": "2026-11-04T22:09:45.489024+00:00",
+   "headline": "ECB's Moulin: The solution to France's financial problems is in France and not in Frankfurt",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837384,
+   "ts": "2026-11-04T19:21:23+00:00",
+   "ingested": "2026-11-04T22:09:45.489037+00:00",
+   "headline": "ECB's Moulin: Banks can deal with rising rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837362,
+   "ts": "2026-11-04T19:05:50+00:00",
+   "ingested": "2026-11-04T22:09:45.489051+00:00",
+   "headline": "BoE Bank Rate Past Market Reactions & Summary - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837361,
+   "ts": "2026-11-04T19:04:00+00:00",
+   "ingested": "2026-11-04T22:09:45.489064+00:00",
+   "headline": "US Treasury Debt Buyback",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837341,
+   "ts": "2026-11-04T18:48:14+00:00",
+   "ingested": "2026-11-04T22:09:45.489079+00:00",
+   "headline": "ECB\u2019s Kazaks: There may be a gradual increase in interest rates.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837340,
+   "ts": "2026-11-04T18:47:17+00:00",
+   "ingested": "2026-11-04T22:09:45.489092+00:00",
+   "headline": "ECB\u2019s Kazaks: Rates need to rise if inflation risks spreading",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837323,
+   "ts": "2026-11-04T18:45:11+00:00",
+   "ingested": "2026-11-04T22:09:45.489109+00:00",
+   "headline": "US Treasury Secretary Bessent: We will sanction those who continue supporting the Iranian regime, whether by land, sea, or air - Post on X",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837322,
+   "ts": "2026-11-04T18:39:39+00:00",
+   "ingested": "2026-11-04T22:09:45.489120+00:00",
+   "headline": "Trump ends remarks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837298,
+   "ts": "2026-11-04T18:23:00+00:00",
+   "ingested": "2026-11-04T22:09:45.489136+00:00",
+   "headline": "Trump: I am not considering replacing US Sec. of Defense Hegseth. He is doing a very good job.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837297,
+   "ts": "2026-11-04T18:22:48+00:00",
+   "ingested": "2026-11-04T22:09:45.489149+00:00",
+   "headline": "Trump: Iran war will end whenever I want it to",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837296,
+   "ts": "2026-11-04T18:22:23+00:00",
+   "ingested": "2026-11-04T22:09:45.489166+00:00",
+   "headline": "The course of US-Iranian negotiations will become clearer on Friday, and they have made significant progress. - Al-Jadeed, citing Arab diplomatic sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837295,
+   "ts": "2026-11-04T18:16:48+00:00",
+   "ingested": "2026-11-04T22:09:45.489179+00:00",
+   "headline": "Meta buys AI startup conductor - Axios $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837285,
+   "ts": "2026-11-04T18:11:40+00:00",
+   "ingested": "2026-11-04T22:09:45.489193+00:00",
+   "headline": "Trump: Price, not the war, was the reason for the midterm loss",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837284,
+   "ts": "2026-11-04T18:10:59+00:00",
+   "ingested": "2026-11-04T22:09:45.489207+00:00",
+   "headline": "Trump: The Iran thing we had to do, we continue to do it.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837283,
+   "ts": "2026-11-04T18:10:28+00:00",
+   "ingested": "2026-11-04T22:09:45.489223+00:00",
+   "headline": "Trump on Election: It's largely true that the election loss was a result of the Iran war,  it was worth it",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837282,
+   "ts": "2026-11-04T18:01:52+00:00",
+   "ingested": "2026-11-04T22:09:45.489238+00:00",
+   "headline": "US Treasury: Also designating Turkey-based fugo ground services for supporting Iran's aviation sector",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837278,
+   "ts": "2026-11-04T18:01:32+00:00",
+   "ingested": "2026-11-04T22:09:45.489253+00:00",
+   "headline": "US Treasury: Imposing sanctions against 4 India-based individuals and 9 companies for supporting Iran's shadow fleet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837260,
+   "ts": "2026-11-04T17:46:19+00:00",
+   "ingested": "2026-11-04T22:09:45.489265+00:00",
+   "headline": "House Democratic Leader Jeffries ends remarks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837237,
+   "ts": "2026-11-04T17:32:44+00:00",
+   "ingested": "2026-11-04T22:09:45.489280+00:00",
+   "headline": "House Democrat Leader Jeffries: We will pass a bill to stop Trump tariffs and end the Iran war.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837219,
+   "ts": "2026-11-04T17:28:44+00:00",
+   "ingested": "2026-11-04T22:09:45.489293+00:00",
+   "headline": "Trump: Stock market just hit another record high - Truth Social.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837218,
+   "ts": "2026-11-04T17:20:30+00:00",
+   "ingested": "2026-11-04T22:09:45.489308+00:00",
+   "headline": "House Democrat Leader Jeffries: Katherine Clark is going to be the next House Majority Leader.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837210,
+   "ts": "2026-11-04T17:16:30+00:00",
+   "ingested": "2026-11-04T22:09:45.489322+00:00",
+   "headline": "House Democrat Leader Jeffries: Democrats will win at least 255 seats in the House.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837173,
+   "ts": "2026-11-04T16:43:38+00:00",
+   "ingested": "2026-11-04T22:09:45.489336+00:00",
+   "headline": "DeSantis is being floated as a possible Hegseth replacement - CBS.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837172,
+   "ts": "2026-11-04T16:42:39+00:00",
+   "ingested": "2026-11-04T22:09:45.489348+00:00",
+   "headline": "Trump has not decided to replace Hegseth - CBS.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837171,
+   "ts": "2026-11-04T16:42:03+00:00",
+   "ingested": "2026-11-04T22:09:45.489363+00:00",
+   "headline": "Trump is asking advisers if US Sec. of Defense Hegseth should go - CBS, citing sources.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837155,
    "ts": "2026-11-04T16:31:25+00:00",
@@ -3623,382 +3999,6 @@
    "ts": "2026-11-02T20:03:29+00:00",
    "ingested": "2026-11-03T01:26:18.676000+00:00",
    "headline": "Trump says 'No' to striking Iran after elections - Pool Report.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833226,
-   "ts": "2026-11-02T20:02:01+00:00",
-   "ingested": "2026-11-03T01:26:18.676009+00:00",
-   "headline": "US Treasury QRA Estimate: Excluding the higher-than-expected beginning-of-quarter cash balance, borrowing estimate is $87 billion higher than May's projection",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833225,
-   "ts": "2026-11-02T20:01:51+00:00",
-   "ingested": "2026-11-03T01:26:18.676016+00:00",
-   "headline": "US Treasury Raises July-September Borrowing Estimate to $739 Billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833224,
-   "ts": "2026-11-02T20:01:34+00:00",
-   "ingested": "2026-11-03T01:26:18.676025+00:00",
-   "headline": "US Treasury estimates $739 billion in privately held net marketable borrowing for July-September 2026, assuming an end-September cash balance of $950 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833212,
-   "ts": "2026-11-02T19:54:34+00:00",
-   "ingested": "2026-11-03T01:26:18.676032+00:00",
-   "headline": "Trump ends remarks at Reflecting Pool",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833211,
-   "ts": "2026-11-02T19:53:14+00:00",
-   "ingested": "2026-11-03T01:26:18.676039+00:00",
-   "headline": "Trump on Iran: It's coming together nicely, that's why oil down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833210,
-   "ts": "2026-11-02T19:52:16+00:00",
-   "ingested": "2026-11-03T01:26:18.676046+00:00",
-   "headline": "Brent Crude futures settle at $104.77/bbl, down $8.66, 7.63%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833209,
-   "ts": "2026-11-02T19:52:09+00:00",
-   "ingested": "2026-11-03T01:26:18.676053+00:00",
-   "headline": "Trump: Iran asked to stop killing its leaders, we will.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833204,
-   "ts": "2026-11-02T19:35:48+00:00",
-   "ingested": "2026-11-03T01:26:18.676061+00:00",
-   "headline": "Trump to Axios: No rush to decide on restarting war in Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833203,
-   "ts": "2026-11-02T19:33:43+00:00",
-   "ingested": "2026-11-03T01:26:18.676068+00:00",
-   "headline": "Trump: Iran said even recently they won't have nuclear weapon.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833202,
-   "ts": "2026-11-02T19:31:41+00:00",
-   "ingested": "2026-11-03T01:26:18.676075+00:00",
-   "headline": "NYMEX Nat Gas December futures settle at $2.8560/MMBtu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833188,
-   "ts": "2026-11-02T19:31:12+00:00",
-   "ingested": "2026-11-03T01:26:18.676082+00:00",
-   "headline": "NYMEX diesel December futures settle at $4.4216 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833187,
-   "ts": "2026-11-02T19:31:05+00:00",
-   "ingested": "2026-11-03T01:26:18.676089+00:00",
-   "headline": "NYMEX gasoline December futures settle at $2.9001 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833184,
-   "ts": "2026-11-02T19:30:59+00:00",
-   "ingested": "2026-11-03T01:26:18.676096+00:00",
-   "headline": "NYMEX WTI Crude Dec. futures settle at $96.46 a barrel down $7.66, 7.36%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833178,
-   "ts": "2026-11-02T19:28:29+00:00",
-   "ingested": "2026-11-03T01:26:18.676104+00:00",
-   "headline": "Trump: Iran wants to make a deal, that could happen.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833177,
-   "ts": "2026-11-02T19:28:21+00:00",
-   "ingested": "2026-11-03T01:26:18.676113+00:00",
-   "headline": "Under discussion is a version of the draft US-Iran deal under negotiation for past eight days - official briefed on the talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833176,
-   "ts": "2026-11-02T19:28:07+00:00",
-   "ingested": "2026-11-03T01:26:18.676122+00:00",
-   "headline": "Qatari mediators travel to Tehran late Monday for talks with iran foreign minister aragchi on potential US-Iran deal - official briefed on the talks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833175,
-   "ts": "2026-11-02T19:27:42+00:00",
-   "ingested": "2026-11-03T01:26:18.676129+00:00",
-   "headline": "Trump: Oil will go down further because we're winning with Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833143,
-   "ts": "2026-11-02T18:57:32+00:00",
-   "ingested": "2026-11-03T01:26:18.676135+00:00",
-   "headline": "Trump Delivers Remarks - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833142,
-   "ts": "2026-11-02T18:51:01+00:00",
-   "ingested": "2026-11-02T18:52:15.119731+00:00",
-   "headline": "UKMTO: A vessel was struck by a projectile on November 1st near Oman",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833135,
-   "ts": "2026-11-02T18:44:18+00:00",
-   "ingested": "2026-11-02T18:52:15.119748+00:00",
-   "headline": "Oracle Is Said to Draw Excess Demand for $10 Billion Share Sale $ORCL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833132,
-   "ts": "2026-11-02T18:33:18+00:00",
-   "ingested": "2026-11-02T18:52:15.119761+00:00",
-   "headline": "There has been no new development in the exchange of messages with America - Fars News, citing a Knowledgeable Source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833098,
-   "ts": "2026-11-02T18:04:47+00:00",
-   "ingested": "2026-11-02T18:52:15.119778+00:00",
-   "headline": "Anthropic to launch UK retail ipo alongside us, offering",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833085,
-   "ts": "2026-11-02T18:02:22+00:00",
-   "ingested": "2026-11-02T18:52:15.119792+00:00",
-   "headline": "Head of Middle East Energy & OPEC+ Insights Bakr on X: Diplomatic sources told Al-Jadeed that a breakthrough in US-Iranian negotiations was achieved after Qatari mediation successfully overcame procedural obstacles - Al-Jadeed News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833075,
-   "ts": "2026-11-02T17:39:07+00:00",
-   "ingested": "2026-11-02T18:52:15.119800+00:00",
-   "headline": "Meta eyes at least $20b in potential US dollar and Euro bond sale. $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833051,
-   "ts": "2026-11-02T17:21:40+00:00",
-   "ingested": "2026-11-02T18:52:15.119807+00:00",
-   "headline": "Italy's October budget deficit EUR 20.8B",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832965,
-   "ts": "2026-11-02T16:33:52+00:00",
-   "ingested": "2026-11-02T18:52:15.119815+00:00",
-   "headline": "US 6-Month Awarded High Actual 49.230% (Forecast -, Previous 61.740%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832962,
-   "ts": "2026-11-02T16:33:37+00:00",
-   "ingested": "2026-11-02T18:52:15.119822+00:00",
-   "headline": "US 3-Month Awarded High Actual 64.280% (Forecast -, Previous 82.290%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832964,
-   "ts": "2026-11-02T16:32:05+00:00",
-   "ingested": "2026-11-02T18:52:15.119833+00:00",
-   "headline": "US 6-Month Bill High Yield Actual 4.15% (Forecast -, Previous 4.210%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832963,
-   "ts": "2026-11-02T16:32:05+00:00",
-   "ingested": "2026-11-02T18:52:15.119841+00:00",
-   "headline": "US 6-Month Bill Bid-to-Cover Actual 2.89 (Forecast -, Previous 2.630)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832961,
-   "ts": "2026-11-02T16:31:56+00:00",
-   "ingested": "2026-11-02T18:52:15.119848+00:00",
-   "headline": "US 3-Month Bill Bid-to-Cover Actual 2.88 (Forecast -, Previous 3.070)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832960,
-   "ts": "2026-11-02T16:31:55+00:00",
-   "ingested": "2026-11-02T18:52:15.119856+00:00",
-   "headline": "US 3-Month Bill High Yield Actual 4.04% (Forecast -, Previous 4.050%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832929,
-   "ts": "2026-11-02T16:16:08+00:00",
-   "ingested": "2026-11-02T18:52:15.119863+00:00",
-   "headline": "Fed bids for 3-month bills total $5.9 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832928,
-   "ts": "2026-11-02T16:15:34+00:00",
-   "ingested": "2026-11-02T18:52:15.119869+00:00",
-   "headline": "Fed bids for 6-month bills total $5.1 bln",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832920,
-   "ts": "2026-11-02T16:01:47+00:00",
-   "ingested": "2026-11-02T18:52:15.119877+00:00",
-   "headline": "US VP Vance Speaks at Midterm Rally in NY (Trump Expected to participate via phone) - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832913,
-   "ts": "2026-11-02T15:53:33+00:00",
-   "ingested": "2026-11-02T18:52:15.119885+00:00",
-   "headline": "Meta Platforms plans Dollar and Euro bond sale fixed income investor calls $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832892,
-   "ts": "2026-11-02T15:40:15+00:00",
-   "ingested": "2026-11-02T18:52:15.119896+00:00",
-   "headline": "ECB's Escriva: I\u2019m optimistic about AI's impact; I see great productivity.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832891,
-   "ts": "2026-11-02T15:39:48+00:00",
-   "ingested": "2026-11-02T18:52:15.119904+00:00",
-   "headline": "ECB's Escriva: It\u2019s obvious that AI valuations are high.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832872,
-   "ts": "2026-11-02T15:31:04+00:00",
-   "ingested": "2026-11-02T18:52:15.119911+00:00",
-   "headline": "ECB's Escriva: Markets fairly immune to price risk in recent years",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832866,
-   "ts": "2026-11-02T15:29:09+00:00",
-   "ingested": "2026-11-02T18:52:15.119919+00:00",
-   "headline": "ECB's Escriva: Rates at 2% to keep inflation at around 2% reasonable.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832865,
-   "ts": "2026-11-02T15:25:27+00:00",
-   "ingested": "2026-11-02T18:52:15.119925+00:00",
-   "headline": "ECB's Moulin: The macroeconomic situation is very different from 2022.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832864,
-   "ts": "2026-11-02T15:24:53+00:00",
-   "ingested": "2026-11-02T18:52:15.119934+00:00",
-   "headline": "ECB's Moulin: Can't compare current situation to 2022 inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832863,
-   "ts": "2026-11-02T15:24:18+00:00",
-   "ingested": "2026-11-02T18:52:15.119941+00:00",
-   "headline": "Kazakhstan: Atyrau-Samara oil flows halted after a drone attack.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832862,
-   "ts": "2026-11-02T15:24:03+00:00",
-   "ingested": "2026-11-02T18:52:15.119948+00:00",
-   "headline": "ECB's Moulin: Inflation we have today is well above our 2% objective",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832861,
-   "ts": "2026-11-02T15:23:51+00:00",
-   "ingested": "2026-11-02T18:52:15.119956+00:00",
-   "headline": "ECB's Moulin: For now, the impact on the broader economy is quite moderate.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832860,
-   "ts": "2026-11-02T15:22:34+00:00",
-   "ingested": "2026-11-02T18:52:15.119963+00:00",
-   "headline": "ECB's Escriva: There are no signs of second-round effects yet.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832859,
-   "ts": "2026-11-02T15:22:30+00:00",
-   "ingested": "2026-11-02T18:52:15.119970+00:00",
-   "headline": "ECB's Moulin: Inflation is clearly above our objective",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9832858,
-   "ts": "2026-11-02T15:22:16+00:00",
-   "ingested": "2026-11-02T18:52:15.119977+00:00",
-   "headline": "ECB's Escriva: Oil and gas price shock greater than expected",
    "channel": "rss",
    "source": "financialjuice"
   }
