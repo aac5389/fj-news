@@ -1,7 +1,367 @@
 {
- "updated": "2026-11-04T22:09:45.490000+00:00",
+ "updated": "2026-11-05T02:24:32.841506+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9837833,
+   "ts": "2026-11-05T02:00:15+00:00",
+   "ingested": "2026-11-05T02:24:32.840285+00:00",
+   "headline": "S.Korea foreign minister Cho: prepared for all possibilities in efforts to amend South Korea-US nuclear pact",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837832,
+   "ts": "2026-11-05T01:56:20+00:00",
+   "ingested": "2026-11-05T02:24:32.840310+00:00",
+   "headline": "South Korea PM Han: No significant change expected in US ties after midterm election",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837824,
+   "ts": "2026-11-05T01:45:51+00:00",
+   "ingested": "2026-11-05T02:24:32.840329+00:00",
+   "headline": "North Korea appears to have launched various types of missiles yesterday: South Korea defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837808,
+   "ts": "2026-11-05T01:30:11+00:00",
+   "ingested": "2026-11-05T02:24:32.840345+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805% versus previous session open",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837807,
+   "ts": "2026-11-05T01:21:09+00:00",
+   "ingested": "2026-11-05T02:24:32.840362+00:00",
+   "headline": "China central bank injects 263 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837801,
+   "ts": "2026-11-05T01:13:26+00:00",
+   "ingested": "2026-11-05T02:24:32.840378+00:00",
+   "headline": "Cat Wu, former head of product for Claude code at Anthropic, joins OpenAI to lead product management for core products",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837742,
+   "ts": "2026-11-05T00:31:44+00:00",
+   "ingested": "2026-11-05T02:24:32.840396+00:00",
+   "headline": "Australian Exports Actual 2.3% (Forecast -, Previous 3.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837741,
+   "ts": "2026-11-05T00:31:44+00:00",
+   "ingested": "2026-11-05T02:24:32.840409+00:00",
+   "headline": "Australian Imports Actual -3.3% (Forecast -, Previous 5.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837751,
+   "ts": "2026-11-05T00:30:55+00:00",
+   "ingested": "2026-11-05T02:24:32.840427+00:00",
+   "headline": "South Korea\u2019s Cheonghae unit to increase operations near Strait of Hormuz: Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837745,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840442+00:00",
+   "headline": "Australia Sept trade surplus at A$2.83 billion, seasonally adjusted vs. poll A$810 million",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837744,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840457+00:00",
+   "headline": "Japan S&P Global October services PMI at 51.7 vs flash 52.0",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837743,
+   "ts": "2026-11-05T00:30:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840471+00:00",
+   "headline": "Australia September goods exports rise 2.3% m/m, seasonally adjusted",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837740,
+   "ts": "2026-11-05T00:30:01+00:00",
+   "ingested": "2026-11-05T02:24:32.840486+00:00",
+   "headline": "Australian Trade Balance Actual 2826M (Forecast 1000M, Previous 495M)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837739,
+   "ts": "2026-11-05T00:30:00+00:00",
+   "ingested": "2026-11-05T02:24:32.840500+00:00",
+   "headline": "Japanese Composite PMI Final Actual 52.1 (Forecast -, Previous 52.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837738,
+   "ts": "2026-11-05T00:30:00+00:00",
+   "ingested": "2026-11-05T02:24:32.840513+00:00",
+   "headline": "Japanese Services PMI Actual 51.7 (Forecast -, Previous 52.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837736,
+   "ts": "2026-11-05T00:23:52+00:00",
+   "ingested": "2026-11-05T02:24:32.840527+00:00",
+   "headline": "China PBOC forecast to set yuan midpoint at 6.6783 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837730,
+   "ts": "2026-11-05T00:04:46+00:00",
+   "ingested": "2026-11-05T02:24:32.840549+00:00",
+   "headline": "BoJ minutes: many members shared view that crude oil price rise keeps upside risks to prices high",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837729,
+   "ts": "2026-11-05T00:03:08+00:00",
+   "ingested": "2026-11-05T02:24:32.840564+00:00",
+   "headline": "BOJ minutes: several members noted underlying CPI inflation has been close to 2% lately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837728,
+   "ts": "2026-11-05T00:02:17+00:00",
+   "ingested": "2026-11-05T02:24:32.840578+00:00",
+   "headline": "BOJ minutes: several members highlighted rising chances of CPI inflation increase from early autumn",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837727,
+   "ts": "2026-11-05T00:01:43+00:00",
+   "ingested": "2026-11-05T02:24:32.840593+00:00",
+   "headline": "boj minutes: a different member said underlying cpi inflation has already reached a level generally aligned with the 2% target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837712,
+   "ts": "2026-11-05T00:00:51+00:00",
+   "ingested": "2026-11-05T02:24:32.840608+00:00",
+   "headline": "BoJ minutes: one member noted that the current rate of CPI increase has largely met the price stability target",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837709,
+   "ts": "2026-11-04T23:58:58+00:00",
+   "ingested": "2026-11-05T02:24:32.840621+00:00",
+   "headline": "BOJ minutes: members say if trend accelerates further, underlying inflation could rise accordingly",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837708,
+   "ts": "2026-11-04T23:58:44+00:00",
+   "ingested": "2026-11-05T02:24:32.840634+00:00",
+   "headline": "BOJ minutes: some members noted services prices rose steadily over recent years",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837707,
+   "ts": "2026-11-04T23:55:33+00:00",
+   "ingested": "2026-11-05T02:24:32.840649+00:00",
+   "headline": "BOJ minutes: Ministry of Finance expects central bank to carefully assess impact of policy rate shift on economy and prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837706,
+   "ts": "2026-11-04T23:55:19+00:00",
+   "ingested": "2026-11-05T02:24:32.840666+00:00",
+   "headline": "BOJ minutes: many members said bank should modify policy while assessing changes in financial conditions including short-term interest rates and reaction to economic activity and prices",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837705,
+   "ts": "2026-11-04T23:54:25+00:00",
+   "ingested": "2026-11-05T02:24:32.840681+00:00",
+   "headline": "BOJ minutes: many members expressed view it was difficult to pinpoint neutral rate level in advance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837704,
+   "ts": "2026-11-04T23:53:39+00:00",
+   "ingested": "2026-11-05T02:24:32.840697+00:00",
+   "headline": "BOJ minutes: Cabinet office representative says important for BOJ to take proactive, appropriate steps amid excessive economic and market fluctuations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837703,
+   "ts": "2026-11-04T23:53:23+00:00",
+   "ingested": "2026-11-05T02:24:32.840711+00:00",
+   "headline": "BOJ minutes: one member said bank should keep acting promptly without being too cautious",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837702,
+   "ts": "2026-11-04T23:53:13+00:00",
+   "ingested": "2026-11-05T02:24:32.840725+00:00",
+   "headline": "BoJ minutes: one member said BoJ did not need hasty action but should set policy to prevent excessive, persistent inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837701,
+   "ts": "2026-11-04T23:53:01+00:00",
+   "ingested": "2026-11-05T02:24:32.840739+00:00",
+   "headline": "BoJ Minutes: Cabinet Office Representative Said BoJ May Need to Consider Its Estimates of Neutral Interest Rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837700,
+   "ts": "2026-11-04T23:52:49+00:00",
+   "ingested": "2026-11-05T02:24:32.840754+00:00",
+   "headline": "BOJ minutes: one member noted that if signs of rising price deviation appeared, the bank would need to speed up rate hikes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837699,
+   "ts": "2026-11-04T23:52:37+00:00",
+   "ingested": "2026-11-05T02:24:32.840770+00:00",
+   "headline": "BOJ minutes: Cabinet Office rep expects central bank to fulfill accountability on meeting decisions and closely examine cumulative effects of past rate policies",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837698,
+   "ts": "2026-11-04T23:52:20+00:00",
+   "ingested": "2026-11-05T02:24:32.840787+00:00",
+   "headline": "BOJ minutes: one member said it was important to show the market BOJ's resolve to prevent upward price deviations with agile response to global economic conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837696,
+   "ts": "2026-11-04T23:51:13+00:00",
+   "ingested": "2026-11-05T02:24:32.840810+00:00",
+   "headline": "BOJ minutes: one member said it was preferable for the bank to move the policy interest rate closer to the target relatively soon and maintain flexibility for quick adjustments in either direction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837695,
+   "ts": "2026-11-04T23:50:51+00:00",
+   "ingested": "2026-11-05T02:24:32.840827+00:00",
+   "headline": "boj sep meeting minutes: members concurred it was suitable for the bank to keep increasing the policy interest rate and modify the level of monetary easing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837673,
+   "ts": "2026-11-04T23:27:32+00:00",
+   "ingested": "2026-11-05T02:24:32.840841+00:00",
+   "headline": "OpenAI: GPT-image-2.6 sunburst and GPT-image-2.6 flare now accessible in API",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837672,
+   "ts": "2026-11-04T23:27:02+00:00",
+   "ingested": "2026-11-05T02:24:32.840856+00:00",
+   "headline": "OpenAI: Images 2.6 available worldwide today in ChatGPT and Codex across all subscription tiers on desktop, mobile, and web",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837671,
+   "ts": "2026-11-04T23:26:52+00:00",
+   "ingested": "2026-11-05T02:24:32.840869+00:00",
+   "headline": "OpenAI: introducing Images 2.6 in ChatGPT, Codex, and API - website",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837643,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840887+00:00",
+   "headline": "SNB chairman Schlegel: central bank will monitor situation closely, especially for second-round inflation effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837642,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840903+00:00",
+   "headline": "SNB\u2019s chairman: central bank won\u2019t hesitate to modify policy if price stability is endangered",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837641,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840917+00:00",
+   "headline": "SNB Chairman Schlegel: no major second-round effects so far, but can't be excluded later",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837640,
+   "ts": "2026-11-04T23:01:04+00:00",
+   "ingested": "2026-11-05T02:24:32.840932+00:00",
+   "headline": "Swiss National Bank chairman Schlegel: inflation in Switzerland climbed, October figure exceeded expectations",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837637,
+   "ts": "2026-11-04T23:00:02+00:00",
+   "ingested": "2026-11-05T02:24:32.840947+00:00",
+   "headline": "S.Korea Jan-Sept current account surplus provisional $340.66 billion vs $83.89 billion year earlier: central bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837636,
+   "ts": "2026-11-04T23:00:02+00:00",
+   "ingested": "2026-11-05T02:24:32.840961+00:00",
+   "headline": "S.Korea Sept current-account balance provisional $61.46 billion vs $46.11 billion in Aug: central bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9837635,
+   "ts": "2026-11-04T23:00:00+00:00",
+   "ingested": "2026-11-05T02:24:32.840975+00:00",
+   "headline": "S. Korean Current Account Bal NSA Actual 61.4575B (Forecast -, Previous 46.11B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9837569,
    "ts": "2026-11-04T21:54:45+00:00",
@@ -3639,366 +3999,6 @@
    "ts": "2026-11-03T00:47:04+00:00",
    "ingested": "2026-11-03T01:26:18.675646+00:00",
    "headline": "China c.bank: From November 15, foreign exchange deposit reserve ratio for financial institutions will increase by 2 percentage points",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833583,
-   "ts": "2026-11-03T00:46:45+00:00",
-   "ingested": "2026-11-03T01:26:18.675654+00:00",
-   "headline": "US strikes Iran\u2019s Qeshm Island - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833582,
-   "ts": "2026-11-03T00:46:44+00:00",
-   "ingested": "2026-11-03T01:26:18.675662+00:00",
-   "headline": "China c.bank: decision aims to enhance oversight of foreign-exchange liquidity in financial institutions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833581,
-   "ts": "2026-11-03T00:46:17+00:00",
-   "ingested": "2026-11-03T01:26:18.675670+00:00",
-   "headline": "China c.bank: People's Bank of China to increase foreign exchange deposit reserve ratio for financial institutions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833572,
-   "ts": "2026-11-03T00:42:19+00:00",
-   "ingested": "2026-11-03T01:26:18.675676+00:00",
-   "headline": "US hits Iran\u2019s Qeshm Island: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833556,
-   "ts": "2026-11-03T00:23:03+00:00",
-   "ingested": "2026-11-03T01:26:18.675683+00:00",
-   "headline": "China PBOC likely to set yuan midpoint at 6.6489 per dollar: estimate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833516,
-   "ts": "2026-11-03T00:01:04+00:00",
-   "ingested": "2026-11-03T01:26:18.675691+00:00",
-   "headline": "Irish consumer confidence 61.6 in October vs 61.1 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833504,
-   "ts": "2026-11-02T23:33:37+00:00",
-   "ingested": "2026-11-03T01:26:18.675700+00:00",
-   "headline": "OpenAI: Dan Driscoll to advise on advanced AI use for national and cyber security, focus on U.S. allies",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833503,
-   "ts": "2026-11-02T23:32:13+00:00",
-   "ingested": "2026-11-03T01:26:18.675707+00:00",
-   "headline": "OpenAI appoints Dan Driscoll as senior adviser for national security modernization",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833473,
-   "ts": "2026-11-02T23:10:29+00:00",
-   "ingested": "2026-11-03T01:26:18.675715+00:00",
-   "headline": "US envoy Witkoff: American negotiators to meet this week in Brussels with France, Germany, UK, EU and Nato representatives",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833472,
-   "ts": "2026-11-02T23:10:07+00:00",
-   "ingested": "2026-11-03T01:26:18.675724+00:00",
-   "headline": "US envoy Witkoff: United States to mediate working-level talks between Ukraine and Russia on November 10-11 in Abu Dhabi",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833437,
-   "ts": "2026-11-02T23:01:08+00:00",
-   "ingested": "2026-11-03T01:26:18.675731+00:00",
-   "headline": "Dan Driscoll to join OpenAI as senior adviser for national security modernization - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833435,
-   "ts": "2026-11-02T23:00:29+00:00",
-   "ingested": "2026-11-03T01:26:18.675740+00:00",
-   "headline": "OpenAI recruits ex-US Army secretary Dan Driscoll - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833431,
-   "ts": "2026-11-02T23:00:09+00:00",
-   "ingested": "2026-11-03T01:26:18.675749+00:00",
-   "headline": "US officials to meet this week in Brussels with France, Germany, UK, EU and NATO reps to discuss Ukraine: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833430,
-   "ts": "2026-11-02T23:00:07+00:00",
-   "ingested": "2026-11-03T01:26:18.675757+00:00",
-   "headline": "S.Korea Oct consumer price index rises 0.2% m/m, below poll of 0.25%: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833429,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-03T01:26:18.675764+00:00",
-   "headline": "S.Korea oct consumer price index rises 2.8% y/y: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833428,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-03T01:26:18.675773+00:00",
-   "headline": "Trilateral talks to address ending war, post-war security pacts, de-escalation, aid measures: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833427,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-03T01:26:18.675780+00:00",
-   "headline": "S.Korea Oct core CPI rises 2.8% y/y vs 2.8% in Sept: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833426,
-   "ts": "2026-11-02T23:00:04+00:00",
-   "ingested": "2026-11-03T01:26:18.675788+00:00",
-   "headline": "US to hold trilateral talks with Ukraine, Russia in Abu Dhabi on Nov. 10-11: senior US official",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833425,
-   "ts": "2026-11-02T23:00:01+00:00",
-   "ingested": "2026-11-03T01:26:18.675796+00:00",
-   "headline": "S. Korean CPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.30%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833424,
-   "ts": "2026-11-02T23:00:00+00:00",
-   "ingested": "2026-11-03T01:26:18.675803+00:00",
-   "headline": "S. Korean CPI YoY Actual 2.8% (Forecast 2.8%, Previous 2.90%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833423,
-   "ts": "2026-11-02T22:50:24+00:00",
-   "ingested": "2026-11-03T01:26:18.675813+00:00",
-   "headline": "Apple\u2019s limits on advanced-node chip output are loosening as it shifts more products to 2-nanometer tech: Apple chief operating officer on call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833422,
-   "ts": "2026-11-02T22:47:00+00:00",
-   "ingested": "2026-11-03T01:26:18.675822+00:00",
-   "headline": "US Supreme Court declines to bar California from counting ballots cast by voters the Trump administration claims are likely noncitizens",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833418,
-   "ts": "2026-11-02T22:41:50+00:00",
-   "ingested": "2026-11-03T01:26:18.675830+00:00",
-   "headline": "Apple manufacturing purchase obligations rose by $33 billion between June and September quarters: CFO on conf call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833417,
-   "ts": "2026-11-02T22:40:14+00:00",
-   "ingested": "2026-11-03T01:26:18.675838+00:00",
-   "headline": "Apple CFO on call: memory purchase prices expected to keep rising",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833401,
-   "ts": "2026-11-02T22:29:44+00:00",
-   "ingested": "2026-11-03T01:26:18.675846+00:00",
-   "headline": "Apple forecasts services revenue to increase 8% to 9% in fiscal first quarter: CFO on conf call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833400,
-   "ts": "2026-11-02T22:28:44+00:00",
-   "ingested": "2026-11-03T01:26:18.675854+00:00",
-   "headline": "Apple gross margin forecast factors in memory chip expenses, Siri AI costs: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833398,
-   "ts": "2026-11-02T22:28:24+00:00",
-   "ingested": "2026-11-03T01:26:18.675862+00:00",
-   "headline": "Apple expects 45% to 46% gross margin in fiscal first quarter: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833397,
-   "ts": "2026-11-02T22:27:53+00:00",
-   "ingested": "2026-11-03T01:26:18.675870+00:00",
-   "headline": "Apple expects 7-10% full company revenue growth in first quarter: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833396,
-   "ts": "2026-11-02T22:27:17+00:00",
-   "ingested": "2026-11-03T01:26:18.675878+00:00",
-   "headline": "Apple bought back $24 billion in shares during fourth quarter: CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833395,
-   "ts": "2026-11-02T22:25:37+00:00",
-   "ingested": "2026-11-03T01:26:18.675884+00:00",
-   "headline": "US preparing new NATO effort to boost Ukraine weapons shipments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833394,
-   "ts": "2026-11-02T22:21:41+00:00",
-   "ingested": "2026-11-03T01:26:18.675892+00:00",
-   "headline": "Apple says vast majority of tariff refunds received, CFO on conference call",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833376,
-   "ts": "2026-11-02T22:15:01+00:00",
-   "ingested": "2026-11-03T01:26:18.675900+00:00",
-   "headline": "Rubio discussed institutional reforms laying groundwork for free, fair, credible elections with Venezuelan foreign minister on Monday: State Department",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833347,
-   "ts": "2026-11-02T21:45:01+00:00",
-   "ingested": "2026-11-03T01:26:18.675908+00:00",
-   "headline": "New Zealand Building Consents Actual -7.9% (Forecast -, Previous 5.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833345,
-   "ts": "2026-11-02T21:40:06+00:00",
-   "ingested": "2026-11-03T01:26:18.675915+00:00",
-   "headline": "Anthropic investors push for valuation closer to $1.5 trln - WSJ.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833344,
-   "ts": "2026-11-02T21:34:32+00:00",
-   "ingested": "2026-11-03T01:26:18.675923+00:00",
-   "headline": "Blasts heard from sea off Bandar Lengeh in southern Iran - Fars",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833331,
-   "ts": "2026-11-02T21:30:45+00:00",
-   "ingested": "2026-11-03T01:26:18.675930+00:00",
-   "headline": "$AAPL Apple Q4 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833314,
-   "ts": "2026-11-02T21:13:41+00:00",
-   "ingested": "2026-11-03T01:26:18.675938+00:00",
-   "headline": "North Korea: Claims that it was behind Binance heist is fabrication - KCNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833313,
-   "ts": "2026-11-02T21:05:35+00:00",
-   "ingested": "2026-11-03T01:26:18.675945+00:00",
-   "headline": "$PLTR Palantir Q3 2026 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833312,
-   "ts": "2026-11-02T21:04:00+00:00",
-   "ingested": "2026-11-03T01:26:18.675952+00:00",
-   "headline": "Iran's IRNA: Explosions heard in Qeshm Island; no official confirmation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833255,
-   "ts": "2026-11-02T20:26:58+00:00",
-   "ingested": "2026-11-03T01:26:18.675961+00:00",
-   "headline": "Vance ends remarks to reporters",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833254,
-   "ts": "2026-11-02T20:25:36+00:00",
-   "ingested": "2026-11-03T01:26:18.675968+00:00",
-   "headline": "Vance: I discussed Iran with Trump about an hour ago",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833253,
-   "ts": "2026-11-02T20:24:46+00:00",
-   "ingested": "2026-11-03T01:26:18.675975+00:00",
-   "headline": "Vance: Have had a number of good talks with Iranians",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833252,
-   "ts": "2026-11-02T20:24:26+00:00",
-   "ingested": "2026-11-03T01:26:18.675982+00:00",
-   "headline": "US VP Vance on Iran: We have not set deadlines to resume strikes.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833251,
-   "ts": "2026-11-02T20:24:09+00:00",
-   "ingested": "2026-11-03T01:26:18.675991+00:00",
-   "headline": "Vance: I feel good about prospects of Iran deal. We've made some progress, will see if can make some more.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9833228,
-   "ts": "2026-11-02T20:03:29+00:00",
-   "ingested": "2026-11-03T01:26:18.676000+00:00",
-   "headline": "Trump says 'No' to striking Iran after elections - Pool Report.",
    "channel": "rss",
    "source": "financialjuice"
   }
