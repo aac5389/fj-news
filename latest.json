@@ -1,7 +1,799 @@
 {
- "updated": "2026-11-06T10:44:06.355417+00:00",
+ "updated": "2026-11-06T17:41:52.645524+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9841206,
+   "ts": "2026-11-06T17:38:56+00:00",
+   "ingested": "2026-11-06T17:41:52.643442+00:00",
+   "headline": "Microsoft Winds Down Oracle AI Compute Deal $ORCL $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841205,
+   "ts": "2026-11-06T17:36:57+00:00",
+   "ingested": "2026-11-06T17:41:52.643467+00:00",
+   "headline": "Microsoft is winding down its Oracle deal to rent AI cloud capacity. $MSFT $ORCL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841204,
+   "ts": "2026-11-06T17:36:04+00:00",
+   "ingested": "2026-11-06T17:41:52.643485+00:00",
+   "headline": "NFP Market Reactions, Deviations & Sentiment - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841203,
+   "ts": "2026-11-06T17:32:04+00:00",
+   "ingested": "2026-11-06T17:41:52.643503+00:00",
+   "headline": "US Treasury Secretary Bessent: We told China to fully, and immediately honor its commitments.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841202,
+   "ts": "2026-11-06T17:31:46+00:00",
+   "ingested": "2026-11-06T17:41:52.643521+00:00",
+   "headline": "US Treasury Secretary Bessent: USTR Greer and I spoke with Vice Premier He Lifeng about the US-China economic relationship.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841194,
+   "ts": "2026-11-06T17:30:15+00:00",
+   "ingested": "2026-11-06T17:41:52.643536+00:00",
+   "headline": "Qatar PM: The US and Iran should accept a good deal over a perfect one.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841193,
+   "ts": "2026-11-06T17:29:54+00:00",
+   "ingested": "2026-11-06T17:41:52.643550+00:00",
+   "headline": "Qatar PM: The US and Iran won't be able to make a \"perfect deal\".",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841192,
+   "ts": "2026-11-06T17:27:52+00:00",
+   "ingested": "2026-11-06T17:41:52.643564+00:00",
+   "headline": "Putin and the Russian Security Council discuss upcoming Ukraine talks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841191,
+   "ts": "2026-11-06T17:23:22+00:00",
+   "ingested": "2026-11-06T17:41:52.643581+00:00",
+   "headline": "The US warns China that it must \u2018immediately\u2019 meet terms of Busan trade truce - FT.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841157,
+   "ts": "2026-11-06T16:56:22+00:00",
+   "ingested": "2026-11-06T17:41:52.643595+00:00",
+   "headline": "Trump Heads to Florida After Departure From Washington - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841156,
+   "ts": "2026-11-06T16:55:58+00:00",
+   "ingested": "2026-11-06T17:41:52.643609+00:00",
+   "headline": "BoJ's Governor Ueda speaking engagement at the IMF in Washington concludes",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841155,
+   "ts": "2026-11-06T16:52:00+00:00",
+   "ingested": "2026-11-06T17:41:52.643625+00:00",
+   "headline": "BoJ's Governor Ueda: We are discussing communication by the central bank, but don't have a formal commitment yet",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841154,
+   "ts": "2026-11-06T16:50:00+00:00",
+   "ingested": "2026-11-06T17:41:52.643640+00:00",
+   "headline": "BoJ's Governor Ueda: There's been a sharp rise in Japan cyber attacks in the past 1-2 months.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841153,
+   "ts": "2026-11-06T16:49:52+00:00",
+   "ingested": "2026-11-06T17:41:52.643662+00:00",
+   "headline": "BoJ's Governor Ueda: We've been identifying vulnerable areas, including some small banks, small firms that have not done enough to protect against cyber risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841152,
+   "ts": "2026-11-06T16:48:34+00:00",
+   "ingested": "2026-11-06T17:41:52.643677+00:00",
+   "headline": "BoJ's Governor Ueda: Japan may do well on AI replacing labor because there are significant labour shortages",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841151,
+   "ts": "2026-11-06T16:46:30+00:00",
+   "ingested": "2026-11-06T17:41:52.643694+00:00",
+   "headline": "BoJ's Governor Ueda: In general, AI has been a positive demand shock for our economy, and we will have to look at supply-side factors as well",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841139,
+   "ts": "2026-11-06T16:45:40+00:00",
+   "ingested": "2026-11-06T17:41:52.643711+00:00",
+   "headline": "BoJ's Governor Ueda: We look at the actions of other central banks very, very carefully, as they affect asset prices, including exchange rates and interest rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841135,
+   "ts": "2026-11-06T16:44:10+00:00",
+   "ingested": "2026-11-06T17:41:52.643727+00:00",
+   "headline": "BoJ's Governor Ueda: Underlying inflation will likely stay around 2%, but we recognize there are some upside risks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841134,
+   "ts": "2026-11-06T16:43:56+00:00",
+   "ingested": "2026-11-06T17:41:52.643741+00:00",
+   "headline": "BoJ's Governor Ueda: Consumer prices are now around 3% and expected to rise further into early next year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841133,
+   "ts": "2026-11-06T16:42:39+00:00",
+   "ingested": "2026-11-06T17:41:52.643756+00:00",
+   "headline": "BoJ's Governor Ueda: If we need to deploy unconventional tools again, we should think about ways to minimize negative effects",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841132,
+   "ts": "2026-11-06T16:42:12+00:00",
+   "ingested": "2026-11-06T17:41:52.643772+00:00",
+   "headline": "BoJ's Governor Ueda: Unconventional monetary policy tools have had some positive effects, but they are not perfect substitutes for rate cuts from positive territory.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841131,
+   "ts": "2026-11-06T16:41:33+00:00",
+   "ingested": "2026-11-06T17:41:52.643787+00:00",
+   "headline": "BoJ's Governor Ueda: If there are big shocks, the bank may be forced to use unconventional policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841130,
+   "ts": "2026-11-06T16:40:58+00:00",
+   "ingested": "2026-11-06T17:41:52.643799+00:00",
+   "headline": "BoJ's Governor Ueda: Unconventional policy had some positive effects.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841129,
+   "ts": "2026-11-06T16:39:01+00:00",
+   "ingested": "2026-11-06T17:41:52.643812+00:00",
+   "headline": "BoJ's Governor Ueda: Real rates haven't gone up as much.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841128,
+   "ts": "2026-11-06T16:37:16+00:00",
+   "ingested": "2026-11-06T17:41:52.643826+00:00",
+   "headline": "BoJ's Governor Ueda: We haven't heard significant complaints about higher interest rates",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841127,
+   "ts": "2026-11-06T16:35:49+00:00",
+   "ingested": "2026-11-06T17:41:52.643841+00:00",
+   "headline": "BoJ's Governor Ueda: We are in equilibrium with wages growing at a level consistent with 2% inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841126,
+   "ts": "2026-11-06T16:35:35+00:00",
+   "ingested": "2026-11-06T17:41:52.643854+00:00",
+   "headline": "BoJ's Governor Ueda: It is necessary to keep inflation at 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841125,
+   "ts": "2026-11-06T16:35:17+00:00",
+   "ingested": "2026-11-06T17:41:52.643868+00:00",
+   "headline": "BoJ's Governor Ueda: The general mood on inflation is that there is a lot remaining to do.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841124,
+   "ts": "2026-11-06T16:34:48+00:00",
+   "ingested": "2026-11-06T17:41:52.643884+00:00",
+   "headline": "BoJ's Governor Ueda: If monetary policy normalization is achieved, nominal variables will be less of an impediment to official resource allocation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841123,
+   "ts": "2026-11-06T16:34:34+00:00",
+   "ingested": "2026-11-06T17:41:52.643897+00:00",
+   "headline": "BoJ's Governor Ueda: Underlying inflation reached 2% for the first time in decades",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841122,
+   "ts": "2026-11-06T16:32:43+00:00",
+   "ingested": "2026-11-06T17:41:52.643911+00:00",
+   "headline": "BoJ's Governor Ueda: Policy normalization is aimed at price stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841121,
+   "ts": "2026-11-06T16:31:41+00:00",
+   "ingested": "2026-11-06T17:41:52.643926+00:00",
+   "headline": "IMF's Managing Director Georgieva: The BoJ's policy normalization has been impressively smooth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841103,
+   "ts": "2026-11-06T16:27:24+00:00",
+   "ingested": "2026-11-06T17:41:52.643940+00:00",
+   "headline": "OpenAI CFO: We will keep investing in AI data centers despite the election results - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841102,
+   "ts": "2026-11-06T16:26:39+00:00",
+   "ingested": "2026-11-06T17:41:52.643954+00:00",
+   "headline": "BoJ's Governor Ueda: Expects rising domestic investment in Japan, but the extent is very uncertain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841090,
+   "ts": "2026-11-06T16:15:21+00:00",
+   "ingested": "2026-11-06T17:41:52.643968+00:00",
+   "headline": "ECB's Knot and ECB's De Cos are the only two candidates for ECB president",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841089,
+   "ts": "2026-11-06T16:13:12+00:00",
+   "ingested": "2026-11-06T17:41:52.643981+00:00",
+   "headline": "Musk: Government revenue will be less than 10% of SpaceX revenue this quarter $SPCX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841088,
+   "ts": "2026-11-06T16:03:30+00:00",
+   "ingested": "2026-11-06T17:41:52.643995+00:00",
+   "headline": "BoJ's Governor Ueda doesn't comment on the economy or policy outlook in his speech",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841075,
+   "ts": "2026-11-06T16:00:55+00:00",
+   "ingested": "2026-11-06T17:41:52.644020+00:00",
+   "headline": "The proposals stop short of complete dismantlement, but do address Iran\u2019s stockpile of highly enriched uranium, the diplomat familiar with the talks adds, saying that the offers would see Iran receive significant sanctions relief from the US - Times of Israel",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841074,
+   "ts": "2026-11-06T16:00:28+00:00",
+   "ingested": "2026-11-06T17:41:52.644033+00:00",
+   "headline": "BoJ's Governor Ueda: Japan current account is now driven by income flows",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841070,
+   "ts": "2026-11-06T16:00:10+00:00",
+   "ingested": "2026-11-06T17:41:52.644045+00:00",
+   "headline": "BoJ's Governor Ueda: Japan's current account underwent a striking shift",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841068,
+   "ts": "2026-11-06T15:59:06+00:00",
+   "ingested": "2026-11-06T17:41:52.644063+00:00",
+   "headline": "The Times of Israel reported, citing an American official and a diplomat familiar with the matter: Iranian negotiators are reviewing proposals under which the Islamic Republic would limit its nuclear program.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841067,
+   "ts": "2026-11-06T15:56:29+00:00",
+   "ingested": "2026-11-06T17:41:52.644078+00:00",
+   "headline": "IMF Chief Georgieva: Widening imbalances have often been accompanied by fragile growth, and in some cases, have preceded financial crises",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841066,
+   "ts": "2026-11-06T15:56:03+00:00",
+   "ingested": "2026-11-06T17:41:52.644093+00:00",
+   "headline": "French Energy Ministry: 3.6 million barrels of diesel have been sold out of the French strategic reserves to date",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841065,
+   "ts": "2026-11-06T15:55:13+00:00",
+   "ingested": "2026-11-06T17:41:52.644106+00:00",
+   "headline": "IMF Chief Georgieva: Market volatility on AI likely to continue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841064,
+   "ts": "2026-11-06T15:54:47+00:00",
+   "ingested": "2026-11-06T17:41:52.644119+00:00",
+   "headline": "IMF Chief Georgieva: large and rising global imbalances remain a matter of concern",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841063,
+   "ts": "2026-11-06T15:54:35+00:00",
+   "ingested": "2026-11-06T17:41:52.644137+00:00",
+   "headline": "IMF Chief Georgieva: Should there be a slowdown in AI-driven growth impulse, it would need to be a factor for central banks as they assess steps in the fight against inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841062,
+   "ts": "2026-11-06T15:53:49+00:00",
+   "ingested": "2026-11-06T17:41:52.644151+00:00",
+   "headline": "IMF's Managing Director Georgieva: AI investment boom and high valuations are impacting markets around the world.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841061,
+   "ts": "2026-11-06T15:53:15+00:00",
+   "ingested": "2026-11-06T17:41:52.644166+00:00",
+   "headline": "IMF's Managing Director Georgieva: The current time is particularly important for central bankers, requiring the ability to see through uncertainty.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841060,
+   "ts": "2026-11-06T15:50:51+00:00",
+   "ingested": "2026-11-06T17:41:52.644178+00:00",
+   "headline": "BoJ's Governor Ueda Speaks - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841046,
+   "ts": "2026-11-06T15:45:46+00:00",
+   "ingested": "2026-11-06T17:41:52.644190+00:00",
+   "headline": "The PBOC is to keep cracking down on crypto-related activities",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841041,
+   "ts": "2026-11-06T15:39:48+00:00",
+   "ingested": "2026-11-06T17:41:52.644204+00:00",
+   "headline": "Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841022,
+   "ts": "2026-11-06T15:27:15+00:00",
+   "ingested": "2026-11-06T17:41:52.644219+00:00",
+   "headline": "Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841021,
+   "ts": "2026-11-06T15:18:07+00:00",
+   "ingested": "2026-11-06T17:41:52.644231+00:00",
+   "headline": "Crypto Fear and Greed Index: 28/100 = Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9841020,
+   "ts": "2026-11-06T15:17:35+00:00",
+   "ingested": "2026-11-06T17:41:52.644243+00:00",
+   "headline": "Fear and Greed Index: 25/100 = Extreme Fear",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840969,
+   "ts": "2026-11-06T15:00:03+00:00",
+   "ingested": "2026-11-06T17:41:52.644256+00:00",
+   "headline": "Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840968,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T17:41:52.644270+00:00",
+   "headline": "University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840967,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T17:41:52.644283+00:00",
+   "headline": "University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840966,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T17:41:52.644297+00:00",
+   "headline": "University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840965,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T17:41:52.644310+00:00",
+   "headline": "University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.6%, Previous 4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840964,
+   "ts": "2026-11-06T15:00:00+00:00",
+   "ingested": "2026-11-06T17:41:52.644323+00:00",
+   "headline": "University Michigan Condition Prelim Actual 51 (Forecast 47, Previous 46.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840963,
+   "ts": "2026-11-06T14:51:48+00:00",
+   "ingested": "2026-11-06T17:41:52.644336+00:00",
+   "headline": "Fed's Musalem: Good Fed comms leads to smoother policy transmission",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840961,
+   "ts": "2026-11-06T14:48:32+00:00",
+   "ingested": "2026-11-06T17:41:52.644349+00:00",
+   "headline": "WH Sr. Adviser Hassett: We have a job market hitting on all cylinders.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840928,
+   "ts": "2026-11-06T14:44:27+00:00",
+   "ingested": "2026-11-06T17:41:52.644363+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trump will read the report and decide on Fed's Cook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840927,
+   "ts": "2026-11-06T14:43:07+00:00",
+   "ingested": "2026-11-06T17:41:52.644376+00:00",
+   "headline": "Fed's Musalem: Data center build-out contributing to strong demand",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840926,
+   "ts": "2026-11-06T14:42:41+00:00",
+   "ingested": "2026-11-06T17:41:52.644388+00:00",
+   "headline": "Fed's Musalem: AI will bring much higher productivity",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840925,
+   "ts": "2026-11-06T14:42:12+00:00",
+   "ingested": "2026-11-06T17:41:52.644419+00:00",
+   "headline": "Fed's Musalem: Consumption and investment are both growing at a fast rate based on an optimistic outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840924,
+   "ts": "2026-11-06T14:42:06+00:00",
+   "ingested": "2026-11-06T17:41:52.644435+00:00",
+   "headline": "Fed's Musalem: Excess inflation today is coming from energy shocks and the AI buildout.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840923,
+   "ts": "2026-11-06T14:41:53+00:00",
+   "ingested": "2026-11-06T17:41:52.644449+00:00",
+   "headline": "WH Sr. Adviser Hassett: Top-line inflation is being driven by energy and Iran",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840922,
+   "ts": "2026-11-06T14:40:42+00:00",
+   "ingested": "2026-11-06T17:41:52.644462+00:00",
+   "headline": "Fed's Musalem: Must return inflation to 2% on a timely basis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840920,
+   "ts": "2026-11-06T14:40:21+00:00",
+   "ingested": "2026-11-06T17:41:52.644477+00:00",
+   "headline": "We are open to negotiations that ensure the realization of our legitimate demands - Al Arabiya, citing an Iranian source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840919,
+   "ts": "2026-11-06T14:40:21+00:00",
+   "ingested": "2026-11-06T17:41:52.644492+00:00",
+   "headline": "An Iranian source tells Al Arabiya: No restrictions have been imposed on Ghalibaf in managing the negotiations.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840918,
+   "ts": "2026-11-06T14:40:10+00:00",
+   "ingested": "2026-11-06T17:41:52.644506+00:00",
+   "headline": "WH Sr. Adviser Hassett: I don't think we have a policy change we need to plan.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840917,
+   "ts": "2026-11-06T14:39:54+00:00",
+   "ingested": "2026-11-06T17:41:52.644520+00:00",
+   "headline": "Tehran awaits practical steps from Washington to build trust - Al Arabiya citing Iranian source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840916,
+   "ts": "2026-11-06T14:39:30+00:00",
+   "ingested": "2026-11-06T17:41:52.644532+00:00",
+   "headline": "Fed's Musalem: Inflation expectations remain anchored.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840915,
+   "ts": "2026-11-06T14:39:22+00:00",
+   "ingested": "2026-11-06T17:41:52.644545+00:00",
+   "headline": "WH Sr. Adviser Hassett: Data is strong on growth, inflation decelerating",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840914,
+   "ts": "2026-11-06T14:38:44+00:00",
+   "ingested": "2026-11-06T17:41:52.644559+00:00",
+   "headline": "Fed's Musalem: People remain concerned about inflation at the current level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840913,
+   "ts": "2026-11-06T14:38:27+00:00",
+   "ingested": "2026-11-06T17:41:52.644573+00:00",
+   "headline": "An Iranian source to Al Arabiya: We are engaging positively with the latest proposal submitted by the mediators.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840891,
+   "ts": "2026-11-06T14:23:15+00:00",
+   "ingested": "2026-11-06T17:41:52.644590+00:00",
+   "headline": "WH Sr. Adviser Hassett: I acknowledges \"hiccups\" in chip firms in recent weeks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840890,
+   "ts": "2026-11-06T14:22:11+00:00",
+   "ingested": "2026-11-06T17:41:52.644603+00:00",
+   "headline": "WH Sr. Adviser Hassett: Intel performance is good news for chip market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840887,
+   "ts": "2026-11-06T14:20:30+00:00",
+   "ingested": "2026-11-06T17:41:52.644616+00:00",
+   "headline": "WH Sr. Adviser Hassett: Reassuring to see Intel turn around sharply over time.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840886,
+   "ts": "2026-11-06T14:20:12+00:00",
+   "ingested": "2026-11-06T17:41:52.644629+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trump is excited about deal made with Intel.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840885,
+   "ts": "2026-11-06T14:18:50+00:00",
+   "ingested": "2026-11-06T17:41:52.644642+00:00",
+   "headline": "WH Sr. Adviser Hassett, on Fed: Inflation should be decelerating - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840882,
+   "ts": "2026-11-06T14:18:11+00:00",
+   "ingested": "2026-11-06T17:41:52.644655+00:00",
+   "headline": "Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain - The Times",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840880,
+   "ts": "2026-11-06T14:17:35+00:00",
+   "ingested": "2026-11-06T17:41:52.644669+00:00",
+   "headline": "WH Sr. Adviser Hassett: We can still have blockbuster economy even data centers slow down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840879,
+   "ts": "2026-11-06T14:16:57+00:00",
+   "ingested": "2026-11-06T17:41:52.644682+00:00",
+   "headline": "WH Sr. Adviser Hassett: AI bubble is actually a worthy concern.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840875,
+   "ts": "2026-11-06T14:16:08+00:00",
+   "ingested": "2026-11-06T17:41:52.644696+00:00",
+   "headline": "WH Sr. Adviser Hassett: I am looking at last three months of runaway job growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840867,
+   "ts": "2026-11-06T14:13:18+00:00",
+   "ingested": "2026-11-06T17:41:52.644709+00:00",
+   "headline": "WH Sr. Adviser Hassett: We want communities to decide on data centers - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840866,
+   "ts": "2026-11-06T14:13:01+00:00",
+   "ingested": "2026-11-06T17:41:52.644721+00:00",
+   "headline": "ECB mulls review of bank loans to data centers.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840865,
+   "ts": "2026-11-06T14:12:41+00:00",
+   "ingested": "2026-11-06T17:41:52.644734+00:00",
+   "headline": "WH Sr. Adviser Hassett: Trump respects localities that don't want data centers",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840864,
+   "ts": "2026-11-06T14:12:31+00:00",
+   "ingested": "2026-11-06T17:41:52.644747+00:00",
+   "headline": "WH Sr. Adviser Hassett: Plenty of room for data center growth to continue - CNBC.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840863,
+   "ts": "2026-11-06T14:11:33+00:00",
+   "ingested": "2026-11-06T17:41:52.644760+00:00",
+   "headline": "US Sentiment: Market Shrugs at NFP, with the Tech Rebound in Focus - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840862,
+   "ts": "2026-11-06T14:10:29+00:00",
+   "ingested": "2026-11-06T17:41:52.644774+00:00",
+   "headline": "Fed's Musalem does not comment on economic outlook or monetary policy in prepared remarks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840860,
+   "ts": "2026-11-06T14:03:36+00:00",
+   "ingested": "2026-11-06T17:41:52.644786+00:00",
+   "headline": "TSMC making plans for 3D DRAM at request of NVIDIA - Information.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840859,
+   "ts": "2026-11-06T14:02:58+00:00",
+   "ingested": "2026-11-06T17:41:52.644799+00:00",
+   "headline": "Amazon launches text-based Alexa for shopping in US.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840858,
+   "ts": "2026-11-06T14:02:27+00:00",
+   "ingested": "2026-11-06T17:41:52.644810+00:00",
+   "headline": "TSMC weighs making advanced memory chips - Information.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840839,
+   "ts": "2026-11-06T14:01:12+00:00",
+   "ingested": "2026-11-06T17:41:52.644825+00:00",
+   "headline": "Iran's Revolutionary Guards: Shot down a US MQ-1 drone over Qeshm island - Fars News Agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840833,
+   "ts": "2026-11-06T13:59:28+00:00",
+   "ingested": "2026-11-06T17:41:52.644838+00:00",
+   "headline": "Effective Fed Funds Rate 3.88% November 5 vs 3.88% November 4.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840832,
+   "ts": "2026-11-06T13:56:10+00:00",
+   "ingested": "2026-11-06T17:41:52.644854+00:00",
+   "headline": "NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9840831,
+   "ts": "2026-11-06T13:53:47+00:00",
+   "ingested": "2026-11-06T17:41:52.644868+00:00",
+   "headline": "Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9840495,
    "ts": "2026-11-06T10:40:28+00:00",
@@ -3207,798 +3999,6 @@
    "ts": "2026-11-04T13:55:52+00:00",
    "ingested": "2026-11-04T16:32:17.449504+00:00",
    "headline": "Credit Agricole: USD Weakens as Post-Midterm Tech Selloff Raises AI Investment Concerns - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836906,
-   "ts": "2026-11-04T13:39:57+00:00",
-   "ingested": "2026-11-04T16:32:17.449515+00:00",
-   "headline": "Qualcomm: SpaceX selects Qualcomm to accelerate Starlink $SPCX $QCOM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836905,
-   "ts": "2026-11-04T13:36:54+00:00",
-   "ingested": "2026-11-04T16:32:17.449526+00:00",
-   "headline": "US Sentiment: Democratic Sweep Causes Rotation Away from AI & Musk-linked Names - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836904,
-   "ts": "2026-11-04T13:35:44+00:00",
-   "ingested": "2026-11-04T16:32:17.449535+00:00",
-   "headline": "US Treasury Quarterly Refunding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836903,
-   "ts": "2026-11-04T13:33:25+00:00",
-   "ingested": "2026-11-04T16:32:17.449543+00:00",
-   "headline": "US Trade Balance Summary",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836878,
-   "ts": "2026-11-04T13:30:01+00:00",
-   "ingested": "2026-11-04T16:32:17.449555+00:00",
-   "headline": "Canadian Trade Balance Actual 5.35B (Forecast 5B, Previous 4.20B, Revised 5.35B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836877,
-   "ts": "2026-11-04T13:30:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449565+00:00",
-   "headline": "US Trade Balance Actual -105B (Forecast -107.9B, Previous -105.6B, Revised $-105.7B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836876,
-   "ts": "2026-11-04T13:26:30+00:00",
-   "ingested": "2026-11-04T16:32:17.449577+00:00",
-   "headline": "Meta gets record \u20ac53 billion of orders for debut Euro bonds $META",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836875,
-   "ts": "2026-11-04T13:23:28+00:00",
-   "ingested": "2026-11-04T16:32:17.449586+00:00",
-   "headline": "Google to backstop some Anthropic obligations for Terawulf $GOOGL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836854,
-   "ts": "2026-11-04T13:15:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449595+00:00",
-   "headline": "US ADP Employment Change Actual 86k (Forecast 67k, Previous 90k)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836830,
-   "ts": "2026-11-04T12:54:32+00:00",
-   "ingested": "2026-11-04T16:32:17.449605+00:00",
-   "headline": "ECB's Knot: Europe on receiving end of US-China rivalry.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836829,
-   "ts": "2026-11-04T12:51:14+00:00",
-   "ingested": "2026-11-04T16:32:17.449614+00:00",
-   "headline": "ECB's Knot: AI will bring productivity growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836828,
-   "ts": "2026-11-04T12:49:10+00:00",
-   "ingested": "2026-11-04T16:32:17.449624+00:00",
-   "headline": "ECB's Knot: Will continue to see small shocks that lift inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836827,
-   "ts": "2026-11-04T12:48:10+00:00",
-   "ingested": "2026-11-04T16:32:17.449633+00:00",
-   "headline": "ECB's Knot: ECB may have to approach 2% goal more often from above.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836826,
-   "ts": "2026-11-04T12:46:48+00:00",
-   "ingested": "2026-11-04T16:32:17.449643+00:00",
-   "headline": "ECB's Knot: Core inflation, second-round effects will likely pick up.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836821,
-   "ts": "2026-11-04T12:44:39+00:00",
-   "ingested": "2026-11-04T16:32:17.449653+00:00",
-   "headline": "Meta gets record \u20ac53 billion demand for debut euro bond sale.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836820,
-   "ts": "2026-11-04T12:31:32+00:00",
-   "ingested": "2026-11-04T16:32:17.449663+00:00",
-   "headline": "German Fin. Min. Klingbeil: We will work with US Democrats to renew ties.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836793,
-   "ts": "2026-11-04T12:19:14+00:00",
-   "ingested": "2026-11-04T16:32:17.449673+00:00",
-   "headline": "Meta seeks as much as \u20ac9 billion from debut euro bond sale.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836748,
-   "ts": "2026-11-04T12:01:44+00:00",
-   "ingested": "2026-11-04T16:32:17.449683+00:00",
-   "headline": "US MBA 30-Yr Mortgage Rate Actual 7.30% (Forecast -, Previous 7.37%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836755,
-   "ts": "2026-11-04T12:01:03+00:00",
-   "ingested": "2026-11-04T16:32:17.449692+00:00",
-   "headline": "$MCD McDonald's Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836747,
-   "ts": "2026-11-04T12:00:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449702+00:00",
-   "headline": "US MBA Mortgage Applications Actual -1.2% (Forecast -, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836746,
-   "ts": "2026-11-04T11:57:02+00:00",
-   "ingested": "2026-11-04T16:32:17.449710+00:00",
-   "headline": "$UBER Uber Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836730,
-   "ts": "2026-11-04T11:42:42+00:00",
-   "ingested": "2026-11-04T16:32:17.449719+00:00",
-   "headline": "Russia hopes Trump continues peace efforts after vote - Tass",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836729,
-   "ts": "2026-11-04T11:42:18+00:00",
-   "ingested": "2026-11-04T16:32:17.449730+00:00",
-   "headline": "France Fin. Min. Lescure: France must hit 2027 deficit goal of 5% to be credible.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836728,
-   "ts": "2026-11-04T11:42:08+00:00",
-   "ingested": "2026-11-04T16:32:17.449740+00:00",
-   "headline": "France Fin. Min. Lescure: No reason to revise french 2026 deficit goal of 5.4%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836703,
-   "ts": "2026-11-04T11:31:11+00:00",
-   "ingested": "2026-11-04T16:32:17.449749+00:00",
-   "headline": "OpenAI to buy Pierre Computer - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836701,
-   "ts": "2026-11-04T11:30:58+00:00",
-   "ingested": "2026-11-04T16:32:17.449758+00:00",
-   "headline": "OpenAI targets Microsoft's Github with deal - Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836648,
-   "ts": "2026-11-04T10:33:21+00:00",
-   "ingested": "2026-11-04T16:32:17.449769+00:00",
-   "headline": "German 15 Yr Bid-to-Cover Actual 1.3 (Forecast -, Previous 2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836647,
-   "ts": "2026-11-04T10:33:21+00:00",
-   "ingested": "2026-11-04T16:32:17.449779+00:00",
-   "headline": "German 15 Yr Bund Yield Actual 3.57% (Forecast -, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836601,
-   "ts": "2026-11-04T10:04:34+00:00",
-   "ingested": "2026-11-04T16:32:17.449791+00:00",
-   "headline": "Adviser to Iran's Revolutionary Guards Commander: In case of war, Tehran's retaliation won't be restricted to source of attack - Tasnim.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836576,
-   "ts": "2026-11-04T10:00:17+00:00",
-   "ingested": "2026-11-04T16:32:17.449807+00:00",
-   "headline": "Eurozone CPI MoM Flash Actual 0.4% (Forecast 0.4%, Previous 0.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836575,
-   "ts": "2026-11-04T10:00:02+00:00",
-   "ingested": "2026-11-04T16:32:17.449817+00:00",
-   "headline": "Eurozone Core CPI YoY Flash Actual 2.5% (Forecast 2.5%, Previous 2.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836574,
-   "ts": "2026-11-04T10:00:01+00:00",
-   "ingested": "2026-11-04T16:32:17.449826+00:00",
-   "headline": "Eurozone CPI YoY Flash Actual 4% (Forecast 4%, Previous 3.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836555,
-   "ts": "2026-11-04T09:43:32+00:00",
-   "ingested": "2026-11-04T16:32:17.449837+00:00",
-   "headline": "Google extends employee buyout offers to several countries.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836529,
-   "ts": "2026-11-04T09:30:01+00:00",
-   "ingested": "2026-11-04T16:32:17.449847+00:00",
-   "headline": "UK Composite PMI Final Actual 52.9 (Forecast 53.1, Previous 53.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836528,
-   "ts": "2026-11-04T09:30:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449857+00:00",
-   "headline": "UK Services PMI Final Actual 52.8 (Forecast 53.1, Previous 53.1)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836527,
-   "ts": "2026-11-04T09:21:26+00:00",
-   "ingested": "2026-11-04T16:32:17.449866+00:00",
-   "headline": "Standard Chartered: US Midterm Implications - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836518,
-   "ts": "2026-11-04T09:03:21+00:00",
-   "ingested": "2026-11-04T16:32:17.449875+00:00",
-   "headline": "Gazprom sets daily record for gas flows to china November 3.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836516,
-   "ts": "2026-11-04T09:01:13+00:00",
-   "ingested": "2026-11-04T16:32:17.449886+00:00",
-   "headline": "ECB sees wage growth at 2.8% in 2Q 2027, 2.4% in 3Q 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836490,
-   "ts": "2026-11-04T09:00:33+00:00",
-   "ingested": "2026-11-04T16:32:17.449895+00:00",
-   "headline": "Google to invest $15 billion in Malaysia data center expansion.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836484,
-   "ts": "2026-11-04T09:00:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449905+00:00",
-   "headline": "Eurozone Services PMI Final Actual 51.4 (Forecast 51.7, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836483,
-   "ts": "2026-11-04T09:00:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449916+00:00",
-   "headline": "Eurozone Composite Final PMI Actual 51.7 (Forecast 51.9, Previous 51.9)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836482,
-   "ts": "2026-11-04T08:55:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449926+00:00",
-   "headline": "German Services PMI Final Actual 52.5 (Forecast 51.7, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836481,
-   "ts": "2026-11-04T08:55:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449939+00:00",
-   "headline": "German Composite PMI Final Actual 53.4 (Forecast 52.8, Previous 52.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836480,
-   "ts": "2026-11-04T08:50:01+00:00",
-   "ingested": "2026-11-04T16:32:17.449949+00:00",
-   "headline": "French Services PMI Actual 46.2 (Forecast 48.4, Previous 48.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836479,
-   "ts": "2026-11-04T08:50:01+00:00",
-   "ingested": "2026-11-04T16:32:17.449958+00:00",
-   "headline": "French Composite PMI Actual 46.6 (Forecast 48.4, Previous 48.4)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836459,
-   "ts": "2026-11-04T08:45:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449968+00:00",
-   "headline": "Italian Composite PMI Actual 50.8 (Forecast 50.8, Previous 51.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836458,
-   "ts": "2026-11-04T08:45:00+00:00",
-   "ingested": "2026-11-04T16:32:17.449977+00:00",
-   "headline": "Italian Services PMI Actual 52 (Forecast 51.5, Previous 51.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836427,
-   "ts": "2026-11-04T08:30:14+00:00",
-   "ingested": "2026-11-04T08:31:50.729385+00:00",
-   "headline": "Swedish Riksbank Rate Actual 2% (Forecast 2%, Previous 1.75%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836414,
-   "ts": "2026-11-04T08:08:27+00:00",
-   "ingested": "2026-11-04T08:31:50.729411+00:00",
-   "headline": "NVIDIA China clients to get 1% of $70 billion RTX chips ordered.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836413,
-   "ts": "2026-11-04T08:07:58+00:00",
-   "ingested": "2026-11-04T08:31:50.729430+00:00",
-   "headline": "BoJ Gov. Ueda to travel to US, Switzerland from November 5-10.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836392,
-   "ts": "2026-11-04T08:01:05+00:00",
-   "ingested": "2026-11-04T08:31:50.729447+00:00",
-   "headline": "Currency Strength Chart: Strongest: NZD, CHF, GBP, EUR, AUD, JPY, CAD, USD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836349,
-   "ts": "2026-11-04T07:30:13+00:00",
-   "ingested": "2026-11-04T08:31:50.729468+00:00",
-   "headline": "Thune plans to run for minority senate leader - Fox",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836348,
-   "ts": "2026-11-04T07:20:45+00:00",
-   "ingested": "2026-11-04T08:31:50.729483+00:00",
-   "headline": "China: In contact with US, Russia on leaders' meeting.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836328,
-   "ts": "2026-11-04T07:03:55+00:00",
-   "ingested": "2026-11-04T08:31:50.729500+00:00",
-   "headline": "Japan's Dep. Chief Cabinet Sec. Kihara: We will watch market moves with high sense of urgency.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836327,
-   "ts": "2026-11-04T07:03:40+00:00",
-   "ingested": "2026-11-04T08:31:50.729515+00:00",
-   "headline": "Japan's Dep. Chief Cabinet Sec. Kihara: Markets move on various factors.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836220,
-   "ts": "2026-11-04T05:56:29+00:00",
-   "ingested": "2026-11-04T08:31:50.729584+00:00",
-   "headline": "Trump: no plans to alter personnel in his administration, backs Pete Hegseth - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836219,
-   "ts": "2026-11-04T05:54:54+00:00",
-   "ingested": "2026-11-04T08:31:50.729603+00:00",
-   "headline": "Trump: I don\u2019t regret initiating the Iran conflict earlier this year - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836218,
-   "ts": "2026-11-04T05:54:11+00:00",
-   "ingested": "2026-11-04T08:31:50.729618+00:00",
-   "headline": "Can collaborate with Democrats on immigration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836195,
-   "ts": "2026-11-04T05:41:23+00:00",
-   "ingested": "2026-11-04T08:31:50.729635+00:00",
-   "headline": "Edge\u2019s naval shipbuilding unit Abu Dhabi Ship Building to handle full integration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836194,
-   "ts": "2026-11-04T05:41:06+00:00",
-   "ingested": "2026-11-04T08:31:50.729650+00:00",
-   "headline": "Edge: Novamarine to supply platforms made at its Olbia, Italy production facility",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836181,
-   "ts": "2026-11-04T05:20:24+00:00",
-   "ingested": "2026-11-04T08:31:50.729669+00:00",
-   "headline": "Trump acknowledges Iran war partly responsible for Republican losses: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836180,
-   "ts": "2026-11-04T05:17:46+00:00",
-   "ingested": "2026-11-04T08:31:50.729685+00:00",
-   "headline": "Democratic challenger Troy Dale Jackson beats Republican incumbent Susan Collins in Maine US Senate race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836179,
-   "ts": "2026-11-04T05:17:29+00:00",
-   "ingested": "2026-11-04T08:31:50.729698+00:00",
-   "headline": "Susan Collins concedes Maine Senate race: NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836178,
-   "ts": "2026-11-04T05:17:10+00:00",
-   "ingested": "2026-11-04T08:31:50.729711+00:00",
-   "headline": "Trump: I will accept election outcome",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836174,
-   "ts": "2026-11-04T05:08:55+00:00",
-   "ingested": "2026-11-04T08:31:50.729724+00:00",
-   "headline": "Trump: I don't expect to alter cabinet",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836173,
-   "ts": "2026-11-04T05:08:45+00:00",
-   "ingested": "2026-11-04T08:31:50.729740+00:00",
-   "headline": "Trump: I can cooperate with Democrats on immigration",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836172,
-   "ts": "2026-11-04T05:07:24+00:00",
-   "ingested": "2026-11-04T08:31:50.729752+00:00",
-   "headline": "Trump: I could collaborate with Democrats on many issues",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836171,
-   "ts": "2026-11-04T05:05:46+00:00",
-   "ingested": "2026-11-04T08:31:50.729764+00:00",
-   "headline": "Trump: Democrats performed well",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836170,
-   "ts": "2026-11-04T05:05:38+00:00",
-   "ingested": "2026-11-04T08:31:50.729779+00:00",
-   "headline": "Democrat Peggy Flanagan beats Republican Michele Tafoya in contest for democratic-held US Senate seat in Minnesota - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836169,
-   "ts": "2026-11-04T05:05:25+00:00",
-   "ingested": "2026-11-04T08:31:50.729792+00:00",
-   "headline": "Trump on Iran: people likely unwilling to accept short-term gasoline price impact",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836168,
-   "ts": "2026-11-04T05:03:44+00:00",
-   "ingested": "2026-11-04T08:31:50.729808+00:00",
-   "headline": "Democrat Peggy Flanagan wins over Republican Michele Tafoya in contest for democratic-held Minnesota Senate seat: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836167,
-   "ts": "2026-11-04T05:01:30+00:00",
-   "ingested": "2026-11-04T08:31:50.729820+00:00",
-   "headline": "Trump: part of outcome related to Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836139,
-   "ts": "2026-11-04T05:00:51+00:00",
-   "ingested": "2026-11-04T08:31:50.729833+00:00",
-   "headline": "Trump: Democrats will send insane measures and I will veto them",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836136,
-   "ts": "2026-11-04T05:00:04+00:00",
-   "ingested": "2026-11-04T08:31:50.729852+00:00",
-   "headline": "India HSBC and S&P Global October final services PMI at 55.8 vs flash 56.2",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836097,
-   "ts": "2026-11-04T04:25:21+00:00",
-   "ingested": "2026-11-04T08:31:50.729865+00:00",
-   "headline": "NBC News projects Democrats to gain control of US Senate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836096,
-   "ts": "2026-11-04T04:24:26+00:00",
-   "ingested": "2026-11-04T08:31:50.729880+00:00",
-   "headline": "Democrat Josh Turek beats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836095,
-   "ts": "2026-11-04T04:20:53+00:00",
-   "ingested": "2026-11-04T08:31:50.729894+00:00",
-   "headline": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836093,
-   "ts": "2026-11-04T04:17:54+00:00",
-   "ingested": "2026-11-04T08:31:50.729909+00:00",
-   "headline": "Democrat Josh Turek defeats Republican Ashley Hinson in race for GOP-held US Senate seat in Iowa: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836089,
-   "ts": "2026-11-04T04:15:47+00:00",
-   "ingested": "2026-11-04T08:31:50.729923+00:00",
-   "headline": "Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas US Senate race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836086,
-   "ts": "2026-11-04T04:15:03+00:00",
-   "ingested": "2026-11-04T08:31:50.729939+00:00",
-   "headline": "United Arab Emirates S&P Global composite PMI falls to 54.8 in October from 55.3 in September",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836085,
-   "ts": "2026-11-04T04:13:18+00:00",
-   "ingested": "2026-11-04T08:31:50.729953+00:00",
-   "headline": "Democrat Rob Sand beats Republican Zach Lahn in race for Iowa governor held by GOP - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836084,
-   "ts": "2026-11-04T04:02:38+00:00",
-   "ingested": "2026-11-04T08:31:50.729970+00:00",
-   "headline": "Democrat Gina Hinojosa beats Republican incumbent Greg Abbott in Texas governor race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836071,
-   "ts": "2026-11-04T04:00:51+00:00",
-   "ingested": "2026-11-04T08:31:50.729985+00:00",
-   "headline": "Democratic challenger Sherrod Brown defeats Republican incumbent Jon Husted in Ohio Senate race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836070,
-   "ts": "2026-11-04T04:00:51+00:00",
-   "ingested": "2026-11-04T08:31:50.730001+00:00",
-   "headline": "Democrat James Talarico defeats Republican Ken Paxton in race for GOP-held US Senate seat in Texas, CNN projects:",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836068,
-   "ts": "2026-11-04T03:53:16+00:00",
-   "ingested": "2026-11-04T08:31:50.730019+00:00",
-   "headline": "Democrat James Talarico beats Republican Ken Paxton in race for Republican-held US Senate seat in Texas - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836067,
-   "ts": "2026-11-04T03:52:26+00:00",
-   "ingested": "2026-11-04T08:31:50.730035+00:00",
-   "headline": "Trump: he is absolutely willing to accept election results - NYT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836066,
-   "ts": "2026-11-04T03:50:01+00:00",
-   "ingested": "2026-11-04T08:31:50.730053+00:00",
-   "headline": "Democrat Amy Acton beats Republican Vivek Ramaswamy in race for GOP-held Ohio governor seat - NBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836065,
-   "ts": "2026-11-04T03:49:06+00:00",
-   "ingested": "2026-11-04T08:31:50.730068+00:00",
-   "headline": "Democrat Amy Acton overcomes Republican Vivek Ramaswamy in contest for Ohio governor, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836064,
-   "ts": "2026-11-04T03:49:01+00:00",
-   "ingested": "2026-11-04T08:31:50.730083+00:00",
-   "headline": "Democratic challenger Adam Hamilton defeats Republican incumbent Roger Marshall in Kansas Senate race: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836051,
-   "ts": "2026-11-04T03:36:21+00:00",
-   "ingested": "2026-11-04T08:31:50.730097+00:00",
-   "headline": "Iran's Revolutionary Guards say four tankers remain ablaze after hitting naval mines",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836050,
-   "ts": "2026-11-04T03:35:18+00:00",
-   "ingested": "2026-11-04T08:31:50.730112+00:00",
-   "headline": "Iran's IRGC: four tankers destroyed after hitting mines south of Strait of Hormuz, two other ships seized - statement",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836049,
-   "ts": "2026-11-04T03:31:43+00:00",
-   "ingested": "2026-11-04T08:31:50.730126+00:00",
-   "headline": "Democrat Amy Acton defeats Republican Vivek Ramaswamy in Ohio governor race held by GOP: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836048,
-   "ts": "2026-11-04T03:28:46+00:00",
-   "ingested": "2026-11-04T08:31:50.730139+00:00",
-   "headline": "Nvidia says China clients to receive 1% of $70 billion RTX chips ordered",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836039,
-   "ts": "2026-11-04T03:17:42+00:00",
-   "ingested": "2026-11-04T08:31:50.730156+00:00",
-   "headline": "Democratic contender Bob Brooks beats Republican incumbent Ryan Mackenzie in Pennsylvania\u2019s 7th House race, CNN projects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836038,
-   "ts": "2026-11-04T03:17:41+00:00",
-   "ingested": "2026-11-04T08:31:50.730172+00:00",
-   "headline": "Democratic challenger Janelle Stelson overcomes Republican incumbent Scott Perry in Pennsylvania\u2019s 10th congressional district race - NBC News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836037,
-   "ts": "2026-11-04T03:16:10+00:00",
-   "ingested": "2026-11-04T08:31:50.730185+00:00",
-   "headline": "Dollar/Swiss franc drops 0.86% to 0.8138",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836036,
-   "ts": "2026-11-04T03:14:57+00:00",
-   "ingested": "2026-11-04T08:31:50.730200+00:00",
-   "headline": "Democrat James Talarico tops Republican Ken Paxton in race for GOP-held US Senate seat in Texas: Decision Desk HQ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836035,
-   "ts": "2026-11-04T03:08:54+00:00",
-   "ingested": "2026-11-04T08:31:50.730212+00:00",
-   "headline": "NBC News projects Democrats take control of US House",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9836033,
-   "ts": "2026-11-04T03:06:18+00:00",
-   "ingested": "2026-11-04T08:31:50.730256+00:00",
-   "headline": "euro rises 0.5% to $1.125",
    "channel": "rss",
    "source": "financialjuice"
   }
