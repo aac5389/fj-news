@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-08T02:00:59.096255+00:00",
+ "updated": "2026-11-08T08:54:08.496898+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9842279,
+   "ts": "2026-11-08T06:04:53+00:00",
+   "ingested": "2026-11-08T08:54:08.496327+00:00",
+   "headline": "Saudi-led coalition: two cruise missiles intercepted and destroyed in Riyadh and southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842276,
+   "ts": "2026-11-08T05:33:40+00:00",
+   "ingested": "2026-11-08T08:54:08.496365+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys two missiles launched by Houthis toward Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842272,
+   "ts": "2026-11-08T05:05:48+00:00",
+   "ingested": "2026-11-08T08:54:08.496382+00:00",
+   "headline": "Multiple loud blasts heard in Riyadh: witness source",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842271,
+   "ts": "2026-11-08T05:01:41+00:00",
+   "ingested": "2026-11-08T08:54:08.496397+00:00",
+   "headline": "Saudi civil defense issues early alert in Riyadh region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842254,
+   "ts": "2026-11-08T04:35:51+00:00",
+   "ingested": "2026-11-08T08:54:08.496408+00:00",
+   "headline": "Israeli military: hostile aircraft alerts in the north were false identification",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842253,
+   "ts": "2026-11-08T04:31:55+00:00",
+   "ingested": "2026-11-08T08:54:08.496420+00:00",
+   "headline": "Iran executes three men convicted of involvement in armed unrest during January 2026 protests: state media",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842251,
+   "ts": "2026-11-08T04:17:15+00:00",
+   "ingested": "2026-11-08T08:54:08.496430+00:00",
+   "headline": "Israeli military: alerts sounded over suspected hostile infiltration in northern Israel, details under way",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842247,
+   "ts": "2026-11-08T04:15:02+00:00",
+   "ingested": "2026-11-08T08:54:08.496441+00:00",
+   "headline": "Israeli military: alerts triggered over suspected hostile incursion in northern Israel, investigation ongoing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842233,
+   "ts": "2026-11-08T02:29:55+00:00",
+   "ingested": "2026-11-08T08:54:08.496453+00:00",
+   "headline": "Saudi-led coalition: intercepted and destroyed ballistic missile launched by Yemen's Houthis towards Saudi Arabia's eastern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842185,
    "ts": "2026-11-08T01:58:53+00:00",
@@ -3927,78 +3999,6 @@
    "ts": "2026-11-05T07:21:37+00:00",
    "ingested": "2026-11-05T09:42:42.424708+00:00",
    "headline": "RBA's Hauser: Board discussions were very lively at the last meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838233,
-   "ts": "2026-11-05T07:19:51+00:00",
-   "ingested": "2026-11-05T09:42:42.424722+00:00",
-   "headline": "SNB's Chairman Schlegel: SNB would intervene if price stability were at risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838232,
-   "ts": "2026-11-05T07:16:48+00:00",
-   "ingested": "2026-11-05T09:42:42.424736+00:00",
-   "headline": "SNB's Chairman Schlegel: Not yet seen any significant second-round effects",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838215,
-   "ts": "2026-11-05T07:04:29+00:00",
-   "ingested": "2026-11-05T09:42:42.424750+00:00",
-   "headline": "BoJ to hold 25th bond market group meetings on December 7-8th",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838193,
-   "ts": "2026-11-05T07:01:50+00:00",
-   "ingested": "2026-11-05T09:42:42.424764+00:00",
-   "headline": "German Industrial Orders MoM Actual 4.4% (Forecast 4.5%, Previous -10.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838126,
-   "ts": "2026-11-05T06:01:12+00:00",
-   "ingested": "2026-11-05T09:42:42.424855+00:00",
-   "headline": "China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838125,
-   "ts": "2026-11-05T06:01:12+00:00",
-   "ingested": "2026-11-05T09:42:42.424874+00:00",
-   "headline": "Chinese refiners have sold roughly 500,000 metric tons of diesel for November export, traders say based on trade data calculations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838116,
-   "ts": "2026-11-05T06:00:03+00:00",
-   "ingested": "2026-11-05T09:42:42.424891+00:00",
-   "headline": "Russia S&P Global October services PMI dips to 50.1 from September 51.3",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838115,
-   "ts": "2026-11-05T05:54:14+00:00",
-   "ingested": "2026-11-05T09:42:42.424905+00:00",
-   "headline": "Emirates Group: net profit in h1 at 3.6 bln dirhams - chief executive",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838114,
-   "ts": "2026-11-05T05:53:38+00:00",
-   "ingested": "2026-11-05T09:42:42.424920+00:00",
-   "headline": "Emirates Group: h1 revenues reach 66.2 billion dirhams - chief executive on X",
    "channel": "rss",
    "source": "financialjuice"
   }
