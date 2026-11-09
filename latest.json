@@ -1,7 +1,279 @@
 {
- "updated": "2026-11-09T02:56:37.355609+00:00",
+ "updated": "2026-11-09T10:57:12.669722+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9843111,
+   "ts": "2026-11-09T09:30:00+00:00",
+   "ingested": "2026-11-09T10:57:12.668503+00:00",
+   "headline": "Eurozone Sentix Investor Confidence Index Actual 2.4 (Forecast 2.05, Previous 2.7)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843110,
+   "ts": "2026-11-09T09:26:58+00:00",
+   "ingested": "2026-11-09T10:57:12.668525+00:00",
+   "headline": "ING: The EUR - FJElite",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843037,
+   "ts": "2026-11-09T08:09:58+00:00",
+   "ingested": "2026-11-09T10:57:12.668544+00:00",
+   "headline": "NVIDIA plans investments in Motif Tech, Rlwrld, upstage.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843036,
+   "ts": "2026-11-09T08:08:15+00:00",
+   "ingested": "2026-11-09T10:57:12.668561+00:00",
+   "headline": "NVIDIA to invest in Korean AI startup Point2.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843035,
+   "ts": "2026-11-09T08:05:36+00:00",
+   "ingested": "2026-11-09T10:57:12.668585+00:00",
+   "headline": "Iran's Baghaei, asked about South Korea planning regional naval presence: The best help Seoul can provide is not to involve itself in a complex issue.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843034,
+   "ts": "2026-11-09T08:02:28+00:00",
+   "ingested": "2026-11-09T10:57:12.668604+00:00",
+   "headline": "Currency Strength Chart: Strongest: NZD, JPY, CHF, GBP, EUR, AUD, CAD, USD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843033,
+   "ts": "2026-11-09T08:01:41+00:00",
+   "ingested": "2026-11-09T10:57:12.668621+00:00",
+   "headline": "China to extend suspension of exports controls targeting US companies.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843014,
+   "ts": "2026-11-09T07:55:21+00:00",
+   "ingested": "2026-11-09T10:57:12.668638+00:00",
+   "headline": "Iran's Baghaei: IAEA visit to Bushehr has been made in recent days.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9843013,
+   "ts": "2026-11-09T07:53:25+00:00",
+   "ingested": "2026-11-09T10:57:12.668655+00:00",
+   "headline": "EU's Economy Commissioner Dombrovskis: Economy facing uncertianty, downside risks.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842994,
+   "ts": "2026-11-09T07:42:03+00:00",
+   "ingested": "2026-11-09T10:57:12.668673+00:00",
+   "headline": "Iran's Baghaei: US iron gate task force is a way to deflect from US midterms results.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842993,
+   "ts": "2026-11-09T07:41:25+00:00",
+   "ingested": "2026-11-09T10:57:12.668688+00:00",
+   "headline": "Fire at Russia's Kirishi refinery localized - Governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842992,
+   "ts": "2026-11-09T07:34:46+00:00",
+   "ingested": "2026-11-09T10:57:12.668707+00:00",
+   "headline": "Iran's Baghaei: However strong pressures are, they should not impact the strong bilateral ties between Iran and Iraq.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842991,
+   "ts": "2026-11-09T07:32:46+00:00",
+   "ingested": "2026-11-09T10:57:12.668726+00:00",
+   "headline": "Iran Foreign Ministry Spokesperson Baghaei: Iran's two-day proposal is the most reasonable proposal on the table.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842942,
+   "ts": "2026-11-09T07:00:04+00:00",
+   "ingested": "2026-11-09T10:57:12.668743+00:00",
+   "headline": "German Exports MoM SA Actual 2% (Forecast 0.5%, Previous -0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842941,
+   "ts": "2026-11-09T07:00:03+00:00",
+   "ingested": "2026-11-09T10:57:12.668759+00:00",
+   "headline": "German Imports MoM SA Actual 4.2% (Forecast 0.5%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842940,
+   "ts": "2026-11-09T07:00:03+00:00",
+   "ingested": "2026-11-09T10:57:12.668775+00:00",
+   "headline": "German Trade Balance SA Actual 15.6B (Forecast 19.4B, Previous 19.5B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842939,
+   "ts": "2026-11-09T06:48:50+00:00",
+   "ingested": "2026-11-09T10:57:12.668794+00:00",
+   "headline": "South Korea Industry Minister: Experts say unlike in the stock market, AI investment in the real economy is still robust.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842938,
+   "ts": "2026-11-09T06:48:24+00:00",
+   "ingested": "2026-11-09T10:57:12.668813+00:00",
+   "headline": "South Korea Industry Minister: Do not believe AI investment will slow due to us midterm election - Yonhap.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842900,
+   "ts": "2026-11-09T06:17:22+00:00",
+   "ingested": "2026-11-09T10:57:12.668897+00:00",
+   "headline": "The diesel deal offers a chance for a gradual restoration of business ties between Russia and US - Tass Cites Russian Foreign Ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842885,
+   "ts": "2026-11-09T06:10:46+00:00",
+   "ingested": "2026-11-09T10:57:12.668914+00:00",
+   "headline": "Japanese Leading Indicator Change Actual -1.6 (Forecast -, Previous 0.4)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842870,
+   "ts": "2026-11-09T05:49:43+00:00",
+   "ingested": "2026-11-09T10:57:12.668931+00:00",
+   "headline": "Russia hits power substation in Kyiv region: RIA quotes Russian defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842869,
+   "ts": "2026-11-09T05:48:56+00:00",
+   "ingested": "2026-11-09T10:57:12.668945+00:00",
+   "headline": "Russia hits vessel in Black Sea: IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842852,
+   "ts": "2026-11-09T05:30:04+00:00",
+   "ingested": "2026-11-09T10:57:12.668962+00:00",
+   "headline": "Chinese banks have sharply increased dollar deposit rates in recent weeks, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842851,
+   "ts": "2026-11-09T05:30:04+00:00",
+   "ingested": "2026-11-09T10:57:12.668979+00:00",
+   "headline": "Chinese dollar deposit rates sometimes exceed 4% and exporters are hoarding cash: sources",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842850,
+   "ts": "2026-11-09T05:23:00+00:00",
+   "ingested": "2026-11-09T10:57:12.668997+00:00",
+   "headline": "China auto industry body CPCA: Tesla Inc exported 59,012 China-made vehicles in October",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842807,
+   "ts": "2026-11-09T05:00:42+00:00",
+   "ingested": "2026-11-09T10:57:12.669017+00:00",
+   "headline": "China auto industry body CPCA: China sold 1.65 million passenger cars in Oct, down 27.3% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842805,
+   "ts": "2026-11-09T05:00:05+00:00",
+   "ingested": "2026-11-09T10:57:12.669036+00:00",
+   "headline": "Nvidia, Rebellions and SK Telecom announce partnership to develop sovereign AI infrastructure with Nvidia NVLink Fusion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842792,
+   "ts": "2026-11-09T04:38:47+00:00",
+   "ingested": "2026-11-09T10:57:12.669056+00:00",
+   "headline": "Iranian provincial official: Overnight US strike on Qeshm island did not affect key infrastructure and services - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842776,
+   "ts": "2026-11-09T04:12:45+00:00",
+   "ingested": "2026-11-09T10:57:12.669077+00:00",
+   "headline": "Iran's state TV, citing unnamed Revolutionary Guards navy official: Navigational aid systems in southern Hormuz destroyed, halting vessel transit on unauthorized route overnight",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842764,
+   "ts": "2026-11-09T03:48:00+00:00",
+   "ingested": "2026-11-09T10:57:12.669095+00:00",
+   "headline": "China transport ministry: to keep suspending probe into impact on shipping, shipbuilding supply chain security until Jan 10, 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842763,
+   "ts": "2026-11-09T03:47:34+00:00",
+   "ingested": "2026-11-09T10:57:12.669111+00:00",
+   "headline": "China transport ministry: to extend suspension of special port fees on US vessels until Jan. 10, 2027",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842750,
+   "ts": "2026-11-09T03:22:28+00:00",
+   "ingested": "2026-11-09T10:57:12.669128+00:00",
+   "headline": "Ousted Bangladeshi Prime Minister Sheikh Hasina requests new passport and ID card to return home from self-imposed exile in Delhi",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842745,
+   "ts": "2026-11-09T03:02:26+00:00",
+   "ingested": "2026-11-09T10:57:12.669142+00:00",
+   "headline": "China: building fire in Taiyuan kills 14 - Xinhua",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9842742,
+   "ts": "2026-11-09T02:56:33+00:00",
+   "ingested": "2026-11-09T10:57:12.669157+00:00",
+   "headline": "South Korea finance minister: nuclear project remittance to US remains preliminary, will review closely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9842741,
    "ts": "2026-11-09T02:56:14+00:00",
@@ -3727,278 +3999,6 @@
    "ts": "2026-11-05T16:13:20+00:00",
    "ingested": "2026-11-05T17:40:42.504739+00:00",
    "headline": "Putin Envoy Dmitriev: Putin appreciates trump's peacemaking efforts",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839168,
-   "ts": "2026-11-05T16:13:05+00:00",
-   "ingested": "2026-11-05T17:40:42.504756+00:00",
-   "headline": "ECB's President Lagarde: There are also demand shocks happening at the same time",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839167,
-   "ts": "2026-11-05T16:11:44+00:00",
-   "ingested": "2026-11-05T17:40:42.504773+00:00",
-   "headline": "ECB's President Lagarde: Must pay attention to secondary effects of energy price shock",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839166,
-   "ts": "2026-11-05T16:08:50+00:00",
-   "ingested": "2026-11-05T17:40:42.504789+00:00",
-   "headline": "French PM Lecornu to meet with unions and employers on Monday",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839165,
-   "ts": "2026-11-05T16:02:36+00:00",
-   "ingested": "2026-11-05T17:40:42.504805+00:00",
-   "headline": "Shield AI to hit $28.8 billion valuation with radar firm deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839164,
-   "ts": "2026-11-05T16:02:13+00:00",
-   "ingested": "2026-11-05T17:40:42.504819+00:00",
-   "headline": "US Treasury Auction dates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839145,
-   "ts": "2026-11-05T16:00:58+00:00",
-   "ingested": "2026-11-05T17:40:42.504835+00:00",
-   "headline": "BoE Gov. Bailey: Inflation is baked in currently due to the energy price cap.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839143,
-   "ts": "2026-11-05T16:00:38+00:00",
-   "ingested": "2026-11-05T17:40:42.504851+00:00",
-   "headline": "BoE Gov. Bailey: Peace moves would bring limited relief from inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839142,
-   "ts": "2026-11-05T16:00:37+00:00",
-   "ingested": "2026-11-05T17:40:42.504866+00:00",
-   "headline": "BoE Gov. Bailey: The future decisions hinge on how fast inflation comes down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839141,
-   "ts": "2026-11-05T16:00:27+00:00",
-   "ingested": "2026-11-05T17:40:42.504881+00:00",
-   "headline": "BoE Gov. Bailey: Inflation risks are on the upside, which could change",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839137,
-   "ts": "2026-11-05T16:00:23+00:00",
-   "ingested": "2026-11-05T17:40:42.504897+00:00",
-   "headline": "BoE Gov. Bailey: The BoE is watching the extent of inflation pass-through.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839134,
-   "ts": "2026-11-05T15:56:51+00:00",
-   "ingested": "2026-11-05T17:40:42.504918+00:00",
-   "headline": "Standard Chartered expects the BoE to deliver a 25 bp rate hike in February 2027 vs the prior forecast of no rate hikes after November 2026.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839133,
-   "ts": "2026-11-05T15:55:08+00:00",
-   "ingested": "2026-11-05T17:40:42.504935+00:00",
-   "headline": "ECB's President Lagarde: Don't expect US tariffs to be revisited right away.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839132,
-   "ts": "2026-11-05T15:51:33+00:00",
-   "ingested": "2026-11-05T17:40:42.504953+00:00",
-   "headline": "ECB\u2019s President Lagarde: We will have many indicators between now and December",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839131,
-   "ts": "2026-11-05T15:49:07+00:00",
-   "ingested": "2026-11-05T17:40:42.504970+00:00",
-   "headline": "ECB's President Lagarde: Still necessary to apply tools to avoid inflation running away",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839130,
-   "ts": "2026-11-05T15:47:53+00:00",
-   "ingested": "2026-11-05T17:40:42.504987+00:00",
-   "headline": "ECB's President Lagarde: Very difficult to disentangle supply-driven and demand-driven shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839129,
-   "ts": "2026-11-05T15:47:30+00:00",
-   "ingested": "2026-11-05T17:40:42.505006+00:00",
-   "headline": "ECB's President Lagarde: The current situation is made hard by the energy shock and AI pulling in opposite directions.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839102,
-   "ts": "2026-11-05T15:42:55+00:00",
-   "ingested": "2026-11-05T17:40:42.505023+00:00",
-   "headline": "Microsoft Increases Oversight of Neocloud Providers Amid Data Center Delays and Rising Costs $MSFT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839081,
-   "ts": "2026-11-05T15:30:01+00:00",
-   "ingested": "2026-11-05T17:40:42.505039+00:00",
-   "headline": "EIA Natural Gas Change BCF Actual 77B (Forecast 78B, Previous 80B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839079,
-   "ts": "2026-11-05T15:22:36+00:00",
-   "ingested": "2026-11-05T17:40:42.505058+00:00",
-   "headline": "Iran's Security Chief Rezaei delivers a message from the country's supreme leader, Mojtaba Khamenei, to Russia's Putin - State Media",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839077,
-   "ts": "2026-11-05T15:18:19+00:00",
-   "ingested": "2026-11-05T17:40:42.505079+00:00",
-   "headline": "Fear & Greed Index: 27/100 - Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839076,
-   "ts": "2026-11-05T15:18:15+00:00",
-   "ingested": "2026-11-05T17:40:42.505095+00:00",
-   "headline": "BoE Bank Rate Past Market Reactions, Deviations, Summary & Sentiment - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839069,
-   "ts": "2026-11-05T15:15:34+00:00",
-   "ingested": "2026-11-05T17:40:42.505111+00:00",
-   "headline": "Fed's Hammack: See potential strengthening of the labor market",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839052,
-   "ts": "2026-11-05T15:13:18+00:00",
-   "ingested": "2026-11-05T17:40:42.505126+00:00",
-   "headline": "Fed's Hammack: See inflationary pressures spilling across the economy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839051,
-   "ts": "2026-11-05T15:08:18+00:00",
-   "ingested": "2026-11-05T17:40:42.505142+00:00",
-   "headline": "Fed's Hammack: Six FOMC meetings from eight would be a modest shift",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839050,
-   "ts": "2026-11-05T15:04:11+00:00",
-   "ingested": "2026-11-05T17:40:42.505155+00:00",
-   "headline": "Fed's Barkin concludes Q&A",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839049,
-   "ts": "2026-11-05T15:03:16+00:00",
-   "ingested": "2026-11-05T17:40:42.505190+00:00",
-   "headline": "Fed's Barkin: Raising rates can affect demand and in time, oil prices",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839028,
-   "ts": "2026-11-05T14:57:26+00:00",
-   "ingested": "2026-11-05T17:40:42.505208+00:00",
-   "headline": "UBS cuts ARM Holdings' target price to $270 from $320. $ARM",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839026,
-   "ts": "2026-11-05T14:51:25+00:00",
-   "ingested": "2026-11-05T17:40:42.505224+00:00",
-   "headline": "Fed's Hammack: Use of stablecoins by AI agents would be a big shift",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839001,
-   "ts": "2026-11-05T14:37:49+00:00",
-   "ingested": "2026-11-05T17:40:42.505241+00:00",
-   "headline": "Fed's Barkin: Credit dynamics in the banking sector are \"reassuring\" at this point.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838999,
-   "ts": "2026-11-05T14:36:43+00:00",
-   "ingested": "2026-11-05T17:40:42.505256+00:00",
-   "headline": "Russia advises citizens to avoid travel to Iran - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838998,
-   "ts": "2026-11-05T14:33:14+00:00",
-   "ingested": "2026-11-05T17:40:42.505275+00:00",
-   "headline": "Fed's Barkin: Changing the pace of policy meetings has the advantage of a better flow of data for each session.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838997,
-   "ts": "2026-11-05T14:32:36+00:00",
-   "ingested": "2026-11-05T17:40:42.505292+00:00",
-   "headline": "Fed's Barkin: A change in the number of policy-setting meetings is not a big deal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838985,
-   "ts": "2026-11-05T14:27:53+00:00",
-   "ingested": "2026-11-05T17:40:42.505316+00:00",
-   "headline": "Fed's Barkin: Data centers, because of a lack of employees, do not have natural constituencies in the communities where they are located.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9838984,
-   "ts": "2026-11-05T14:27:50+00:00",
-   "ingested": "2026-11-05T17:40:42.505331+00:00",
-   "headline": "S&PGR rates Apple's sr unsecured notes \"a+\".",
    "channel": "rss",
    "source": "financialjuice"
   }
