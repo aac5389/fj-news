@@ -1,7 +1,759 @@
 {
- "updated": "2026-11-09T21:18:52.983728+00:00",
+ "updated": "2026-11-10T03:38:26.585059+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9844496,
+   "ts": "2026-11-10T03:01:04+00:00",
+   "ingested": "2026-11-10T03:38:26.583023+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844464,
+   "ts": "2026-11-10T02:35:57+00:00",
+   "ingested": "2026-11-10T03:38:26.583053+00:00",
+   "headline": "China Oct trade surplus $105.28 billion vs poll $125.8 billion",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844463,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583074+00:00",
+   "headline": "China October natural gas imports 10.01 mln tonnes vs 10.86 mln tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844462,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583094+00:00",
+   "headline": "China jan-oct unwrought copper and copper products imports total 4,211,000 tonnes, vs 4,456,000 tonnes a year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844461,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583112+00:00",
+   "headline": "China October unwrought aluminium and aluminium products exports 594,000 tonnes vs 656,000 tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844460,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583132+00:00",
+   "headline": "China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844459,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583149+00:00",
+   "headline": "China jan-oct natural gas shipments 99.22 mln tonnes vs 102.09 mln tonnes yr earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844458,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583164+00:00",
+   "headline": "China jan-oct unwrought aluminium and aluminium product exports total 5,914,000 tonnes vs 5,020,000 tonnes yr earlier - customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844457,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583179+00:00",
+   "headline": "China October unwrought copper and copper products imports 453,000 tonnes, vs 461,000 tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844456,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583193+00:00",
+   "headline": "China Jan-Oct rare earth shipments 48,097.2 tonnes vs 52,699.1 tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844455,
+   "ts": "2026-11-10T02:34:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583209+00:00",
+   "headline": "China October crude oil imports 41.94 million tonnes vs 37.10 million tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844454,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T03:38:26.583224+00:00",
+   "headline": "China October oil product imports 3.15 mln tonnes vs 1.85 mln tonnes in September: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844453,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T03:38:26.583239+00:00",
+   "headline": "China jan-oct oil product imports at 27.15 million tonnes vs 34.19 million tonnes year earlier: customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844452,
+   "ts": "2026-11-10T02:34:53+00:00",
+   "ingested": "2026-11-10T03:38:26.583253+00:00",
+   "headline": "China October rare earth shipments 4,386 tonnes vs 4,269.8 tonnes in September - customs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844451,
+   "ts": "2026-11-10T02:34:51+00:00",
+   "ingested": "2026-11-10T03:38:26.583266+00:00",
+   "headline": "China October trade surplus with United States $32.71 billion, customs data show",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844450,
+   "ts": "2026-11-10T02:32:09+00:00",
+   "ingested": "2026-11-10T03:38:26.583278+00:00",
+   "headline": "China October trade surplus 712.78 billion yuan",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844449,
+   "ts": "2026-11-10T02:31:53+00:00",
+   "ingested": "2026-11-10T03:38:26.583291+00:00",
+   "headline": "China october yuan-denominated exports rise 28.7% year-on-year",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844433,
+   "ts": "2026-11-10T02:30:51+00:00",
+   "ingested": "2026-11-10T03:38:26.583312+00:00",
+   "headline": "China oct dollar-denominated exports rise 35.2% y/y, beating poll of 33.5% y/y",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844299,
+   "ts": "2026-11-10T01:21:10+00:00",
+   "ingested": "2026-11-10T03:38:26.583333+00:00",
+   "headline": "China cbank injects 190 billion yuan via overnight reverse repos at 1.25%: statement",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844298,
+   "ts": "2026-11-10T01:20:45+00:00",
+   "ingested": "2026-11-10T03:38:26.583348+00:00",
+   "headline": "Japan FinMin Katayama: no decisions made on preferential tax treatment for retail JGBs, leaves debate to LDP",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844297,
+   "ts": "2026-11-10T01:20:16+00:00",
+   "ingested": "2026-11-10T03:38:26.583362+00:00",
+   "headline": "Japan finmin Katayama: some smaller banks concerned about funds moving to retail JGBs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844296,
+   "ts": "2026-11-10T01:17:00+00:00",
+   "ingested": "2026-11-10T03:38:26.583377+00:00",
+   "headline": "Japan finance minister Katayama: no effect on BoJ operations from expected government proceeds of ETF sales",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844290,
+   "ts": "2026-11-10T01:14:46+00:00",
+   "ingested": "2026-11-10T03:38:26.583392+00:00",
+   "headline": "anthropic: google, nvidia, amd, broadcom, micron, microsoft, tsmc to invest $26 billion via private placement at ipo price",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844289,
+   "ts": "2026-11-10T01:07:58+00:00",
+   "ingested": "2026-11-10T03:38:26.583406+00:00",
+   "headline": "Australia PM Albanese: all review suggests compulsory company reporting on misaligned behaviour or cyber incidents",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844288,
+   "ts": "2026-11-10T01:07:05+00:00",
+   "ingested": "2026-11-10T03:38:26.583421+00:00",
+   "headline": "South Korea president Lee: Seoul must foster cooperation with US Congress, expand ties with US state governments",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844287,
+   "ts": "2026-11-10T01:06:01+00:00",
+   "ingested": "2026-11-10T03:38:26.583436+00:00",
+   "headline": "Australia PM Albanese: AI protections to be overseen by new dedicated AI safety regulator",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844286,
+   "ts": "2026-11-10T01:05:38+00:00",
+   "ingested": "2026-11-10T03:38:26.583449+00:00",
+   "headline": "Australia PM Albanese announces mandatory AI safety and security measures",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844285,
+   "ts": "2026-11-10T01:03:41+00:00",
+   "ingested": "2026-11-10T03:38:26.583463+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys two missiles launched by Yemen's Houthis toward Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844273,
+   "ts": "2026-11-10T01:00:22+00:00",
+   "ingested": "2026-11-10T03:38:26.583477+00:00",
+   "headline": "Taiwan overnight interbank rate starts at 0.805% vs previous session open at 0.805%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844272,
+   "ts": "2026-11-10T01:00:22+00:00",
+   "ingested": "2026-11-10T03:38:26.583490+00:00",
+   "headline": "Taiwan shares advance more than 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844271,
+   "ts": "2026-11-10T00:50:12+00:00",
+   "ingested": "2026-11-10T03:38:26.583503+00:00",
+   "headline": "Arrow agrees to buy 62mt West Pilbara DSO Fe, RHI-AMD",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844270,
+   "ts": "2026-11-10T00:47:42+00:00",
+   "ingested": "2026-11-10T03:38:26.583516+00:00",
+   "headline": "Saudi civil defense: danger has passed in Riyadh - Saudi state TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844248,
+   "ts": "2026-11-10T00:40:16+00:00",
+   "ingested": "2026-11-10T03:38:26.583529+00:00",
+   "headline": "Saudi civil defense issues warning of potential hazard in Riyadh",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844234,
+   "ts": "2026-11-10T00:30:03+00:00",
+   "ingested": "2026-11-10T03:38:26.583543+00:00",
+   "headline": "Australia October business confidence index slides to -15 from -14 in September: NAB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844233,
+   "ts": "2026-11-10T00:30:03+00:00",
+   "ingested": "2026-11-10T03:38:26.583556+00:00",
+   "headline": "Australia October business conditions index dips to -2 from -1 in September: NAB",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844232,
+   "ts": "2026-11-10T00:30:01+00:00",
+   "ingested": "2026-11-10T03:38:26.583569+00:00",
+   "headline": "Australian NAB Business Confidence Actual -15 (Forecast -, Previous -13)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844231,
+   "ts": "2026-11-10T00:30:00+00:00",
+   "ingested": "2026-11-10T03:38:26.583582+00:00",
+   "headline": "Australian NAB Business Conditions Actual -2 (Forecast -, Previous -1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844230,
+   "ts": "2026-11-10T00:23:24+00:00",
+   "ingested": "2026-11-10T03:38:26.583595+00:00",
+   "headline": "China PBOC forecast to fix yuan midpoint at 6.6655 per dollar: estimate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844221,
+   "ts": "2026-11-10T00:09:19+00:00",
+   "ingested": "2026-11-10T03:38:26.583611+00:00",
+   "headline": "China finance ministry: finance ministry, financial regulators and central banks of two countries separately ink memorandum on fiscal cooperation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844220,
+   "ts": "2026-11-10T00:09:02+00:00",
+   "ingested": "2026-11-10T03:38:26.583626+00:00",
+   "headline": "China finance ministry: both sides applaud local currency swap deals and recent gains in China-Canada trade talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844219,
+   "ts": "2026-11-10T00:08:48+00:00",
+   "ingested": "2026-11-10T03:38:26.583641+00:00",
+   "headline": "China finance ministry: Both sides renew commitment to multilateralism and back transparent, predictable trade and investment environment",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844218,
+   "ts": "2026-11-10T00:07:54+00:00",
+   "ingested": "2026-11-10T03:38:26.583657+00:00",
+   "headline": "China finance ministry: Vice Premier He Lifeng, Canada finance and trade ministers co-chair second Canada-China economic and financial strategic dialogue",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844202,
+   "ts": "2026-11-10T00:01:04+00:00",
+   "ingested": "2026-11-10T03:38:26.583672+00:00",
+   "headline": "Barclays UK october consumer spending rises 2.3% yy vs 2.0% in september, biggest increase since July 2025",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844201,
+   "ts": "2026-11-10T00:01:04+00:00",
+   "ingested": "2026-11-10T03:38:26.583687+00:00",
+   "headline": "British Retail Consortium total sales in October up 1.5% year-on-year vs 1.3% in September, strongest increase since June",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844200,
+   "ts": "2026-11-10T00:01:04+00:00",
+   "ingested": "2026-11-10T03:38:26.583701+00:00",
+   "headline": "British Retail Consortium like-for-like sales in October up 1.1% year-on-year vs 1.0% in September",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844199,
+   "ts": "2026-11-10T00:01:04+00:00",
+   "ingested": "2026-11-10T03:38:26.583714+00:00",
+   "headline": "Barclays: UK October consumer confidence weakest since April",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844198,
+   "ts": "2026-11-10T00:01:00+00:00",
+   "ingested": "2026-11-10T03:38:26.583727+00:00",
+   "headline": "UK BRC Retail Sales YoY Actual 1.1% (Forecast 1.2%, Previous 1.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844195,
+   "ts": "2026-11-09T23:57:36+00:00",
+   "ingested": "2026-11-10T03:38:26.583742+00:00",
+   "headline": "Boj Summary: One member said wage growth for next year unlikely to rise much from this year, risk of second-round effects low",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844194,
+   "ts": "2026-11-09T23:56:55+00:00",
+   "ingested": "2026-11-10T03:38:26.583756+00:00",
+   "headline": "BOJ summary: one member said outcome of next year's annual pay talks warrants attention",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844193,
+   "ts": "2026-11-09T23:55:55+00:00",
+   "ingested": "2026-11-10T03:38:26.583770+00:00",
+   "headline": "BOJ summary: one member said next rate increase unlikely to significantly hurt economy on net basis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844192,
+   "ts": "2026-11-09T23:55:11+00:00",
+   "ingested": "2026-11-10T03:38:26.583787+00:00",
+   "headline": "BOJ Summary: One Member Says Japan\u2019s Neutral Rate Likely Well Above 1%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844191,
+   "ts": "2026-11-09T23:55:01+00:00",
+   "ingested": "2026-11-10T03:38:26.583802+00:00",
+   "headline": "BOJ summary: one member said must watch risk future rate hike will weigh on economy, push down inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844190,
+   "ts": "2026-11-09T23:54:37+00:00",
+   "ingested": "2026-11-10T03:38:26.583817+00:00",
+   "headline": "BOJ summary: one member said central bank must move policy rate to neutral early for flexible response in hikes and cuts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844189,
+   "ts": "2026-11-09T23:54:00+00:00",
+   "ingested": "2026-11-10T03:38:26.583833+00:00",
+   "headline": "BOJ summary: one member said BOJ must observe financial conditions for several months after each rate increase in adjusting monetary easing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844188,
+   "ts": "2026-11-09T23:53:23+00:00",
+   "ingested": "2026-11-10T03:38:26.583848+00:00",
+   "headline": "BoJ summary: one member said underlying inflation has hit 2%, BoJ must raise policy rate to neutral level soon",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844187,
+   "ts": "2026-11-09T23:53:16+00:00",
+   "ingested": "2026-11-10T03:38:26.583862+00:00",
+   "headline": "BOJ summary: one member said Japan entering new phase requiring faster rate hikes toward neutral levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844181,
+   "ts": "2026-11-09T23:52:12+00:00",
+   "ingested": "2026-11-10T03:38:26.583875+00:00",
+   "headline": "Japanese Bank Lending YoY Actual 5.2% (Forecast -, Previous 5.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844186,
+   "ts": "2026-11-09T23:52:08+00:00",
+   "ingested": "2026-11-10T03:38:26.583889+00:00",
+   "headline": "BOJ summary: one member said central bank should raise rates when feasible without excessive caution",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844185,
+   "ts": "2026-11-09T23:51:56+00:00",
+   "ingested": "2026-11-10T03:38:26.583904+00:00",
+   "headline": "BOJ summary: one member says appropriate to continue raising rates as underlying inflation nears price target levels",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844184,
+   "ts": "2026-11-09T23:51:32+00:00",
+   "ingested": "2026-11-10T03:38:26.583919+00:00",
+   "headline": "BoJ summary: one member notes some economic weakness, urges careful monitoring of economic and price outlook",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844183,
+   "ts": "2026-11-09T23:51:20+00:00",
+   "ingested": "2026-11-10T03:38:26.583936+00:00",
+   "headline": "BoJ October meeting summary of opinions: one member said maintaining policy is suitable to assess risks around economy, prices a bit more",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844182,
+   "ts": "2026-11-09T23:50:20+00:00",
+   "ingested": "2026-11-10T03:38:26.583949+00:00",
+   "headline": "Japan October outstanding bank loans rise 5.2% year on year: BOJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844180,
+   "ts": "2026-11-09T23:50:03+00:00",
+   "ingested": "2026-11-10T03:38:26.583964+00:00",
+   "headline": "Japan Sept unadjusted current account surplus +2,372.3 bln yen: Ministry of Finance (Poll +3,354.4 bln yen)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844179,
+   "ts": "2026-11-09T23:50:01+00:00",
+   "ingested": "2026-11-10T03:38:26.583978+00:00",
+   "headline": "Japanese Current Account NSA Yen Actual 2372.3B (Forecast 3300B, Previous 4,062.0B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844156,
+   "ts": "2026-11-09T23:34:59+00:00",
+   "ingested": "2026-11-10T03:38:26.584008+00:00",
+   "headline": "Japan Sept household spending falls 6.8% year/year, government says (poll -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844137,
+   "ts": "2026-11-09T23:32:13+00:00",
+   "ingested": "2026-11-10T03:38:26.584023+00:00",
+   "headline": "Japanese All Household Spending MoM Actual -2.8% (Forecast -, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844136,
+   "ts": "2026-11-09T23:30:07+00:00",
+   "ingested": "2026-11-10T03:38:26.584036+00:00",
+   "headline": "Japanese All Household Spending YoY Actual -6.8% (Forecast -3%, Previous -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844135,
+   "ts": "2026-11-09T23:30:07+00:00",
+   "ingested": "2026-11-10T03:38:26.584050+00:00",
+   "headline": "Japan September household spending falls 2.8% month on month, government says (Poll: 0.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844134,
+   "ts": "2026-11-09T23:30:04+00:00",
+   "ingested": "2026-11-10T03:38:26.584064+00:00",
+   "headline": "Australia November Westpac-MI consumer confidence index declines 2.7% to 78.2",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844133,
+   "ts": "2026-11-09T23:30:04+00:00",
+   "ingested": "2026-11-10T03:38:26.584077+00:00",
+   "headline": "Japan Sept household spending down 6.7% year/year: govt (Poll: -3.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844132,
+   "ts": "2026-11-09T23:30:00+00:00",
+   "ingested": "2026-11-10T03:38:26.584090+00:00",
+   "headline": "Australian Consumer Sentiment Actual -2.7% (Forecast -, Previous -4.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844125,
+   "ts": "2026-11-09T23:01:37+00:00",
+   "ingested": "2026-11-10T03:38:26.584105+00:00",
+   "headline": "Iraq to temporarily shut Mandali border crossing with Iran from Friday to complete technical requirements: state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844110,
+   "ts": "2026-11-09T22:59:34+00:00",
+   "ingested": "2026-11-10T03:38:26.584118+00:00",
+   "headline": "White House: Michael Losapio named director of cybersecurity and infrastructure security agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844109,
+   "ts": "2026-11-09T22:59:24+00:00",
+   "ingested": "2026-11-10T03:38:26.584134+00:00",
+   "headline": "Iraq to reopen Sheeb border crossing with Iran Tuesday morning after completing technical requirements: state news agency",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844108,
+   "ts": "2026-11-09T22:58:57+00:00",
+   "ingested": "2026-11-10T03:38:26.584148+00:00",
+   "headline": "White House nominates Christopher Mufarrige as federal trade commissioner for seven-year term from September 26",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844063,
+   "ts": "2026-11-09T22:09:00+00:00",
+   "ingested": "2026-11-10T03:38:26.584161+00:00",
+   "headline": "Trump on US Secretary of Defense Hegseth: will support him if impeached",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844061,
+   "ts": "2026-11-09T22:04:57+00:00",
+   "ingested": "2026-11-10T03:38:26.584176+00:00",
+   "headline": "Iran's top security official: time to yield to the seven conditions Iran has consistently outlined",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844060,
+   "ts": "2026-11-09T22:04:25+00:00",
+   "ingested": "2026-11-10T03:38:26.584190+00:00",
+   "headline": "Iran's top security official to US: stop creating false reports about nonexistent talks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844047,
+   "ts": "2026-11-09T22:00:54+00:00",
+   "ingested": "2026-11-10T03:38:26.584202+00:00",
+   "headline": "Trump: spoke with Nvidia chief executive officer today",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844046,
+   "ts": "2026-11-09T22:00:34+00:00",
+   "ingested": "2026-11-10T03:38:26.584215+00:00",
+   "headline": "Trump on Iran: The US has another aircraft carrier loaded up.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844044,
+   "ts": "2026-11-09T21:58:35+00:00",
+   "ingested": "2026-11-10T03:38:26.584228+00:00",
+   "headline": "Trump on Huang: The FBI is looking into it in terms of something else. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844043,
+   "ts": "2026-11-09T21:57:36+00:00",
+   "ingested": "2026-11-10T03:38:26.584240+00:00",
+   "headline": "Trump: I believe Huang is suffering greatly. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844041,
+   "ts": "2026-11-09T21:46:35+00:00",
+   "ingested": "2026-11-10T03:38:26.584256+00:00",
+   "headline": "Trump: Iran militarily is effectively over",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844040,
+   "ts": "2026-11-09T21:46:28+00:00",
+   "ingested": "2026-11-10T03:38:26.584267+00:00",
+   "headline": "Trump: Keeping Iran at status quo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844028,
+   "ts": "2026-11-09T21:45:38+00:00",
+   "ingested": "2026-11-10T03:38:26.584280+00:00",
+   "headline": "OpenAI control room can stop model output in 35 seconds",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844026,
+   "ts": "2026-11-09T21:45:20+00:00",
+   "ingested": "2026-11-10T03:38:26.584292+00:00",
+   "headline": "OpenAI builds a control room to halt model output",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844025,
+   "ts": "2026-11-09T21:44:22+00:00",
+   "ingested": "2026-11-10T03:38:26.584305+00:00",
+   "headline": "Trump on Iran: We're seeing momentum toward the end of this conflict",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844024,
+   "ts": "2026-11-09T21:44:14+00:00",
+   "ingested": "2026-11-10T03:38:26.584317+00:00",
+   "headline": "Trump: Iran military action doesn't seem necessary right now",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844023,
+   "ts": "2026-11-09T21:44:04+00:00",
+   "ingested": "2026-11-10T03:38:26.584330+00:00",
+   "headline": "Trump on Iran: Military action doesn't seem to be necessary",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844022,
+   "ts": "2026-11-09T21:40:14+00:00",
+   "ingested": "2026-11-10T03:38:26.584350+00:00",
+   "headline": "Iran's IRGC navy has disabled the navigation systems of 4 large oil tankers attempting to transit the Strait of Hormuz through an illegal route over the past 24 hours, leaving them unable to continue their journey - Press TV",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844010,
+   "ts": "2026-11-09T21:31:11+00:00",
+   "ingested": "2026-11-10T03:38:26.584364+00:00",
+   "headline": "Trump: Qatar, Saudi Arabia, UAE, Bahrain, Kuwait, and others would prefer the status quo. - Truth Social",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844009,
+   "ts": "2026-11-09T21:30:43+00:00",
+   "ingested": "2026-11-10T03:38:26.584377+00:00",
+   "headline": "Trump: Seeing positive momentum toward an end to this conflict - Truth Social",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844008,
+   "ts": "2026-11-09T21:30:41+00:00",
+   "ingested": "2026-11-10T03:38:26.584395+00:00",
+   "headline": "Trump: Should there be any change with respect to developments in the Middle East, the US is \"locked and loaded\" and ready to go. However, that seems to be quite unlikely - Truth Social.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9844003,
+   "ts": "2026-11-09T21:30:21+00:00",
+   "ingested": "2026-11-10T03:38:26.584409+00:00",
+   "headline": "Trump: Had an excellent conversation with the Qatar PM - Truth Social",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9843990,
    "ts": "2026-11-09T21:15:19+00:00",
@@ -3247,758 +3999,6 @@
    "ts": "2026-11-06T15:45:46+00:00",
    "ingested": "2026-11-06T17:41:52.644190+00:00",
    "headline": "The PBOC is to keep cracking down on crypto-related activities",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841041,
-   "ts": "2026-11-06T15:39:48+00:00",
-   "ingested": "2026-11-06T17:41:52.644204+00:00",
-   "headline": "Oil tanker sinking in the Strait of Hormuz after being targeted - Iran's Sepah News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841022,
-   "ts": "2026-11-06T15:27:15+00:00",
-   "ingested": "2026-11-06T17:41:52.644219+00:00",
-   "headline": "Morgan's Stanley Day: Low single-digit percentage of portfolio at high AI risk",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841021,
-   "ts": "2026-11-06T15:18:07+00:00",
-   "ingested": "2026-11-06T17:41:52.644231+00:00",
-   "headline": "Crypto Fear and Greed Index: 28/100 = Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9841020,
-   "ts": "2026-11-06T15:17:35+00:00",
-   "ingested": "2026-11-06T17:41:52.644243+00:00",
-   "headline": "Fear and Greed Index: 25/100 = Extreme Fear",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840969,
-   "ts": "2026-11-06T15:00:03+00:00",
-   "ingested": "2026-11-06T17:41:52.644256+00:00",
-   "headline": "Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840968,
-   "ts": "2026-11-06T15:00:00+00:00",
-   "ingested": "2026-11-06T17:41:52.644270+00:00",
-   "headline": "University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840967,
-   "ts": "2026-11-06T15:00:00+00:00",
-   "ingested": "2026-11-06T17:41:52.644283+00:00",
-   "headline": "University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840966,
-   "ts": "2026-11-06T15:00:00+00:00",
-   "ingested": "2026-11-06T17:41:52.644297+00:00",
-   "headline": "University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840965,
-   "ts": "2026-11-06T15:00:00+00:00",
-   "ingested": "2026-11-06T17:41:52.644310+00:00",
-   "headline": "University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.6%, Previous 4.7%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840964,
-   "ts": "2026-11-06T15:00:00+00:00",
-   "ingested": "2026-11-06T17:41:52.644323+00:00",
-   "headline": "University Michigan Condition Prelim Actual 51 (Forecast 47, Previous 46.7)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840963,
-   "ts": "2026-11-06T14:51:48+00:00",
-   "ingested": "2026-11-06T17:41:52.644336+00:00",
-   "headline": "Fed's Musalem: Good Fed comms leads to smoother policy transmission",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840961,
-   "ts": "2026-11-06T14:48:32+00:00",
-   "ingested": "2026-11-06T17:41:52.644349+00:00",
-   "headline": "WH Sr. Adviser Hassett: We have a job market hitting on all cylinders.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840928,
-   "ts": "2026-11-06T14:44:27+00:00",
-   "ingested": "2026-11-06T17:41:52.644363+00:00",
-   "headline": "WH Sr. Adviser Hassett: Trump will read the report and decide on Fed's Cook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840927,
-   "ts": "2026-11-06T14:43:07+00:00",
-   "ingested": "2026-11-06T17:41:52.644376+00:00",
-   "headline": "Fed's Musalem: Data center build-out contributing to strong demand",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840926,
-   "ts": "2026-11-06T14:42:41+00:00",
-   "ingested": "2026-11-06T17:41:52.644388+00:00",
-   "headline": "Fed's Musalem: AI will bring much higher productivity",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840925,
-   "ts": "2026-11-06T14:42:12+00:00",
-   "ingested": "2026-11-06T17:41:52.644419+00:00",
-   "headline": "Fed's Musalem: Consumption and investment are both growing at a fast rate based on an optimistic outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840924,
-   "ts": "2026-11-06T14:42:06+00:00",
-   "ingested": "2026-11-06T17:41:52.644435+00:00",
-   "headline": "Fed's Musalem: Excess inflation today is coming from energy shocks and the AI buildout.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840923,
-   "ts": "2026-11-06T14:41:53+00:00",
-   "ingested": "2026-11-06T17:41:52.644449+00:00",
-   "headline": "WH Sr. Adviser Hassett: Top-line inflation is being driven by energy and Iran",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840922,
-   "ts": "2026-11-06T14:40:42+00:00",
-   "ingested": "2026-11-06T17:41:52.644462+00:00",
-   "headline": "Fed's Musalem: Must return inflation to 2% on a timely basis",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840920,
-   "ts": "2026-11-06T14:40:21+00:00",
-   "ingested": "2026-11-06T17:41:52.644477+00:00",
-   "headline": "We are open to negotiations that ensure the realization of our legitimate demands - Al Arabiya, citing an Iranian source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840919,
-   "ts": "2026-11-06T14:40:21+00:00",
-   "ingested": "2026-11-06T17:41:52.644492+00:00",
-   "headline": "An Iranian source tells Al Arabiya: No restrictions have been imposed on Ghalibaf in managing the negotiations.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840918,
-   "ts": "2026-11-06T14:40:10+00:00",
-   "ingested": "2026-11-06T17:41:52.644506+00:00",
-   "headline": "WH Sr. Adviser Hassett: I don't think we have a policy change we need to plan.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840917,
-   "ts": "2026-11-06T14:39:54+00:00",
-   "ingested": "2026-11-06T17:41:52.644520+00:00",
-   "headline": "Tehran awaits practical steps from Washington to build trust - Al Arabiya citing Iranian source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840916,
-   "ts": "2026-11-06T14:39:30+00:00",
-   "ingested": "2026-11-06T17:41:52.644532+00:00",
-   "headline": "Fed's Musalem: Inflation expectations remain anchored.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840915,
-   "ts": "2026-11-06T14:39:22+00:00",
-   "ingested": "2026-11-06T17:41:52.644545+00:00",
-   "headline": "WH Sr. Adviser Hassett: Data is strong on growth, inflation decelerating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840914,
-   "ts": "2026-11-06T14:38:44+00:00",
-   "ingested": "2026-11-06T17:41:52.644559+00:00",
-   "headline": "Fed's Musalem: People remain concerned about inflation at the current level",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840913,
-   "ts": "2026-11-06T14:38:27+00:00",
-   "ingested": "2026-11-06T17:41:52.644573+00:00",
-   "headline": "An Iranian source to Al Arabiya: We are engaging positively with the latest proposal submitted by the mediators.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840891,
-   "ts": "2026-11-06T14:23:15+00:00",
-   "ingested": "2026-11-06T17:41:52.644590+00:00",
-   "headline": "WH Sr. Adviser Hassett: I acknowledges \"hiccups\" in chip firms in recent weeks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840890,
-   "ts": "2026-11-06T14:22:11+00:00",
-   "ingested": "2026-11-06T17:41:52.644603+00:00",
-   "headline": "WH Sr. Adviser Hassett: Intel performance is good news for chip market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840887,
-   "ts": "2026-11-06T14:20:30+00:00",
-   "ingested": "2026-11-06T17:41:52.644616+00:00",
-   "headline": "WH Sr. Adviser Hassett: Reassuring to see Intel turn around sharply over time.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840886,
-   "ts": "2026-11-06T14:20:12+00:00",
-   "ingested": "2026-11-06T17:41:52.644629+00:00",
-   "headline": "WH Sr. Adviser Hassett: Trump is excited about deal made with Intel.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840885,
-   "ts": "2026-11-06T14:18:50+00:00",
-   "ingested": "2026-11-06T17:41:52.644642+00:00",
-   "headline": "WH Sr. Adviser Hassett, on Fed: Inflation should be decelerating - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840882,
-   "ts": "2026-11-06T14:18:11+00:00",
-   "ingested": "2026-11-06T17:41:52.644655+00:00",
-   "headline": "Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain - The Times",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840880,
-   "ts": "2026-11-06T14:17:35+00:00",
-   "ingested": "2026-11-06T17:41:52.644669+00:00",
-   "headline": "WH Sr. Adviser Hassett: We can still have blockbuster economy even data centers slow down.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840879,
-   "ts": "2026-11-06T14:16:57+00:00",
-   "ingested": "2026-11-06T17:41:52.644682+00:00",
-   "headline": "WH Sr. Adviser Hassett: AI bubble is actually a worthy concern.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840875,
-   "ts": "2026-11-06T14:16:08+00:00",
-   "ingested": "2026-11-06T17:41:52.644696+00:00",
-   "headline": "WH Sr. Adviser Hassett: I am looking at last three months of runaway job growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840867,
-   "ts": "2026-11-06T14:13:18+00:00",
-   "ingested": "2026-11-06T17:41:52.644709+00:00",
-   "headline": "WH Sr. Adviser Hassett: We want communities to decide on data centers - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840866,
-   "ts": "2026-11-06T14:13:01+00:00",
-   "ingested": "2026-11-06T17:41:52.644721+00:00",
-   "headline": "ECB mulls review of bank loans to data centers.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840865,
-   "ts": "2026-11-06T14:12:41+00:00",
-   "ingested": "2026-11-06T17:41:52.644734+00:00",
-   "headline": "WH Sr. Adviser Hassett: Trump respects localities that don't want data centers",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840864,
-   "ts": "2026-11-06T14:12:31+00:00",
-   "ingested": "2026-11-06T17:41:52.644747+00:00",
-   "headline": "WH Sr. Adviser Hassett: Plenty of room for data center growth to continue - CNBC.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840863,
-   "ts": "2026-11-06T14:11:33+00:00",
-   "ingested": "2026-11-06T17:41:52.644760+00:00",
-   "headline": "US Sentiment: Market Shrugs at NFP, with the Tech Rebound in Focus - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840862,
-   "ts": "2026-11-06T14:10:29+00:00",
-   "ingested": "2026-11-06T17:41:52.644774+00:00",
-   "headline": "Fed's Musalem does not comment on economic outlook or monetary policy in prepared remarks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840860,
-   "ts": "2026-11-06T14:03:36+00:00",
-   "ingested": "2026-11-06T17:41:52.644786+00:00",
-   "headline": "TSMC making plans for 3D DRAM at request of NVIDIA - Information.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840859,
-   "ts": "2026-11-06T14:02:58+00:00",
-   "ingested": "2026-11-06T17:41:52.644799+00:00",
-   "headline": "Amazon launches text-based Alexa for shopping in US.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840858,
-   "ts": "2026-11-06T14:02:27+00:00",
-   "ingested": "2026-11-06T17:41:52.644810+00:00",
-   "headline": "TSMC weighs making advanced memory chips - Information.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840839,
-   "ts": "2026-11-06T14:01:12+00:00",
-   "ingested": "2026-11-06T17:41:52.644825+00:00",
-   "headline": "Iran's Revolutionary Guards: Shot down a US MQ-1 drone over Qeshm island - Fars News Agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840833,
-   "ts": "2026-11-06T13:59:28+00:00",
-   "ingested": "2026-11-06T17:41:52.644838+00:00",
-   "headline": "Effective Fed Funds Rate 3.88% November 5 vs 3.88% November 4.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840832,
-   "ts": "2026-11-06T13:56:10+00:00",
-   "ingested": "2026-11-06T17:41:52.644854+00:00",
-   "headline": "NATO reconnaissance aircraft detected near Russia's Kaliningrad region for third time since Monday - TASS Cites Source in Air Traffic Control Services.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840831,
-   "ts": "2026-11-06T13:53:47+00:00",
-   "ingested": "2026-11-06T17:41:52.644868+00:00",
-   "headline": "Bank of Canada December rate hike chances fall to roughly 32% from 40% after jobs report - Swaps Data",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840495,
-   "ts": "2026-11-06T10:40:28+00:00",
-   "ingested": "2026-11-06T10:44:06.354385+00:00",
-   "headline": "Iran needs practical US steps for diplomacy to progress - IRIB",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840462,
-   "ts": "2026-11-06T10:12:37+00:00",
-   "ingested": "2026-11-06T10:44:06.354404+00:00",
-   "headline": "Russia's Putin and Iran's security council secretary discussed the Middle East - RIA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840435,
-   "ts": "2026-11-06T10:00:01+00:00",
-   "ingested": "2026-11-06T10:44:06.354418+00:00",
-   "headline": "Eurozone Retail Sales MoM Actual -0.7% (Forecast -0.1%, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840434,
-   "ts": "2026-11-06T10:00:01+00:00",
-   "ingested": "2026-11-06T10:44:06.354431+00:00",
-   "headline": "Eurozone Retail Sales YoY Actual 0.4% (Forecast 0.6%, Previous 0.8%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840433,
-   "ts": "2026-11-06T09:48:52+00:00",
-   "ingested": "2026-11-06T10:44:06.354441+00:00",
-   "headline": "MUFG: The GBP - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840415,
-   "ts": "2026-11-06T09:42:27+00:00",
-   "ingested": "2026-11-06T10:44:06.354453+00:00",
-   "headline": "ECB's Lane: Fiscal policy has been more expansive than expected but we expect tightening next year and after.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840414,
-   "ts": "2026-11-06T09:41:04+00:00",
-   "ingested": "2026-11-06T10:44:06.354465+00:00",
-   "headline": "ECB's Lane: Energy inflation is going to influence wage negotiations and setting of prices across economy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840413,
-   "ts": "2026-11-06T09:40:08+00:00",
-   "ingested": "2026-11-06T10:44:06.354474+00:00",
-   "headline": "Fed's Williams: This is appropriate time to gather more info.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840412,
-   "ts": "2026-11-06T09:39:46+00:00",
-   "ingested": "2026-11-06T10:44:06.354484+00:00",
-   "headline": "Fed's Williams: Wage growth consistent with 2% goal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840411,
-   "ts": "2026-11-06T09:39:35+00:00",
-   "ingested": "2026-11-06T10:44:06.354493+00:00",
-   "headline": "Fed's Williams: Inflation expectations well anchored.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840410,
-   "ts": "2026-11-06T09:37:59+00:00",
-   "ingested": "2026-11-06T10:44:06.354503+00:00",
-   "headline": "Fed's Williams: Energy passing through to inflation as expected.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840409,
-   "ts": "2026-11-06T09:37:39+00:00",
-   "ingested": "2026-11-06T10:44:06.354514+00:00",
-   "headline": "Fed's Williams: We've seen tariffs effect work way through, mostly now behind us.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840408,
-   "ts": "2026-11-06T09:37:12+00:00",
-   "ingested": "2026-11-06T10:44:06.354557+00:00",
-   "headline": "Credit \u00c1gricole: FX Weekly - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840407,
-   "ts": "2026-11-06T09:36:19+00:00",
-   "ingested": "2026-11-06T10:44:06.354571+00:00",
-   "headline": "Fed's Williams: Remarkably stable and solid labour market.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840406,
-   "ts": "2026-11-06T09:36:01+00:00",
-   "ingested": "2026-11-06T10:44:06.354581+00:00",
-   "headline": "Fed's Williams: US facing unusual shocks to demand, supply.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840405,
-   "ts": "2026-11-06T09:35:54+00:00",
-   "ingested": "2026-11-06T10:44:06.354589+00:00",
-   "headline": "Fed's Williams: Growth has strengthened.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840404,
-   "ts": "2026-11-06T09:35:48+00:00",
-   "ingested": "2026-11-06T10:44:06.354598+00:00",
-   "headline": "Fed's Williams: US economy remarkably resilient.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840403,
-   "ts": "2026-11-06T09:33:36+00:00",
-   "ingested": "2026-11-06T10:44:06.354607+00:00",
-   "headline": "BofA: Oil - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840394,
-   "ts": "2026-11-06T09:27:05+00:00",
-   "ingested": "2026-11-06T10:44:06.354618+00:00",
-   "headline": "Europe Sentiment: Stocks Attempt to Recover From Yesterdays Losses - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840311,
-   "ts": "2026-11-06T08:25:04+00:00",
-   "ingested": "2026-11-06T10:44:06.354628+00:00",
-   "headline": "Ukraine said to confirm strike on Russia's Afipsky refinery",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840296,
-   "ts": "2026-11-06T08:12:16+00:00",
-   "ingested": "2026-11-06T10:44:06.354641+00:00",
-   "headline": "Taiwan's economy ministry: Demand for applications such as artificial intelligence (AI), high-performance computing, and cloud services continues to expand",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840274,
-   "ts": "2026-11-06T08:00:57+00:00",
-   "ingested": "2026-11-06T10:44:06.354652+00:00",
-   "headline": "Currency Strength Chart: Strongest: USD, CHF, JPY, CAD, EUR, GBP, NZD, AUD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840264,
-   "ts": "2026-11-06T08:00:00+00:00",
-   "ingested": "2026-11-06T10:44:06.354662+00:00",
-   "headline": "Swiss Consumer Confidence SA Actual -44.9 (Forecast -35.5, Previous -34)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840263,
-   "ts": "2026-11-06T07:55:35+00:00",
-   "ingested": "2026-11-06T10:44:06.354672+00:00",
-   "headline": "BoE Gov. Bailey: If energy prices remain high, another hike is possible",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840262,
-   "ts": "2026-11-06T07:55:24+00:00",
-   "ingested": "2026-11-06T10:44:06.354681+00:00",
-   "headline": "BoE Gov. Bailey: Private wages at upper end range for inflation target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840261,
-   "ts": "2026-11-06T07:52:20+00:00",
-   "ingested": "2026-11-06T10:44:06.354691+00:00",
-   "headline": "BoE Gov. Bailey: I don't agree we have got endemic inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840237,
-   "ts": "2026-11-06T07:46:50+00:00",
-   "ingested": "2026-11-06T10:44:06.354701+00:00",
-   "headline": "French Current Account Actual -2.7B (Forecast -, Previous -1.5B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840236,
-   "ts": "2026-11-06T07:45:00+00:00",
-   "ingested": "2026-11-06T10:44:06.354715+00:00",
-   "headline": "French Trade Balance SA Actual -7.31398B (Forecast -, Previous -6.12B)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840235,
-   "ts": "2026-11-06T07:39:08+00:00",
-   "ingested": "2026-11-06T10:44:06.354725+00:00",
-   "headline": "Qatar Emir and Trump discuss de-escalation efforts in the Middle East",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840216,
-   "ts": "2026-11-06T07:28:38+00:00",
-   "ingested": "2026-11-06T10:44:06.354736+00:00",
-   "headline": "Iran's IRGC Navy: Two oil tankers catch fire while attempting to pass through the Strait of Hormuz - IRNA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840200,
-   "ts": "2026-11-06T07:11:13+00:00",
-   "ingested": "2026-11-06T10:44:06.354745+00:00",
-   "headline": "UK housing demand is being tested by a challenging economic backdrop - Lloyds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840199,
-   "ts": "2026-11-06T07:10:56+00:00",
-   "ingested": "2026-11-06T10:44:06.354756+00:00",
-   "headline": "Average UK house price in October was \u00a3296,285 vs \u00a3296,285 in September - Lloyds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840198,
-   "ts": "2026-11-06T07:10:23+00:00",
-   "ingested": "2026-11-06T10:44:06.354766+00:00",
-   "headline": "UK house prices fell 1.2% on year in October - Lloyds",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840182,
-   "ts": "2026-11-06T07:00:02+00:00",
-   "ingested": "2026-11-06T10:44:06.354776+00:00",
-   "headline": "German Industrial Production MoM Actual 0.7% (Forecast -0.1%, Previous 2.0%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840181,
-   "ts": "2026-11-06T07:00:02+00:00",
-   "ingested": "2026-11-06T10:44:06.354786+00:00",
-   "headline": "German Industrial Production YoY SA Actual 0.4% (Forecast 1.2%, Previous 2.33%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840158,
-   "ts": "2026-11-06T06:32:10+00:00",
-   "ingested": "2026-11-06T10:44:06.354831+00:00",
-   "headline": "Elon Musk: Tesla to wind down Cybertruck production in Texas in mid-2027 $TSLA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840096,
-   "ts": "2026-11-06T05:34:04+00:00",
-   "ingested": "2026-11-06T10:44:06.354849+00:00",
-   "headline": "Taiwan stocks end 4.5% lower after trimming early declines",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840083,
-   "ts": "2026-11-06T05:27:50+00:00",
-   "ingested": "2026-11-06T10:44:06.354860+00:00",
-   "headline": "-x tells Indian court police takedown orders sent to prominent free speech groups were forged",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840055,
-   "ts": "2026-11-06T05:00:04+00:00",
-   "ingested": "2026-11-06T10:44:06.354871+00:00",
-   "headline": "Swedish apartment prices rise 5.8% in August-October compared with year-earlier period, svensk maklarstatistik data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840054,
-   "ts": "2026-11-06T05:00:03+00:00",
-   "ingested": "2026-11-06T10:44:06.354882+00:00",
-   "headline": "Swedish single-family home prices rise 4.2% august-october vs year earlier, svensk maklarstatistik data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840051,
-   "ts": "2026-11-06T04:47:37+00:00",
-   "ingested": "2026-11-06T10:44:06.354892+00:00",
-   "headline": "US judge temporarily halts Trump administration's start of triumphal arch construction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9840031,
-   "ts": "2026-11-06T04:18:48+00:00",
-   "ingested": "2026-11-06T10:44:06.354903+00:00",
-   "headline": "Russia hits power plant near Ukraine's Sumy: Russian newswires cite defence ministry",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839993,
-   "ts": "2026-11-06T03:41:06+00:00",
-   "ingested": "2026-11-06T10:44:06.354913+00:00",
-   "headline": "China finance ministry sells 1-year bonds at 1.1403% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839992,
-   "ts": "2026-11-06T03:40:46+00:00",
-   "ingested": "2026-11-06T10:44:06.354923+00:00",
-   "headline": "China finance ministry offers 50-year treasury bonds at 2.1537% yield: traders",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9839989,
-   "ts": "2026-11-06T03:28:47+00:00",
-   "ingested": "2026-11-06T10:44:06.354935+00:00",
-   "headline": "Trump Washington arch gains crucial endorsement from government panel but judge may still halt construction",
    "channel": "rss",
    "source": "financialjuice"
   }
