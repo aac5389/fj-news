@@ -1,7 +1,535 @@
 {
- "updated": "2026-11-12T01:39:34.372951+00:00",
+ "updated": "2026-11-12T08:49:59.501123+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9848560,
+   "ts": "2026-11-12T08:15:58+00:00",
+   "ingested": "2026-11-12T08:49:59.499845+00:00",
+   "headline": "Russia's Ryabkov: It's incorrect to say trust was restored between parties following negotiations in Abu Dhabi - IFX",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848554,
+   "ts": "2026-11-12T08:02:06+00:00",
+   "ingested": "2026-11-12T08:49:59.499864+00:00",
+   "headline": "Currency Strength Chart: Strongest: CHF, JPY, USD, GBP, CAD, EUR, NZD, AUD - Weakest",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848521,
+   "ts": "2026-11-12T07:31:49+00:00",
+   "ingested": "2026-11-12T08:49:59.499879+00:00",
+   "headline": "Japan government to spend 650 bln Yen to help ease winter outlays for households - Kyodo",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848508,
+   "ts": "2026-11-12T07:27:17+00:00",
+   "ingested": "2026-11-12T08:49:59.499891+00:00",
+   "headline": "French European affairs minister Haddad: On Monday, the EU will approve more sanctions on Russia",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848492,
+   "ts": "2026-11-12T07:10:51+00:00",
+   "ingested": "2026-11-12T08:49:59.499903+00:00",
+   "headline": "China and the US are in close communication over tariff reduction - Mofcom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848491,
+   "ts": "2026-11-12T07:07:19+00:00",
+   "ingested": "2026-11-12T08:49:59.499913+00:00",
+   "headline": "China's Mao: The US should not use spy narrative as pretext for tech curbs",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848482,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T08:49:59.499923+00:00",
+   "headline": "Swedish CPI MoM Actual 0.0% (Forecast 0%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848481,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T08:49:59.499933+00:00",
+   "headline": "Swedish CPI YoY Actual 0.9% (Forecast 0.9%, Previous 0.9%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848480,
+   "ts": "2026-11-12T07:02:08+00:00",
+   "ingested": "2026-11-12T08:49:59.499943+00:00",
+   "headline": "UK Goods Trade Balance Non-EU Actual -8.985B (Forecast -, Previous -5.287B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848479,
+   "ts": "2026-11-12T07:02:06+00:00",
+   "ingested": "2026-11-12T08:49:59.499953+00:00",
+   "headline": "UK Manufacturing Production YoY Actual 4.4% (Forecast 3.8%, Previous 3.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848477,
+   "ts": "2026-11-12T07:02:05+00:00",
+   "ingested": "2026-11-12T08:49:59.499963+00:00",
+   "headline": "UK GDP Estimate YoY Actual 2.1% (Forecast 1.9%, Previous 2.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848475,
+   "ts": "2026-11-12T07:02:05+00:00",
+   "ingested": "2026-11-12T08:49:59.499973+00:00",
+   "headline": "UK GDP Estimate 3M/3M Actual 0.7% (Forecast 0.6%, Previous 0.7%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848478,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T08:49:59.499983+00:00",
+   "headline": "UK Goods Trade Balance Actual -22.291B (Forecast -19.2B, Previous -18.01B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848474,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T08:49:59.499993+00:00",
+   "headline": "UK Manufacturing Production MoM Actual 0.7% (Forecast -0.5%, Previous 1.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848473,
+   "ts": "2026-11-12T07:00:05+00:00",
+   "ingested": "2026-11-12T08:49:59.500002+00:00",
+   "headline": "UK Industrial Production MoM Actual 0.3% (Forecast -0.4%, Previous 0.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848472,
+   "ts": "2026-11-12T07:00:04+00:00",
+   "ingested": "2026-11-12T08:49:59.500012+00:00",
+   "headline": "UK Industrial Production YoY Actual 3.1% (Forecast 2.8%, Previous 1.6%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848471,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T08:49:59.500021+00:00",
+   "headline": "UK GDP YoY Prelim Actual 1.9% (Forecast 1.9%, Previous 1.4%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848470,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T08:49:59.500030+00:00",
+   "headline": "UK Services MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848469,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T08:49:59.500056+00:00",
+   "headline": "UK GDP QoQ Prelim Actual 0.7% (Forecast 0.7%, Previous 0.5%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848468,
+   "ts": "2026-11-12T07:00:02+00:00",
+   "ingested": "2026-11-12T08:49:59.500066+00:00",
+   "headline": "UK Business Investment QoQ Prelim Actual 0.43% (Forecast 0.6%, Previous 1.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848467,
+   "ts": "2026-11-12T07:00:01+00:00",
+   "ingested": "2026-11-12T08:49:59.500076+00:00",
+   "headline": "UK GDP Estimate MoM Actual 0.2% (Forecast 0%, Previous 0.1%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848466,
+   "ts": "2026-11-12T07:00:01+00:00",
+   "ingested": "2026-11-12T08:49:59.500085+00:00",
+   "headline": "UK Construction Output MoM Actual 0.8% (Forecast -0.1%, Previous -0.2%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848465,
+   "ts": "2026-11-12T06:59:13+00:00",
+   "ingested": "2026-11-12T08:49:59.500099+00:00",
+   "headline": "Iran's state media, citing the IRGC Navy: Two oil tankers face explosions while moving in the 'unauthorized route' In the Strait of Hormuz on Wednesday night",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848464,
+   "ts": "2026-11-12T06:56:44+00:00",
+   "ingested": "2026-11-12T08:49:59.500109+00:00",
+   "headline": "Siemens CEO: No extra guardrails needed for our Nvidia business $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848463,
+   "ts": "2026-11-12T06:56:39+00:00",
+   "ingested": "2026-11-12T08:49:59.500118+00:00",
+   "headline": "Siemens CEO: Partnership with NVIDIA to continue as normal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848407,
+   "ts": "2026-11-12T06:08:28+00:00",
+   "ingested": "2026-11-12T08:49:59.500171+00:00",
+   "headline": "BoJ board member Asada: former BoJ chief Kuroda\u2019s stimulus approach was suitable at the time",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848406,
+   "ts": "2026-11-12T06:07:44+00:00",
+   "ingested": "2026-11-12T08:49:59.500182+00:00",
+   "headline": "BOJ board member Asada: Japan now in inflation, not deflation, entering new phase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848405,
+   "ts": "2026-11-12T06:07:13+00:00",
+   "ingested": "2026-11-12T08:49:59.500193+00:00",
+   "headline": "South Korea President Lee: South Korean capital market remains undervalued despite robust economic fundamentals",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848404,
+   "ts": "2026-11-12T06:06:27+00:00",
+   "ingested": "2026-11-12T08:49:59.500204+00:00",
+   "headline": "BOJ board member Asada: Japan has already reached about 2% inflation, so pushing prices higher is not very meaningful",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848403,
+   "ts": "2026-11-12T06:01:58+00:00",
+   "ingested": "2026-11-12T08:49:59.500213+00:00",
+   "headline": "Russian military official killed in car explosion: RIA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848392,
+   "ts": "2026-11-12T06:01:20+00:00",
+   "ingested": "2026-11-12T08:49:59.500226+00:00",
+   "headline": "BOJ's Asada: if rates rise, must be cautious about speed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848391,
+   "ts": "2026-11-12T06:01:09+00:00",
+   "ingested": "2026-11-12T08:49:59.500236+00:00",
+   "headline": "BoJ's Asada: may need to increase rates gradually at some point in future",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848390,
+   "ts": "2026-11-12T06:00:58+00:00",
+   "ingested": "2026-11-12T08:49:59.500245+00:00",
+   "headline": "BOJ's Asada: I am not opposed to increasing rates entirely",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848389,
+   "ts": "2026-11-12T06:00:46+00:00",
+   "ingested": "2026-11-12T08:49:59.500255+00:00",
+   "headline": "BOJ's Asada: Chance neutral rate somewhat exceeds BOJ policy rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848383,
+   "ts": "2026-11-12T06:00:18+00:00",
+   "ingested": "2026-11-12T08:49:59.500265+00:00",
+   "headline": "Finnish September current account deficit 0.5 billion euros: Statistics Finland",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848382,
+   "ts": "2026-11-12T05:59:31+00:00",
+   "ingested": "2026-11-12T08:49:59.500277+00:00",
+   "headline": "Boj's Asada: no plans to suggest rate reduction now",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848381,
+   "ts": "2026-11-12T05:57:03+00:00",
+   "ingested": "2026-11-12T08:49:59.500288+00:00",
+   "headline": "BoJ's Asada: Want to decide policy at each meeting reviewing upside, downside risks and financial conditions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848380,
+   "ts": "2026-11-12T05:56:32+00:00",
+   "ingested": "2026-11-12T08:49:59.500299+00:00",
+   "headline": "Boj's Asada: Even if policy rate hits target level, central bank could still adjust rates up or down",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848379,
+   "ts": "2026-11-12T05:55:17+00:00",
+   "ingested": "2026-11-12T08:49:59.500309+00:00",
+   "headline": "Boj's Asada: Boj does not directly govern fx so will not comment on ideal dollar/yen level",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848378,
+   "ts": "2026-11-12T05:53:40+00:00",
+   "ingested": "2026-11-12T08:49:59.500318+00:00",
+   "headline": "BoJ's Asada: terminal rate and neutral rate closely linked",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848377,
+   "ts": "2026-11-12T05:51:45+00:00",
+   "ingested": "2026-11-12T08:49:59.500328+00:00",
+   "headline": "BOJ's Asada: Japan's nominal neutral rate likely toward lower end of staff range",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848376,
+   "ts": "2026-11-12T05:51:27+00:00",
+   "ingested": "2026-11-12T08:49:59.500337+00:00",
+   "headline": "BOJ's Asada: no clear plan on terminal rate",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848361,
+   "ts": "2026-11-12T05:45:08+00:00",
+   "ingested": "2026-11-12T08:49:59.500348+00:00",
+   "headline": "BOJ's Asada: Central bank independence crucial for price stability amid questions on rate hikes' impact on government policy",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848360,
+   "ts": "2026-11-12T05:44:26+00:00",
+   "ingested": "2026-11-12T08:49:59.500361+00:00",
+   "headline": "BOJ board member Asada: must be mindful of risk rate hikes could lower underlying inflation as consumption slows, when asked about possible December increase",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848359,
+   "ts": "2026-11-12T05:40:44+00:00",
+   "ingested": "2026-11-12T08:49:59.500371+00:00",
+   "headline": "UAE's Ras Al Khaimah reopens several beaches after oil spill closures: Ras Al Khaimah media office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848358,
+   "ts": "2026-11-12T05:35:53+00:00",
+   "ingested": "2026-11-12T08:49:59.500381+00:00",
+   "headline": "South Korea foreign minister Cho to visit China ahead of APEC summit Nov. 13-14: Yonhap",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848345,
+   "ts": "2026-11-12T05:27:03+00:00",
+   "ingested": "2026-11-12T08:49:59.500393+00:00",
+   "headline": "China's grey-market traders hoard restricted Nvidia AI chips as CEO spy scandal fuels US crackdown fears, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848344,
+   "ts": "2026-11-12T05:27:02+00:00",
+   "ingested": "2026-11-12T08:49:59.500404+00:00",
+   "headline": "Chinese AI firms concerned Nvidia CEO spy scandal may prompt Washington to restrict remote use of advanced chips, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848343,
+   "ts": "2026-11-12T05:27:00+00:00",
+   "ingested": "2026-11-12T08:49:59.500415+00:00",
+   "headline": "Chinese AI firms rushing to secure more Nvidia-powered computing capacity at overseas data centers, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848342,
+   "ts": "2026-11-12T05:25:57+00:00",
+   "ingested": "2026-11-12T08:49:59.500425+00:00",
+   "headline": "Israeli military: strikes senior Hamas figure and other militants at Nasser Hospital in Gaza's Khan Younis",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848327,
+   "ts": "2026-11-12T05:02:34+00:00",
+   "ingested": "2026-11-12T08:49:59.500435+00:00",
+   "headline": "France signals backing for Spain's ECB presidential candidate Pablo Hernandez de Cos - FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848325,
+   "ts": "2026-11-12T05:02:21+00:00",
+   "ingested": "2026-11-12T08:49:59.500445+00:00",
+   "headline": "EU and UK likely to postpone 10% electric car tariff: FT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848290,
+   "ts": "2026-11-12T04:57:43+00:00",
+   "ingested": "2026-11-12T08:49:59.500453+00:00",
+   "headline": "Taiwan stocks fall over 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848289,
+   "ts": "2026-11-12T04:53:01+00:00",
+   "ingested": "2026-11-12T08:49:59.500465+00:00",
+   "headline": "Russia strikes energy sites, military depot in and around Ukraine's Kyiv: Russian newswires quote defence ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848266,
+   "ts": "2026-11-12T04:17:59+00:00",
+   "ingested": "2026-11-12T08:49:59.500476+00:00",
+   "headline": "Witkoff, Kushner to meet Putin's special envoy Kirill Dmitriev ahead of Kremlin talks, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848265,
+   "ts": "2026-11-12T04:17:46+00:00",
+   "ingested": "2026-11-12T08:49:59.500487+00:00",
+   "headline": "US envoys Witkoff and Kushner to land in Moscow after trilateral talks in Abu Dhabi for Kremlin meeting with Putin, sources say",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848197,
+   "ts": "2026-11-12T03:00:05+00:00",
+   "ingested": "2026-11-12T08:49:59.500499+00:00",
+   "headline": "S.Korea: Oct foreign net investment in local stocks $-19.31 bln vs $-14.16 bln in Sept - c.bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848196,
+   "ts": "2026-11-12T03:00:05+00:00",
+   "ingested": "2026-11-12T08:49:59.500510+00:00",
+   "headline": "S. Korea: Oct foreign net investment in local bonds $5.61 billion vs -$5.81 billion in Sept - Central Bank",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848195,
+   "ts": "2026-11-12T02:56:25+00:00",
+   "ingested": "2026-11-12T08:49:59.500520+00:00",
+   "headline": "Asean to build storage facilities in Indonesia and Thailand by 2027 led by Japan: Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848194,
+   "ts": "2026-11-12T02:55:32+00:00",
+   "ingested": "2026-11-12T08:49:59.500529+00:00",
+   "headline": "Asean to start combined stockpile of petroleum products: Nikkei",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848193,
+   "ts": "2026-11-12T02:49:55+00:00",
+   "ingested": "2026-11-12T08:49:59.500543+00:00",
+   "headline": "Senator Warren\u2019s office: Trump administration must keep all documents and communications related to Nvidia's exports of advanced AI chips to China",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848192,
+   "ts": "2026-11-12T02:48:45+00:00",
+   "ingested": "2026-11-12T08:49:59.500555+00:00",
+   "headline": "Senators Warren, Coons urge Lutnick, Rubio and Miller to safeguard Nvidia records after reports of foreign spying on CEO Huang: Warren's office",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848095,
+   "ts": "2026-11-12T02:01:06+00:00",
+   "ingested": "2026-11-12T08:49:59.500567+00:00",
+   "headline": "Sens. Elizabeth Warren and Chris Coons urge Trump administration to preserve records on Nvidia chip exports to China - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848094,
+   "ts": "2026-11-12T02:00:43+00:00",
+   "ingested": "2026-11-12T08:49:59.500577+00:00",
+   "headline": "Top Democrats target Trump administration Nvidia-China documents: WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848059,
+   "ts": "2026-11-12T01:41:36+00:00",
+   "ingested": "2026-11-12T08:49:59.500591+00:00",
+   "headline": "BOJ\u2019s Asada: Because Monetary Policy Impact Shows After at Least a Year, Must Closely Monitor Cumulative Effect of BOJ\u2019s Rate Hikes on Corporate Funding, Household Borrowing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9848058,
+   "ts": "2026-11-12T01:40:01+00:00",
+   "ingested": "2026-11-12T08:49:59.500600+00:00",
+   "headline": "BOJ's Asada: Japan's economic growth poised to pick up moderately",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9848057,
    "ts": "2026-11-12T01:38:48+00:00",
@@ -3471,534 +3999,6 @@
    "ts": "2026-11-10T10:03:55+00:00",
    "ingested": "2026-11-10T11:45:21.292460+00:00",
    "headline": "UniCredit: France - FJElite",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845022,
-   "ts": "2026-11-10T10:02:40+00:00",
-   "ingested": "2026-11-10T11:45:21.292470+00:00",
-   "headline": "UK 30 Yr Gilt Bid-to-Cover Actual 3.75 (Forecast -, Previous 3.84)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845021,
-   "ts": "2026-11-10T10:02:39+00:00",
-   "ingested": "2026-11-10T11:45:21.292478+00:00",
-   "headline": "UK 30 Yr Gilt Yield Actual 5.54% (Forecast -, Previous 5.517%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845020,
-   "ts": "2026-11-10T10:02:27+00:00",
-   "ingested": "2026-11-10T11:45:21.292507+00:00",
-   "headline": "ECB's Kazaks: Still appropriate to act in a gradual way.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845019,
-   "ts": "2026-11-10T10:02:18+00:00",
-   "ingested": "2026-11-10T11:45:21.292518+00:00",
-   "headline": "ECB's Kazaks: Policy must stop energy inflation spilling over.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845018,
-   "ts": "2026-11-10T10:02:08+00:00",
-   "ingested": "2026-11-10T11:45:21.292525+00:00",
-   "headline": "ECB's Kazaks: We must remain vigilant, cautious.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845000,
-   "ts": "2026-11-10T09:53:21+00:00",
-   "ingested": "2026-11-10T11:45:21.292532+00:00",
-   "headline": "Fed's Waller: We need to raise rates to put downward pressure on inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844999,
-   "ts": "2026-11-10T09:53:12+00:00",
-   "ingested": "2026-11-10T11:45:21.292540+00:00",
-   "headline": "Fed's Waller: Real rates have to rise to maintain level of restrictiveness in monetary policy.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844947,
-   "ts": "2026-11-10T09:27:29+00:00",
-   "ingested": "2026-11-10T11:45:21.292548+00:00",
-   "headline": "EU participants further said: tackling post-war security issues and lowering conflict risk are essential",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844946,
-   "ts": "2026-11-10T09:26:46+00:00",
-   "ingested": "2026-11-10T11:45:21.292555+00:00",
-   "headline": "EU: shared goal is to create a practical and mutually supportive security framework",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844945,
-   "ts": "2026-11-10T09:26:31+00:00",
-   "ingested": "2026-11-10T11:45:21.292564+00:00",
-   "headline": "EU: Participants underscore any arrangements must honor sovereignty, territorial integrity, independent decision-making, and deliver credible security guarantees for Ukraine",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844941,
-   "ts": "2026-11-10T09:23:20+00:00",
-   "ingested": "2026-11-10T11:45:21.292573+00:00",
-   "headline": "Asian jet fuel cash differential slides to $1.50 a barrel discount, approaches 6 1/2-year low, data shows",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844940,
-   "ts": "2026-11-10T09:21:09+00:00",
-   "ingested": "2026-11-10T11:45:21.292582+00:00",
-   "headline": "Kremlin on whether resumption of Black sea Shipping is on agenda of talks in Abu Dhabi: Will not answer such questions while talks are underway.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844925,
-   "ts": "2026-11-10T09:06:22+00:00",
-   "ingested": "2026-11-10T11:45:21.292591+00:00",
-   "headline": "UAE's energy ministry selling 1.7 mln bbls of Arab light oil from salvaged tanker for November 10-20 loading - Document.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844924,
-   "ts": "2026-11-10T09:02:54+00:00",
-   "ingested": "2026-11-10T11:45:21.292599+00:00",
-   "headline": "Fed's Waller: Labor market solid, supply and demand roughly in balance, employment close to Fed's goal.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844923,
-   "ts": "2026-11-10T09:02:41+00:00",
-   "ingested": "2026-11-10T11:45:21.292607+00:00",
-   "headline": "Fed's Waller: Fed staff analyses suggest more producer price increases ahead, and potential for energy price shock to be more persistent.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844922,
-   "ts": "2026-11-10T09:02:03+00:00",
-   "ingested": "2026-11-10T11:45:21.292615+00:00",
-   "headline": "Fed's Waller: Suspect GDP growth is backing off in current quarter, but output will continue to grow at solid pace.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844921,
-   "ts": "2026-11-10T09:01:49+00:00",
-   "ingested": "2026-11-10T11:45:21.292622+00:00",
-   "headline": "Fed's Waller: Particularly concerned about the breadth of price increases.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844920,
-   "ts": "2026-11-10T09:01:30+00:00",
-   "ingested": "2026-11-10T11:45:21.292631+00:00",
-   "headline": "Fed's Waller: Was willing to wait on policy tightening in October; what matters is that promised hikes are delivered in a reasonable period of time.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844919,
-   "ts": "2026-11-10T09:01:17+00:00",
-   "ingested": "2026-11-10T11:45:21.292643+00:00",
-   "headline": "Fed's Waller: US inflation is too high, \u2018September's inflation data was bad.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844898,
-   "ts": "2026-11-10T09:00:59+00:00",
-   "ingested": "2026-11-10T11:45:21.292651+00:00",
-   "headline": "Fed's Waller: Would support quarter-point rate hike in December even if October CPI improves vs September.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844897,
-   "ts": "2026-11-10T09:00:40+00:00",
-   "ingested": "2026-11-10T11:45:21.292659+00:00",
-   "headline": "Fed's Waller: Half-point Fed rate hike may be needed in december, if October core CPI inflation comes in around 0.3% or higher.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844888,
-   "ts": "2026-11-10T08:55:52+00:00",
-   "ingested": "2026-11-10T11:45:21.292666+00:00",
-   "headline": "BoE Breeden: Firms now very good at adapting to cost shocks.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844847,
-   "ts": "2026-11-10T08:21:23+00:00",
-   "ingested": "2026-11-10T11:45:21.292674+00:00",
-   "headline": "Qatari PM makes unscheduled stop at G7 to brief Europeans, Saudi Arabia after Trump talks on Iran.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844832,
-   "ts": "2026-11-10T08:13:49+00:00",
-   "ingested": "2026-11-10T11:45:21.292681+00:00",
-   "headline": "trilateral talks on Ukraine start in Abu-Dhabi - Ria",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844817,
-   "ts": "2026-11-10T08:00:40+00:00",
-   "ingested": "2026-11-10T11:45:21.292689+00:00",
-   "headline": "Currency Strength Chart: Strongest: NZD, EUR, CHF, GBP, CAD, USD, JPY, AUD - Weakest",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844811,
-   "ts": "2026-11-10T07:59:18+00:00",
-   "ingested": "2026-11-10T11:45:21.292696+00:00",
-   "headline": "ECB's Lane: Europe's economic resilience is quite reassuring.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844810,
-   "ts": "2026-11-10T07:59:06+00:00",
-   "ingested": "2026-11-10T11:45:21.292703+00:00",
-   "headline": "ECB's Lane: French fiscal problems need to be fixed in Paris.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844809,
-   "ts": "2026-11-10T07:58:56+00:00",
-   "ingested": "2026-11-10T11:45:21.292709+00:00",
-   "headline": "ECB's Lane: Expect core, food inflation to quicken.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844808,
-   "ts": "2026-11-10T07:58:39+00:00",
-   "ingested": "2026-11-10T11:45:21.292716+00:00",
-   "headline": "ECB's Lane: More to come in terms of peak inflation.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844807,
-   "ts": "2026-11-10T07:58:29+00:00",
-   "ingested": "2026-11-10T11:45:21.292723+00:00",
-   "headline": "ECB's Lane: Prudent to hike in December if data don't shift.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844806,
-   "ts": "2026-11-10T07:58:20+00:00",
-   "ingested": "2026-11-10T11:45:21.292730+00:00",
-   "headline": "ECB's Lane: Inflation likely \u201ca little bit' over 4% at year-end.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844752,
-   "ts": "2026-11-10T07:14:19+00:00",
-   "ingested": "2026-11-10T11:45:21.292737+00:00",
-   "headline": "China's Guo: China spy allegations around NVIDIA unfounded.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844720,
-   "ts": "2026-11-10T07:02:00+00:00",
-   "ingested": "2026-11-10T11:45:21.292773+00:00",
-   "headline": "Norwegian CPI YoY Actual 3.6% (Forecast 3.7%, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844719,
-   "ts": "2026-11-10T07:02:00+00:00",
-   "ingested": "2026-11-10T11:45:21.292780+00:00",
-   "headline": "Norwegian CPI MoM Actual 0.3% (Forecast -, Previous 0.5%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844718,
-   "ts": "2026-11-10T06:59:41+00:00",
-   "ingested": "2026-11-10T11:45:21.292787+00:00",
-   "headline": "ECB's Moulin: Expect continuity at ECB if Knot or de Cos take over.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844717,
-   "ts": "2026-11-10T06:56:26+00:00",
-   "ingested": "2026-11-10T11:45:21.292794+00:00",
-   "headline": "Adnoc CFO: Made no decisions on alternative LNG export facilities.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844716,
-   "ts": "2026-11-10T06:56:05+00:00",
-   "ingested": "2026-11-10T11:45:21.292802+00:00",
-   "headline": "Adnoc CFO:s LNG exports through Strait of Hormuz remain below preconflict level.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844715,
-   "ts": "2026-11-10T06:55:42+00:00",
-   "ingested": "2026-11-10T11:45:21.292809+00:00",
-   "headline": "adnoc CFO: Seeing month-by-month improvement in LNG cargoes exiting Strait.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844714,
-   "ts": "2026-11-10T06:54:48+00:00",
-   "ingested": "2026-11-10T11:45:21.292815+00:00",
-   "headline": "ECB's Moulin: We see positive signs on energy prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844713,
-   "ts": "2026-11-10T06:52:07+00:00",
-   "ingested": "2026-11-10T11:45:21.292823+00:00",
-   "headline": "France's Foreign Minister: Europeans will be in the room for the Ukraine-Russia talks in Abu Dhabi.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844683,
-   "ts": "2026-11-10T06:32:00+00:00",
-   "ingested": "2026-11-10T11:45:21.292830+00:00",
-   "headline": "French ILO Unemployment Rate Actual 8.2% (Forecast -, Previous 8.3%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844682,
-   "ts": "2026-11-10T06:30:02+00:00",
-   "ingested": "2026-11-10T11:45:21.292839+00:00",
-   "headline": "BoE's Lombardelli on rate hike possibility in December: \"Wouldn't rule it out\"; \"equally, I don't have enough information just yet\".",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844681,
-   "ts": "2026-11-10T06:28:25+00:00",
-   "ingested": "2026-11-10T11:45:21.292847+00:00",
-   "headline": "BoE's Lombardelli: Seeing a real fall-off in hiring in labour market, but not seeing much in the way of redundancies.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844680,
-   "ts": "2026-11-10T06:28:02+00:00",
-   "ingested": "2026-11-10T11:45:21.292854+00:00",
-   "headline": "Ukraine peace only one item in wider Abu Dhabi talks - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844679,
-   "ts": "2026-11-10T06:26:28+00:00",
-   "ingested": "2026-11-10T11:45:21.292862+00:00",
-   "headline": "BoE's Lombardelli: Young people in UK hit by \u2018low-gear economy\u2019.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844656,
-   "ts": "2026-11-10T06:00:17+00:00",
-   "ingested": "2026-11-10T11:45:21.292869+00:00",
-   "headline": "Finnish September industrial output rises 4.5% y/y - Statistics Finland",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844635,
-   "ts": "2026-11-10T05:34:55+00:00",
-   "ingested": "2026-11-10T11:45:21.292877+00:00",
-   "headline": "Dutch September manufacturing output rises 0.2% month on month: CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844634,
-   "ts": "2026-11-10T05:33:16+00:00",
-   "ingested": "2026-11-10T11:45:21.292884+00:00",
-   "headline": "Russian Defence Ministry: Russian forces strike cargo ship, tanker in Black Sea",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844617,
-   "ts": "2026-11-10T05:30:03+00:00",
-   "ingested": "2026-11-10T11:45:21.292891+00:00",
-   "headline": "Dutch Oct CPI rises 3.7% y/y after 3.4% in Sept: CBS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844616,
-   "ts": "2026-11-10T05:30:01+00:00",
-   "ingested": "2026-11-10T11:45:21.292898+00:00",
-   "headline": "Dutch CPI YoY Actual 3.7% (Forecast 3.7%, Previous 3.4%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844615,
-   "ts": "2026-11-10T05:30:01+00:00",
-   "ingested": "2026-11-10T11:45:21.292905+00:00",
-   "headline": "Dutch CPI MoM Actual 0.7% (Forecast -, Previous 0.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844614,
-   "ts": "2026-11-10T05:29:00+00:00",
-   "ingested": "2026-11-10T11:45:21.292913+00:00",
-   "headline": "Moonshot AI accessed a cache of Nvidia\u2019s most advanced chips this summer",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844604,
-   "ts": "2026-11-10T05:11:45+00:00",
-   "ingested": "2026-11-10T11:45:21.292921+00:00",
-   "headline": "UK's Streeting: Would prefer more communication channels with Russia, especially military-to-military level - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844603,
-   "ts": "2026-11-10T05:11:11+00:00",
-   "ingested": "2026-11-10T11:45:21.292928+00:00",
-   "headline": "UK Defence Minister Streeting: UK and Russia require fresh backchannel to prevent 'miscalculation' - FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844584,
-   "ts": "2026-11-10T05:00:24+00:00",
-   "ingested": "2026-11-10T11:45:21.292935+00:00",
-   "headline": "Japanese Economy Watchers Poll Actual 46.1 (Forecast 47.1, Previous 47.0)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844576,
-   "ts": "2026-11-10T04:49:09+00:00",
-   "ingested": "2026-11-10T11:45:21.292943+00:00",
-   "headline": "U.S. evacuated planes from RAF Mildenhall in U.K. on Monday after threat from Iran: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844575,
-   "ts": "2026-11-10T04:48:42+00:00",
-   "ingested": "2026-11-10T11:45:21.292950+00:00",
-   "headline": "U.S. aircraft withdrawn from second U.K. base over Iran threat: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844496,
-   "ts": "2026-11-10T03:01:04+00:00",
-   "ingested": "2026-11-10T03:38:26.583023+00:00",
-   "headline": "Saudi-led coalition: intercepts and destroys drone over eastern Saudi Arabia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844464,
-   "ts": "2026-11-10T02:35:57+00:00",
-   "ingested": "2026-11-10T03:38:26.583053+00:00",
-   "headline": "China Oct trade surplus $105.28 billion vs poll $125.8 billion",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844463,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583074+00:00",
-   "headline": "China October natural gas imports 10.01 mln tonnes vs 10.86 mln tonnes in September: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844462,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583094+00:00",
-   "headline": "China jan-oct unwrought copper and copper products imports total 4,211,000 tonnes, vs 4,456,000 tonnes a year earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844461,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583112+00:00",
-   "headline": "China October unwrought aluminium and aluminium products exports 594,000 tonnes vs 656,000 tonnes in September: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844460,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583132+00:00",
-   "headline": "China jan-oct crude oil imports 399.90 mln tonnes vs 470.94 mln tonnes yr earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844459,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583149+00:00",
-   "headline": "China jan-oct natural gas shipments 99.22 mln tonnes vs 102.09 mln tonnes yr earlier: customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844458,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583164+00:00",
-   "headline": "China jan-oct unwrought aluminium and aluminium product exports total 5,914,000 tonnes vs 5,020,000 tonnes yr earlier - customs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9844457,
-   "ts": "2026-11-10T02:34:54+00:00",
-   "ingested": "2026-11-10T03:38:26.583179+00:00",
-   "headline": "China October unwrought copper and copper products imports 453,000 tonnes, vs 461,000 tonnes in September: customs",
    "channel": "rss",
    "source": "financialjuice"
   }
