@@ -1,7 +1,759 @@
 {
- "updated": "2026-11-12T17:08:31.115739+00:00",
+ "updated": "2026-11-12T22:42:25.381187+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9849842,
+   "ts": "2026-11-12T22:33:22+00:00",
+   "ingested": "2026-11-12T22:42:25.379147+00:00",
+   "headline": "nscale limited as of Sept. 30 expects total capital spending of about $19 billion to $21 billion to finish development of contracted data center sites",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849824,
+   "ts": "2026-11-12T22:30:22+00:00",
+   "ingested": "2026-11-12T22:42:25.379174+00:00",
+   "headline": "Nscale Limited: expands cloud in H2 2026 with multiple multi-billion dollar deals involving AI native and Frontier Model Lab clients",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849805,
+   "ts": "2026-11-12T22:08:41+00:00",
+   "ingested": "2026-11-12T22:42:25.379193+00:00",
+   "headline": "Drone debris sparks fire at industrial plant in Russia's Volgograd: Russian newswires quote governor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849804,
+   "ts": "2026-11-12T22:06:16+00:00",
+   "ingested": "2026-11-12T22:42:25.379209+00:00",
+   "headline": "Zelenskiy: we will have more meetings, hope to work on de-escalation and ceasefires",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849784,
+   "ts": "2026-11-12T21:37:43+00:00",
+   "ingested": "2026-11-12T22:42:25.379224+00:00",
+   "headline": "The DoJ to seize $1.2b worth of cryptocurrency stolen from Binance",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849783,
+   "ts": "2026-11-12T21:36:49+00:00",
+   "ingested": "2026-11-12T22:42:25.379241+00:00",
+   "headline": "The DoJ reports actions to disrupt North Korea\u2019s cryptocurrency theft.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849782,
+   "ts": "2026-11-12T21:34:11+00:00",
+   "ingested": "2026-11-12T22:42:25.379255+00:00",
+   "headline": "Texas Port CEO: Supertanker squeeze crimps US oil exports",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849766,
+   "ts": "2026-11-12T21:32:04+00:00",
+   "ingested": "2026-11-12T22:42:25.379269+00:00",
+   "headline": "New Zealand Manufacturing PMI Actual 54.9 (Forecast -, Previous 56.5)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849754,
+   "ts": "2026-11-12T21:08:21+00:00",
+   "ingested": "2026-11-12T22:42:25.379284+00:00",
+   "headline": "$AMAT Applied Materials Q4 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849753,
+   "ts": "2026-11-12T21:06:28+00:00",
+   "ingested": "2026-11-12T22:42:25.379297+00:00",
+   "headline": "$CSCO Cisco Q1 Earnings",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849752,
+   "ts": "2026-11-12T21:05:23+00:00",
+   "ingested": "2026-11-12T22:42:25.379312+00:00",
+   "headline": "Anthropic\u2019s IPO is about six times oversubscribed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849750,
+   "ts": "2026-11-12T21:03:27+00:00",
+   "ingested": "2026-11-12T22:42:25.379331+00:00",
+   "headline": "NY Fed: The Federal Reserve did not intervene in FX markets during Q3; US Treasury purchased Japanese Yen in FX markets during the same period.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849731,
+   "ts": "2026-11-12T21:02:02+00:00",
+   "ingested": "2026-11-12T22:42:25.379346+00:00",
+   "headline": "S. Korean Import Price YoY Actual 13.5% (Forecast -, Previous 17.6% ,Revision 17.8%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849730,
+   "ts": "2026-11-12T21:02:01+00:00",
+   "ingested": "2026-11-12T22:42:25.379360+00:00",
+   "headline": "S. Korean Export Price YoY Actual 36.7% (Forecast -, Previous 40.9% ,Revision 41.3%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849729,
+   "ts": "2026-11-12T21:00:01+00:00",
+   "ingested": "2026-11-12T22:42:25.379375+00:00",
+   "headline": "US Government is $716.8b away from the $41.1t borrowing limit as of November 10th",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849728,
+   "ts": "2026-11-12T20:53:38+00:00",
+   "ingested": "2026-11-12T22:42:25.379439+00:00",
+   "headline": "Nvidia will continue investigation into former CEO and alleged Chinese spy - The Information. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849708,
+   "ts": "2026-11-12T20:43:16+00:00",
+   "ingested": "2026-11-12T22:42:25.379463+00:00",
+   "headline": "US AG Blanche: The Justice Department has not yet concluded whether Alice Huang was a Chinese spy. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849693,
+   "ts": "2026-11-12T20:31:03+00:00",
+   "ingested": "2026-11-12T22:42:25.379490+00:00",
+   "headline": "Trump asked if military force is possible in Cuba: Would consider",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849692,
+   "ts": "2026-11-12T20:30:34+00:00",
+   "ingested": "2026-11-12T22:42:25.379505+00:00",
+   "headline": "Trump: I would consider a week-long campaign against Cuba.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849689,
+   "ts": "2026-11-12T20:29:12+00:00",
+   "ingested": "2026-11-12T22:42:25.379518+00:00",
+   "headline": "Trump: I want to get Cuba done before I leave.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849688,
+   "ts": "2026-11-12T20:28:42+00:00",
+   "ingested": "2026-11-12T22:42:25.379532+00:00",
+   "headline": "Trump: The US has fought with Iran at a rapid pace for the last 3 weeks",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849687,
+   "ts": "2026-11-12T20:28:29+00:00",
+   "ingested": "2026-11-12T22:42:25.379545+00:00",
+   "headline": "Trump: Possibly, I would use military force in Iran if needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849686,
+   "ts": "2026-11-12T20:26:38+00:00",
+   "ingested": "2026-11-12T22:42:25.379558+00:00",
+   "headline": "Friday FX Option Expiries",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849683,
+   "ts": "2026-11-12T20:17:46+00:00",
+   "ingested": "2026-11-12T22:42:25.379573+00:00",
+   "headline": "US Military officer arrested in the UK was detained in a sting operation, sources say - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849676,
+   "ts": "2026-11-12T20:13:54+00:00",
+   "ingested": "2026-11-12T22:42:25.379587+00:00",
+   "headline": "Trump on China Espionage: It goes both ways, we do it well too, it's reciprocal",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849675,
+   "ts": "2026-11-12T20:12:22+00:00",
+   "ingested": "2026-11-12T22:42:25.379602+00:00",
+   "headline": "Alice Huang owned stakes in Chinese businesses that benefited Huawei - CNBC",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849674,
+   "ts": "2026-11-12T20:11:05+00:00",
+   "ingested": "2026-11-12T22:42:25.379616+00:00",
+   "headline": "Trump on Huang: What a horrible thing that is, sad to see",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849673,
+   "ts": "2026-11-12T20:09:56+00:00",
+   "ingested": "2026-11-12T22:42:25.379633+00:00",
+   "headline": "SpaceX and Tesla merger discussions progress, advisers discussing terms; deal could be announced as early as December but could slip to '27. $SPCX $TSLA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849672,
+   "ts": "2026-11-12T20:08:27+00:00",
+   "ingested": "2026-11-12T22:42:25.379646+00:00",
+   "headline": "Trump: I intend to use the veto, but deals can be cut - Hugh Hewitt Show",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849647,
+   "ts": "2026-11-12T19:45:12+00:00",
+   "ingested": "2026-11-12T22:42:25.379659+00:00",
+   "headline": "Brent Crude futures settle at $95.82/bbl, up $3.06, 3.3%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849646,
+   "ts": "2026-11-12T19:32:16+00:00",
+   "ingested": "2026-11-12T22:42:25.379673+00:00",
+   "headline": "NYMEX Diesel December futures settle at $4.2865 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849644,
+   "ts": "2026-11-12T19:32:01+00:00",
+   "ingested": "2026-11-12T22:42:25.379685+00:00",
+   "headline": "NYMEX Gasoline December futures settle at $2.6708 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849634,
+   "ts": "2026-11-12T19:31:45+00:00",
+   "ingested": "2026-11-12T22:42:25.379698+00:00",
+   "headline": "NYMEX Natural Gas December futures settle at $3.3400/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849633,
+   "ts": "2026-11-12T19:31:15+00:00",
+   "ingested": "2026-11-12T22:42:25.379711+00:00",
+   "headline": "NYMEX WTI Crude December futures settle at $88.74 a barrel, up $2.21, 2.55%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849625,
+   "ts": "2026-11-12T19:25:06+00:00",
+   "ingested": "2026-11-12T22:42:25.379726+00:00",
+   "headline": "Former NVIDIA CEO Huang had an intimate relationship with\na second employee - Sources. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849624,
+   "ts": "2026-11-12T19:23:51+00:00",
+   "ingested": "2026-11-12T22:42:25.379739+00:00",
+   "headline": "Super Micro denies Megaspeed has ever been a customer - Semafor. $SMCI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849616,
+   "ts": "2026-11-12T19:10:09+00:00",
+   "ingested": "2026-11-12T22:42:25.379755+00:00",
+   "headline": "Democratic Senator Reed:  Congress needs an assessment of whether Nvidia is \"too big to fail\" and how it could impact the banking system - statement. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849615,
+   "ts": "2026-11-12T19:09:25+00:00",
+   "ingested": "2026-11-12T22:42:25.379769+00:00",
+   "headline": "Fed's Schmid: The Fed has to get inflation down to the mandated 2% goal.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849614,
+   "ts": "2026-11-12T19:08:23+00:00",
+   "ingested": "2026-11-12T22:42:25.379787+00:00",
+   "headline": "Super Micro: Has been voluntarily providing information, engaging with all requests from Singapore authorities to date; has been responsive to inquiries and fully cooperated with US and Taiwanese officials - Semafor Reporter. $SMCI",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849613,
+   "ts": "2026-11-12T19:05:25+00:00",
+   "ingested": "2026-11-12T22:42:25.379800+00:00",
+   "headline": "IRNA: The attack on Sirik was 'military' in nature.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849612,
+   "ts": "2026-11-12T19:04:07+00:00",
+   "ingested": "2026-11-12T22:42:25.379814+00:00",
+   "headline": "IRNA: Iran's Sirik in Hormozgan hit by \u2018enemy\u2019 fire.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849611,
+   "ts": "2026-11-12T19:02:34+00:00",
+   "ingested": "2026-11-12T22:42:25.379826+00:00",
+   "headline": "IRNA: Attack on southern Iran's Sirik.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849597,
+   "ts": "2026-11-12T19:00:55+00:00",
+   "ingested": "2026-11-12T22:42:25.379840+00:00",
+   "headline": "US October net customs receipts $19.22 bln vs $31.35 bln in October 2025.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849596,
+   "ts": "2026-11-12T19:00:43+00:00",
+   "ingested": "2026-11-12T22:42:25.379855+00:00",
+   "headline": "US Oct budget outlays $773 bln vs $689 bln in Oct 2025. Receipts $369 bln vs $404 bln in Oct 2025.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849594,
+   "ts": "2026-11-12T18:58:15+00:00",
+   "ingested": "2026-11-12T22:42:25.379868+00:00",
+   "headline": "US Federal Budget Balance Actual -404.064B (Forecast -317.5B, Previous -27.00B)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849593,
+   "ts": "2026-11-12T18:57:24+00:00",
+   "ingested": "2026-11-12T22:42:25.379880+00:00",
+   "headline": "New Nvidia CEO plans company meeting next Wednesday - WSJ. $NVDA",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849592,
+   "ts": "2026-11-12T18:49:54+00:00",
+   "ingested": "2026-11-12T22:42:25.379895+00:00",
+   "headline": "Microsoft: Begun redistributing connection traffic across our broader worldwide infrastructure to help balance the load. $MSFT",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849591,
+   "ts": "2026-11-12T18:48:50+00:00",
+   "ingested": "2026-11-12T22:42:25.379908+00:00",
+   "headline": "Fed's Daly: AI, uncertainty and rising input costs are all dampening hiring.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849590,
+   "ts": "2026-11-12T18:48:14+00:00",
+   "ingested": "2026-11-12T22:42:25.379920+00:00",
+   "headline": "Fed's Daly: We are in a perfect storm for hiring.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849578,
+   "ts": "2026-11-12T18:46:06+00:00",
+   "ingested": "2026-11-12T22:42:25.379933+00:00",
+   "headline": "Fed's Schmid: Fed still hasn't beat the inflation enemy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849577,
+   "ts": "2026-11-12T18:45:49+00:00",
+   "ingested": "2026-11-12T22:42:25.379946+00:00",
+   "headline": "Nasdaq trading services is investigating issues with its email system",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849570,
+   "ts": "2026-11-12T18:43:14+00:00",
+   "ingested": "2026-11-12T22:42:25.379958+00:00",
+   "headline": "Fed's Daly: You can slow the economy and still have good growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849569,
+   "ts": "2026-11-12T18:41:40+00:00",
+   "ingested": "2026-11-12T22:42:25.379973+00:00",
+   "headline": "Nature of explosions not yet known, some sources said these sounds are caused by warning shots towards the offending ships - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849568,
+   "ts": "2026-11-12T18:40:24+00:00",
+   "ingested": "2026-11-12T22:42:25.379985+00:00",
+   "headline": "Explosion heard in Iran's Sirik - Fars News",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849567,
+   "ts": "2026-11-12T18:39:22+00:00",
+   "ingested": "2026-11-12T22:42:25.379998+00:00",
+   "headline": "Fed's Daly: We have many many quarters to make policy decisions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849566,
+   "ts": "2026-11-12T18:39:14+00:00",
+   "ingested": "2026-11-12T22:42:25.380012+00:00",
+   "headline": "Fed's Daly: Exactly how much Fed tightening and when is a decision we don't need to make now.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849565,
+   "ts": "2026-11-12T18:38:58+00:00",
+   "ingested": "2026-11-12T22:42:25.380025+00:00",
+   "headline": "Fed's Daly: Markets are assisting.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849563,
+   "ts": "2026-11-12T18:38:21+00:00",
+   "ingested": "2026-11-12T22:42:25.380038+00:00",
+   "headline": "Fed's Daly: Tighter financial conditions give us more time to make decisions.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849562,
+   "ts": "2026-11-12T18:37:50+00:00",
+   "ingested": "2026-11-12T22:42:25.380051+00:00",
+   "headline": "Fed's Daly: Financial markets are in alignment with where Fed needs to be.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849561,
+   "ts": "2026-11-12T18:37:38+00:00",
+   "ingested": "2026-11-12T22:42:25.380065+00:00",
+   "headline": "Fed's Daly: But markets don't do the work of the Fed. Keeping prices stable is the job of the Fed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849560,
+   "ts": "2026-11-12T18:36:59+00:00",
+   "ingested": "2026-11-12T22:42:25.380079+00:00",
+   "headline": "Fed's Daly: I increasingly hear firms say going to pass on higher costs.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849559,
+   "ts": "2026-11-12T18:36:17+00:00",
+   "ingested": "2026-11-12T22:42:25.380091+00:00",
+   "headline": "Fed's Daly: Inflation pressure is up, not down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849558,
+   "ts": "2026-11-12T18:35:34+00:00",
+   "ingested": "2026-11-12T22:42:25.380104+00:00",
+   "headline": "Fed's Daly: I'm comfortable with Sept. hike, further tightening needed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849557,
+   "ts": "2026-11-12T18:34:56+00:00",
+   "ingested": "2026-11-12T22:42:25.380117+00:00",
+   "headline": "Fed's Daly: Inflation is bleeding into services. Once services inflation rises it's sticky.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849556,
+   "ts": "2026-11-12T18:34:42+00:00",
+   "ingested": "2026-11-12T22:42:25.380130+00:00",
+   "headline": "Fed's Daly: Bias is that further tightening will be needed.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849555,
+   "ts": "2026-11-12T18:34:34+00:00",
+   "ingested": "2026-11-12T22:42:25.380143+00:00",
+   "headline": "Fed's Daly: Inflation shocks can compound, we can't be complacent.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849550,
+   "ts": "2026-11-12T18:30:32+00:00",
+   "ingested": "2026-11-12T22:42:25.380155+00:00",
+   "headline": "Fed's Schmid Materials and labor costs may worsen housing affordability.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849547,
+   "ts": "2026-11-12T18:30:18+00:00",
+   "ingested": "2026-11-12T22:42:25.380167+00:00",
+   "headline": "Fed's Schmid does not comment on outlook or monetary policy.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849546,
+   "ts": "2026-11-12T18:29:03+00:00",
+   "ingested": "2026-11-12T22:42:25.380183+00:00",
+   "headline": "Fed's Daly: Just because we have to fight inflation problem now doesn't mean we should ignore potential that productivity growth could be disinflationary.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849545,
+   "ts": "2026-11-12T18:28:45+00:00",
+   "ingested": "2026-11-12T22:42:25.380196+00:00",
+   "headline": "Fed's Daly: We have to focus on bringing inflation down.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849544,
+   "ts": "2026-11-12T18:28:33+00:00",
+   "ingested": "2026-11-12T22:42:25.380209+00:00",
+   "headline": "Fed's Daly: Stable labor market, positive growth and productivity growth, and high inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849543,
+   "ts": "2026-11-12T18:25:33+00:00",
+   "ingested": "2026-11-12T22:42:25.380222+00:00",
+   "headline": "Fed's Daly: it's too early to say when AI productivity impact will arrive.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849542,
+   "ts": "2026-11-12T18:24:46+00:00",
+   "ingested": "2026-11-12T22:42:25.380236+00:00",
+   "headline": "Fed's Daly: A lot of work being done that we might see more productivity growth in next 1-3 years.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849541,
+   "ts": "2026-11-12T18:24:21+00:00",
+   "ingested": "2026-11-12T22:42:25.380249+00:00",
+   "headline": "Fed's Daly: There is positive momentum for productivity growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849540,
+   "ts": "2026-11-12T18:22:36+00:00",
+   "ingested": "2026-11-12T22:42:25.380261+00:00",
+   "headline": "Fed's Daly: That suggests there's not a risk to growth.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849539,
+   "ts": "2026-11-12T18:21:19+00:00",
+   "ingested": "2026-11-12T22:42:25.380275+00:00",
+   "headline": "Fed's Daly: There has been repricing in AI valuations, but it's not the unwinding of interest or enthusiasm.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849538,
+   "ts": "2026-11-12T18:19:49+00:00",
+   "ingested": "2026-11-12T22:42:25.380288+00:00",
+   "headline": "Fed's Daly: There is risk AI could contribute more to inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849537,
+   "ts": "2026-11-12T18:19:26+00:00",
+   "ingested": "2026-11-12T22:42:25.380302+00:00",
+   "headline": "Fed's Daly: We have an inflation problem, but AI is not doing most of the driving.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849536,
+   "ts": "2026-11-12T18:19:06+00:00",
+   "ingested": "2026-11-12T22:42:25.380314+00:00",
+   "headline": "Fed's Daly: AI having limited impact on labor market.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849520,
+   "ts": "2026-11-12T18:17:17+00:00",
+   "ingested": "2026-11-12T22:42:25.380327+00:00",
+   "headline": "Fed's Daly: AI is contributing directly only a modest amount to inflation.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849519,
+   "ts": "2026-11-12T18:16:33+00:00",
+   "ingested": "2026-11-12T22:42:25.380340+00:00",
+   "headline": "Fed's Daly: No doubt of AI-fueled price pressures.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849516,
+   "ts": "2026-11-12T18:15:05+00:00",
+   "ingested": "2026-11-12T22:42:25.380353+00:00",
+   "headline": "White House discussing Lutnick's future as Commerce Secretary - people familiar.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849515,
+   "ts": "2026-11-12T18:14:39+00:00",
+   "ingested": "2026-11-12T22:42:25.380367+00:00",
+   "headline": "Fed's Daly: AI pipeline is deep, so continues even if it slows.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849514,
+   "ts": "2026-11-12T18:13:28+00:00",
+   "ingested": "2026-11-12T22:42:25.380414+00:00",
+   "headline": "Fed's Daly: Economy being driven by technology boom",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849512,
+   "ts": "2026-11-12T18:05:54+00:00",
+   "ingested": "2026-11-12T22:42:25.380443+00:00",
+   "headline": "Google: Gemini 4 Hydrogen biggest model upgrade to search yet. $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849511,
+   "ts": "2026-11-12T18:05:25+00:00",
+   "ingested": "2026-11-12T22:42:25.380461+00:00",
+   "headline": "Google brings Gemini 4 Hydrogen to search globally. Adds visual, table-based AI responses $GOOGL",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849497,
+   "ts": "2026-11-12T18:03:56+00:00",
+   "ingested": "2026-11-12T22:42:25.380475+00:00",
+   "headline": "US 30-Year Bond Bid-to-Cover Actual 2.360 (Forecast -, Previous 2.540)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849510,
+   "ts": "2026-11-12T18:02:40+00:00",
+   "ingested": "2026-11-12T22:42:25.380487+00:00",
+   "headline": "US 30 Yr Note Auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849495,
+   "ts": "2026-11-12T18:01:55+00:00",
+   "ingested": "2026-11-12T22:42:25.380501+00:00",
+   "headline": "US 30-Year Bond High Yield Actual 5.441% (Forecast -, Previous 5.618%)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849484,
+   "ts": "2026-11-12T18:00:21+00:00",
+   "ingested": "2026-11-12T22:42:25.380513+00:00",
+   "headline": "Treasury WI 30 Yr yield 5.437% before $25 billion auction",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849474,
+   "ts": "2026-11-12T17:47:15+00:00",
+   "ingested": "2026-11-12T22:42:25.380526+00:00",
+   "headline": "China in talks for $15 bln funds for insurance hub - WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849460,
+   "ts": "2026-11-12T17:46:24+00:00",
+   "ingested": "2026-11-12T22:42:25.380539+00:00",
+   "headline": "Beijing Is Trying to Build a Chinese Rival for Insuring World Shipping -- WSJ",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849459,
+   "ts": "2026-11-12T17:45:36+00:00",
+   "ingested": "2026-11-12T22:42:25.380551+00:00",
+   "headline": "Fed bids for 30-Year bond total $5.1 bln",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9849449,
+   "ts": "2026-11-12T17:35:41+00:00",
+   "ingested": "2026-11-12T22:42:25.380566+00:00",
+   "headline": "Fitch Ratings: US consumer spending strengthens amid affordability strain; market downturn key risk",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9849421,
    "ts": "2026-11-12T17:02:49+00:00",
@@ -3247,758 +3999,6 @@
    "ts": "2026-11-11T00:00:04+00:00",
    "ingested": "2026-11-11T04:29:20.847928+00:00",
    "headline": "S.Korea Nov 1-10 exports surge 111.9% y/y: customs agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846197,
-   "ts": "2026-11-11T00:00:04+00:00",
-   "ingested": "2026-11-11T04:29:20.847941+00:00",
-   "headline": "S. Korea nov 1-10 trade surplus provisional $8.75 billion: customs agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846196,
-   "ts": "2026-11-10T23:48:33+00:00",
-   "ingested": "2026-11-10T23:53:22.000289+00:00",
-   "headline": "Fed's Goolsbee: all options remain open, must reduce inflation to target",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846195,
-   "ts": "2026-11-10T23:48:16+00:00",
-   "ingested": "2026-11-10T23:53:22.000322+00:00",
-   "headline": "Commerce department received national security alert on Nvidia CEO issue: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846194,
-   "ts": "2026-11-10T23:47:00+00:00",
-   "ingested": "2026-11-10T23:53:22.000349+00:00",
-   "headline": "Fed's Goolsbee: major concern if inflation embeds into expectations",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846193,
-   "ts": "2026-11-10T23:46:36+00:00",
-   "ingested": "2026-11-10T23:53:22.000383+00:00",
-   "headline": "Fed's Goolsbee: we will have to accept it if inflation remains persistent",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846192,
-   "ts": "2026-11-10T23:46:14+00:00",
-   "ingested": "2026-11-10T23:53:22.000405+00:00",
-   "headline": "Fed's Goolsbee: job market remains steady and stable",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846190,
-   "ts": "2026-11-10T23:46:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000426+00:00",
-   "headline": "Fed's Goolsbee: my concern is emerging widespread price overheating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846185,
-   "ts": "2026-11-10T23:45:10+00:00",
-   "ingested": "2026-11-10T23:53:22.000448+00:00",
-   "headline": "Fed's Goolsbee: business spending is influenced by interest rates",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846184,
-   "ts": "2026-11-10T23:44:21+00:00",
-   "ingested": "2026-11-10T23:53:22.000468+00:00",
-   "headline": "Fed's Goolsbee on PBS NewsHour: inflation driven by cost and demand factors",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846183,
-   "ts": "2026-11-10T23:43:22+00:00",
-   "ingested": "2026-11-10T23:53:22.000494+00:00",
-   "headline": "Fed\u2019s Goolsbee on PBS NewsHour: \u2018We are going to have to address that\u2019",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846182,
-   "ts": "2026-11-10T23:43:17+00:00",
-   "ingested": "2026-11-10T23:53:22.000514+00:00",
-   "headline": "Fed's Goolsbee on PBS NewsHour: We face a genuine inflation challenge",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846181,
-   "ts": "2026-11-10T23:43:07+00:00",
-   "ingested": "2026-11-10T23:53:22.000536+00:00",
-   "headline": "Fed's Goolsbee on PBS NewsHour: biggest concern is that services inflation remains high",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846180,
-   "ts": "2026-11-10T23:42:25+00:00",
-   "ingested": "2026-11-10T23:53:22.000557+00:00",
-   "headline": "Fed's Goolsbee on PBS Newshour: CPI was borderline troubling on inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846179,
-   "ts": "2026-11-10T23:41:06+00:00",
-   "ingested": "2026-11-10T23:53:22.000579+00:00",
-   "headline": "Apple: some users could face issues with iCloud calendar, contacts, mail, iWork for iCloud and Game Center - status page",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846153,
-   "ts": "2026-11-10T23:30:14+00:00",
-   "ingested": "2026-11-10T23:53:22.000598+00:00",
-   "headline": "Fed's Paulson: backed recent rate moves",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846152,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000618+00:00",
-   "headline": "Fed's Paulson: economy more resilient than expected, job market firm and steady",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846151,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000638+00:00",
-   "headline": "Fed's Paulson: underlying inflation remains between 2.5% and 3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846150,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000658+00:00",
-   "headline": "Fed's Paulson: AI and energy effect on inflation difficult to measure",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846149,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000677+00:00",
-   "headline": "Fed's Paulson: monetary policy must stay somewhat tight",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846148,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000698+00:00",
-   "headline": "Fed\u2019s Paulson: further \u2018gradual\u2019 rate increases appropriate given high inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846147,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000719+00:00",
-   "headline": "Fed\u2019s Paulson: central bank has \u2018more work to do\u2019 to reduce inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846146,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000738+00:00",
-   "headline": "Fed's Paulson: CPI data indicates inflation still an issue",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846145,
-   "ts": "2026-11-10T23:30:04+00:00",
-   "ingested": "2026-11-10T23:53:22.000757+00:00",
-   "headline": "Fed's Paulson: inflation outlook risks elevated",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846144,
-   "ts": "2026-11-10T23:30:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000777+00:00",
-   "headline": "Fed\u2019s Paulson: precise trajectory of rate policy hinges on economic developments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846143,
-   "ts": "2026-11-10T23:30:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000797+00:00",
-   "headline": "Fed's Paulson: slow rate increases have allowed economy time to adapt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846142,
-   "ts": "2026-11-10T23:30:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000817+00:00",
-   "headline": "Fed\u2019s Paulson: gradual rate increases have allowed officials room to assess impact",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846141,
-   "ts": "2026-11-10T23:21:51+00:00",
-   "ingested": "2026-11-10T23:53:22.000840+00:00",
-   "headline": "Nvidia CEO Jensen Huang holds regular morning meeting with executives after admitting extramarital affair - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846124,
-   "ts": "2026-11-10T23:09:37+00:00",
-   "ingested": "2026-11-10T23:53:22.000862+00:00",
-   "headline": "OpenAI told investors adjusted operating margin improved from -150% to -109% from second to third quarter: WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846123,
-   "ts": "2026-11-10T23:06:31+00:00",
-   "ingested": "2026-11-10T23:53:22.000883+00:00",
-   "headline": "OpenAI tells investors adjusted operating margin rose from -150% to -109% from Q2 to Q3 - WSJ",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846122,
-   "ts": "2026-11-10T23:03:02+00:00",
-   "ingested": "2026-11-10T23:53:22.000903+00:00",
-   "headline": "US House of Representatives supports motion that blocks impeachment of Defense Secretary Hegseth",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846102,
-   "ts": "2026-11-10T23:01:56+00:00",
-   "ingested": "2026-11-10T23:53:22.000924+00:00",
-   "headline": "S. Korean Unemployment Rate Actual 2.5% (Forecast 2.6%, Previous 2.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846106,
-   "ts": "2026-11-10T23:00:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000945+00:00",
-   "headline": "Tankan: Japan manufacturers February index expected at +28, non-manufacturers at +29",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846105,
-   "ts": "2026-11-10T23:00:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000968+00:00",
-   "headline": "South Korea\u2019s October employment rises 139,000 year on year vs 113,000 in September: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846104,
-   "ts": "2026-11-10T23:00:03+00:00",
-   "ingested": "2026-11-10T23:53:22.000990+00:00",
-   "headline": "S.Korea\u2019s October unemployment rate slips to 2.5% from 2.6% in September: stats office",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846103,
-   "ts": "2026-11-10T23:00:03+00:00",
-   "ingested": "2026-11-10T23:53:22.001010+00:00",
-   "headline": "Tankan: Japan manufacturers index rises to 27 in November from 22 in October",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846094,
-   "ts": "2026-11-10T22:42:08+00:00",
-   "ingested": "2026-11-10T23:53:22.001030+00:00",
-   "headline": "Latvia's armed forces: threat in Latvian airspace is over",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846093,
-   "ts": "2026-11-10T22:39:01+00:00",
-   "ingested": "2026-11-10T23:53:22.001054+00:00",
-   "headline": "Lithuania's national crisis management centre tells people in two regions bordering Belarus and Poland to take cover amid air alert over possible drone",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846079,
-   "ts": "2026-11-10T22:22:47+00:00",
-   "ingested": "2026-11-10T23:53:22.001077+00:00",
-   "headline": "Uniserve Communications to acquire more Nvidia B300 systems to boost Canadian AI compute capacity; secures $4 million loan",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846061,
-   "ts": "2026-11-10T22:01:36+00:00",
-   "ingested": "2026-11-10T23:53:22.001099+00:00",
-   "headline": "Lithuanian national crisis management centre: NATO fighters on Baltic air defense mission scrambled over object flying from Belarus toward Baltics",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846046,
-   "ts": "2026-11-10T22:00:46+00:00",
-   "ingested": "2026-11-10T23:53:22.001141+00:00",
-   "headline": "Latvia army: people in Ludza region near Belarus border told to seek shelter over airspace threat",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846042,
-   "ts": "2026-11-10T21:49:07+00:00",
-   "ingested": "2026-11-10T23:53:22.001162+00:00",
-   "headline": "US API Gasoline Stock Change Actual 2.7M (Forecast -, Previous 1.427M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846041,
-   "ts": "2026-11-10T21:48:59+00:00",
-   "ingested": "2026-11-10T23:53:22.001182+00:00",
-   "headline": "US API Distillate Stock Change Actual -8M (Forecast -, Previous -1.192M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846040,
-   "ts": "2026-11-10T21:48:49+00:00",
-   "ingested": "2026-11-10T23:53:22.001202+00:00",
-   "headline": "US API Cushing Stock Change Actual 5.1M (Forecast -, Previous 0.511M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846039,
-   "ts": "2026-11-10T21:48:41+00:00",
-   "ingested": "2026-11-10T23:53:22.001222+00:00",
-   "headline": "US API Crude Stock Change Actual -9.8M (Forecast -1M, Previous -5.267M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846003,
-   "ts": "2026-11-10T21:29:18+00:00",
-   "ingested": "2026-11-10T23:53:22.001242+00:00",
-   "headline": "Fed's Bowman: Need to think about what pace and what timeline to address it",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846002,
-   "ts": "2026-11-10T21:28:45+00:00",
-   "ingested": "2026-11-10T23:53:22.001262+00:00",
-   "headline": "Fed's Bowman: The fact that inflation is not on a downward trend should give us pause",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9846000,
-   "ts": "2026-11-10T21:21:05+00:00",
-   "ingested": "2026-11-10T23:53:22.001289+00:00",
-   "headline": "Fed's Bowman: The Fed cut rates gradually last year and then paused before resuming, in the same way that we may work to address inflation in the coming months,",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845999,
-   "ts": "2026-11-10T21:18:43+00:00",
-   "ingested": "2026-11-10T23:53:22.001314+00:00",
-   "headline": "Fed's Bowman: The Fed does ongoing cybersecurity examinations of banks, and has seen a great deal of focus on identifying and patching vulnerabilities.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845985,
-   "ts": "2026-11-10T21:15:12+00:00",
-   "ingested": "2026-11-10T23:53:22.001335+00:00",
-   "headline": "Fed's Bowman: AI will make workers more productive, create new jobs, and eliminate less-necessary jobs",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845984,
-   "ts": "2026-11-10T21:14:39+00:00",
-   "ingested": "2026-11-10T23:53:22.001355+00:00",
-   "headline": "Fed's Bowman: I don't think AI will rob the US economy of jobs.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845982,
-   "ts": "2026-11-10T21:09:22+00:00",
-   "ingested": "2026-11-10T23:53:22.001375+00:00",
-   "headline": "OpenAI revenue jumps to $10b in 3Q - The Information.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845981,
-   "ts": "2026-11-10T21:07:39+00:00",
-   "ingested": "2026-11-10T23:53:22.001402+00:00",
-   "headline": "Fed's Bowman: Open lines of communication with the Treasury are critically important",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845980,
-   "ts": "2026-11-10T21:06:32+00:00",
-   "ingested": "2026-11-10T23:53:22.001422+00:00",
-   "headline": "Fed's Bowman: The Fed is trying to gather data on AI debt counterparties",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845979,
-   "ts": "2026-11-10T21:05:49+00:00",
-   "ingested": "2026-11-10T23:53:22.001441+00:00",
-   "headline": "$CRWV CoreWeave Q3 Earnings",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845978,
-   "ts": "2026-11-10T21:02:55+00:00",
-   "ingested": "2026-11-10T23:53:22.001468+00:00",
-   "headline": "Fed's Bowman: I would need to see AI and Middle East risks abate before I could be confident inflation will come down next year.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845977,
-   "ts": "2026-11-10T21:01:38+00:00",
-   "ingested": "2026-11-10T23:53:22.001492+00:00",
-   "headline": "Fed's Bowman: Inflation expectations are an important data point, but they are not necessarily controlling how I think about things.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845962,
-   "ts": "2026-11-10T21:00:53+00:00",
-   "ingested": "2026-11-10T23:53:22.001508+00:00",
-   "headline": "Fed's Bowman: Longer-term inflation expectations are very well anchored.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845957,
-   "ts": "2026-11-10T21:00:09+00:00",
-   "ingested": "2026-11-10T23:53:22.001523+00:00",
-   "headline": "Anthropic Backers Market Up to $500 Million in IPO Shares for 3%-5% Fee",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845949,
-   "ts": "2026-11-10T20:44:07+00:00",
-   "ingested": "2026-11-10T23:53:22.001543+00:00",
-   "headline": "Iran's Parliamentary Speaker Ghalibaf: China plays a \"prominent role\" in helping end the war",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845948,
-   "ts": "2026-11-10T20:31:53+00:00",
-   "ingested": "2026-11-10T23:53:22.001558+00:00",
-   "headline": "Fed's Bowman: Labor market has improved, not tight, not adding to inflation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845947,
-   "ts": "2026-11-10T20:31:48+00:00",
-   "ingested": "2026-11-10T23:53:22.001572+00:00",
-   "headline": "Fed's Bowman: AI development increasingly backed by external funding",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845945,
-   "ts": "2026-11-10T20:31:39+00:00",
-   "ingested": "2026-11-10T23:53:22.001586+00:00",
-   "headline": "Fed's Bowman Speaks to the Council on Foreign Relations - WATCH LIVE",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845944,
-   "ts": "2026-11-10T20:31:37+00:00",
-   "ingested": "2026-11-10T23:53:22.001601+00:00",
-   "headline": "Fed's Bowman: CPI data suggests inflation pressures may persist",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845943,
-   "ts": "2026-11-10T20:31:35+00:00",
-   "ingested": "2026-11-10T23:53:22.001616+00:00",
-   "headline": "Fed's Bowman: Focused on financial stability risks if AI returns fall short",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845942,
-   "ts": "2026-11-10T20:31:24+00:00",
-   "ingested": "2026-11-10T23:53:22.001631+00:00",
-   "headline": "Fed's Bowman: Economic growth gained momentum this year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845930,
-   "ts": "2026-11-10T20:31:13+00:00",
-   "ingested": "2026-11-10T23:53:22.001646+00:00",
-   "headline": "Fed's Bowman: As shocks unwind, forecast core PCE to move closer to 2% next year",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845926,
-   "ts": "2026-11-10T20:30:50+00:00",
-   "ingested": "2026-11-10T23:53:22.001663+00:00",
-   "headline": "Fed's Bowman: Core PCE likely rose 3.3% in October on energy prices, AI-related demand",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845925,
-   "ts": "2026-11-10T20:30:46+00:00",
-   "ingested": "2026-11-10T23:53:22.001677+00:00",
-   "headline": "Fed's Bowman: Bringing inflation down remains a priority.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845923,
-   "ts": "2026-11-10T20:30:33+00:00",
-   "ingested": "2026-11-10T23:53:22.001693+00:00",
-   "headline": "Fed's Bowman: Financial conditions have tightened, the Fed must weigh the costs of additional policy tightening.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845922,
-   "ts": "2026-11-10T20:30:31+00:00",
-   "ingested": "2026-11-10T23:53:22.001708+00:00",
-   "headline": "Fed's Bowman: Persistent inflation, firming labor conditions suggest still work to do",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845917,
-   "ts": "2026-11-10T20:21:43+00:00",
-   "ingested": "2026-11-10T23:53:22.001720+00:00",
-   "headline": "Wednesday FX Option Expiries",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845866,
-   "ts": "2026-11-10T20:00:00+00:00",
-   "ingested": "2026-11-10T23:53:22.001735+00:00",
-   "headline": "US regulator postpones Wall Street push to trade AI computing futures- FT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845865,
-   "ts": "2026-11-10T19:59:41+00:00",
-   "ingested": "2026-11-10T23:53:22.001751+00:00",
-   "headline": "Fitch Ratings: The Democrat win is mixed for the US AI ecosystem, energy, healthcare & defense",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845859,
-   "ts": "2026-11-10T19:45:16+00:00",
-   "ingested": "2026-11-10T23:53:22.001766+00:00",
-   "headline": "Brent crude futures settle at $91.49/bbl, down $1.08, 1.17%.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845858,
-   "ts": "2026-11-10T19:41:54+00:00",
-   "ingested": "2026-11-10T23:53:22.001780+00:00",
-   "headline": "Republicans seek closed-door Nvidia CEO briefing - ABC $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845857,
-   "ts": "2026-11-10T19:39:43+00:00",
-   "ingested": "2026-11-10T23:53:22.001793+00:00",
-   "headline": "House GOP considering issuing subpoena to Nvidia CEO - ABC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845855,
-   "ts": "2026-11-10T19:32:08+00:00",
-   "ingested": "2026-11-10T23:53:22.001808+00:00",
-   "headline": "NYMEX Natural Gas December futures settle at $3.2960/MMBTU",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845852,
-   "ts": "2026-11-10T19:31:24+00:00",
-   "ingested": "2026-11-10T23:53:22.001822+00:00",
-   "headline": "NYMEX diesel Dec. futures settle at $4.1309 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845844,
-   "ts": "2026-11-10T19:31:17+00:00",
-   "ingested": "2026-11-10T23:53:22.001836+00:00",
-   "headline": "NYMEX gasoline Dec. futures settle at $2.6088 a gallon",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845836,
-   "ts": "2026-11-10T19:31:10+00:00",
-   "ingested": "2026-11-10T23:53:22.001852+00:00",
-   "headline": "NYMEX WTI crude Dec. futures settle at $86.04 a barrel, down 81 cents, 0.93%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845835,
-   "ts": "2026-11-10T19:30:59+00:00",
-   "ingested": "2026-11-10T23:53:22.001870+00:00",
-   "headline": "A fire breaks out on a platform in Iran's South Pars field, the situation is under control - Iran's Fars news agency",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845827,
-   "ts": "2026-11-10T19:30:02+00:00",
-   "ingested": "2026-11-10T23:53:22.001884+00:00",
-   "headline": "Trump was reminded of Huang relationship en route to China - NYT $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845826,
-   "ts": "2026-11-10T19:21:26+00:00",
-   "ingested": "2026-11-10T23:53:22.001900+00:00",
-   "headline": "US House Republicans elect Jim Jordan as party leader for the next Congress - Punchbowl News",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845810,
-   "ts": "2026-11-10T19:09:13+00:00",
-   "ingested": "2026-11-10T23:53:22.001914+00:00",
-   "headline": "Nscale mulls delaying $35b listing after AI sell-off - Telegraph",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845809,
-   "ts": "2026-11-10T19:04:23+00:00",
-   "ingested": "2026-11-10T23:53:22.001930+00:00",
-   "headline": "Fed's Schmid: A lot of interesting data points between now and Fed's December meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845804,
-   "ts": "2026-11-10T18:55:26+00:00",
-   "ingested": "2026-11-10T23:53:22.001945+00:00",
-   "headline": "Fed's Schmid Predicts instant payments will leap over digital asset structures",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845803,
-   "ts": "2026-11-10T18:50:15+00:00",
-   "ingested": "2026-11-10T18:52:45.466669+00:00",
-   "headline": "Fed's Schmid: Inflation is top of mind",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845802,
-   "ts": "2026-11-10T18:50:06+00:00",
-   "ingested": "2026-11-10T18:52:45.466693+00:00",
-   "headline": "Fed's Schmid: Demand is strong, and rates not a cause for hesitation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845801,
-   "ts": "2026-11-10T18:48:42+00:00",
-   "ingested": "2026-11-10T18:52:45.466716+00:00",
-   "headline": "Fed's Schmid: Could argue housing is going through an 'interesting dynamic\u2019 but elsewhere can't find any restriction.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845800,
-   "ts": "2026-11-10T18:48:21+00:00",
-   "ingested": "2026-11-10T18:52:45.466732+00:00",
-   "headline": "Fed's Schmid: Fed benchmark rate fairly accommodative today",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845799,
-   "ts": "2026-11-10T18:48:08+00:00",
-   "ingested": "2026-11-10T18:52:45.466747+00:00",
-   "headline": "UK Police: The country to which the allegations relate is Russia.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845798,
-   "ts": "2026-11-10T18:47:54+00:00",
-   "ingested": "2026-11-10T18:52:45.466761+00:00",
-   "headline": "UK Police: Member of US Army arrested as part of counter terrorism policing investigation",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845797,
-   "ts": "2026-11-10T18:46:57+00:00",
-   "ingested": "2026-11-10T18:52:45.466773+00:00",
-   "headline": "Fed's Schmid: US hiring pretty robust lately.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9845785,
-   "ts": "2026-11-10T18:44:46+00:00",
-   "ingested": "2026-11-10T18:52:45.466786+00:00",
-   "headline": "Fed's Schmid: Some concerning trends in prices, underneath the whole energy story",
    "channel": "rss",
    "source": "financialjuice"
   }
