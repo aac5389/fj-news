@@ -1,7 +1,263 @@
 {
- "updated": "2026-11-14T10:49:33.824375+00:00",
+ "updated": "2026-11-14T16:44:39.254999+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9852314,
+   "ts": "2026-11-14T16:31:24+00:00",
+   "ingested": "2026-11-14T16:44:39.254010+00:00",
+   "headline": "Duffy on aviation shutdown: root cause of impact on our system was not a foreign actor",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852311,
+   "ts": "2026-11-14T16:24:45+00:00",
+   "ingested": "2026-11-14T16:44:39.254030+00:00",
+   "headline": "US FAA administrator: collaborating with aviation stakeholders; all passengers will be either reaccommodated on a flight or receive a full refund",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852310,
+   "ts": "2026-11-14T16:17:48+00:00",
+   "ingested": "2026-11-14T16:44:39.254042+00:00",
+   "headline": "Duffy: there will be a reassessment of the timing for maintenance work",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852305,
+   "ts": "2026-11-14T16:15:05+00:00",
+   "ingested": "2026-11-14T16:44:39.254057+00:00",
+   "headline": "US FAA administrator: anticipates between 4,000 and 5,000 scheduled flights likely to be canceled today",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852304,
+   "ts": "2026-11-14T16:13:39+00:00",
+   "ingested": "2026-11-14T16:44:39.254067+00:00",
+   "headline": "US FAA administrator: we see no evidence of wrongdoing, and no evidence of anything AI linked",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852303,
+   "ts": "2026-11-14T16:13:28+00:00",
+   "ingested": "2026-11-14T16:44:39.254076+00:00",
+   "headline": "US FAA administrator: delays and cancellations today will enable full recovery on Sunday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852302,
+   "ts": "2026-11-14T16:13:06+00:00",
+   "ingested": "2026-11-14T16:44:39.254086+00:00",
+   "headline": "US FAA administrator: expects between 4,000 and 5,000 of scheduled flights today will likely be canceled",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852301,
+   "ts": "2026-11-14T16:12:36+00:00",
+   "ingested": "2026-11-14T16:44:39.254094+00:00",
+   "headline": "US FAA administrator: system stays stable on Saturday",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852300,
+   "ts": "2026-11-14T16:03:09+00:00",
+   "ingested": "2026-11-14T16:44:39.254102+00:00",
+   "headline": "Duffy on aviation shutdown: says it was not a cyberattack",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852299,
+   "ts": "2026-11-14T16:02:07+00:00",
+   "ingested": "2026-11-14T16:44:39.254111+00:00",
+   "headline": "Duffy: unclear whether shutdown caused by incompetence or faulty router",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852295,
+   "ts": "2026-11-14T15:59:43+00:00",
+   "ingested": "2026-11-14T16:44:39.254119+00:00",
+   "headline": "US transportation secretary Duffy: aviation resumes full operation after Friday shutdown",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852294,
+   "ts": "2026-11-14T15:58:00+00:00",
+   "ingested": "2026-11-14T16:44:39.254133+00:00",
+   "headline": "Russia strikes cargo ship in Ukraine\u2019s Chornomorsk port: RIA cites Russian defense ministry",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852285,
+   "ts": "2026-11-14T15:09:00+00:00",
+   "ingested": "2026-11-14T16:44:39.254142+00:00",
+   "headline": "Kremlin: Putin, Xi and Trump to hold trilateral meeting in Shenzhen on Nov. 19 alongside APEC summit",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852270,
+   "ts": "2026-11-14T14:38:57+00:00",
+   "ingested": "2026-11-14T16:44:39.254151+00:00",
+   "headline": "Elon Musk on Jensen Huang: without Jensen, some crucial deals would be lost",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852269,
+   "ts": "2026-11-14T14:38:24+00:00",
+   "ingested": "2026-11-14T16:44:39.254160+00:00",
+   "headline": "Elon Musk: Jensen managed Nvidia supply chain expertly, but many agreements were handshakes, not written contracts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852266,
+   "ts": "2026-11-14T14:30:05+00:00",
+   "ingested": "2026-11-14T16:44:39.254168+00:00",
+   "headline": "Fed's Collins: potential financial conditions to curb economy more than anticipated",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852265,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254177+00:00",
+   "headline": "Fed's Collins: a strong case to keep rates steady at October FOMC meeting",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852264,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254188+00:00",
+   "headline": "Fed's Collins: with inflation and jobs figures, central bank may need to raise rates beyond recent forecasts",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852263,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254203+00:00",
+   "headline": "Fed's Collins: job market in \u2018uncommon steadiness\u2019; may strengthen further",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852262,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254211+00:00",
+   "headline": "Fed's Collins: essential for Fed to reduce inflation to 2%",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852261,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254220+00:00",
+   "headline": "Fed's Collins: steady, gradual approach to rate hikes suitable amid risks on both sides",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852260,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254228+00:00",
+   "headline": "Fed\u2019s Collins: inflation expectations remain anchored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852259,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254236+00:00",
+   "headline": "Fed's Collins: longer-term inflation expectations likely to remain anchored",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852258,
+   "ts": "2026-11-14T14:30:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254244+00:00",
+   "headline": "Fed\u2019s Collins: Best approach to high living costs is restoring inflation stability",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852247,
+   "ts": "2026-11-14T13:51:55+00:00",
+   "ingested": "2026-11-14T16:44:39.254254+00:00",
+   "headline": "Duffy: Passengers will still face some delays and cancellations as airlines adjust flights and move crews where most needed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852246,
+   "ts": "2026-11-14T13:51:22+00:00",
+   "ingested": "2026-11-14T16:44:39.254263+00:00",
+   "headline": "Duffy: close coordination with airlines to back ongoing recovery",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852245,
+   "ts": "2026-11-14T13:51:02+00:00",
+   "ingested": "2026-11-14T16:44:39.254272+00:00",
+   "headline": "US transportation sec. Duffy: flight operations gradually returning to normal this morning",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852240,
+   "ts": "2026-11-14T13:41:55+00:00",
+   "ingested": "2026-11-14T16:44:39.254281+00:00",
+   "headline": "Russian drones hit Ukraine's Naftogaz facility in central Poltava region, causing fire: company",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852223,
+   "ts": "2026-11-14T13:07:40+00:00",
+   "ingested": "2026-11-14T16:44:39.254291+00:00",
+   "headline": "Saudi-led coalition: intercepts and destroys two drones launched by Yemen's Houthis toward Riyadh and southern region",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852216,
+   "ts": "2026-11-14T12:18:09+00:00",
+   "ingested": "2026-11-14T16:44:39.254302+00:00",
+   "headline": "Italy\u2019s data protection authority fines Meta Platforms \u20ac805 million over alleged use of videos and photos of Android users without consent",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852190,
+   "ts": "2026-11-14T11:16:26+00:00",
+   "ingested": "2026-11-14T16:44:39.254311+00:00",
+   "headline": "Pakistan foreign affairs ministry: Pakistan to join Shanghai Cooperation Organisation civilizational dialogue in New Delhi, India",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9852189,
+   "ts": "2026-11-14T11:06:51+00:00",
+   "ingested": "2026-11-14T16:44:39.254320+00:00",
+   "headline": "Kraken: probing problem with Osmosis funding gateway, deposits and withdrawals might be postponed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9852173,
    "ts": "2026-11-14T10:14:45+00:00",
@@ -3743,262 +3999,6 @@
    "ts": "2026-11-12T17:02:17+00:00",
    "ingested": "2026-11-12T17:08:31.113800+00:00",
    "headline": "Democrats seek Commerce Dept. communications with Huang - CNBC. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849396,
-   "ts": "2026-11-12T17:02:08+00:00",
-   "ingested": "2026-11-12T17:08:31.113815+00:00",
-   "headline": "EIA Crude Cushing Inventories  Actual 0.106M (Forecast -, Previous 0.280M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849399,
-   "ts": "2026-11-12T17:01:04+00:00",
-   "ingested": "2026-11-12T17:08:31.113831+00:00",
-   "headline": "US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849397,
-   "ts": "2026-11-12T17:00:15+00:00",
-   "ingested": "2026-11-12T17:08:31.113843+00:00",
-   "headline": "Democratic lawmakers to probe US approval of chip exports - CNBC",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849395,
-   "ts": "2026-11-12T17:00:01+00:00",
-   "ingested": "2026-11-12T17:08:31.113856+00:00",
-   "headline": "EIA Crude Oil Inventories Actual 4.657M (Forecast -1.483M, Previous -0.865M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849394,
-   "ts": "2026-11-12T17:00:01+00:00",
-   "ingested": "2026-11-12T17:08:31.113867+00:00",
-   "headline": "EIA Gasoline Inventories Actual 1.799M (Forecast -0.35M, Previous -0.222M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849393,
-   "ts": "2026-11-12T17:00:01+00:00",
-   "ingested": "2026-11-12T17:08:31.113878+00:00",
-   "headline": "EIA Distillate Inventories Actual 4.071M (Forecast -2M, Previous -3.565M)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849392,
-   "ts": "2026-11-12T16:59:10+00:00",
-   "ingested": "2026-11-12T17:08:31.113891+00:00",
-   "headline": "The Fed updates the 2027 FOMC calendar, drops the October rate meeting",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849391,
-   "ts": "2026-11-12T16:57:50+00:00",
-   "ingested": "2026-11-12T17:08:31.113902+00:00",
-   "headline": "Yemen's Houthis: We attacked oil facility in Saudi Arabia's Yanbu",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849390,
-   "ts": "2026-11-12T16:57:31+00:00",
-   "ingested": "2026-11-12T17:08:31.113914+00:00",
-   "headline": "Yemen's Houthis: We attacked pumping station in Saudi Arabia's east-west pipeline.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849389,
-   "ts": "2026-11-12T16:56:56+00:00",
-   "ingested": "2026-11-12T17:08:31.113924+00:00",
-   "headline": "Claude: Launching Claude for manufacturing.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849388,
-   "ts": "2026-11-12T16:55:36+00:00",
-   "ingested": "2026-11-12T17:08:31.113936+00:00",
-   "headline": "US probing if Alice Huang helped smuggle Super Micro products. $NVDA $SMCI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849363,
-   "ts": "2026-11-12T16:43:52+00:00",
-   "ingested": "2026-11-12T17:08:31.113945+00:00",
-   "headline": "Suspected Yen Intervention",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849362,
-   "ts": "2026-11-12T16:43:34+00:00",
-   "ingested": "2026-11-12T17:08:31.113956+00:00",
-   "headline": "Fed's Goolsbee: Fed is failing on the inflation side of the mandate",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849361,
-   "ts": "2026-11-12T16:43:16+00:00",
-   "ingested": "2026-11-12T17:08:31.113967+00:00",
-   "headline": "Fed's Goolsbee: Do not want to prejudge what happens with monetary policy",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849360,
-   "ts": "2026-11-12T16:43:03+00:00",
-   "ingested": "2026-11-12T17:08:31.113977+00:00",
-   "headline": "ECB's Vujcic: France needs credible fiscal adjustment.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849359,
-   "ts": "2026-11-12T16:41:42+00:00",
-   "ingested": "2026-11-12T17:08:31.113987+00:00",
-   "headline": "Kremlin: Russia ready to start security talks immediately - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849358,
-   "ts": "2026-11-12T16:41:35+00:00",
-   "ingested": "2026-11-12T17:08:31.113998+00:00",
-   "headline": "Fed's Goolsbee: Plenty of room for the Fed to discuss policy options",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849357,
-   "ts": "2026-11-12T16:41:13+00:00",
-   "ingested": "2026-11-12T17:08:31.114013+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Goldman Sachs expects the Stoxx Europe 600 target to reach 700 in the next 12 months $GS",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849356,
-   "ts": "2026-11-12T16:40:25+00:00",
-   "ingested": "2026-11-12T17:08:31.114023+00:00",
-   "headline": "Russia's Ushakov: Putin-Trump meeting planned in China - IFX",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849355,
-   "ts": "2026-11-12T16:39:47+00:00",
-   "ingested": "2026-11-12T17:08:31.114037+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Expects S&P 500 index target to reach 8700 in the next 12 months.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849354,
-   "ts": "2026-11-12T16:38:04+00:00",
-   "ingested": "2026-11-12T17:08:31.114051+00:00",
-   "headline": "White House expected in coming days to extend Jones Act waiver on shipping oil and commodities on foreign-flagged ships between US ports -- sources",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849353,
-   "ts": "2026-11-12T16:37:52+00:00",
-   "ingested": "2026-11-12T17:08:31.114061+00:00",
-   "headline": "Kremlin: Russia made clear NATO cannot expand any further",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849352,
-   "ts": "2026-11-12T16:37:36+00:00",
-   "ingested": "2026-11-12T17:08:31.114071+00:00",
-   "headline": "Kremlin: Putin and US envoys that Ukraine peace talks will continue.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849351,
-   "ts": "2026-11-12T16:37:10+00:00",
-   "ingested": "2026-11-12T17:08:31.114091+00:00",
-   "headline": "Goldman Sachs 2027 outlook: We forecast that nominal global AI investment will rise from $1.1 trln in 2026 to $1.8 trln in 2027, mostly driven by an increase of over $500 bln in hardware spending in the US",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849350,
-   "ts": "2026-11-12T16:33:42+00:00",
-   "ingested": "2026-11-12T17:08:31.114101+00:00",
-   "headline": "IMF: Monitoring stock volatility and other developments in AI sector.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849349,
-   "ts": "2026-11-12T16:33:34+00:00",
-   "ingested": "2026-11-12T17:08:31.114111+00:00",
-   "headline": "US 4-Week Bill Auction",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849348,
-   "ts": "2026-11-12T16:32:55+00:00",
-   "ingested": "2026-11-12T17:08:31.114124+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Expects Euro Area GDP to reach 0.9% in 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849347,
-   "ts": "2026-11-12T16:32:36+00:00",
-   "ingested": "2026-11-12T17:08:31.114136+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Goldman Sachs expects US GDP to reach 2.4% in 2027.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849345,
-   "ts": "2026-11-12T16:32:05+00:00",
-   "ingested": "2026-11-12T17:08:31.114146+00:00",
-   "headline": "Nvidia faces multiple Justice Dept. Probes - Semafor. $NVDA",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849331,
-   "ts": "2026-11-12T16:31:48+00:00",
-   "ingested": "2026-11-12T17:08:31.114158+00:00",
-   "headline": "US 4-Week Bill High Yield Actual 3.955% (Forecast -, Previous 3.890%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849330,
-   "ts": "2026-11-12T16:31:47+00:00",
-   "ingested": "2026-11-12T17:08:31.114169+00:00",
-   "headline": "US 4-Week Bill Bid-to-Cover Actual 2.94 (Forecast -, Previous 2.460)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9849327,
-   "ts": "2026-11-12T16:31:13+00:00",
-   "ingested": "2026-11-12T17:08:31.114180+00:00",
-   "headline": "Goldman Sachs 2027 outlook: Goldman Sachs expects global GDP to reach 2.8% in 2027.",
    "channel": "rss",
    "source": "financialjuice"
   }
