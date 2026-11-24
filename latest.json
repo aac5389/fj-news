@@ -1,7 +1,327 @@
 {
- "updated": "2026-11-23T19:31:03.255117+00:00",
+ "updated": "2026-11-24T04:25:26.632234+00:00",
  "count": 500,
  "items": [
+  {
+   "guid": 9865234,
+   "ts": "2026-11-24T00:30:00+00:00",
+   "ingested": "2026-11-24T04:25:26.631221+00:00",
+   "headline": "Japanese Composite PMI Flash Actual 51.5 (Forecast -, Previous 52.1)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865233,
+   "ts": "2026-11-24T00:30:00+00:00",
+   "ingested": "2026-11-24T04:25:26.631237+00:00",
+   "headline": "Japanese Mfg PMI Flash Actual 53.7 (Forecast -, Previous 53.3)",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865161,
+   "ts": "2026-11-23T22:53:52+00:00",
+   "ingested": "2026-11-24T04:25:26.631248+00:00",
+   "headline": "California AG: Attorney General Bonta submits amicus brief in Epic v. Apple",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865160,
+   "ts": "2026-11-23T22:51:21+00:00",
+   "ingested": "2026-11-24T04:25:26.631260+00:00",
+   "headline": "Anthropic PBC CEO Dario Amodei unloads 3.38 million class A shares at $83 apiece on Nov. 20: SEC filing",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865143,
+   "ts": "2026-11-23T22:30:56+00:00",
+   "ingested": "2026-11-24T04:25:26.631270+00:00",
+   "headline": "Saudi-led coalition: drone launched by Yemen's Houthis towards southern region intercepted, destroyed",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865102,
+   "ts": "2026-11-23T21:59:41+00:00",
+   "ingested": "2026-11-24T04:25:26.631279+00:00",
+   "headline": "Qatari Prime Minister and Qatari Envoy met today with Vance - Axios.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865101,
+   "ts": "2026-11-23T21:58:00+00:00",
+   "ingested": "2026-11-24T04:25:26.631289+00:00",
+   "headline": "Meta Platforms \u2013 SEC Filing $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865100,
+   "ts": "2026-11-23T21:56:05+00:00",
+   "ingested": "2026-11-24T04:25:26.631298+00:00",
+   "headline": "ANZ Bank brings forward first RBA rate cut forecast to June 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865099,
+   "ts": "2026-11-23T21:55:21+00:00",
+   "ingested": "2026-11-24T04:25:26.631307+00:00",
+   "headline": "Meta Platforms: Mark Zuckerberg grants waiver on Class C stock dividend payment deadline - SEC filing $META",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865098,
+   "ts": "2026-11-23T21:50:50+00:00",
+   "ingested": "2026-11-24T04:25:26.631317+00:00",
+   "headline": "Fed's Williams: There is an understanding that independent central banks deliver better economic outcomes.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865085,
+   "ts": "2026-11-23T21:40:04+00:00",
+   "ingested": "2026-11-24T04:25:26.631325+00:00",
+   "headline": "Fed's Williams: Companies want to hire, but they are being cautious",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865084,
+   "ts": "2026-11-23T21:36:07+00:00",
+   "ingested": "2026-11-24T04:25:26.631334+00:00",
+   "headline": "Fed's Williams: 2027 will be a year of lower inflation",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865083,
+   "ts": "2026-11-23T21:35:30+00:00",
+   "ingested": "2026-11-24T04:25:26.631342+00:00",
+   "headline": "Fed's Williams: What has driven inflation up recently has been unusual factors.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865082,
+   "ts": "2026-11-23T21:34:48+00:00",
+   "ingested": "2026-11-24T04:25:26.631351+00:00",
+   "headline": "Fed's Williams: The economy has been resilient in the face of many large challenges.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865062,
+   "ts": "2026-11-23T21:26:02+00:00",
+   "ingested": "2026-11-24T04:25:26.631360+00:00",
+   "headline": "Fed's Williams: We've been working very hard to get inflation down, and have made progress",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865061,
+   "ts": "2026-11-23T21:25:14+00:00",
+   "ingested": "2026-11-24T04:25:26.631368+00:00",
+   "headline": "Fed's Williams: The underpinnings of strong growth have some challenges.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865060,
+   "ts": "2026-11-23T21:23:26+00:00",
+   "ingested": "2026-11-24T04:25:26.631377+00:00",
+   "headline": "Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO - WATCH LIVE",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865042,
+   "ts": "2026-11-23T21:05:49+00:00",
+   "ingested": "2026-11-24T04:25:26.631385+00:00",
+   "headline": "Fed's watchdog probes Bowman dinner with BofA clients - Source.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865037,
+   "ts": "2026-11-23T21:02:56+00:00",
+   "ingested": "2026-11-24T04:25:26.631394+00:00",
+   "headline": "Three Tankers involved in illegal activities explode in the Strait of Hormuz due to naval mines - IRIB News.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865026,
+   "ts": "2026-11-23T21:01:36+00:00",
+   "ingested": "2026-11-24T04:25:26.631402+00:00",
+   "headline": "Fed's Williams: Outlook for energy prices remains uncertain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865025,
+   "ts": "2026-11-23T21:01:30+00:00",
+   "ingested": "2026-11-24T04:25:26.631410+00:00",
+   "headline": "Fed's Williams: I do not see inflation pressures broadening much.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865024,
+   "ts": "2026-11-23T21:01:25+00:00",
+   "ingested": "2026-11-24T04:25:26.631418+00:00",
+   "headline": "Fed's Williams: Economy is strong and showing resilience",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865023,
+   "ts": "2026-11-23T21:01:15+00:00",
+   "ingested": "2026-11-24T04:25:26.631425+00:00",
+   "headline": "Fed's Williams: The job market has been stable.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865022,
+   "ts": "2026-11-23T21:01:13+00:00",
+   "ingested": "2026-11-24T04:25:26.631433+00:00",
+   "headline": "Fed's Williams: AI impact on the economy is uncertain",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865021,
+   "ts": "2026-11-23T21:01:04+00:00",
+   "ingested": "2026-11-24T04:25:26.631442+00:00",
+   "headline": "Fed's Williams: The US economy to grow 2.75% in both 2026 and 2027.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865020,
+   "ts": "2026-11-23T21:00:53+00:00",
+   "ingested": "2026-11-24T04:25:26.631452+00:00",
+   "headline": "Fed's Williams: continuing to look at data to determine the economy\u2019s future path",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865019,
+   "ts": "2026-11-23T21:00:49+00:00",
+   "ingested": "2026-11-24T04:25:26.631461+00:00",
+   "headline": "Fed's Williams: Inflation is still too high, and risks are skewed to the upside.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865018,
+   "ts": "2026-11-23T21:00:37+00:00",
+   "ingested": "2026-11-24T04:25:26.631469+00:00",
+   "headline": "Fed's Williams: The jobless rate should ebb to 4% by next year.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865017,
+   "ts": "2026-11-23T21:00:28+00:00",
+   "ingested": "2026-11-24T04:25:26.631478+00:00",
+   "headline": "Fed's Williams: Inflation should end 2026 at 3.5%, back to 2% in 2028",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865016,
+   "ts": "2026-11-23T21:00:25+00:00",
+   "ingested": "2026-11-24T04:25:26.631487+00:00",
+   "headline": "Fed's Williams: The Fed must act to lower inflation back to 2%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9865014,
+   "ts": "2026-11-23T20:55:17+00:00",
+   "ingested": "2026-11-24T04:25:26.631495+00:00",
+   "headline": "The US and Qatar pledge to strengthen defense and security partnership",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864997,
+   "ts": "2026-11-23T20:30:24+00:00",
+   "ingested": "2026-11-24T04:25:26.631508+00:00",
+   "headline": "The US is set to add Singaporean chip firm Megaspeed to its trade blacklist later on Monday - Source Familiar with the matter",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864977,
+   "ts": "2026-11-23T20:08:44+00:00",
+   "ingested": "2026-11-24T04:25:26.631519+00:00",
+   "headline": "US Treasury: Foreign Investor Demand Mixed Across Latest Note and Bond Auctions",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864966,
+   "ts": "2026-11-23T19:57:38+00:00",
+   "ingested": "2026-11-24T04:25:26.631529+00:00",
+   "headline": "Qatar's PM and Foreign Minister: Middle East cannot withstand new US-Iran escalation; working with both sides to revive negotiations - Al Jazeera.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864964,
+   "ts": "2026-11-23T19:49:12+00:00",
+   "ingested": "2026-11-24T04:25:26.631537+00:00",
+   "headline": "Commerce to add megaspeed to trade blacklist - Semafor.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864953,
+   "ts": "2026-11-23T19:42:38+00:00",
+   "ingested": "2026-11-24T04:25:26.631546+00:00",
+   "headline": "Brent Crude futures settle at $89.37/bbl, down $3.20, 3.46%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864947,
+   "ts": "2026-11-23T19:32:21+00:00",
+   "ingested": "2026-11-24T04:25:26.631554+00:00",
+   "headline": "NYMEX Diesel December futures settle at $3.6975 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864944,
+   "ts": "2026-11-23T19:32:08+00:00",
+   "ingested": "2026-11-24T04:25:26.631563+00:00",
+   "headline": "NYMEX Gasoline December futures settle at $2.4054 a gallon.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864943,
+   "ts": "2026-11-23T19:31:49+00:00",
+   "ingested": "2026-11-24T04:25:26.631571+00:00",
+   "headline": "NYMEX Natural Gas December futures settle at $3.1840/MMBtu.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
+  {
+   "guid": 9864941,
+   "ts": "2026-11-23T19:31:14+00:00",
+   "ingested": "2026-11-24T04:25:26.631580+00:00",
+   "headline": "NYMEX WTI Crude January futures settle at $80.17 a barrel, down $3.24, 3.88%.",
+   "channel": "rss",
+   "source": "financialjuice"
+  },
   {
    "guid": 9864904,
    "ts": "2026-11-23T19:00:20+00:00",
@@ -3679,326 +3999,6 @@
    "ts": "2026-11-20T00:01:16+00:00",
    "ingested": "2026-11-20T01:13:00.655722+00:00",
    "headline": "Japan economy minister Kiuchi: underlying consumer inflation quickening as firms advance passing on rising costs from Middle East developments",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860848,
-   "ts": "2026-11-20T00:01:03+00:00",
-   "ingested": "2026-11-20T01:13:00.655731+00:00",
-   "headline": "Japan economy minister Kiuchi: economy showing favorable signs as wages and prices rise steadily together",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860847,
-   "ts": "2026-11-20T00:01:03+00:00",
-   "ingested": "2026-11-20T01:13:00.655740+00:00",
-   "headline": "UK GfK consumer confidence index at -22 in November versus -24 in October (Poll: -22)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860846,
-   "ts": "2026-11-20T00:01:03+00:00",
-   "ingested": "2026-11-20T01:13:00.655748+00:00",
-   "headline": "UK GfK major purchases gauge climbs 5 points to -17",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860823,
-   "ts": "2026-11-19T23:39:08+00:00",
-   "ingested": "2026-11-20T01:13:00.655757+00:00",
-   "headline": "Fed's Paulson: monetary policy forward guidance less useful in normal periods",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860822,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-20T01:13:00.655765+00:00",
-   "headline": "Fed's Paulson: usefulness of rate path guidance varies with circumstances",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860821,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-20T01:13:00.655773+00:00",
-   "headline": "Fed's Paulson: Public needs to grasp rationale behind Fed's actions",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860820,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-20T01:13:00.655781+00:00",
-   "headline": "Fed's Paulson: does not comment on near-term monetary policy outlook",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860819,
-   "ts": "2026-11-19T23:39:07+00:00",
-   "ingested": "2026-11-20T01:13:00.655789+00:00",
-   "headline": "Fed's Paulson: Fed communications need to be clear on perspectives",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860804,
-   "ts": "2026-11-19T23:31:53+00:00",
-   "ingested": "2026-11-20T01:13:00.655797+00:00",
-   "headline": "Japan overall CPI climbs at fastest rate since November 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860803,
-   "ts": "2026-11-19T23:31:41+00:00",
-   "ingested": "2026-11-20T01:13:00.655805+00:00",
-   "headline": "Japan core CPI climbs at fastest rate since December 2025",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860798,
-   "ts": "2026-11-19T23:30:21+00:00",
-   "ingested": "2026-11-20T01:13:00.655814+00:00",
-   "headline": "Japan October nationwide core-core CPI excluding fresh food, energy prices rises 2.2% yr/yr: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860797,
-   "ts": "2026-11-19T23:30:12+00:00",
-   "ingested": "2026-11-20T01:13:00.655823+00:00",
-   "headline": "Japan oct consumer prices excluding fresh food, energy rise 2.2% yr/yr: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860796,
-   "ts": "2026-11-19T23:30:12+00:00",
-   "ingested": "2026-11-20T01:13:00.655831+00:00",
-   "headline": "Japan Oct nationwide core consumer prices rise 2.3% yr/yr: govt",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860795,
-   "ts": "2026-11-19T23:30:05+00:00",
-   "ingested": "2026-11-20T01:13:00.655839+00:00",
-   "headline": "Japan Oct nationwide core CPI rises 2.2% yr/yr: govt poll 2.3%",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860794,
-   "ts": "2026-11-19T23:30:03+00:00",
-   "ingested": "2026-11-20T01:13:00.655848+00:00",
-   "headline": "Japanese Core CPI Nationwide YoY Actual 2.2% (Forecast 2.3%, Previous 2.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860793,
-   "ts": "2026-11-19T23:30:02+00:00",
-   "ingested": "2026-11-20T01:13:00.655856+00:00",
-   "headline": "Japanese CPI Overall Nationwide Actual 2.3% (Forecast 2.5%, Previous 2.1%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860790,
-   "ts": "2026-11-19T23:22:57+00:00",
-   "ingested": "2026-11-20T01:13:00.655863+00:00",
-   "headline": "Explosions heard in Ukraine's Kyiv: witness source",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860747,
-   "ts": "2026-11-19T22:43:36+00:00",
-   "ingested": "2026-11-20T01:13:00.655873+00:00",
-   "headline": "Nvidia nears takeover of diffusion AI creator for over $500 million \u2013 the information",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860746,
-   "ts": "2026-11-19T22:33:10+00:00",
-   "ingested": "2026-11-20T01:13:00.655884+00:00",
-   "headline": "California AG: California Department of Justice questions Nvidia on whether it misled investors and the public",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860731,
-   "ts": "2026-11-19T22:32:18+00:00",
-   "ingested": "2026-11-20T01:13:00.655893+00:00",
-   "headline": "California AG: California DOJ asking Nvidia if its advanced chips or confidential data may have been sent to China",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860730,
-   "ts": "2026-11-19T22:31:16+00:00",
-   "ingested": "2026-11-20T01:13:00.655901+00:00",
-   "headline": "Attorney General Bonta issues investigative subpoena to Nvidia",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860716,
-   "ts": "2026-11-19T22:16:44+00:00",
-   "ingested": "2026-11-20T01:13:00.655908+00:00",
-   "headline": "Trump's national cyber director is resigning: Axios",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860695,
-   "ts": "2026-11-19T21:53:56+00:00",
-   "ingested": "2026-11-20T01:13:00.655918+00:00",
-   "headline": "Total money market funds fell $3.58 bln to $7.98 trln for week ended Nov. 18 - ICI",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860692,
-   "ts": "2026-11-19T21:38:15+00:00",
-   "ingested": "2026-11-20T01:13:00.655927+00:00",
-   "headline": "Apple is working on own AI agent to rival OpenAI and Anthropic. $AAPL $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860691,
-   "ts": "2026-11-19T21:37:33+00:00",
-   "ingested": "2026-11-20T01:13:00.655936+00:00",
-   "headline": "Apple outlines plans for proactive AI agent in job postings; agent covers device control, apps, browsing and coding. $AAPL",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860640,
-   "ts": "2026-11-19T21:00:02+00:00",
-   "ingested": "2026-11-20T01:13:00.655945+00:00",
-   "headline": "S. Korean PPI MoM Actual -0.1% (Forecast -, Previous 0.2%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860639,
-   "ts": "2026-11-19T21:00:02+00:00",
-   "ingested": "2026-11-20T01:13:00.655954+00:00",
-   "headline": "S. Korean PPI YoY Actual 7.2% (Forecast -, Previous 7.7% ,Revision 7.6%)",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860638,
-   "ts": "2026-11-19T20:59:27+00:00",
-   "ingested": "2026-11-20T01:13:00.655963+00:00",
-   "headline": "US money-market fund assets fall to $7.976 trln at ICI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860623,
-   "ts": "2026-11-19T20:35:43+00:00",
-   "ingested": "2026-11-20T01:13:00.655977+00:00",
-   "headline": "Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860619,
-   "ts": "2026-11-19T20:32:50+00:00",
-   "ingested": "2026-11-20T01:13:00.655989+00:00",
-   "headline": "Fed's Goolsbee: It is not clear how the financial sector would be impacted if there is a major correction in equities related to AI.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860618,
-   "ts": "2026-11-19T20:32:42+00:00",
-   "ingested": "2026-11-20T01:13:00.656000+00:00",
-   "headline": "Fed's Goolsbee: There is a high risk that the economy's capacity cannot handle the current 'pig-through-the-python' level of business investment without overheating",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860608,
-   "ts": "2026-11-19T20:32:31+00:00",
-   "ingested": "2026-11-20T01:13:00.656009+00:00",
-   "headline": "Fed's Goolsbee: Consumer spending has been pretty broad-based, financed mostly out of income growth.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860606,
-   "ts": "2026-11-19T20:32:29+00:00",
-   "ingested": "2026-11-20T01:13:00.656020+00:00",
-   "headline": "Fed's Goolsbee: Not sure if fallout from US midterm elections will include a slowdown in data-center buildout or have a lasting impact on equity prices.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860604,
-   "ts": "2026-11-19T20:32:19+00:00",
-   "ingested": "2026-11-20T01:13:00.656030+00:00",
-   "headline": "Fed's Goolsbee: More openness about monetary policy has been productive for the Fed and the world.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860603,
-   "ts": "2026-11-19T20:32:06+00:00",
-   "ingested": "2026-11-20T01:13:00.656041+00:00",
-   "headline": "Fed's Goolsbee: There is widespread acknowledgment among businesses that costs are up, particularly among firms in construction or competing with data centers for components.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860602,
-   "ts": "2026-11-19T20:32:04+00:00",
-   "ingested": "2026-11-20T01:13:00.656050+00:00",
-   "headline": "Fed's Goolsbee: Artificial intelligence is influencing today's economy through wealth impacts and investment",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860601,
-   "ts": "2026-11-19T20:31:51+00:00",
-   "ingested": "2026-11-20T01:13:00.656076+00:00",
-   "headline": "Fed's Goolsbee: Anthropic's IPO raises the question of how stockholders will use that wealth; it could have a macroeconomic impact. $ANT",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860600,
-   "ts": "2026-11-19T20:31:36+00:00",
-   "ingested": "2026-11-20T01:13:00.656089+00:00",
-   "headline": "Fed's Goolsbee: It has not been good news on inflation for the past few months.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860599,
-   "ts": "2026-11-19T20:31:21+00:00",
-   "ingested": "2026-11-20T01:13:00.656098+00:00",
-   "headline": "Fed's Goolsbee: I am not concerned about wages pressuring inflation at this point.",
-   "channel": "rss",
-   "source": "financialjuice"
-  },
-  {
-   "guid": 9860598,
-   "ts": "2026-11-19T20:31:07+00:00",
-   "ingested": "2026-11-20T01:13:00.656111+00:00",
-   "headline": "Fed's Goolsbee: I do not see at this point that inflation is on the path back to 2%; it is not just coming from oil and tariff shocks, but also from a sizable demand component.",
    "channel": "rss",
    "source": "financialjuice"
   }
