@@ -1,41 +1,12 @@
 {
- "updated_et": "2026-11-24 22:38 ET",
+ "updated_et": "2026-11-25 17:41 ET",
  "horizon_days": 45,
  "note": "Scheduled releases that move ES/CL/GC. All times ET. minutes_until is relative to updated_et - recompute it from the current time, do not trust it as live.",
  "events": [
   {
-   "name": "Gross Domestic Product",
-   "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 591,
-   "moves": [
-    "ES",
-    "GC"
-   ],
-   "source": "BEA"
-  },
-  {
-   "name": "Personal Income and Outlays",
-   "when_et": "2026-11-25 08:30 ET",
-   "minutes_until": 591,
-   "moves": [
-    "ES",
-    "GC"
-   ],
-   "source": "BEA"
-  },
-  {
-   "name": "EIA Weekly Petroleum Status Report",
-   "when_et": "2026-11-25 10:30 ET",
-   "minutes_until": 711,
-   "moves": [
-    "CL"
-   ],
-   "source": "EIA"
-  },
-  {
    "name": "API Crude Inventories",
    "when_et": "2026-12-01 16:30 ET",
-   "minutes_until": 9711,
+   "minutes_until": 8568,
    "moves": [
     "CL"
    ],
@@ -45,7 +16,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-02 10:30 ET",
-   "minutes_until": 10791,
+   "minutes_until": 9648,
    "moves": [
     "CL"
    ],
@@ -54,7 +25,7 @@
   {
    "name": "Employment Situation",
    "when_et": "2026-12-04 08:30 ET",
-   "minutes_until": 13551,
+   "minutes_until": 12408,
    "moves": [
     "ES",
     "GC"
@@ -64,7 +35,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-08 16:30 ET",
-   "minutes_until": 19791,
+   "minutes_until": 18648,
    "moves": [
     "CL"
    ],
@@ -74,7 +45,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-09 10:30 ET",
-   "minutes_until": 20871,
+   "minutes_until": 19728,
    "moves": [
     "CL"
    ],
@@ -83,7 +54,7 @@
   {
    "name": "Consumer Price Index",
    "when_et": "2026-12-10 08:30 ET",
-   "minutes_until": 22191,
+   "minutes_until": 21048,
    "moves": [
     "ES",
     "GC"
@@ -93,7 +64,7 @@
   {
    "name": "Producer Price Index",
    "when_et": "2026-12-15 08:30 ET",
-   "minutes_until": 29391,
+   "minutes_until": 28248,
    "moves": [
     "ES",
     "GC"
@@ -103,7 +74,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-15 16:30 ET",
-   "minutes_until": 29871,
+   "minutes_until": 28728,
    "moves": [
     "CL"
    ],
@@ -113,7 +84,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-16 10:30 ET",
-   "minutes_until": 30951,
+   "minutes_until": 29808,
    "moves": [
     "CL"
    ],
@@ -122,7 +93,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-22 16:30 ET",
-   "minutes_until": 39951,
+   "minutes_until": 38808,
    "moves": [
     "CL"
    ],
@@ -132,7 +103,7 @@
   {
    "name": "Gross Domestic Product",
    "when_et": "2026-12-23 08:30 ET",
-   "minutes_until": 40911,
+   "minutes_until": 39768,
    "moves": [
     "ES",
     "GC"
@@ -142,7 +113,7 @@
   {
    "name": "Personal Income and Outlays",
    "when_et": "2026-12-23 08:30 ET",
-   "minutes_until": 40911,
+   "minutes_until": 39768,
    "moves": [
     "ES",
     "GC"
@@ -152,7 +123,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-23 10:30 ET",
-   "minutes_until": 41031,
+   "minutes_until": 39888,
    "moves": [
     "CL"
    ],
@@ -161,7 +132,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2026-12-29 16:30 ET",
-   "minutes_until": 50031,
+   "minutes_until": 48888,
    "moves": [
     "CL"
    ],
@@ -171,7 +142,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2026-12-30 10:30 ET",
-   "minutes_until": 51111,
+   "minutes_until": 49968,
    "moves": [
     "CL"
    ],
@@ -180,7 +151,7 @@
   {
    "name": "API Crude Inventories",
    "when_et": "2027-01-05 16:30 ET",
-   "minutes_until": 60111,
+   "minutes_until": 58968,
    "moves": [
     "CL"
    ],
@@ -190,7 +161,7 @@
   {
    "name": "EIA Weekly Petroleum Status Report",
    "when_et": "2027-01-06 10:30 ET",
-   "minutes_until": 61191,
+   "minutes_until": 60048,
    "moves": [
     "CL"
    ],
